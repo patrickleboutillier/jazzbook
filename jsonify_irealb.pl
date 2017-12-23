@@ -3,82 +3,68 @@
 use strict ;
 use Data::Dumper ;
 use Getopt::Long ;
+use JSON ;
 
 
-my $parsed = $ARGV[0] ;
-
-open(PARSED, "<$parsed") or die("Can't open '$parsed' for reading: $!") ;
-my @lines = <PARSED> ;
-pop @lines, pop @lines ;
-close(PARSED) ;
-
-my $ok = 1 ;
+my $rc = 1 ;
 my $meter_nb = 4 ;
 my @buf = () ;
 
-xml_irealb(@lines) ;
+my $tune = () ;
+my @sections = () ;
+my $cur_repeat = undef ;
 
+while (<>){
+	my $line = $_ ;
+	chomp($line) ;
+	my $oline = $line ;
 
-sub xml_irealb {
-	my @lines = @_ ;
+	next if !length($line) ;
+	next if $line =~ /^#/ ;
+	next if $line =~ /^END/ ;
 
-	my $tune = undef ;
-	my $cur_repeat = undef ;
+	push @buf, $line ;
 
-	foreach my $line (@lines){
-		chomp($line) ;
-		my $oline = $line ;
-
-		next if !length($line) ;
-		next if $line =~ /^#/ ;
-
-		push @buf, $line ;
-
-		if ($line =~ /^IREALB;(.*?);(.*?);(.*?);(.*?)$/){
-			$tune = { e => 'tune', title => $1, composer => $2, style => $3, 
-				key => $4, children => [] } ;
-		}
-		else {
-			# Each line represents a section.
-			my $section = { e => 'section', children => [] } ;
-
-			if ($line =~ s/^\{//){
-				$section->{repeat} = 1 ;
-				push @{$section->{children}}, parse_bars($line) ;
-				$cur_repeat = $section ;
-				push @{$tune->{children}}, $section ;
-			}
-			elsif ($line =~ s/^\t(\d)\.//){
-				# Alternate endings.
-				my $no = $1 ;
-				$section->{e} = 'ending' ;
-				$section->{no} = $no ;
-				push @{$section->{children}}, parse_bars($line) ;
-				push @{$cur_repeat->{children}}, $section ;
-			}
-			else {
-				push @{$section->{children}}, parse_bars($line) ;
-				push @{$tune->{children}}, $section ;
-			}
-		}
-	}
-
-	warn "$tune->{title}\n" ;
-	my $fname = $tune->{title} ;
-	$fname =~ s/\W/_/g ;
-	if ($ok){
-		open(XML, ">xmled/pass/$fname.xml") or die("Can't open file out/pass/$fname.xml: $!") ;
+	if ($line =~ /^IREALB;(.*?);(.*?);(.*?);(.*?)$/){
+		$tune->{title} = $1 ;
+		$tune->{composer} = $2 ;
+		$tune->{style} = $3 ;
+		$tune->{key} = $4 ;
 	}
 	else {
-		open(XML, ">xmled/reject/$fname.xml") or die("Can't open file out/reject/$fname.xml: $!") ;
-	}
-	print XML "<!--\n" ;
-	print XML join("\n", @buf) ;
+		# Each line represents a section.
+		my $section = {} ;
+		my @bars = () ;
 
-	print XML "\n-->\n" ;
-	xml_dumper(\*XML, $tune, 0) ;
-	close(XML) ;
+		if ($line =~ s/^\{//){
+			$section->{repeat} = 1 ;
+			push @bars, parse_bars($line) ;
+			$cur_repeat = $section ;
+			push @sections, $section ;
+		}
+		elsif ($line =~ s/^\t(\d)\.//){
+			# Alternate endings.
+			my $no = $1 ;
+			$section->{no} = $no ;
+			push @bars, parse_bars($line) ;
+			push @{$cur_repeat->{endings}}, $section ;
+		}
+		else {
+			push @bars, parse_bars($line) ;
+			push @sections, $section ;
+		}
+
+		$section->{bars} = \@bars if (scalar(@bars)) ;
+	}
 }
+
+$tune->{sections} = \@sections if (scalar(@sections)) ;
+
+my $json = new JSON() ;
+print $json->pretty()->encode($tune) ;
+
+
+#################################################
 
 
 sub parse_bars {
@@ -104,7 +90,7 @@ sub parse_bar {
 	my @comments = ($b =~ /\<(.*?)\>/g) ;
 	$b =~ s/\<(.*?)\>//g ;
 
-	my $bar = { e => 'bar', children => \@cs } ;
+	my $bar = { } ;
 
 	my $len = 0 ;
 	my $err = 0 ;
@@ -128,7 +114,7 @@ sub parse_bar {
 
 		elsif ($b =~ s/^(\/)//){
 			$len++ ; 
-			$last_chord = { e => 'chord', name => '/', units => 1 } ;
+			$last_chord = { name => '/', units => 1 } ;
 			push @cs, $last_chord ;
 		}
 		elsif ($b =~ s/^(%%\s*)//){
@@ -141,13 +127,13 @@ sub parse_bar {
 		}
 		elsif ($b =~ s/^(NC\s*)//){
 			$len++ ; 
-			$last_chord = { e => 'chord', name => 'NC', units => 1 } ;
+			$last_chord = { name => 'NC', units => 1 } ;
 			push @cs, $last_chord ;
 		}
 		elsif ($b =~ s/^([_A-G][\/\#\^\-\+\w]*)//){
 			my $chord = $1 ;
 			$len++ ; 
-			$last_chord = { e => 'chord', name => $chord, units => 1 } ;
+			$last_chord = { name => $chord, units => 1 } ;
 			push @cs, $last_chord ;
 		}
 		elsif ($b =~ s/^\((.*?)\)//){
@@ -192,42 +178,13 @@ sub parse_bar {
 	}
 	
 	foreach my $c (@comments){
-		push @cs, { e => 'comment', value => "$c" } if $c ;
+		push @cs, { value => "$c" } if $c ;
 	}
 	$bar->{coda} = 1 if ($coda) ;
 
+	$bar->{chords} = \@cs if (scalar(@cs)) ;
 	
 	return $bar ;
-}
-
-
-sub xml_dumper {
-	my $fh = shift ;
-	my $tag = shift ;
-	my $level = shift ;
-
-	my $indent = '  ' x $level ;
-	my $e = delete $tag->{e} ;
-	my $children = delete $tag->{children} ;
-	print $fh "$indent\{ " ;
-	my @attrs = keys %{$tag} ;
-	if (scalar(@attrs)){
-		print $fh join(", ", map { "\"$_\": \"$tag->{$_}\"" } sort @attrs) ;
-	}
-	if ((ref($children))&&(scalar(@{$children}))){
-		if (scalar(@attrs)){
-			print $fh ", " ;
-		}
-		print $fh "\"", $children->[0]->{e}, "s\": [\n" ;
-		foreach my $c (@{$children}){
-			# warn Dumper($c) ;
-			xml_dumper($fh, $c, $level + 1) ;
-		}
-		print $fh "$indent] },\n" ;
-	}
-	else {
-		print $fh " \},\n" ;
-	}
 }
 
 
@@ -235,7 +192,7 @@ sub problem {
 	my $msg = shift ;
 
 	warn "$msg\n" ;
-	$ok = 0 ;
+	$rc = 0 ;
 	push @buf, $msg ;
 }
 

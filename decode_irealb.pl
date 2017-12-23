@@ -14,7 +14,12 @@ foreach my $s (@songs){
 	my ($title, $composer, $unk1, $style, $key, $unk2, $changes, $rest) = split(/=/, $s) ;
 
 	my $s = decode($changes) ;
-	print "$title;$composer;$style;$key;$s\n" ;
+
+	my $fname = $title ;
+	$fname =~ s/\W/_/g ;
+	open(IREALB, ">decoded/$fname.irealb") or die("Can't open file out/pass/$fname.xml: $!") ;
+	print IREALB "$title;$composer;$style;$key;$s\n" ;
+	close(IREALB) ;
 }
 
 
