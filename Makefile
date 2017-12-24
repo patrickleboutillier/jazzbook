@@ -17,7 +17,7 @@ json:
 
 site:
 	perl make_index.pl > index.html
-	(test -f ../realbook.html && mv ../realbook.html .) || /bin/true
-	sudo cp index.html realbook.html /var/www/html/
+	(test -f ../jazzbook.html && mv ../jazzbook.html .) || /bin/true
+	sudo cp index.html jazzbook.html /var/www/html/
 	sudo rm -f /var/www/html/tunes/*.json
 	sudo cp jsoned/*.json /var/www/html/tunes/
