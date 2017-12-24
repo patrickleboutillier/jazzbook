@@ -60,6 +60,9 @@ while (<>){
 
 $tune->{sections} = \@sections if (scalar(@sections)) ;
 
+$tune->{metadata} = \@buf ;
+
+
 my $json = new JSON() ;
 print $json->pretty()->encode($tune) ;
 
