@@ -1,0 +1,303 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Oh, What A Beautiful Mornin';Rodgers Richard;Waltz;Eb",
+      "{A:T34Eb6   |Bb7   |Eb6   |Bb7   |Eb6   |Bb7   |C-7   |B7   |Eb^7/Bb   |Bb7/Ab,   |Eb6/G   |Ab6   |Eb6   |C-7   |C#o7   |Bb7/D   ",
+      "B:Eb6   |%   |Gh7 C7b9 |F-7 Bb7 |Eb6   |C-7   |F-7   |Bb7   |Eb6   |%   |Ab^7#11   |Ao7   |Eb6/Bb   |Bb7   ",
+      "\t1.Eb6   |Bb7   ",
+      "\t2.Eb6/G   |F-7   |Eb6/Bb   |Bb7   |Eb6   |%   "
+   ],
+   "title" : "Oh, What A Beautiful Mornin'",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6/G"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6/Bb"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7/D"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Gh7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ao7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Rodgers Richard",
+   "key" : "Eb"
+}

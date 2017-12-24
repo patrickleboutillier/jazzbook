@@ -1,0 +1,164 @@
+{
+   "style" : "Up Tempo Swing",
+   "metadata" : [
+      "IREALB;So What;Davis Miles;Up Tempo Swing;D-",
+      "A:T44D-11   |%   |%   |%   |D-11   |%   |%   |%   ",
+      "A:D-11   |%   |%   |%   |D-11   |%   |%   |%   ",
+      "B:Eb-11   |%   |%   |%   |Eb-11   |%   |%   |%   ",
+      "A:D-11   |%   |%   |%   |D-11   |%   |%   |%   "
+   ],
+   "title" : "So What",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Davis Miles",
+   "key" : "D-"
+}

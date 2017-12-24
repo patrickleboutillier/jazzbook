@@ -1,0 +1,382 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Cheek To Cheek;Berlin Irving;Medium Up Swing;C",
+      "{A:T44C^7 C#o7 |D-7 G7 |C^7 C#o7 |D-7 G7 |C^7 D-7 |Ebo7 E-7 |Bb7#11   |A7 D7 |G7 D-7 |E-7 F7 |Bb7#11   |A7   |D-7   |G7   ",
+      "\t1.E-7 A7 |D-7 G7 ",
+      "\t2.C6   |% <RmluZQ==>  ",
+      "{B:D-7 G7 |C6 A7 |D-7 G7 |C6 A7 |D-7 G7 |C6 A7 |D-7 G7 |C6   ",
+      "C:C-7   |%   |Eb-7   |Ab7   |Dh7   |G7 G#o7 |A-7 <RC5DLiBhbCAybmQgZW5kaW5n>  |D-7 G7 "
+   ],
+   "title" : "Cheek To Cheek",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "E-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "A7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C6"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1,
+                     "comments" : [
+                        "Fine"
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ebo7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C6"
+                  }
+               ]
+            }
+         ],
+         "label" : "B",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ],
+               "comments" : [
+                  "D.C. al 2nd ending"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Berlin Irving",
+   "key" : "C"
+}

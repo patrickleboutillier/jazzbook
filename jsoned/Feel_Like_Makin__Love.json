@@ -1,0 +1,157 @@
+{
+   "style" : "Rock Pop",
+   "metadata" : [
+      "IREALB;Feel Like Makin' Love;McDaniels Eugene;Rock Pop;Eb",
+      "A:T44F-7   |Bb7sus   |Eb^7   |Db7 C7 |F-7   |Bb7sus   |Eb^7   |A7#11   ",
+      "B:Ab^7   |G-7   |F-7   |C-7   |Ab^7   |G-7   |Db7   |C-7 Eb7,E7|F7   "
+   ],
+   "title" : "Feel Like Makin' Love",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7#11"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "McDaniels Eugene",
+   "key" : "Eb"
+}

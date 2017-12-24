@@ -1,0 +1,328 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;I Have Dreamed;Rodgers-Hammerstein;Medium Swing;F",
+      "A:T44F6   |G-7/F   |F   |G-7/F   |F6   |G-7/F   |G-7/C   |C9   ",
+      "B:G6   |A-7/G   |G   |G-7 C7 |F6   |D-7 G7 |C   |B-7 E7 ",
+      "C:A6   |B-7/A   |A   |B-7/A   |A6   |B-7/A   |G-6   |C7   ",
+      "D:F6   |E-7 A7 |D-7   |G7   |F6/C   |Bb A7 |D-7   |G7   |A-7 Abo7 |G-7 C7 |F6   |G-7 C7 "
+   ],
+   "title" : "I Have Dreamed",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F6/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Abo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            }
+         ],
+         "label" : "D"
+      }
+   ],
+   "composer" : "Rodgers-Hammerstein",
+   "key" : "F"
+}

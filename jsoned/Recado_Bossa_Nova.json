@@ -1,0 +1,201 @@
+{
+   "style" : "Bossa Nova",
+   "metadata" : [
+      "IREALB;Recado Bossa Nova;Ferreira Djalma;Bossa Nova;G-",
+      "{A:T44G-   |%   |D7b9   |%   |Dh7   |G7b9   |C-   |%   |Ah7   |D7b9   |G-   |%   ",
+      "\t1.A7b9   |%   |D7b9   |%   ",
+      "\t2.Ab7#11   |D7b9   |G-   |% <RmluZQ==>  ",
+      "B:G7b9   |%   |C-   |%   |A7b9   |%   |D- <RC5DLiBhbCAybmQgZW5kaW5n>  |D7b9   "
+   ],
+   "title" : "Recado Bossa Nova",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A7b9"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D7b9"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab7#11"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D7b9"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G-"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1,
+                     "comments" : [
+                        "Fine"
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ah7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ],
+               "comments" : [
+                  "D.C. al 2nd ending"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Ferreira Djalma",
+   "key" : "G-"
+}

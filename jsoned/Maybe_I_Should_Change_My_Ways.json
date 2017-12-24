@@ -1,0 +1,196 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Maybe I Should Change My Ways;Ellington Duke;Ballad;Bb",
+      "{T44Ch7 F7b9 |Bb^7   |Eb13 D7#5 |G9   |C13 B13 |Bb13   |Eb^7   |%   |Eb^7   |Eb-6 Ab7 |Bb^7   |D-7 Db7#11 |Ch7   ",
+      "\t1.G7 C7,F7,|Bb^7   |%   ",
+      "\t2.G7 C7,F7,|Bb6   |%   "
+   ],
+   "title" : "Maybe I Should Change My Ways",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb^7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb6"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ch7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb13"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C13"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb-6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ch7"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Ellington Duke",
+   "key" : "Bb"
+}

@@ -1,0 +1,263 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Mimi;Rogers Richard;Medium Swing;G",
+      "A:T44G^7   |G6   |A-7   |D7   |G^7   |G6   |A-11   |D7   ",
+      "A:G^7   |G6   |A-7   |D13   |G^7   |G6   |D-7   |G7   ",
+      "B:C^7   |C6   |Co7   |%   |E-11   |%   |Eo7   |%   ",
+      "A:G^7   |G6   |A-7   |D7   |G^7 E-7 |A-7 D9 |G6   |A-7 D7 "
+   ],
+   "title" : "Mimi",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Co7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eo7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Rogers Richard",
+   "key" : "G"
+}

@@ -1,0 +1,569 @@
+{
+   "style" : "Bossa Nova",
+   "metadata" : [
+      "IREALB;Chega De Saudade (No More Blues);Jobim Antonio-Carlos;Bossa Nova;D-",
+      "i:T44G-9 |C |F^9 |Bb^7 |Bo7 |E-,A7,|D-7 |A7 ",
+      "A:T44D- |D-7/C |E7b9/B |% |Eh7/Bb |A7b9 |D- |Eh,A7,|D- |Bh,E7,|A- |% |Bb^7 |% |Eh7 |A7b9 ",
+      "B:D- |D-7/C |E7b9/B |% |Eh7/Bb |A7b9 |D- |D7b9 |G- |A7b9 |D- |D-7/C |E7b9/B |A7b9 |D- |E-7,A7,",
+      "C:D^7 |B7/D# |E-7 |% |A7sus |A7 |Do7 |D^7 |F#-7 |Fo7 |E-7 |% |E7 |% |Eh7 |A7 ",
+      "D:D^7 |B-7 |E7 |% |F#7 |% |B-7,Bb-7,|A-7,D7,|G^7 |G-7 |F#-7 |B7 |E7 |A7 |F#-7 |B7 |E7 |A7 |D6 |A7 "
+   ],
+   "title" : "Chega De Saudade (No More Blues)",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "E-"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            }
+         ],
+         "label" : "i"
+      },
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7b9/B"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "Eh"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "Bh"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7b9/B"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7b9/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "A7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7/D#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Do7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Fo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            }
+         ],
+         "label" : "D"
+      }
+   ],
+   "composer" : "Jobim Antonio-Carlos",
+   "key" : "D-"
+}

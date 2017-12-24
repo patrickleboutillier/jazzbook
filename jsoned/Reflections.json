@@ -1,0 +1,347 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Reflections;Monk Thelonious;Ballad;Ab",
+      "{A:T44Ab^,Gb7,F7,E7,|Bb-7 Eb7b9 |Ab^7 Bb-7,B-7,|C-7 F7b9 |Gh7   |Bb-7 Eb7b9 |Ab^7 Ao7 ",
+      "\t1.Bb-7,F7,Bb-7,A7,",
+      "\t2.Ch7 F7#11 ",
+      "B:Bb-7 Eb7b9 |Ab7 Db7 |G-7 C7b13 |F-   |F-7   |F-7 Bb7b9 |Bb-7   |Bb-7 Eb7b9 ",
+      "A:Ab^,Gb7,F7,E7,|Bb-7 Eb7b9 |Ab^7 Bb-7,B-7,|C-7 F7b9 |Gh7   |Bb-7 Eb7b9 |Ab^7 Gb7 |Ab^7   "
+   ],
+   "title" : "Reflections",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Bb-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Bb-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "A7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ch7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7#11"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Ab^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ao7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Ab^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Monk Thelonious",
+   "key" : "Ab"
+}

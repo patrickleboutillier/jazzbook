@@ -1,0 +1,244 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Stella By Starlight;Young Victor;Medium Swing;Bb",
+      "A:T44Eh7   |A7b9   |C-7   |F7   |F-7   |Bb7   |Eb^7   |Ab7   |Bb^7   |Eh7 A7b9 |D-7   |Bb-7 Eb7 |F^7   |Eh7(G-7)  (C7) |Eb^7#11(Ah7)   |D7b9   ",
+      "B:G7b13   |%   |C-7   |%   |Ab7#11   |%   |Bb^7   |%   ",
+      "C:Eh7   |A7b9   |Dh7   |G7b9   |Ch7   |F7b9   |Bb^7   |%   "
+   ],
+   "title" : "Stella By Starlight",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b13"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ch7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Young Victor",
+   "key" : "Bb"
+}

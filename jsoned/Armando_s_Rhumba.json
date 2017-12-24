@@ -1,0 +1,156 @@
+{
+   "style" : "Latin",
+   "metadata" : [
+      "IREALB;Armando's Rhumba;Corea Chick;Latin;C-",
+      "T44A:C-7   |D7b9   |G7b13   |C-7   |C-7   |D7b9   |G7b13   |C-7   ",
+      "B:C7b9   |F-7   |D7b9/F#   |G-7   |Abo7   |D7b9/A   |Bb7sus,   |%   |Bb7b9sus,   |%  (E7#9) |Eb6 (E) (F) (F#)|G7b13   "
+   ],
+   "title" : "Armando's Rhumba",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Abo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b13"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Corea Chick",
+   "key" : "C-"
+}

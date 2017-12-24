@@ -1,0 +1,287 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Last Night When We Were Young;Arlen Harold;Ballad;G",
+      "{T44A:G^7 C7 |B-7 E7b13 |A7   |A-7 D7#9 |D-7 G7 |Ah7 D7b9 |G^7 G#o7 |A-7 D7 ",
+      "B:D-7   |B7 E7 |A7   |Bb7 A7b9 |D-7   |B7   |Eh7 A7b9 |Eb7,D7,//",
+      "A:G^7 C7 |B-7 E7 |D-7   |B7 E7 |A7   |A-7 D7 |G6   |A-7 D7 "
+   ],
+   "title" : "Last Night When We Were Young",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ah7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Arlen Harold",
+   "key" : "G"
+}

@@ -1,0 +1,463 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Happiness Is A Thing Called Joe;Arlen Harold;Medium Swing;C",
+      "i:T44C^7 D-7 |E-7 F^7 |%%   |    |B-7 E13 |B-9 E9#11 |A-9 D13 |D-7 |G13, ",
+      "A:C69 D-7 |C/E G9 |C69 G7sus |C69 G7b9 |C69 D-7 |C/E A7b9 |G13  (Ab13#9) |G13   ",
+      "B:G13 Ab13#9 |G13 Ab13#9 |G13   |F9#11   |E-9   |A7#5(Eb9#11)   |D-7   |G13   ",
+      "A:C69 D-7 |C/E G9 |C69 G7sus |C69 G7b9 |C69 D-7 |Ebo7 C7#5/E |F69 C7#5 |F69   ",
+      "C:F#h7   |F-9   |E-7  (Bb9#11) |A9   |D9 Ab9 |D-9 G7b9 |G-7   |C7#5   |F^7 Ab9 |D-9 F-/G |C6   |%   "
+   ],
+   "title" : "Happiness Is A Thing Called Joe",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E9#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            }
+         ],
+         "label" : "i"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C/E"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C/E"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G13"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab13#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G13"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab13#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F9#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C/E"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ebo7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7#5/E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F69"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F69"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F#h7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F-/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C6"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Arlen Harold",
+   "key" : "C"
+}

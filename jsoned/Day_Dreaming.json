@@ -1,0 +1,303 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Day Dreaming;Kern Jerome;Ballad;Bb",
+      "{A:T44Bb^7 C-7 |D-7 C#o7 |C-7 Do7 |C-7 F7#9 |Bb^7 Eb^7 |D7#11 Ab9 |G7b9   |C-7 F7 ",
+      "\t1.B:Bb^7 Bb7/Ab |G-7 G-7/F |Eh7   |Eb7 D7#5 |G-7 G-7/F |Eh7 Eb9 |D-7 C#o7 |C-7 F7sus ",
+      "\t2.C:Bb^7 Bb7/Ab |G-7 F-7 |Eh7   |Eb-6 Ab9 |D-7 G7 |E7/F,F13  |Bb69   |C-7 F7sus "
+   ],
+   "title" : "Day Dreaming",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7/Ab"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G-7/F"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eh7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "D7#5"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G-7/F"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eh7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Eb9"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C#o7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "C-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7sus"
+                        }
+                     ]
+                  }
+               ],
+               "label" : "B",
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7/Ab"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eh7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb-6"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Ab9"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "E7/F"
+                        },
+                        {
+                           "beats" : 3,
+                           "name" : "F13"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb69"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "C-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7sus"
+                        }
+                     ]
+                  }
+               ],
+               "label" : "C",
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Do7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D7#11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Kern Jerome",
+   "key" : "Bb"
+}

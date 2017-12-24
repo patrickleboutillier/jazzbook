@@ -1,0 +1,275 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Rainbow Connection, The;Williams-Ascher;Waltz;G",
+      "{A:T34G^7   |E7   |A-7   |D7sus   |G^7   |E-7   |C^7   ",
+      "\t1.D9sus   ",
+      "\t2.C^7   ",
+      "B:C^7   |%   |%   |%   |B-7   |%   |E9sus   |E9   |A-7   |D7   |B-7   |E7   |A-7   |D13  @ |G6   |E-7   |A-7   |D7   ",
+      "@G6   |B7/F#   |E-7   |A-7   |D7sus   |D9   |G^7   |G^7   "
+   ],
+   "title" : "Rainbow Connection, The",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D9sus"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C^7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "D13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G6"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Williams-Ascher",
+   "key" : "G"
+}

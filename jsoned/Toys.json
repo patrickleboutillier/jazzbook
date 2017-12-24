@@ -1,0 +1,119 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Toys;Hancock Herbie;Medium Swing;D-",
+      "A:T44Bb7(F7)   |%   |F7   |%   |E7#9   |Db   |C-7   |%   ",
+      "B:Eb7   |%   |D-   |Bb7   |D-   |Bb7(D-)   |<QWx0IGNob3JkcyBmb3IgaGVhZCBvbmx5>D-   |%   "
+   ],
+   "title" : "Toys",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ],
+               "comments" : [
+                  "Alt chords for head only"
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Hancock Herbie",
+   "key" : "D-"
+}

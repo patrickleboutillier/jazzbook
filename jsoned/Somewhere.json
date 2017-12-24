@@ -1,0 +1,356 @@
+{
+   "style" : "Slow Swing",
+   "metadata" : [
+      "IREALB;Somewhere;Bernstein Leonard;Slow Swing;Eb",
+      "{A:T44Bb Bb7 |Eb7 Ab |F-7 Bb7 |Eb7 Ab |Bb Bb7 |G- C- ",
+      "\t1.Ab Db |Bb   ",
+      "\t2.Ab Db |Bb- Gb ",
+      "B:B   |Ab-   |Eb-   |F-7   |B Ab-6 |Gb   |F   |D-7   ",
+      "A:Bb Bb7 |Eb7 Ab |F-7 Bb7 |Eb7 Ab |Bb Bb7 |G- C- |Ab Db |Bb- Gb ",
+      "C:B   |Ab   |,,Eb Eb7 |Ab   "
+   ],
+   "title" : "Somewhere",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ab"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Db"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ab"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Db"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb-"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Gb"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C-"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Bernstein Leonard",
+   "key" : "Eb"
+}

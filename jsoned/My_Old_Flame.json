@@ -1,0 +1,333 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;My Old Flame;Johnson-Coslow;Ballad;F",
+      "{A:T44F^7   |Ah7 D7b9 |G-7   |Bb-7 Eb7 |F^7 Bb-7,Eb7|Ab^7 Db7 ",
+      "\t1.G-7   |C7   ",
+      "\t2.G-7 C7 |F^7 Bb-7,Eb7",
+      "B:Ab^7 F-7 |Bb-7 Eb7 |Gb7 F7 |Bb7   |Bb-7 Eb7 |Gh,C7,F-7 |D-7 G7 |G-7 C7 ",
+      "A:F^7   |Ah7 D7b9 |G-7   |Bb-7 Eb7 |F^7 Bb-7,Eb7|Ab^7 Db7 |G-7 C7 |F6   "
+   ],
+   "title" : "My Old Flame",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F^7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Bb-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Eb7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ah7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Gb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Gh"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ah7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Johnson-Coslow",
+   "key" : "F"
+}

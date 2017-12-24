@@ -1,0 +1,262 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Airmail Special;Christian Charlie;Medium Up Swing;C",
+      "i:T44<KjY1IEhlYWQ=>C6   |%   |%%   |    |%%   |    |%%   |    ",
+      "Co7   |%   |%%   |    |Co7 Bo7 |Bbo7   |Ab7   |G7   ",
+      "<KjE4IEZvcm06IEFBQkE=>                ",
+      "Incorrect logical bar length: '16' (4/) for '<KjE4IEZvcm06IEFBQkE=>                '",
+      "{A:$<U29sb3M=>C C/E |F G |C C/E |F G |C C7 |F F#o7 |C/G   |C <RmluZQ==>  ",
+      "B:Co7   |%   |%%   |    |Co7 Bo7 |Bbo7   |Ab7   |<RC5TLiBhbCBGaW5l>G7   "
+   ],
+   "title" : "Airmail Special",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C6"
+                  }
+               ],
+               "comments" : [
+                  "*65 Head"
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "i"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Co7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Co7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bbo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "comments" : [
+                  "*18 Form: AABA"
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C/E"
+                  }
+               ],
+               "label" : "segno",
+               "comments" : [
+                  "Solos"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C/E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ],
+               "comments" : [
+                  "Fine"
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Co7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Co7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bbo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ],
+               "comments" : [
+                  "D.S. al Fine"
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Christian Charlie",
+   "key" : "C"
+}

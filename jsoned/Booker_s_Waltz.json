@@ -1,0 +1,121 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Booker's Waltz;Little Booker;Waltz;Ab",
+      "T34Ab^7   |Eb7   |Gh7   |C7   |F-7   |Db7   |Bb7   |Db7#11   |Ab^7   |B7   |Bb-7   |Eb7   |Ab^7   |%   |A7   |%   "
+   ],
+   "title" : "Booker's Waltz",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ]
+      }
+   ],
+   "composer" : "Little Booker",
+   "key" : "Ab"
+}

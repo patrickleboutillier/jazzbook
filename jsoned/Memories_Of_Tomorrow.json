@@ -1,0 +1,227 @@
+{
+   "style" : "Even 8ths",
+   "metadata" : [
+      "IREALB;Memories Of Tomorrow;Jarrett Keith;Even 8ths;A-",
+      "A:T44A-   |A-^7   |A-7   |E-7   |F   |C   |G9sus   |C   ",
+      "B:D/F#   |F   |C   |Eb^7 A7 |Ab^7  G-,|F-7   |Bb9sus   |C   |E7sus E7 |A- F-/Ab |C^7/G D/F# |F^7 F-(Fsus) |C/G   |G9sus   |C   |E7sus E7 "
+   ],
+   "title" : "Memories Of Tomorrow",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "A-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F-/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C^7/G"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Jarrett Keith",
+   "key" : "A-"
+}

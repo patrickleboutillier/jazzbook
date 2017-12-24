@@ -1,0 +1,248 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Summer In Central Park;Silver Horace;Waltz;F",
+      "A:T34F69   |A7b9#5   |D-9   |G13   |Db69   |Gb69   |G-9   |A13b9   ",
+      "{B:D^9   |%   |D-9   |%  <M3g=> }|D^9,   |%   |G-7   |C7b9   ",
+      "Unknown bar element: '%  <M3g=> }' at '}'",
+      "C:F69   |A7b9#5   |D-9   |G13   |Db69   |Gb69   |A69   |D69   |Db69   |%   |G-7   |C7b9   |Ab69   |Gb69   |,,F69   |G-7 C7b9 "
+   ],
+   "title" : "Summer In Central Park",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "F69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A13b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D^9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1,
+               "comments" : [
+                  "3x"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "B",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db69"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Silver Horace",
+   "key" : "F"
+}

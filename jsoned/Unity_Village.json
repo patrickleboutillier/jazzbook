@@ -1,0 +1,204 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Unity Village;Metheny Pat;Ballad;A-",
+      "A:T44A-   |E7   |F^7   |%   |A-   |E7   |F^7   |Bb^7,   ",
+      "B:A^7   |C#-9   |G#-7 Eb7#9 |F#-7 B7sus |E^7   |E/C   |%%   |    ",
+      "C:C/D   |G/D   |Eb/D   |Bb/D   |Bb C/Bb |F/A   |B/F E |E7sus   "
+   ],
+   "title" : "Unity Village",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "A-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E/C"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B/F"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7sus"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Metheny Pat",
+   "key" : "A-"
+}

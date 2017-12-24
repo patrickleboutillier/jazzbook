@@ -1,0 +1,162 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Blue Daniel;Rosolino Frank;Waltz;D",
+      "T34D6   |C7   |B-7   |E7   |B-7   |E7   |B-7   |E7   |G-7   |C7   |D^7   |C7   |E-7   |A7  @ ",
+      "@D6 C7 |B-7  |E7  |A7  |D^7  "
+   ],
+   "title" : "Blue Daniel",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "D6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "D6"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C7"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Rosolino Frank",
+   "key" : "D"
+}

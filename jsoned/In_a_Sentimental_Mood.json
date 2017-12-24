@@ -1,0 +1,335 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;In a Sentimental Mood;Ellington Duke;Ballad;D-",
+      "{A:T44D- D-^7 |D-7 D-6 |G- G-^7 |G-7 G-7,A7,|D-   |D9#5   |G-7 C7b9 ",
+      "\t1.F6 Eh,A7,",
+      "\t2.F6 Eb-7,Ab7,",
+      "B:Db^7 Bb-7 |Eb-7 Ab7 |Db6 Bb7#5 |Eb-7 Ab7 |Db^7 Bb-7 |Eb-7 Ab7 |G-7   |C7   ",
+      "A:D- D-^7 |D-7 D-6 |G- G-^7 |G-7 G-7,A7,|D-   |D9#5   |G-7 C7b9 |F6 Eh,A7,"
+   ],
+   "title" : "In a Sentimental Mood",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F6"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Eh"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "A7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F6"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Eb-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Ab7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F6"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eh"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "A7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Ellington Duke",
+   "key" : "D-"
+}

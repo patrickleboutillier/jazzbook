@@ -1,0 +1,199 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;My Ideal;Whiting Richard;Ballad;Eb",
+      "A:T44Eb6 C9#5 |F-7   |Db7 C9#5 |F7   |F-7 Bb7 |Dh7 G7b9 |C-7 F7 |B7 Bb7 ",
+      "B:Eb6 C9#5 |F-7   |Db7 C9#5 |F7   |F-7 Ab-6 |Eb^,Ab7,G-7,C7,|B7 Bb7 |Eb6   "
+   ],
+   "title" : "My Ideal",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Dh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Ab7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Whiting Richard",
+   "key" : "Eb"
+}

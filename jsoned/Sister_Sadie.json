@@ -1,0 +1,123 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Sister Sadie;Silver Horace;Medium Up Swing;G",
+      "{A:T44G7   |%  (Ab7#11) |%%   |    |%%   |    |%%   |    ",
+      "B:C7   |%   |G7   |%   |C7   |Bb7   |A7   |Ab7   ",
+      "A:G7   |%  (Ab7#11) |%%   |    |%%   |    |%%   |    "
+   ],
+   "title" : "Sister Sadie",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Silver Horace",
+   "key" : "G"
+}

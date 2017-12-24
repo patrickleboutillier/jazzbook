@@ -1,0 +1,388 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Dienda;Kirkland Kenny;Waltz;C",
+      "i:T34G-11, Fadd9/A |Gb^7#11   |G-11 Fadd9/A |F/Db |% ",
+      "A:F/G   |F/Db Bb-/Db |D-9   |G13#11   |Gb^9#11   |F-11   |Cadd9/E   |F/Eb   |D-11   |Bb^7/D   |A9sus   |F-9/Bb Bb/Gb |Bb/Gb,   |F-9 F-9/Eb |Dh7   |E/C C6 |C7alt,   ",
+      "B:F-9   |Db13#11   |D-9,   |D-9/C   |Gb/Bb Bb- |F-11/Ab   |G-11   |Gb^7#11   |Bb^7#5/A   |Bb^7#11/D   |C/Ab   |Db^7  @ |G-11 Fadd9/A |Gb^7#11   |G-11 Fadd9/A |F/Db   |%   ",
+      "{@G-11 Fadd9/A |Gb^7#11  |G-11 Fadd9/A |F/Db }F/Db  ",
+      "Unknown bar element: 'F/Db }F/Db  ' at '}F/Db  '"
+   ],
+   "title" : "Dienda",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Fadd9/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Fadd9/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F/Db"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "i"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F/Db"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb-/Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^9#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Cadd9/E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-9/Bb"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb/Gb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb/Gb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-9"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-9/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "E/C"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7alt"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db13#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-9/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Gb/Bb"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7#5/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7#11/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C/Ab"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Fadd9/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Fadd9/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F/Db"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Fadd9/A"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Fadd9/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F/Db",
+                     "units" : 2
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Kirkland Kenny",
+   "key" : "C"
+}

@@ -1,0 +1,215 @@
+{
+   "style" : "Funk",
+   "metadata" : [
+      "IREALB;Mercy Mercy Mercy;Zawinul Joe;Funk;Bb",
+      "A:T44Bb7   |Eb7   |Bb7   |Eb7   |Bb7   |Eb7   |Bb7   |Eb7   ",
+      "B:Bb Eb/Bb |Bb7 Eb/Bb |Bb Eb/Bb |Bb7 Eb/Bb |Bb Bb/D,Eb,|F7sus   |Bb Bb/D,Eb,|F7sus   |C-7   |D-7   |G-,F,G-,F,|G-   "
+   ],
+   "title" : "Mercy Mercy Mercy",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb/D"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb/D"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Zawinul Joe",
+   "key" : "Bb"
+}

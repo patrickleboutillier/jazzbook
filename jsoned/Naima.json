@@ -1,0 +1,253 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Naima;Coltrane John;Ballad;Ab",
+      "{A:T44Bb-7/Eb   |Eb-7   |B7#11/Eb A7#11/Eb |Ab^7/Eb   ",
+      "B:B^7/Bb   |Bb7b9   |B^7/Bb   |Bb7b9   |E7#11/Bb   |B^7/Bb   |Ab^7/Bb   |Gb13/Bb   ",
+      "A:Bb-7/Eb   |Eb-7   |B7#11/Eb A7#11/Eb |Ab^7/Eb  @ ",
+      "@B7#11/Eb A7#11/Eb |Ab^7/Eb   |B7#11/Eb A7#11/Eb |Ab^7/Eb   |B7#11/Eb A7#11/Eb |Ab^7 Db^7 |Ab^7 Db^7 |Ab^7 Db^7 |Ab^7   "
+   ],
+   "title" : "Naima",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb-7/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7#11/Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7#11/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7/Eb"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#11/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb13/Bb"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7#11/Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7#11/Eb"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "Ab^7/Eb"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7#11/Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7#11/Eb"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7#11/Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7#11/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7#11/Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7#11/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Coltrane John",
+   "key" : "Ab"
+}

@@ -1,0 +1,190 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Passion Flower;Strayhorn Billy;Ballad;G",
+      "{A:T44F#7#11   |%   |%   |%   |E7b13 Eb13 |D9   |G^7   |%   ",
+      "B:Db^7   |C7#11   |B7#11   |Bb7#5   |A7#5   |Ab9   |Db^7   |Bb7,Eb7,Ab7,Db7,",
+      "A:F#7#11   |%   |%   |%   |E7b13 Eb13 |D9   |G^7   |%   "
+   ],
+   "title" : "Passion Flower",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F#7#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E7b13"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Ab7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Db7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E7b13"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Strayhorn Billy",
+   "key" : "G"
+}

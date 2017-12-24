@@ -1,0 +1,243 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Homecoming;Holland Dave;Medium Up Swing;Eb",
+      "{i:T44Eb   |%   |%   |%   ",
+      "A:Eb   |%   |T34B, F# |C# D# |T44Bb Eb, |Ab, Bb, |Eb E, |F# Db |Ab   |%   |Eb, Ab |Bb, Eb |T34B, F# |C# D# |T44Bb, Eb, |Ab Bb |Eb B |C# Bb |Eb<U29sb3MgZnJlZSBhcm91bmQgRWI=>   "
+   ],
+   "title" : "Homecoming",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C#"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "D#"
+                  }
+               ]
+            },
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F#"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C#"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "D#"
+                  }
+               ]
+            },
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C#"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb"
+                  }
+               ],
+               "comments" : [
+                  "Solos free around Eb"
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Holland Dave",
+   "key" : "Eb"
+}

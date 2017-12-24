@@ -1,0 +1,185 @@
+{
+   "style" : "Funk",
+   "metadata" : [
+      "IREALB;Sidewinder;Morgan Lee;Funk;Eb",
+      "T44NCD7,Eb7 |%   |%%   |    |NCD7,Eb7 |%   |%%   |    |NCG7,Ab7 |%   |%%   |    |NCD7,Eb7 |%   |%   |NCGh,C7b9 |NCF-7,Bb7 |%   |%%   |    |NCD7,Eb7 |%   |NCEb7,  |NC   "
+   ],
+   "title" : "Sidewinder",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gh"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Morgan Lee",
+   "key" : "Eb"
+}

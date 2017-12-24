@@ -1,0 +1,244 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Strayhorn 2;Mulligan Gerry;Ballad;D",
+      "T44D^7 Eh7/D |Do7, D^7 |Do7, G-7, |D^7 E-7,Asus,|D^7 Eh7/D |Do7 D^9 |Do7 G-11, |D^7 Ab9, |G^7 A/G |F#-7 F^7 |C/E F^7 |F#-,B7,E^,Bb7,|G^7/A   |D^7 Eh7/D |Do7 D^9 |Do7 G-7 |D^7 G-11 |D^7 E-7,Asus"
+   ],
+   "title" : "Strayhorn 2",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Do7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Do7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Asus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Do7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Do7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C/E"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "F#-"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Do7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Do7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Asus"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Mulligan Gerry",
+   "key" : "D"
+}

@@ -1,0 +1,244 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Come Sunday;Ellington Duke;Ballad;Bb",
+      "{A:T44F7   |Eb7#11   |F7  Gb7,|G7   |C-7   |F7   |Bb Eb6/Bb |Bbo7 Bb6 ",
+      "B:D7 Eb7 |D7   |G-7   |C7   |F7 C-7 |F7 D7#9 |C9   |F7#5   ",
+      "A:F7   |Eb7#11   |F7  Gb7,|G7   |C-7   |F7   |Bb Eb6/Bb |Bbo7 Bb6 "
+   ],
+   "title" : "Come Sunday",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "F7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb6/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bbo7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb6"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7#5"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "F7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb6/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bbo7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb6"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Ellington Duke",
+   "key" : "Bb"
+}

@@ -1,0 +1,177 @@
+{
+   "style" : "Latin",
+   "metadata" : [
+      "IREALB;Chucho;D'Rivera Paquito;Latin;D-",
+      "{i:T44D-   |Eh7 A7b9 |D-   |Eh7 A7b9 ",
+      "A:D-   |Eh7 A7b9 |D-   |D7#9   |G- G-7/F |Eh7 A7b9 |D-  Db-,|C-7 F7 |Bb7   |Eh7 A7b9, |D-   |A7#9   "
+   ],
+   "title" : "Chucho",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-7/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "D-"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Db-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7#9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "D'Rivera Paquito",
+   "key" : "D-"
+}

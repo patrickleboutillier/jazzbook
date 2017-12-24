@@ -1,0 +1,283 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Wild Flower;Shorter Wayne;Waltz;Bb",
+      "A:T64Bb^7   |Ab-7 A7#9#5 |D7b9sus   |%   |Bb^7   |Ab-7 A7#9 |D7#9   |%   |G7b9sus   |C-7 F13 |Bb^7#5   |Ab^7#11   |G-11   |C13b9   |F-9   |E7#9   ",
+      "B:Eb^7 C-7 |Ab-7 A7#9 |D7b9sus   |%   |Bb^7   |Ab-7 A7#9 |D7#9   |%   |G7b9sus   |C-7 F13 |Bb^7#5 Bb-11 |Bb-11 Eb13 |Ab^7 Db^7 |Ab-7 Eb7#11 |D7#9   |%   "
+   ],
+   "title" : "Wild Flower",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "6/4",
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Ab-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "A7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Ab-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "A7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7#9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C13b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Eb^7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Ab-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "A7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Ab-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "A7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7#9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Bb^7#5"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Bb-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Bb-11"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Eb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Ab-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Eb7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7#9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Shorter Wayne",
+   "key" : "Bb"
+}

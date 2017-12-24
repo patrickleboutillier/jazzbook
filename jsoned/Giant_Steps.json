@@ -1,0 +1,179 @@
+{
+   "style" : "Up Tempo Swing",
+   "metadata" : [
+      "IREALB;Giant Steps;Coltrane John;Up Tempo Swing;Eb",
+      "T44B^7 D7 |G^7 Bb7 |Eb^7   |A-7 D7 |G^7 Bb7 |Eb^7 F#7 |B^7   |F-7 Bb7 |Eb^7   |A-7 D7 |G^7   |C#-7 F#7 |B^7   |F-7 Bb7 |Eb^7   |C#-7 F#7 "
+   ],
+   "title" : "Giant Steps",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F#7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F#7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F#7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Coltrane John",
+   "key" : "Eb"
+}

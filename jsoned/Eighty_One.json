@@ -1,0 +1,85 @@
+{
+   "style" : "Even 8ths",
+   "metadata" : [
+      "IREALB;Eighty One;Carter Ron;Even 8ths;F",
+      "T44F7sus   |Bb7sus   |F7sus   |%   |Bb7sus   |%   |F7sus   |%   |C7sus   |Bb7sus   |F7sus(Db^7#11)   |%   "
+   ],
+   "title" : "Eighty One",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ]
+      }
+   ],
+   "composer" : "Carter Ron",
+   "key" : "F"
+}

@@ -1,0 +1,245 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Moondance;Morrison Van;Medium Swing;A-",
+      "{A:T44A-7 B-7/E, |%   |%   |%   |A-7 B-7/E, |%   |%   |%   ",
+      "B:D-7   |A-7   |%%   |    |D-7   |A-7   |D-7   |E7b13   ",
+      "C:A-7 D7 |%   |%   |%   |A-7 D7 |%   |%   |E7b13,  @ ",
+      "{@A-7 B-7/E, |%   |%  <T3BlbiB1bnRpbCBjdWU=> |%   ",
+      "A-, G, |F, E-, |D-, E7b13, |A-,   "
+   ],
+   "title" : "Moondance",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B-7/E"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B-7/E"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7b13"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "E7b13"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B-7/E"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1,
+               "comments" : [
+                  "Open until cue"
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Morrison Van",
+   "key" : "A-"
+}

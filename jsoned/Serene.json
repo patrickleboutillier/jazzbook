@@ -1,0 +1,149 @@
+{
+   "style" : "Slow Swing",
+   "metadata" : [
+      "IREALB;Serene;Dolphy Eric;Slow Swing;Eb",
+      "T44Eb^7   |Ab7#11   |Db7   |Eb7   |Ab7   |D7b5   |Eb^7   |Db-7 Gb7 |Fh7   |Bb7b5 B-7,E7,|Ab7#11  @ |%   ",
+      "@Ab7#11 Gb^7 |F7#9 A9 |A9   "
+   ],
+   "title" : "Serene",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Fh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7b5"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "Ab7#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7#11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb^7"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F7#9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A9"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Dolphy Eric",
+   "key" : "Eb"
+}

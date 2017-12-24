@@ -1,0 +1,352 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Aisha;Tyner McCoy;Ballad;A-",
+      "{A:T44A-9   |G-9   |A-9   |F-9   |F-7 Bb7 |G-7 C7 |A-7, D7b9 ",
+      "\t1.G7,C7,F-,E7",
+      "\t2.G-7,C7,B-7,E7,",
+      "B:A^7 D7#11 |%   |Db^7 Gb7#11 |%   |B^7 E7#11 |%   |Eb^7 Gb^7 |A^7 B-7,E7",
+      "A:A-9   |G-9   |A-9   |F-9   |F-7 Bb7 |G-7 C7 |A-7, D7b9,@ |G7,C7,F-,E7",
+      "@G-7,C7,F-7,Bb7,|<cml0Li4uLi4=>Eb-7,Ab7,Gb13 "
+   ],
+   "title" : "Aisha",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "G7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F-"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "E7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "B-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "E7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "A-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb7#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F-"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "E7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Ab7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb13"
+                  }
+               ],
+               "comments" : [
+                  "rit....."
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Tyner McCoy",
+   "key" : "A-"
+}

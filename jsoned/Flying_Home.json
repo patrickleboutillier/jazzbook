@@ -1,0 +1,288 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Flying Home;Goodman-Hampton;Medium Swing;Eb",
+      "{T44A:Eb^7 Eb/Db |C-7 B7,Bb7,|Eb^9 Eb/Db |C-7 B7,Bb7|Eb^7 Eb/Db |C-7 B7,Bb7,|Eb6   ",
+      "\t1.Bb7   ",
+      "\t2.Eb6   ",
+      "B:Eb7   |%   |Ab7   |%   |F7   |%   |Bb7   |%   ",
+      "A:Eb^9 Eb/Db |C-7 B7,Bb7,|Eb^9 Eb/Db |C-7 B7,Bb7|Eb^9 Eb/Db |C-7 B7,Bb7,|Eb6   |Bb7   "
+   ],
+   "title" : "Flying Home",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb/Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Goodman-Hampton",
+   "key" : "Eb"
+}

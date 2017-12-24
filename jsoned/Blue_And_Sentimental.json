@@ -1,0 +1,306 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Blue And Sentimental;Livingstone-David-Basie;Ballad;Eb",
+      "A:T44Eb^,Db7,C9,Gb9,|F9 Bb13 |F9 Bb13 |G-7,C7,F-7,Bb7,|Eb^,Db7,C9,Gb9,|F9 Bb13 |F9 Bb13 |Eb9 Bb-7,Eb9,",
+      "B:Ab6 Ao7 |Eb6/Bb,Bb7,Eb9 |Ab6 Ao7 |Eb6/Bb,C7,F-7,Bb7,",
+      "C:Eb^,Db7,C9,Gb9,|F9 Bb13 |F9 Bb13 |Eb9,D9,Db9,C9,|F9 Bb13 |Eb6 F-7,Bb7,"
+   ],
+   "title" : "Blue And Sentimental",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Db7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gb9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Db7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gb9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ao7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb6/Bb"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ao7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb6/Bb"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Db7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Gb9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Eb9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Db9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb6"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Livingstone-David-Basie",
+   "key" : "Eb"
+}

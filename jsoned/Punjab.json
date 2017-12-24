@@ -1,0 +1,228 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Punjab;Henderson Joe;Medium Swing;C",
+      "i:T44G^,A^,B^7 |C^7#11   |G^,A^,B^7 |C^7#11   ",
+      "A:D^13   |//Bb13b9 |B^7   |Ab^7   |Fh7   |Bb7   |E^7   |%   |%   |//Eb7b9 ",
+      "B:Ab^7   |G13   |Gb13 B^7 |E9 F9 |F9sus   |%   |G^7 A^7 |B^7 C^7#11, "
+   ],
+   "title" : "Punjab",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "G^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "A^"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "G^"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "A^"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7#11"
+                  }
+               ]
+            }
+         ],
+         "label" : "i"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D^13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb13b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Fh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Gb13"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7#11"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Henderson Joe",
+   "key" : "C"
+}

@@ -1,0 +1,277 @@
+{
+   "style" : "Latin",
+   "metadata" : [
+      "IREALB;Mahjong;Shorter Wayne;Latin;F-",
+      "{i:T44F7sus,   |Eb69,   |F7sus,   |Eb69,   ",
+      "A:F7sus,   |Eb69,   |F7sus,   |Eb69,   |F7sus,   |Eb69,   |F7sus,   |Eb69,   ",
+      "B:Db^9,   |Eb69,   |Db^9,   |Eb69,   |Db^9,   |Eb69,   |Db^9,   |Eb69,   ",
+      "C:D7#9,   |Eb-7 Ab7 |Db^9,   |Db-7 Gb7 ",
+      "A:F7sus,   |Eb69,   |F7sus,   |Eb69,   |F7sus,   |Eb69,   |F7sus,   |Eb69,   "
+   ],
+   "title" : "Mahjong",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            }
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb69"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Shorter Wayne",
+   "key" : "F-"
+}

@@ -1,0 +1,278 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Nicolette;Wheeler Kenny;Waltz;Bb",
+      "{A:T34E-9   |Bb7#9#5   |Eb-9   |Bb^7#11/A   |G^7#11/F#   |Go7, A#o7, |B-11   |E7#9#11   ",
+      "B:E-11 E-11/D |C#h7, Go7, |G#h7,   |C#7#9#5   |F#-11   |A^7#11/G#   |C#^7#11 F#^7#11 |B^7#11 D^7#11/E ",
+      "C:E-9,   |Bb7#9#5   |Eb-9,   |Bb^7#11/A   |G^7#11/F#   |Go7, A#o7, |B-11   |E7b9#11 E13#11 |E-11   |Bb^7#11/A   ",
+      "{Bb^7#11 Eb^7#11 |D9sus B-7 "
+   ],
+   "title" : "Nicolette",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7#11/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7#11/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Go7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "A#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9#11"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "E-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "E-11/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C#h7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Go7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G#h7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7#11/G#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C#^7#11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F#^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B^7#11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "D^7#11/E"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7#11/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7#11/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Go7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "A#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "E7b9#11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "E13#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7#11/A"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb^7#11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Eb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "D9sus"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B-7"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Wheeler Kenny",
+   "key" : "Bb"
+}

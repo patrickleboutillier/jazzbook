@@ -1,0 +1,139 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Killer Joe;Golson Benny;Medium Swing;C",
+      "{T44A:C9   |Bb9#11   |%%   |    |%%   |    |%%   |    ",
+      "B:Eh7   |A7b9   |Eb-7   |Ab7   |A7   |Ab7   |E-7   |A7   ",
+      "A:C9   |Bb9#11   |%%   |    |%%   |    |%%   |    "
+   ],
+   "title" : "Killer Joe",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb9#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb9#11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Golson Benny",
+   "key" : "C"
+}

@@ -1,0 +1,173 @@
+{
+   "style" : "Funk",
+   "metadata" : [
+      "IREALB;Walk Tall;Adderley Cannonball;Funk;C",
+      "{T44G7 C7 |%   |%   |%   |G7 C7 |%   |%   |%   |B-7   |E-7   |D7sus   |A-7,B-7,C^7 |B-7   |E-7   |A-7   |D7sus   |D7sus   |T24D7sus ",
+      "{<VmFtcA==>G7 C7 |G7 C7 "
+   ],
+   "title" : "Walk Tall",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            },
+            {
+               "meter" : "2/4",
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C7"
+                  }
+               ],
+               "comments" : [
+                  "Vamp"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C7"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Adderley Cannonball",
+   "key" : "C"
+}

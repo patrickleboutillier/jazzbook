@@ -1,0 +1,414 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Look To The Rainbow;Lane Burton;Waltz;Eb",
+      "{A:T34Eb6   |Ab^7   |G-11   |<LyAgICAvICAgIC8=>F-11 Bb7 |Eb6   |<LyAgICAvICAgIC8=>Bb-7 Eb7 |Ab6   |Bb7   |F-11   |Bb7   |F-11   |Bb7   |F-6   |Bb7   |Ab6   |Eb6   ",
+      "B:Eb^7   |C-7   |<LyAgICAvICAgIC8=>F-7 Bb7 |Eb^7   |<LyAgICAvICAgIC8=>F-11 Bb7 |Eb^7   |<LyAgICAvICAgIC8=>Ab^7 Ah7 |Bb7   |Eb^7   |C-7   |<LyAgICAvICAgIC8=>F-11 Bb7 |Eb^7   |Ab6   |<LyAgICAvICAgIC8=>G-7 C7b9 |<LyAgICAvICAgIC8=>F-11 Bb7b9 ",
+      "\t1.Eb6   ",
+      "\t2.Eb6   |Ab^7   |Eb6/Bb   |<LyAgICAvICAgIC8=>F-7 Bb7 |Eb^7   |Ab6   |<LyAgICAvICAgIC8=>G-7 C7b9 |<LyAgICAvICAgIC8=>F-7 Bb7b9 |Eb6   "
+   ],
+   "title" : "Look To The Rainbow",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6/Bb"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "F-7"
+                        },
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "Bb7"
+                        }
+                     ],
+                     "comments" : [
+                        "/    /    /"
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "C7b9"
+                        }
+                     ],
+                     "comments" : [
+                        "/    /    /"
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "F-7"
+                        },
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "Bb7b9"
+                        }
+                     ],
+                     "comments" : [
+                        "/    /    /"
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Eb7"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Ah7"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C7b9"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7b9"
+                  }
+               ],
+               "comments" : [
+                  "/    /    /"
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Lane Burton",
+   "key" : "Eb"
+}

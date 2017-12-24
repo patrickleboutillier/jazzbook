@@ -1,0 +1,160 @@
+{
+   "style" : "Latin",
+   "metadata" : [
+      "IREALB;African Queen, The;Silver Horace;Latin;C-",
+      "A:T44C-9 Db9 |%   |%%   |    |C-9, Db9 |%   |%%   |    ",
+      "A:C-9 Db9 |%   |%%   |    |C-9, Db9 |%   |%%   |    ",
+      "B:Bb7 A7 |Ab7 G7 |C-9 Db9 |%   |C-9, Db9 |%   "
+   ],
+   "title" : "African Queen, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Silver Horace",
+   "key" : "C-"
+}

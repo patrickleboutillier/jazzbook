@@ -1,0 +1,542 @@
+{
+   "style" : "Bossa Nova",
+   "metadata" : [
+      "IREALB;Sail Away;Harrell Tom;Bossa Nova;C",
+      "A:T44E-7 |A7alt |D-11 |G7b9sus |Fo7/C |A-7 |D/F# |G7b9sus |E-7 |Bb-7,Eb9,|D-11 |G7b9sus |Fo7/C |A-7 |F-11 |Bb7b9sus |G-7 |C7b9b5 |F-11 |Bb7b9sus |Abo7/Eb |C-7 |A-11 |D7b9b5 ",
+      "B:G^7/D |D-7 |A/C# |A/B,B7,|E^7#5 |A^7 |D#-11 |G#sus,Bsus,|Eb9sus |Eb7b9b5 |E9sus, |/E7,|A^7 |F#-7 |C^/D,Bb^/C,|Ab^/Bb,G7,",
+      "C:E-7 |A7alt |D-11 |G7b9sus |C69 |A-7 |F#-7 |B7#9#5 |Cadd9/Bb |A7alt |D-11 |Gsus,@G7,|C^7/G |G13sus |C^7/G |G13sus ",
+      "@C^7/G |G13sus |C^7/G |G13sus |F,D/F#,|E-/G,E/G#,|F/A,Bb^,|G/B |,,,C-9 "
+   ],
+   "title" : "Sail Away",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Fo7/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "Eb9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Fo7/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9b5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Abo7/Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7b9b5"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G^7/D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A/C#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "A/B"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E^7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D#-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "G#sus"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "Bsus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7b9b5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "C^/D"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "Bb^/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "Ab^/Bb"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "G7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7b9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Cadd9/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "Gsus"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13sus"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7/G"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G13sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "F"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "D/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "E-/G"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "E/G#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 0.5,
+                     "name" : "F/A"
+                  },
+                  {
+                     "beats" : 0.5,
+                     "name" : "Bb^"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-9"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Harrell Tom",
+   "key" : "C"
+}

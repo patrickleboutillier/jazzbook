@@ -1,0 +1,191 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Maze, The;Hancock Herbie;Medium Swing;E-",
+      "i:T44E-7   |A/E   |E-7   |A/E   ",
+      "{A:E-7   |A/E   |E-7   |A/E   ",
+      "A-7   |G-7   |F#h7  @ |F13   ",
+      "{B:<U29sb3M=>E-7   |A7   |E-7   |A7   |A-7   |G-7   |F#7b5   |B7b9   }|@F^7   ",
+      "Unknown bar element: 'B7b9   }' at '}'"
+   ],
+   "title" : "Maze, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A/E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A/E"
+                  }
+               ]
+            }
+         ],
+         "label" : "i"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A/E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A/E"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "F#h7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F13"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ],
+               "comments" : [
+                  "Solos"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7b5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7b9",
+                     "units" : 4
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ],
+               "label" : "coda"
+            }
+         ],
+         "label" : "B",
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Hancock Herbie",
+   "key" : "E-"
+}

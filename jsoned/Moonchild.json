@@ -1,0 +1,106 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Moonchild;Jarrett Keith;Ballad;E-",
+      "T44C#-7 F#7,Go,|G#-7   |E-7   |C#-7 G#-7 |D-7 E7b9 |A-7 F-7,Bb7,|A-7   |E-11 E-7 "
+   ],
+   "title" : "Moonchild",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F#7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Go"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Jarrett Keith",
+   "key" : "E-"
+}

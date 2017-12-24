@@ -1,0 +1,220 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;No Moon At All;Mann David;Medium Swing;D-",
+      "{A:T44D-   |A7b9/C#   |D-/C   |G6/B   |Eh7/Bb   |D-/A Bb7,A7,|D-   |Bb7 A7b9 ",
+      "B:D7   |%   |G7   |%   |C7   |%   |F6   |Eh7 A7b9 ",
+      "A:D-   |A7b9/C#   |D-/C   |G6/B   |Eh7/Bb   |D-/A Bb7,A7,|D-   |Bb7 A7b9 "
+   ],
+   "title" : "No Moon At All",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9/C#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-/A"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7b9/C#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G6/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eh7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-/A"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Mann David",
+   "key" : "D-"
+}

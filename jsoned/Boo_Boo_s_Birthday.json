@@ -1,0 +1,132 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Boo Boo's Birthday;Monk Thelonious;Medium Swing;C",
+      "{A:T44C^7   |B7   |E7b9   |%   |F7#11 E7#11 |Eb7#11 D7#11 |Db^7#11   |Db7   ",
+      "B:G-7   |Db7 Gb7 |F^7   |C^7   |F^7#11 C^7 "
+   ],
+   "title" : "Boo Boo's Birthday",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7b9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F7#11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7#11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F^7#11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Monk Thelonious",
+   "key" : "C"
+}

@@ -1,0 +1,239 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Gravy Waltz, The;Brown Ray;Waltz;C",
+      "{A:T34C   |F   |C/G,  E7/G#,|A-7   |F#-7,  F-,|Eh,A7,  |D7,  G7,|C   ",
+      "B:F7   |C7   |F7   |C7   |F7   |C7   |D7   |G7   ",
+      "A:C   |F   |C/G,  E7/G#,|A-7   |F#-7  F-,|Eh,A7,  |D7,  G7,|C   "
+   ],
+   "title" : "Gravy Waltz, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "C/G"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "E7/G#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "F#-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Eh"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "C/G"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "E7/G#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "F#-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Eh"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "D7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Brown Ray",
+   "key" : "C"
+}

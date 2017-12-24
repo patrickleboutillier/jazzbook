@@ -1,0 +1,96 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Straight No Chaser;Monk Thelonious;Medium Up Swing;Bb",
+      "T44Bb7   |Eb7   |Bb7   |%   |Eb7   |%   |Bb7   |%   |F7   |%   |Bb7   |F7   ",
+      "<TWlsZXMgRGF2aXMgdmVyc2lvbiBpcyBpbiB0aGUga2V5IG9mIEY=>",
+      "Incorrect logical bar length: '0' (4/) for '<TWlsZXMgRGF2aXMgdmVyc2lvbiBpcyBpbiB0aGUga2V5IG9mIEY=>'"
+   ],
+   "title" : "Straight No Chaser",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "comments" : [
+                  "Miles Davis version is in the key of F"
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Monk Thelonious",
+   "key" : "Bb"
+}

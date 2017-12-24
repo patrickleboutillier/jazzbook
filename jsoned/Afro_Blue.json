@@ -1,0 +1,141 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Afro Blue;Santamaria Mongo;Waltz;F-",
+      "T34F-7   |G-7   |Ab^7 G-7 |F-7   |F-7   |G-7   |Ab^7 G-7 |F-7   |Eb   |%   |Db Eb |F-7   |Eb   |%   |Db Eb |F-7   "
+   ],
+   "title" : "Afro Blue",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Db"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Db"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Santamaria Mongo",
+   "key" : "F-"
+}

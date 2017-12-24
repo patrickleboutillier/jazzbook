@@ -1,0 +1,159 @@
+{
+   "style" : "Latin",
+   "metadata" : [
+      "IREALB;In Pursuit Of The 27th Man;Silver Horace;Latin;C",
+      "{i:C7b9sus   |%   |%%   |    ",
+      "{A:C7b9sus   |%   |%%   |    |C7b9sus,   |%   |%%   |    ",
+      "B:Gb7   |G7#9   |C-7   |%   |Gb7   |G7#9   |Ab7   |G7#9   ",
+      "A:C7b9sus   |%   |%%   |    |C7b9sus,   |%   |%%   |    "
+   ],
+   "title" : "In Pursuit Of The 27th Man",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7#9"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 2
+            },
+            {}
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Silver Horace",
+   "key" : "C"
+}

@@ -1,0 +1,77 @@
+{
+   "style" : "Even 8ths",
+   "metadata" : [
+      "IREALB;Jody Grind, The;Silver Horace;Even 8ths;Bb-",
+      "T44Bb-7   |%   |%   |%   |Eb7   |%   |Bb-7   |%   |A13   |B13   |Bb-7   |%   "
+   ],
+   "title" : "Jody Grind, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ]
+      }
+   ],
+   "composer" : "Silver Horace",
+   "key" : "Bb-"
+}

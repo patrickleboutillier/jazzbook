@@ -1,0 +1,280 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Ma Belle Hélène;Wheeler Kenny;Medium Up Swing;C",
+      "A:T44Ab/G   |%   |E/F#   |%   |C/F   |%   |Ab/Bb   |%   |G/Eb   |%   |Eb/D   |%   |B/C#   |%   |G/F#   |%   |F#/B   |Bb/B   |D/Ab   |C/Ab   |Gb/Ab   |%   |%   |%   ",
+      "B:A/G#   |%   |F/G   |%   |C#/F#   |%   |A/B   |%   |Ab/E   |%   |E/Eb   |%   |C/D   |%   |Ab/G   |%   |G/C   |B/C   |D#/A   |C#/A   |G/A   |Bb/A   |D-11   |%   "
+   ],
+   "title" : "Ma Belle Hélène",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Ab/G"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E/F#"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C/F"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab/Bb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G/Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb/D"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B/C#"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G/F#"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb/Ab"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A/G#"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F/G"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#/F#"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A/B"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab/E"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E/Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C/D"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab/G"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B/C"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D#/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-11"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Wheeler Kenny",
+   "key" : "C"
+}

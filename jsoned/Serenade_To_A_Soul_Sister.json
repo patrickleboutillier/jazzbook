@@ -1,0 +1,208 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Serenade To A Soul Sister;Silver Horace;Waltz;Eb-",
+      "A:T34Eb-7   |E7#9   |%%   |    |Eb-7   |E7#9   |Eb-7   |E7#9 Eb-7 ",
+      "B:Ab13   |A13   |Ab13   |Bb7b13   |Eb-7   |E7#9   |Eb-7   |E7#9 Eb-7 ",
+      "C:B13   |C13 B13 |Bb7b13   |B13 Bb7b13 |Eb-7   |E7#9   |Eb-7   |E7#9   "
+   ],
+   "title" : "Serenade To A Soul Sister",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "E7#9"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Eb-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "E7#9"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Eb-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "B13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C13"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B13"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7b13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      }
+   ],
+   "composer" : "Silver Horace",
+   "key" : "Eb-"
+}

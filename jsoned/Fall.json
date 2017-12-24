@@ -1,0 +1,135 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Fall;Shorter Wayne;Ballad;E-",
+      "T44F#7susadd3   |B13b9   |E7sus   |Eb^7#11   |F#7susadd3   |B13b9   |E7sus   |Eb^7#11   |D^7   |D13b9   |G-7   |B-7 Ab^7#11 |F#7susadd3   |B13b9   |E-7 C^7/B |%   "
+   ],
+   "title" : "Fall",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F#7susadd3"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B13b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7susadd3"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B13b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D13b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7susadd3"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B13b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7/B"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ]
+      }
+   ],
+   "composer" : "Shorter Wayne",
+   "key" : "E-"
+}

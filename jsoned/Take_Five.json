@@ -1,0 +1,205 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Take Five;Desmond Paul;Medium Up Swing;Eb-",
+      "A:T54Eb- Bb-7 |%   |%   |%   |Eb- Bb-7 |%   |%   |%   ",
+      "B:B^7 Ab-6 |Bb-7 Eb-7 |Ab-7 Db7 |Gb^7   |B^7 Ab-6 |Bb-7 Eb-7 |Ab-7 Db7 |Fh7 Bb7b9 ",
+      "A:Eb- Bb-7 |%   |%   |%   |Eb- Bb-7 |%   |%   |%   "
+   ],
+   "title" : "Take Five",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "5/4",
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Eb-"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Eb-"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Ab-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Ab-7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Ab-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Ab-7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Fh7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Bb7b9"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Eb-"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Eb-"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Desmond Paul",
+   "key" : "Eb-"
+}

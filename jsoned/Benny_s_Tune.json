@@ -1,0 +1,231 @@
+{
+   "style" : "Afro",
+   "metadata" : [
+      "IREALB;Benny's Tune;Loueke Lionel;Afro;Db",
+      "{i:T64Gb-6   |Db/F   |Gb-6   |Db/F   ",
+      "A:B^7#11   |Bb-7   |F/A   |Ab7sus   |Eb/G   |Gb13   |Db/F   |B7#11   |Gh7   |Gb-6   |Db/F   |B^7#11   |A^7#5   |D/Ab   ",
+      "{B:Gb-6   |Db/F   |Gb-6   |Db/F  @ <c29sb3Mgb24gQUI=>",
+      "@Gb-6  |Db/F  |E6  |Eb7#9  |D^7#11  "
+   ],
+   "title" : "Benny's Tune",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "6/4",
+               "chords" : [
+                  {
+                     "name" : "Gb-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db/F"
+                  }
+               ]
+            }
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F/A"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D/Ab"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb-6"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "Db/F"
+                  }
+               ],
+               "comments" : [
+                  "solos on AB"
+               ]
+            }
+         ],
+         "label" : "B",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb-6"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7#11"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Loueke Lionel",
+   "key" : "Db"
+}

@@ -1,0 +1,131 @@
+{
+   "style" : "Medium Up Swing",
+   "metadata" : [
+      "IREALB;Seven Come Eleven;Goodman-Christian;Medium Up Swing;Ab",
+      "{A:T44Ab6(Ab)  (F-7) |% (Bb-7) (Eb7) |% (C-7) (F7) |% (Bb-7) (Eb7) |% (Ab) (Ab7/C) |% (Db) (Do7) |% (Bb-7/Eb) (Eb7) |% (Ab)  ",
+      "B:G7   |%   |C7   |%   |F7   |%   |Bb7   |Eb7   ",
+      "A:Ab6(Ab)  (F-7) |% (Bb-7) (Eb7) |% (C-7) (F7) |% (Bb-7) (Eb7) |% (Ab) (Ab7/C) |% (Db) (Do7) |% (Bb-7/Eb) (Eb7) |% (Ab)  "
+   ],
+   "title" : "Seven Come Eleven",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Ab6"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab6"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Goodman-Christian",
+   "key" : "Ab"
+}

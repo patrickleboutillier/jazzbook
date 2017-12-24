@@ -1,0 +1,224 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;West Coast Blues;Montgomery Wes;Waltz;Bb",
+      "{i:T64Bb7   |Ab7   |Bb7   |B-7 E7 |Eb7   |%   |Bb7   |%   |F7   |Eb7   |Bb7   |%   ",
+      "A:<U29sb3M6>Bb7   |Ab7   |Bb7   |B-7 E7 |Eb7   |Eb-7 Ab7 |D-7 G7 |C#-7 F#7 |C-7   |C-7 F7 |Bb^7 Db7 |Gb^7 F7 "
+   ],
+   "title" : "West Coast Blues",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "6/4",
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ],
+               "comments" : [
+                  "Solos:"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "E7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Eb-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F#7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Bb^7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Db7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Gb^7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Montgomery Wes",
+   "key" : "Bb"
+}

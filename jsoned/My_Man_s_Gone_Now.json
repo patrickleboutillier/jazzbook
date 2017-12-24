@@ -1,0 +1,204 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;My Man's Gone Now;Gershwin George;Waltz;E-",
+      "{A:T34E-9   |F^9/B   |E-9   |B13   |E7#9   |A-9   |B7b9sus B7#9#5 |E-9   |F^9#11/B   |E-9   |B7#9#5   ",
+      "B:Bb13 Bb7#5 |Eb^7   |B13 B9#5 |E-9   |C#13 C#9#5 |F#-9   |A-9/B B7b9#5 |E-9   |F^7#11/B   |E-9   |B7#9#5   "
+   ],
+   "title" : "My Man's Gone Now",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^9/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7#9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B7b9sus"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^9#11/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7#9#5"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb13"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B13"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C#13"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "A-9/B"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B7b9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7#11/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7#9#5"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Gershwin George",
+   "key" : "E-"
+}

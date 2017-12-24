@@ -1,0 +1,210 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Black Narcissus;Henderson Joe;Waltz;G#-",
+      "T34Ab-7   |Bb-7/Ab   |Ab-7   |Bb-7/Ab   |Ab-7   |Bb-7/Ab   |Ab-7   |Cb^7#11   ",
+      "F#-7   |G#-7/F#   |F#-7   |G#-7/F#   |F#-7   |G#-7/F#   |F#-7   |A^7#11/F#   ",
+      "Eb^7#11   |F^7#11   |Bb^7#11   |C^7#11   |Eb^7#11   |F^7#11 Bb^7#11 |G^7#11 Ab^7#11 |Bb^,C^7#11  "
+   ],
+   "title" : "Black Narcissus",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "Ab-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7/Ab"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Cb^7#11"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G#-7/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G#-7/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G#-7/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7#11/F#"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F^7#11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "G^7#11"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Ab^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "Bb^"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C^7#11"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Henderson Joe",
+   "key" : "G#-"
+}

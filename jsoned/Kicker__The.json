@@ -1,0 +1,89 @@
+{
+   "style" : "Up Tempo Swing",
+   "metadata" : [
+      "IREALB;Kicker, The;Henderson Joe;Up Tempo Swing;Bb",
+      "T44Bb7   |%   |%   |%   |Eb-7   |Ab7   |Db^7   |Gb^7   |Ch7   |F7   |Bb-7   |F7#9   "
+   ],
+   "title" : "Kicker, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ch7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7#9"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Henderson Joe",
+   "key" : "Bb"
+}

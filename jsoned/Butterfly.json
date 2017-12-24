@@ -1,0 +1,341 @@
+{
+   "style" : "Funk",
+   "metadata" : [
+      "IREALB;Butterfly;Hancock Herbie;Funk;F-",
+      "{i:T44F-7<aGFsZiB4IGZlZWwgdGhyb3VnaG91dA==>   |/A-7,  |<KDR4cyk=>F-7   |/A-7  ",
+      "{$A:F-11   |/A-11  |F-11   |NC/D-11  ",
+      "Incorrect logical bar length: '5' (4/) for 'NC/D-11  '",
+      "B: Bb7 |NC   |NC   |NCA7#9#5  |Ab^7/Bb   |Ab^7#5/Bb   |Ab^7/Bb   |Bb13   |Eb13sus   |%   |Eb7#9#5   |%   |Ab13sus   |//_/C,@<ICAgICAgRmluZQ==>C7/E,|NC F-7 |/A-7  ",
+      "Incorrect logical bar length: '3' (4/) for 'NC F-7 '",
+      "{F-7   |/A-7<M3g=> <ICAgICAgRC5TLiBhbCBDb2Rh> ",
+      "{@F-11, <KjY2b3Blbg==>  |%   |%   |%   ",
+      "{<KjY4b3Blbg==>Bb13  |%  |%  |%  }<RC5DLiBhbCBGaW5l>A^7#11   ",
+      "Unknown bar element: '%  }<RC5DLiBhbCBGaW5l>A^7#11   ' at '}A^7#11   '"
+   ],
+   "title" : "Butterfly",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ],
+               "comments" : [
+                  "half x feel throughout"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ],
+               "comments" : [
+                  "(4xs)"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "A-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ],
+               "label" : "segno"
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "A-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC",
+                     "units" : 1
+                  },
+                  {
+                     "name" : "/",
+                     "units" : 1
+                  },
+                  {
+                     "name" : "D-11",
+                     "units" : 3
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "NC"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "A7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7#5/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7/Bb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb13sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#9#5"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab13sus"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "_/C"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7/E"
+                  }
+               ],
+               "comments" : [
+                  "      Fine"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC",
+                     "units" : 1
+                  },
+                  {
+                     "name" : "F-7",
+                     "units" : 2
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "A-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "A-7"
+                  }
+               ],
+               "comments" : [
+                  "3x",
+                  "      D.S. al Coda"
+               ]
+            }
+         ],
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F-11"
+                  }
+               ],
+               "label" : "coda",
+               "comments" : [
+                  "*66open"
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb13"
+                  }
+               ],
+               "comments" : [
+                  "*68open"
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1,
+               "comments" : [
+                  "D.C. al Fine"
+               ]
+            }
+         ],
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Hancock Herbie",
+   "key" : "F-"
+}

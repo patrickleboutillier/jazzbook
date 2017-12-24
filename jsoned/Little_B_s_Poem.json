@@ -1,0 +1,157 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Little B's Poem;Hutcherson Bobby;Waltz;F-",
+      "T34Gb^7#11,   |F-7   |Gb^7#11,   |F-7   |Eb-7   |Db^7   |Eb-7   |C7b9,   |F-7   |F#-7 B7 |E^7   |F-7 Bb7 |Eb^7   |Db7#11   |C7,C7/D,C7/E, |F-7,F-/G,F-/Ab "
+   ],
+   "title" : "Little B's Poem",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "Gb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F#-7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C7/D"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "C7/E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "F-/G"
+                  },
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "F-/Ab"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Hutcherson Bobby",
+   "key" : "F-"
+}

@@ -1,0 +1,277 @@
+{
+   "style" : "Slow Swing",
+   "metadata" : [
+      "IREALB;Blues In The Night;Arlen Harold;Slow Swing;Bb",
+      "{A:T44Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Gb7   |Bb6   |%   |F7   |C7b9 F7#9#5 |Bb6 Eb7 |Bb6  @ ",
+      "{B:Bb-9(Eb9) Eb13(Gb9) |Db-9(Ch7) Gb13(F7) |Ab-9(Db13) Db13 |C7b9(Gh7)  (C7b9) |Dh7 G7b9 |Gh7 C7b9 |F9sus   |F9   }|G7b9 C7#5 |<RC5DLiBhbCBDb2Rh>C7b9 F7 ",
+      "Unknown bar element: 'F9   }' at '}'",
+      "        |@G7b9 C7#5 |C7b9 F7 |C7b9 F9sus |Bb6   "
+   ],
+   "title" : "Blues In The Night",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb6"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "name" : "Bb6"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ab-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Db13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Dh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Gh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F9",
+                     "units" : 4
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7b9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ],
+               "comments" : [
+                  "D.C. al Coda"
+               ]
+            }
+         ],
+         "label" : "B",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {},
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7b9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7#5"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C7b9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb6"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Arlen Harold",
+   "key" : "Bb"
+}

@@ -1,0 +1,117 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Coral;Jarrett Keith;Ballad;C-",
+      "T44C-7 F7 |D/Bb Bb^7 |Ah D7b9 |G-7 C7 |B^7 F#^7/A# |G#-7 B^7/F# |Gb^9#11 Gb7sus |F-11, Dh,G7b9"
+   ],
+   "title" : "Coral",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D/Bb"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ah"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F#^7/A#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B^7/F#"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Gb^9#11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Gb7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-11"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Dh"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G7b9"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Jarrett Keith",
+   "key" : "C-"
+}

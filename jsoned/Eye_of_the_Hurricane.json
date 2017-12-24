@@ -1,0 +1,238 @@
+{
+   "style" : "Up Tempo Swing",
+   "metadata" : [
+      "IREALB;Eye of the Hurricane;Hancock Herbie;Up Tempo Swing;F-",
+      "A:T44F-6, Bb6, |Eb7sus, Ab7sus, |Db^7,  C7|NC   |Gb-7,  Bb-|NC   |Eb7#9/F,   |%   |Eb7#9/F,   |%   |NCT64   |T44F-7,   |F-7,   ",
+      "B:F-6, Bb6, |Eb7sus Ab7sus, |Db^7,  C7|NC   |A^7#11, C^7, |NC   |Eb7#9/F,   |Eb7#9/F,   |%   |%   |NC   |NC   |F-7,   |%<U29sb3Mgb24gRiBtaW5vciBCbHVlcw==>   "
+   ],
+   "title" : "Eye of the Hurricane",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "Db^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "Gb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#9/F"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#9/F"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "meter" : "6/4",
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-6"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "Db^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A^7#11"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#9/F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7#9/F"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "NC"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1,
+               "comments" : [
+                  "Solos on F minor Blues"
+               ]
+            }
+         ],
+         "label" : "B"
+      }
+   ],
+   "composer" : "Hancock Herbie",
+   "key" : "F-"
+}

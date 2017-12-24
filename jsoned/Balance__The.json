@@ -1,0 +1,108 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Balance, The;Holland Dave;Medium Swing;G-",
+      "A:T54G-7   |E-11 F-7 |G-7   |E-11 F-7, |Ah7 D7b9, |F-7, Eh,A7,|D-11 Db^7#11, |D-11, Db^7#11, "
+   ],
+   "title" : "Balance, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "5/4",
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "E-11"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "E-11"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "Ah7"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "D7b9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 0.8,
+                     "name" : "Eh"
+                  },
+                  {
+                     "beats" : 0.8,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "D-11"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Db^7#11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1.6,
+                     "name" : "D-11"
+                  },
+                  {
+                     "beats" : 1.6,
+                     "name" : "Db^7#11"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Holland Dave",
+   "key" : "G-"
+}

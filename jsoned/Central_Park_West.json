@@ -1,0 +1,150 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Central Park West;Coltrane John;Ballad;B",
+      "T44B^7   E-7 A7 |D^7   Bb-7 Eb7 |Ab^7   G-7 C7 |F^7   C#-7 F#7 |B^7   E-7 A7 |D^7   C#-7 F#7 |B^7       |C#-7/B       |B^7       |C#-7/B   C#-7 F#7 "
+   ],
+   "title" : "Central Park West",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 8,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 8,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 8,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 8,
+                     "name" : "F^7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "F#7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 8,
+                     "name" : "B^7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 8,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "F#7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#-7/B"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 8,
+                     "name" : "C#-7/B"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "F#7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Coltrane John",
+   "key" : "B"
+}

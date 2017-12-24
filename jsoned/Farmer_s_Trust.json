@@ -1,0 +1,471 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Farmer's Trust;Metheny Pat;Waltz;C",
+      "{A:T34G^7    |B-7, G/B,/ |C#-7, F#7b9, / |F#7b9/B B-,/ |A-7, D7sus D7,|F/G, G, F/G, |Cadd9    |Gsus, G, G7 |Csus, C, /|E-7 C/E, / |Ab, Bb,/ |Db/Eb Eb, Db/Eb,|Abadd9   |G7#9#5  |Gb69  |Gh7/Db C7b9 / ",
+      "Incorrect logical bar length: '5' (3/) for 'B-7, G/B,/ '",
+      "Incorrect logical bar length: '5' (3/) for 'F#7b9/B B-,/ '",
+      "Incorrect logical bar length: '5' (3/) for 'A-7, D7sus D7,'",
+      "Incorrect logical bar length: '5' (3/) for 'Csus, C, /'",
+      "Incorrect logical bar length: '5' (3/) for 'Ab, Bb,/ '",
+      "Incorrect logical bar length: '5' (3/) for 'Db/Eb Eb, Db/Eb,'",
+      "B:F-9   |C-9  |G-11  |Ab^7 Ab7, /@ ",
+      "\t1.Csus C, /|Ab^7 Bb/Ab /|Csus  |C,/D,",
+      "Incorrect logical bar length: '5' (3/) for 'Csus C, /'",
+      "Incorrect logical bar length: '5' (3/) for 'Ab^7 Bb/Ab /'",
+      "\t2.Csus C /|Ab^7 Bb/Ab /|Csus C,/|D ",
+      "Incorrect logical bar length: '5' (3/) for 'Csus C /'",
+      "Incorrect logical bar length: '5' (3/) for 'Ab^7 Bb/Ab /'",
+      "{@Csus C,/|Ab^7 Bb/Ab /|Csus C,/|C  ",
+      "Incorrect logical bar length: '5' (3/) for 'Ab^7 Bb/Ab /'"
+   ],
+   "title" : "Farmer's Trust",
+   "sections" : [
+      {
+         "endings" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Csus",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "C",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "/",
+                           "units" : 1
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab^7",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "Bb/Ab",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "/",
+                           "units" : 1
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Csus"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "C"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "D"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Csus",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "C",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "/",
+                           "units" : 1
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab^7",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "Bb/Ab",
+                           "units" : 2
+                        },
+                        {
+                           "name" : "/",
+                           "units" : 1
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "Csus"
+                        },
+                        {
+                           "beats" : 1.33333333333333,
+                           "name" : "C"
+                        },
+                        {
+                           "beats" : 1.33333333333333,
+                           "name" : "/"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D"
+                        }
+                     ]
+                  }
+               ],
+               "no" : "2"
+            }
+         ],
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "G/B",
+                     "units" : 1
+                  },
+                  {
+                     "name" : "/",
+                     "units" : 2
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "F#7b9"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7b9/B",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "B-",
+                     "units" : 1
+                  },
+                  {
+                     "name" : "/",
+                     "units" : 2
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "D7sus",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "D7",
+                     "units" : 1
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "F/G"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "G"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "F/G"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Cadd9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "Gsus"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "G"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Csus",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "C",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "/",
+                     "units" : 1
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C/E"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "Bb",
+                     "units" : 1
+                  },
+                  {
+                     "name" : "/",
+                     "units" : 2
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db/Eb",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "Eb",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "Db/Eb",
+                     "units" : 1
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Abadd9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7#9#5"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "Gh7/Db"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "C7b9"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "/"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-11"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "beats" : 4,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "Ab7"
+                  },
+                  {
+                     "beats" : 4,
+                     "name" : "/"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Csus"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "/"
+                  }
+               ],
+               "label" : "coda"
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "Bb/Ab",
+                     "units" : 2
+                  },
+                  {
+                     "name" : "/",
+                     "units" : 1
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2.66666666666667,
+                     "name" : "Csus"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 1.33333333333333,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Metheny Pat",
+   "key" : "C"
+}
