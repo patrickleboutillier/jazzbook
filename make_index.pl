@@ -10,7 +10,7 @@ print "<HTML>\n" ;
 my @files = glob("jsoned/*.json") ;
 foreach my $f (@files){
 	my $base = basename($f, ".json") ;
-	print "<A HREF='realbook.html?$base'>$base</A>" ;
+	print "<A HREF='realbook.html?t=$base'>$base</A>" ;
 	print "<BR>\n" ;
 }
 

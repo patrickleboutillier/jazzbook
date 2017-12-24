@@ -7,25 +7,17 @@ decode:
 
 parse: 
 	rm -f parsed/*
-	for f in decoded/*.irealb ; do perl parse_irealb.pl $$f ; done
-	cat parsed/*.parsed > irealb_1300.parsed
+	perl make_parse.pl
 
-xml:
-	rm -f xmled/pass/* xmled/reject/*
-	for f in parsed/*.parsed ; do perl xmlify_irealb.pl $$f ; done
-	@echo -n "PASS:   " ; ls -l xmled/pass/* | wc -l 
-	@echo -n "REJECT: " ; ls -l xmled/reject/* | wc -l 
+json:
+	rm -f json/reject/*.json json/*.json
+	perl make_json.pl
+	@echo -n "PASS:   " ; ls -l jsoned/*.json | wc -l 
+	@echo -n "REJECT: " ; ls -l jsoned/reject/* | wc -l
 
-
-check:
-	grep -B1 ^T irealb_1300.parsed ; /bin/true
-	grep -P ',[a-zA-Z]:' irealb_1300.parsed ; /bin/true
-
-
-
-diag: parse
-	perl xmlify_irealb.pl -n < irealb_1300.parsed 2>&1 >/dev/null | cut -d' ' -f 1-3  | sort | uniq -c
-
-
-
-
+site:
+	perl make_index.pl > index.html
+	(test -f ../realbook.html && mv ../realbook.html .) || /bin/true
+	sudo cp index.html realbook.html /var/www/html/
+	sudo rm -f /var/www/html/tunes/*.json
+	sudo cp jsoned/*.json /var/www/html/tunes/

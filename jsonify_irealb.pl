@@ -2,7 +2,7 @@
 
 use strict ;
 use Data::Dumper ;
-use Getopt::Long ;
+use MIME::Base64 ;
 use JSON ;
 
 
@@ -38,7 +38,7 @@ while (<>){
 
 		if ($line =~ s/^\{//){
 			$section->{repeat} = 1 ;
-			push @bars, parse_bars($line) ;
+			push @bars, parse_bars($section, $line) ;
 			$cur_repeat = $section ;
 			push @sections, $section ;
 		}
@@ -46,11 +46,11 @@ while (<>){
 			# Alternate endings.
 			my $no = $1 ;
 			$section->{no} = $no ;
-			push @bars, parse_bars($line) ;
+			push @bars, parse_bars($section, $line) ;
 			push @{$cur_repeat->{endings}}, $section ;
 		}
 		else {
-			push @bars, parse_bars($line) ;
+			push @bars, parse_bars($section, $line) ;
 			push @sections, $section ;
 		}
 
@@ -68,15 +68,17 @@ print $json->pretty()->encode($tune) ;
 
 
 sub parse_bars {
+	my $section = shift ;
 	my $t = shift ;
 
-	my @bars = map { parse_bar($_) } split(/\|/, $t) ;
+	my @bars = map { parse_bar($section, $_) } split(/\|/, $t) ;
 
 	return @bars ;
 }
 
 
 sub parse_bar {
+	my $section = shift ;
 	my $b = shift ;
 
 	my $ob = $b ;
@@ -84,20 +86,24 @@ sub parse_bar {
 	my @cs = () ;
 
 	# Remove empty bars
-	return () if $b =~ /^\s*$/ ;
+	# return () if $b =~ /^\s*$/ ;
 
 	my $coda = ($b =~ s/(.)@/$1/) ;
-	my @comments = ($b =~ /\<(.*?)\>/g) ;
-	$b =~ s/\<(.*?)\>//g ;
 
-	my $bar = { } ;
+	my $bar = {} ;
+	my @comments = () ;
 
 	my $len = 0 ;
 	my $err = 0 ;
 	my $last_chord = undef ;
 	while (length($b)){
 		if ($b =~ s/^([a-zA-Z])://){
-			$bar->{label} = $1 ;
+			if (! $section->{label}){
+				$section->{label} = $1 ;
+			}
+			else {
+				# TODO: Append to section comments?
+			}
 		}
 		elsif ($b =~ s/^T(\d)(\d)//){
 			$bar->{meter} = "$1/$2" ;
@@ -108,6 +114,10 @@ sub parse_bar {
 		}
 		elsif ($b =~ s/^\$//){
 			$bar->{label} = 'segno' ;
+		}
+		elsif ($b =~ s/\<(.*?)\>//){
+			push @comments, $1 ;
+			
 		}
 		elsif ($b =~ s/^,//){
 		}
@@ -178,7 +188,11 @@ sub parse_bar {
 	}
 	
 	foreach my $c (@comments){
-		push @cs, { value => "$c" } if $c ;
+		if ($c){
+			$c = decode_base64($c) ;
+			$c =~ s/"/\\"/g ;
+			push @{$bar->{comments}}, $c ;
+		}
 	}
 	$bar->{coda} = 1 if ($coda) ;
 

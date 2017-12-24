@@ -4,29 +4,17 @@ use strict ;
 use MIME::Base64 ;
 
 
-my $irealb = $ARGV[0] ;
-
-open(IREALB, "<$irealb") or die("Can't open '$irealb' for reading: $!") ;
-my $line = <IREALB> ;
-close(IREALB) ;
-chomp($line) ;
-
-parse_irealb($line) ;
-
-
-sub parse_irealb {
-	my $line = shift ;
+while (<STDIN>){
+	my $line = $_ ;
+	chomp($line) ;
 
 	my ($title, $composer, $style, $key, $s) = split(/;/, $line, 5) ;
 
 	my $fname = $title ;
         $fname =~ s/\W/_/g ;
 
-	print "Parsing '$title'...\n" ;
-	open(PARSED, ">parsed/$fname.parsed") or die("Can't open 'parsed/$fname.parsed' for writing: $!") ;
-
-	print PARSED "#$line\n" ;
-	print PARSED "IREALB;$title;$composer;$style;$key\n" ;
+	print "#$line\n" ;
+	print "IREALB;$title;$composer;$style;$key\n" ;
 
 	# Save comments
 	my @comments = ($s =~ /<(.*?)>/g) ;
@@ -40,7 +28,7 @@ sub parse_irealb {
 	$s =~ s/S/\$/g ;
 	$s =~ s/Q/@/g ;
 	$s =~ s/W/_/g ;
-	$s =~ s/\|([^\|]*?)r\|/|%%$1$2/g ;
+	$s =~ s/\|([^\|]*?)r/|%%$1/g ;
 	$s =~ s/\|([^\|]*?)x/|%$1/g ;
 	$s =~ s/\|([^\|]*?)n/|NC$1/g ;
 	$s =~ s/n/NC/g ;
@@ -75,9 +63,7 @@ sub parse_irealb {
 	my $i = 0 ;
 	$s =~ s/<>/'<' . encode_base64($comments[$i++], '') . '>'/ge ;
 	
-	print PARSED "$s\n" ;
-	print PARSED "END\n\n" ;
-	close(PARSED) ;
+	print "$s\n" ;
 }
 
 
