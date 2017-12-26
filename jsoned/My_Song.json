@@ -86,12 +86,12 @@
          ],
          "bars" : [
             {
+               "segno" : 1,
                "chords" : [
                   {
                      "name" : "C"
                   }
-               ],
-               "label" : "segno"
+               ]
             },
             {
                "chords" : [

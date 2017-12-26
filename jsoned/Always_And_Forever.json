@@ -156,6 +156,7 @@
       {
          "bars" : [
             {
+               "segno" : 1,
                "chords" : [
                   {
                      "beats" : 2,
@@ -169,8 +170,7 @@
                      "beats" : 1,
                      "name" : "E-7"
                   }
-               ],
-               "label" : "segno"
+               ]
             },
             {
                "chords" : [

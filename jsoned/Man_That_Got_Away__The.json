@@ -145,12 +145,12 @@
       {
          "bars" : [
             {
+               "segno" : 1,
                "chords" : [
                   {
                      "name" : "F6"
                   }
-               ],
-               "label" : "segno"
+               ]
             },
             {
                "repeat_last" : 1

@@ -151,6 +151,7 @@
          ],
          "bars" : [
             {
+               "segno" : 1,
                "chords" : [
                   {
                      "beats" : 2,
@@ -160,8 +161,7 @@
                      "beats" : 2,
                      "name" : "Eb-7/Db"
                   }
-               ],
-               "label" : "segno"
+               ]
             },
             {
                "chords" : [

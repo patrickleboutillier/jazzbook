@@ -6,7 +6,7 @@ use MIME::Base64 ;
 use JSON ;
 
 
-my $rc = 1 ;
+my $rc = 0 ;
 my $meter_nb = 4 ;
 my @buf = () ;
 
@@ -66,6 +66,8 @@ $tune->{metadata} = \@buf ;
 my $json = new JSON() ;
 print $json->pretty()->encode($tune) ;
 
+exit($rc) ;
+
 
 #################################################
 
@@ -116,11 +118,11 @@ sub parse_bar {
 			$bar->{label} = 'coda' ;
 		}
 		elsif ($b =~ s/^\$//){
-			$bar->{label} = 'segno' ;
+			$bar->{segno} = 1 ;
 		}
 		elsif ($b =~ s/\<(.*?)\>//){
+			# if first bar of section, use comment as section description.
 			push @comments, $1 ;
-			
 		}
 		elsif ($b =~ s/^,//){
 		}
@@ -197,6 +199,7 @@ sub parse_bar {
 			push @{$bar->{comments}}, $c ;
 		}
 	}
+
 	$bar->{coda} = 1 if ($coda) ;
 
 	$bar->{chords} = \@cs if (scalar(@cs)) ;
@@ -209,7 +212,7 @@ sub problem {
 	my $msg = shift ;
 
 	warn "$msg\n" ;
-	$rc = 0 ;
+	$rc = 1 ;
 	push @buf, $msg ;
 }
 
