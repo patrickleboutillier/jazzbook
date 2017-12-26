@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Pinocchio;Shorter Wayne;Up Tempo Swing;Eb-",
       "T44Eb-69   |//A-9 |Db-69   |//A-9 |D^7#5   |%   |G-^7   |%   |G-6   |Eb^7 B-^7 |Eb-69(Gb^7#11)   |%   |Db9sus   |E9sus   |B7#9#5   |Gb13   |F#-^7(B13sus)   |%   "
@@ -58,7 +58,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7#5"
+                     "name" : "D^7(#5)"
                   }
                ]
             },
@@ -121,7 +121,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9#5"
+                     "name" : "B7(#9#5)"
                   }
                ]
             },
@@ -145,6 +145,6 @@
          ]
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "Eb-"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

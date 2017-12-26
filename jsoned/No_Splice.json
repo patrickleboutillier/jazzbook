@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;No Splice;Konitz Lee;Medium Up Swing;G-",
       "A:T44G-7   |Ah7 D7b9 |G-7   |%   |F-7   |Bb7   |Eb^7   |%   |Ah7   |D7b9   |Eb7 D7b9 |G-7   |Eb7   |Bb-7 Eb7 |Ab^7   |Ah7 D7 ",
@@ -25,7 +25,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -73,7 +73,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -85,7 +85,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -154,7 +154,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -230,7 +230,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -249,7 +249,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -257,6 +257,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Konitz Lee",
-   "key" : "G-"
+   "composer" : "Lee Konitz",
+   "key" : null
 }

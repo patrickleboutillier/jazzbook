@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Body And Soul;Green Johnny;Ballad;Db",
       "{A:T44Eb-7 Bb7b13 |Eb-7 Ab7 |Db^7 Gb7 |F-7 Eo7 |Eb-7 Eb-7/Db |Ch7 F7b9 |Bb-7 Eb-7,Ab7,",
@@ -69,7 +69,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -117,7 +117,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/Db"
+                     "name" : "Eb-7/D(b)"
                   }
                ]
             },
@@ -129,7 +129,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -171,7 +171,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D^7/F#"
+                     "name" : "D^7/F(#)"
                   },
                   {
                      "beats" : 1,
@@ -275,7 +275,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -323,7 +323,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/Db"
+                     "name" : "Eb-7/D(b)"
                   }
                ]
             },
@@ -335,7 +335,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -379,6 +379,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Green Johnny",
-   "key" : "Db"
+   "composer" : "Johnny Green",
+   "key" : null
 }

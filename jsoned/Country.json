@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Country;Jarrett Keith;Even 8ths;Eb",
       "{A:T44Ab   |Bb   |Eb(C-)   |Eb7(C-)   |Ab   |Bb G/B |C-   |C- Eb7/Bb |Ab   |Bb  G/B,|C-   |F7 F#o7 |Eb/G   |Ab   |Bb7  Eb,|Eb   ",
@@ -72,7 +72,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7/Bb"
+                     "name" : "Eb7/B(b)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
@@ -243,7 +243,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "Eb7/Bb"
+                     "name" : "Eb7/B(b)"
                   },
                   {
                      "beats" : 2,
@@ -289,6 +289,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Jarrett Keith",
-   "key" : "Eb"
+   "composer" : "Keith Jarrett",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Funk",
+   "style" : null,
    "metadata" : [
       "IREALB;Feels So Good;Mangione Chuck;Funk;F",
       "T44F  C/E,|D-7   |G-7   |C7 C7/Bb |A-7   |D-7   |G-7   |Eh7 A7#9 |D-7   |Ebadd9   |D-7   |Ebadd9   |F   |Ebadd9   |D-7  D-/C,|Bb^7   |G-7   |G-7,A-7,Bb,Bo,|C7sus   |F   |D7/F#   |G-7   |C7   |F   |D7/F#   |G-7   |C9sus   "
@@ -43,7 +43,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7/Bb"
+                     "name" : "C7/B(b)"
                   }
                ]
             },
@@ -76,7 +76,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#9"
+                     "name" : "A7(#9)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/F#"
+                     "name" : "D7/F(#)"
                   }
                ]
             },
@@ -213,7 +213,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/F#"
+                     "name" : "D7/F(#)"
                   }
                ]
             },
@@ -234,6 +234,6 @@
          ]
       }
    ],
-   "composer" : "Mangione Chuck",
-   "key" : "F"
+   "composer" : "Chuck Mangione",
+   "key" : null
 }

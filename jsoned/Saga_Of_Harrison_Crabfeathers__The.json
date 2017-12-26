@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Saga Of Harrison Crabfeathers, The;Kuhn Steve;Waltz;E-",
       "A:T34E-7 |% |% |% |C^7#11, |% |% |% |A-7 |% |% |% |E-7 |% |% |% ",
@@ -31,7 +31,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7#11"
+                     "name" : "C^7(#11)"
                   }
                ]
             },
@@ -100,7 +100,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -153,7 +153,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
@@ -251,6 +251,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Kuhn Steve",
-   "key" : "E-"
+   "composer" : "Steve Kuhn",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Black Nile;Shorter Wayne;Up Tempo Swing;D-",
       "i:T44F-7   |Gb^7   |Eb-7   |F-7 D-7 |Bb7   |Eb^7   |Eh7 A7b9 |A7b9   ",
@@ -69,14 +69,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -90,7 +90,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7b13"
+                           "name" : "A7(b13)"
                         }
                      ]
                   },
@@ -128,7 +128,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7#9"
+                           "name" : "A7(#9)"
                         }
                      ]
                   },
@@ -257,7 +257,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -309,7 +309,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -320,7 +320,7 @@
                   }
                ],
                "comments" : [
-                  "solos on AABA"
+                  "0-solos on AABA"
                ]
             },
             {
@@ -334,6 +334,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "D-"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

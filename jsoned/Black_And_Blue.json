@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Black And Blue;Waller Fats;Slow Swing;C",
       "{A:T44A-7   |D-7   |A-7   |D7 Db7 |C6 A7 |D-7 G7 ",
@@ -29,7 +29,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "E7b9"
+                           "name" : "E7(b9)"
                         }
                      ]
                   }
@@ -190,7 +190,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -279,6 +279,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Waller Fats",
-   "key" : "C"
+   "composer" : "Fats Waller",
+   "key" : null
 }

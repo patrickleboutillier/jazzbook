@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Evidence;Monk Thelonious;Medium Swing;Eb",
       "{A:T44Eb^7   |G-7 C7#11 |F-7   |Bb7#11   |A7   |Ab-7 Db7 |F-7   |F7#9#11(Bb7)   ",
@@ -26,7 +26,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -40,7 +40,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -73,7 +73,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#9#11"
+                     "name" : "F7(#9#11)"
                   }
                ]
             }
@@ -93,7 +93,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -121,7 +121,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -135,7 +135,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             }
@@ -159,7 +159,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -173,7 +173,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -206,7 +206,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#9#11"
+                     "name" : "F7(#9#11)"
                   }
                ]
             }
@@ -214,6 +214,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Eb"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

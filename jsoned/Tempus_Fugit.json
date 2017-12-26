@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Tempus Fugit;Powell Bud;Up Tempo Swing;D-",
       "{A:T44G-7 A7 |D-7   |A7   |D-7   |G-7 A7 |D-7   |E7 A7 |D-   ",
@@ -98,7 +98,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#9"
+                     "name" : "A7(#9)"
                   }
                ]
             },
@@ -112,14 +112,14 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -129,7 +129,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -216,6 +216,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Powell Bud",
-   "key" : "D-"
+   "composer" : "Bud Powell",
+   "key" : null
 }

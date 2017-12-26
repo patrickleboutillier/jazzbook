@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;All About Ronnie;Greene Joe;Ballad;Bb",
       "A:T44Eb7#11   |%   |Bb6 F9sus |Bb6   |C-9   |F9sus F7b9 |Bb6 F9sus |Bb6 Eb^9 |Dh7   |G7b9   |C-7 G7b13 |C-7   |Eh7   |A7b9   |C-7   |F9sus   ",
@@ -13,7 +13,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -54,7 +54,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -92,7 +92,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -104,7 +104,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -151,7 +151,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -192,7 +192,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -206,7 +206,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   }
                ]
             },
@@ -232,7 +232,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -240,11 +240,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b13"
+                     "name" : "F7(b13)"
                   }
                ]
             },
@@ -256,7 +256,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -271,6 +271,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Greene Joe",
-   "key" : "Bb"
+   "composer" : "Joe Greene",
+   "key" : null
 }

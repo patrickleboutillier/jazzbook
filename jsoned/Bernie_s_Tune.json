@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Bernie's Tune;Miller Bernie;Medium Up Swing;D-",
       "{A:T44D-7   |%   |Bb7   |%   |Eh7   |A7b9   ",
@@ -29,7 +29,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   }
@@ -93,7 +93,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -190,7 +190,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -229,7 +229,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -247,6 +247,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Miller Bernie",
-   "key" : "D-"
+   "composer" : "Bernie Miller",
+   "key" : null
 }

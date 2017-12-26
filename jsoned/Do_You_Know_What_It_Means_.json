@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Do You Know What It Means?;Alter Louis;Medium Swing;C",
       "{A:T44C^7 G7#5 |C^7 A-7 |E-7 A-7 |D7   |F6 F#o7 |C6/G A7b9 ",
@@ -71,7 +71,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -126,7 +126,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -223,7 +223,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             }
@@ -240,7 +240,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -295,7 +295,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -322,6 +322,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Alter Louis",
-   "key" : "C"
+   "composer" : "Louis Alter",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Deluge;Shorter Wayne;Medium Swing;Eb-",
       "A:T44Eb-7 E^7#11 |E^7#11,   |%%   |    |%%   |    |Eb-7   |A7#11,   ",
@@ -18,14 +18,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
@@ -47,7 +47,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   }
                ]
             }
@@ -59,7 +59,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -85,14 +85,14 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -116,14 +116,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             }
@@ -131,6 +131,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "Eb-"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

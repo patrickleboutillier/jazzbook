@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Blood Count;Strayhorn Billy;Slow Swing;D",
       "A:T44F9#11   |E13#11   |Eb13   |Bb-7 Eb9 |D-   |D-b6(Bb/D)   |D-6   |A-7 D9 ",
@@ -17,14 +17,14 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F9#11"
+                     "name" : "F9(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E13#11"
+                     "name" : "E13(#11)"
                   }
                ]
             },
@@ -57,7 +57,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D-b6"
+                     "name" : "D-(b6)"
                   }
                ]
             },
@@ -88,14 +88,14 @@
             {
                "chords" : [
                   {
-                     "name" : "F9#11"
+                     "name" : "F9(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E13#11"
+                     "name" : "E13(#11)"
                   }
                ]
             },
@@ -128,7 +128,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7#5"
+                     "name" : "D^7(#5)"
                   }
                ]
             },
@@ -180,7 +180,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb9#11"
+                     "name" : "Bb9(#11)"
                   }
                ]
             },
@@ -230,14 +230,14 @@
             {
                "chords" : [
                   {
-                     "name" : "F9#11"
+                     "name" : "F9(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E13#11"
+                     "name" : "E13(#11)"
                   }
                ]
             },
@@ -270,7 +270,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7#5"
+                     "name" : "D^7(#5)"
                   }
                ]
             },
@@ -324,7 +324,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "_/A"
+                     "name" : " /A"
                   }
                ]
             },
@@ -336,7 +336,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C#7b9"
+                     "name" : "C#7(b9)"
                   }
                ]
             },
@@ -368,7 +368,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   },
                   {
                      "beats" : 2,
@@ -454,6 +454,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Strayhorn Billy",
-   "key" : "D"
+   "composer" : "Billy Strayhorn",
+   "key" : null
 }

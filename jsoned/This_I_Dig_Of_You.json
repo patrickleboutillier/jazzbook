@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;This I Dig Of You;Mobley Hank;Medium Up Swing;Bb",
       "A:T44Bb^7/F   |C-7/F   |D-7/F   |C-7/F   |D-7/F   |C-7/F   |Bb^7/F   |F-7 Bb7 ",
@@ -93,7 +93,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -225,7 +225,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -271,6 +271,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Mobley Hank",
-   "key" : "Bb"
+   "composer" : "Hank Mobley",
+   "key" : null
 }

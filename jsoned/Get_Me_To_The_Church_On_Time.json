@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Get Me To The Church On Time;Lerner Alan;Up Tempo Swing;G",
       "{T44A:G^7   |%   |%   |%   |G^7   |%   |%   |%  @, |A-7   |D7   |A-7   |D7   |A-7   |D7   |G6   |%   ",
@@ -146,7 +146,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al Coda"
+                  "0-D.C. al Coda"
                ]
             }
          ],
@@ -211,7 +211,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -235,7 +235,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -267,6 +267,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Lerner Alan",
-   "key" : "G"
+   "composer" : "Alan Lerner",
+   "key" : null
 }

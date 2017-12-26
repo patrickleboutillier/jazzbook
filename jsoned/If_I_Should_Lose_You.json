@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;If I Should Lose You;Rainger Ralph;Medium Swing;Bb",
       "A:T44G-7   |Ah7 D7b9 |G-7  (Gb7) |F-7 Bb7 |Eb^7   |F-7 Bb7 |Eb^7   |%   ",
@@ -27,7 +27,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -146,7 +146,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -170,7 +170,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -284,7 +284,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -292,6 +292,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Rainger Ralph",
-   "key" : "Bb"
+   "composer" : "Ralph Rainger",
+   "key" : null
 }

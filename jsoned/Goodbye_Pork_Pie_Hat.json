@@ -15,7 +15,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   },
                   {
                      "beats" : 2,
@@ -31,7 +31,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   }
                ]
             },
@@ -79,7 +79,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -87,7 +87,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -131,7 +131,7 @@
                   }
                ],
                "comments" : [
-                  "Take coda 2nd time after solos"
+                  "0-Take coda 2nd time after solos"
                ]
             },
             {
@@ -139,7 +139,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   },
                   {
                      "beats" : 2,
@@ -151,11 +151,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A9#11"
+                     "name" : "A9(#11)"
                   }
                ]
             }
@@ -175,9 +175,6 @@
                      "beats" : 2,
                      "name" : "Ab-7"
                   }
-               ],
-               "comments" : [
-                  "*74 Solos:"
                ]
             },
             {
@@ -194,7 +191,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -218,7 +215,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -245,7 +242,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9#5"
+                     "name" : "F7(#9#5)"
                   }
                ]
             },
@@ -280,12 +277,13 @@
             {
                "repeat_last" : 1,
                "comments" : [
-                  "D.C. al Coda"
+                  "0-D.C. al Coda"
                ]
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "*74 Solos:"
       },
       {
          "bars" : [
@@ -293,11 +291,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   }
                ]
             },
@@ -305,7 +303,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   },
                   {
                      "beats" : 2,

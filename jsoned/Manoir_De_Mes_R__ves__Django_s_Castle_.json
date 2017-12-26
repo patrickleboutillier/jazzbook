@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Manoir De Mes Rêves (Django's Castle);Reinhardt Django;Medium Swing;Eb",
       "{T44Eb^7   |//Bb7b9 |%%   |    |Eb^7   |//Bb7b9 |Eb7   |//Eb7b9 ",
@@ -38,7 +38,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb^7/Bb"
+                           "name" : "Eb^7/B(b)"
                         }
                      ]
                   },
@@ -82,7 +82,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7b9"
+                           "name" : "Bb7(b9)"
                         }
                      ]
                   }
@@ -143,7 +143,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7b9"
+                           "name" : "Bb7(b9)"
                         }
                      ]
                   },
@@ -186,7 +186,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -213,7 +213,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -236,7 +236,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             }
@@ -244,6 +244,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Reinhardt Django",
-   "key" : "Eb"
+   "composer" : "Django Reinhardt",
+   "key" : null
 }

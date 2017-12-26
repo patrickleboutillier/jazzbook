@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Girl Talk;Hefti Neal;Slow Swing;F",
       "T44F^7 B7 |Bb^7 Eb7 |A-7 D7b9 |G-7,A-7,Bb6,C7,|F-7 Bb-7 |G7b9#11 C7 |A-7 D7b9 |A-7,Bb-7,C-7,D7,|G7   |C7 Bb-7 |A-7 D-7 |G-7 C7 "
@@ -41,7 +41,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -81,7 +81,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9#11"
+                     "name" : "G7(b9#11)"
                   },
                   {
                      "beats" : 2,
@@ -97,7 +97,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -167,6 +167,6 @@
          ]
       }
    ],
-   "composer" : "Hefti Neal",
-   "key" : "F"
+   "composer" : "Neal Hefti",
+   "key" : null
 }

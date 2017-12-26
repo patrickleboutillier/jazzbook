@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Bye Bye Baby;Styne Jule;Medium Swing;Bb",
       "A:Bb^7 A7 |Ab9 G7 |C-7   |F7   |Bb^7 Bbo7 |Bb^7 D7#5 |Eb6   |F7/Eb   ",
@@ -69,7 +69,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/Eb"
+                     "name" : "F7/E(b)"
                   }
                ]
             }
@@ -100,7 +100,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7/F#"
+                     "name" : "D7/F(#)"
                   }
                ]
             },
@@ -112,7 +112,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7/Ab"
+                     "name" : "Bb7/A(b)"
                   }
                ]
             },
@@ -120,7 +120,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   },
                   {
                      "beats" : 2,
@@ -150,7 +150,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/Eb"
+                     "name" : "F7/E(b)"
                   }
                ]
             },
@@ -322,7 +322,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/Eb"
+                     "name" : "F7/E(b)"
                   }
                ]
             },
@@ -334,7 +334,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab9#11"
+                     "name" : "Ab9(#11)"
                   }
                ]
             },
@@ -346,7 +346,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -365,7 +365,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F13b9"
+                     "name" : "F13(b9)"
                   }
                ]
             },
@@ -392,6 +392,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Styne Jule",
-   "key" : "Bb"
+   "composer" : "Jule Styne",
+   "key" : null
 }

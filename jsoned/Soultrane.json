@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Soultrane;Dameron Tadd;Ballad;Eb",
       "{A:T44Eb^7   |Gh7 C7b9 |F-7   |Db7   |Ab-7 Db7,Do,|Eb^7 G7,C7,|F7 Bb7 ",
@@ -76,7 +76,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -159,7 +159,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -178,7 +178,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -210,7 +210,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   },
                   {
                      "beats" : 2,
@@ -222,7 +222,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7b5"
+                     "name" : "B7(b5)"
                   },
                   {
                      "beats" : 1,
@@ -254,7 +254,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -324,7 +324,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   }
                ]
             }
@@ -332,6 +332,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Dameron Tadd",
-   "key" : "Eb"
+   "composer" : "Tadd Dameron",
+   "key" : null
 }

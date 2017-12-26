@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Just In Time;Styne Jule;Up Tempo Swing;Bb",
       "A:T44Bb^7   |%   |Ah7   |D7b9   |G7   |%   |C7   |%   |F7   |%   |Bb7   |%   |Eb^7   |%   |Ab^7   |Ah7 D7b9 ",
@@ -30,7 +30,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -99,7 +99,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -118,7 +118,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G-/F#"
+                     "name" : "G-/F(#)"
                   }
                ]
             },
@@ -235,6 +235,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Styne Jule",
-   "key" : "Bb"
+   "composer" : "Jule Styne",
+   "key" : null
 }

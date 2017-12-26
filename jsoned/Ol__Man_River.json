@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Ol' Man River;Kern Jerome;Ballad;Eb",
       "A:T44Eb C-7 |Eb Ab7 |Eb Ab7 |Eb C-7 |F-7 Bb7 |%   ",
@@ -89,7 +89,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -122,7 +122,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   },
                   {
                      "beats" : 1,
@@ -240,6 +240,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Kern Jerome",
-   "key" : "Eb"
+   "composer" : "Jerome Kern",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Onmo;Wheeler Kenny;Medium Up Swing;Db",
       "A:T44Db^7   |%   |Ab^7#11/G   |%   |C-   |%   |A7alt   |Ab^7#11   |F/G   |F#7alt   |B-   |D/A   |G^7#11   |E-   |C^7#11   |Ab7alt   "
@@ -22,7 +22,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11/G"
+                     "name" : "Ab^7(#11/G)"
                   }
                ]
             },
@@ -49,7 +49,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
@@ -84,7 +84,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G^7#11"
+                     "name" : "G^7(#11)"
                   }
                ]
             },
@@ -98,7 +98,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7#11"
+                     "name" : "C^7(#11)"
                   }
                ]
             },
@@ -113,6 +113,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Wheeler Kenny",
-   "key" : "Db"
+   "composer" : "Kenny Wheeler",
+   "key" : null
 }

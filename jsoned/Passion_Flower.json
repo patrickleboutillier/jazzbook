@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Passion Flower;Strayhorn Billy;Ballad;G",
       "{A:T44F#7#11   |%   |%   |%   |E7b13 Eb13 |D9   |G^7   |%   ",
@@ -14,7 +14,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F#7#11"
+                     "name" : "F#7(#11)"
                   }
                ]
             },
@@ -31,7 +31,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7b13"
+                     "name" : "E7(b13)"
                   },
                   {
                      "beats" : 2,
@@ -72,28 +72,28 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -139,7 +139,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#11"
+                     "name" : "F#7(#11)"
                   }
                ]
             },
@@ -156,7 +156,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7b13"
+                     "name" : "E7(b13)"
                   },
                   {
                      "beats" : 2,
@@ -185,6 +185,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Strayhorn Billy",
-   "key" : "G"
+   "composer" : "Billy Strayhorn",
+   "key" : null
 }

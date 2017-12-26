@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;My Shining Hour;Arlen Harold;Medium Swing;C",
       "A:T44C^7   |A-7   |D-7   |G7   |C^7   |A-7   |Bh7   |E7b9   |A-   |%   |Bh7   |E7b9   |A-7   |D7   |D-7   |G7   ",
@@ -62,7 +62,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -86,7 +86,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -256,6 +256,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "C"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

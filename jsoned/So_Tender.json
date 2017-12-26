@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;So Tender;Jarrett Keith;Even 8ths;A",
       "A:T44A^7   |F#-7   |G#-7   |G-7   |F#-7   |B7   |E^7   |C7#5   |F7b9#5   |Bb-7   |Eb7b9   |Ab^7   |Ch7   |F7b9   |Bb^7#5   |Bb^7   ",
@@ -62,14 +62,14 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F7b9#5"
+                     "name" : "F7(b9#5)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -104,14 +104,14 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#5"
+                     "name" : "Bb^7(#5)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -171,7 +171,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   },
                   {
                      "beats" : 2,
@@ -227,7 +227,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -273,6 +273,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Jarrett Keith",
-   "key" : "A"
+   "composer" : "Keith Jarrett",
+   "key" : null
 }

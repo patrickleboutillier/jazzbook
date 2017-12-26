@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Give Me The Simple Life;Bloom Rube;Medium Swing;Eb",
       "{T44A:F-7 Bb7 |G-7 C7 |Dh7 G7b13 |C-7 C-7/Bb |Ah7 Ab-6 |Eb6/G Gbo7 ",
@@ -105,7 +105,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -117,7 +117,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -264,7 +264,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -276,7 +276,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -332,6 +332,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Bloom Rube",
-   "key" : "Eb"
+   "composer" : "Rube Bloom",
+   "key" : null
 }

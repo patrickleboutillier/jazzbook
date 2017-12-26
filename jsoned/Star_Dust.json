@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Star Dust;Carmichael Hoagy;Ballad;Db",
       "v:T44Db^7   |Gb7#11   |F7b9   |Bb7   |Eb-7 Ab7 |F-7 Bb-7 |G-7 C7 |Eb-7 Ab7 |Db^7   |Gb7#11   |F7b9   |Bb7   |Eb-7 Ab7 |F-7 Bb-7 |Eb-7 Ab7 |Db^7 Db7#5 ",
@@ -22,14 +22,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -98,14 +98,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -160,7 +160,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7#5"
+                     "name" : "Db7(#5)"
                   }
                ]
             }
@@ -414,6 +414,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "Db"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;There's No You;Hopper Hal;Ballad;F",
       "{T44A:F^7   |Eb7   |F^7   |Db7   |F^7   |A-7 Abo7 ",
@@ -143,7 +143,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -267,6 +267,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Hopper Hal",
-   "key" : "F"
+   "composer" : "Hal Hopper",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;People;Styne Jule;Ballad;Bb",
       "T44A:Bb^7 G-7 |C-7 F7 |Bb^7 G-7 |C-7 F7b9 |Eb/Bb   |Bb^7   |A-7   |D7   ",
@@ -56,14 +56,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
@@ -106,7 +106,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -256,14 +256,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
@@ -331,7 +331,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -354,7 +354,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/Eb"
+                     "name" : "F7/E(b)"
                   }
                ]
             },
@@ -438,7 +438,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9#11"
+                     "name" : "Ab9(#11)"
                   }
                ]
             },
@@ -484,6 +484,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Styne Jule",
-   "key" : "Bb"
+   "composer" : "Jule Styne",
+   "key" : null
 }

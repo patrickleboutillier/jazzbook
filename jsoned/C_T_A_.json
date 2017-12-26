@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;C.T.A.;Heath Jimmy;Up Tempo Swing;Bb",
       "{A:T44Bb7 Ab7 |Gb7 F7 |Bb7 Ab7 |Gb7 F7 |Bb6 G7 |C-7 F7 ",
@@ -149,7 +149,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -169,7 +169,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -286,6 +286,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Heath Jimmy",
-   "key" : "Bb"
+   "composer" : "Jimmy Heath",
+   "key" : null
 }

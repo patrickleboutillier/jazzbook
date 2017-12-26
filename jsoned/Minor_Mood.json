@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Minor Mood;Brown Clifford;Medium Swing;F-",
       "T44F-7   |Bb-6 C7 |F-7   |Bb7   |Bb-7   |//Eb7 |Gh7 C7#5 |F-7   |//Db7 |//C7 |F-^7   |C7#9b5  @ ",
@@ -74,7 +74,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -128,7 +128,7 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "name" : "C7#9b5"
+                     "name" : "C7(#9b5)"
                   }
                ]
             }
@@ -170,7 +170,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -193,7 +193,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -248,6 +248,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Brown Clifford",
-   "key" : "F-"
+   "composer" : "Clifford Brown",
+   "key" : null
 }

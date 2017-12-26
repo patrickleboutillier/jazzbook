@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;On The Sunny Side Of The Street;McHugh Jimmy;Medium Swing;C",
       "{A:T44C6   |E7   |F^7   |C6/G E7b9/G# |A-7   |D7   ",
@@ -105,7 +105,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9/G#"
+                     "name" : "E7(b9/G#)"
                   }
                ]
             },
@@ -215,7 +215,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9/G#"
+                     "name" : "E7(b9/G#)"
                   }
                ]
             },
@@ -261,6 +261,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "McHugh Jimmy",
-   "key" : "C"
+   "composer" : "Jimmy McHugh",
+   "key" : null
 }

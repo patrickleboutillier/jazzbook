@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Sleepin' Bee, A;Arlen Harold;Medium Swing;Ab",
       "A:T44Ab^7 Eb7sus |Ab^7 Eb7sus |Ab^7 D7 |Db^7 Gb7sus |Ab^7 Db7 |C7 F7 |Bb-7 E7 |Eb7 Db7 ",
@@ -121,7 +121,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -133,7 +133,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b13"
+                     "name" : "F7(b13)"
                   }
                ]
             },
@@ -145,7 +145,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -157,7 +157,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -169,7 +169,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7b13"
+                     "name" : "Ab7(b13)"
                   }
                ]
             },
@@ -326,7 +326,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -338,7 +338,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b13"
+                     "name" : "F7(b13)"
                   }
                ]
             },
@@ -350,7 +350,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -362,7 +362,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -461,6 +461,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "Ab"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

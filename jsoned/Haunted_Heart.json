@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Haunted Heart;Schwartz Arthur;Ballad;Eb",
       "T44A:Eb6 C-7 |F-7 Bb7 |Eb6 C-7 |F-7 Bb7 |Eb6 Ab^7 |G-7 C7b13 |F-7   |Bb7   ",
@@ -80,7 +80,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -146,7 +146,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -247,7 +247,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -287,7 +287,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   }
                ]
             },
@@ -308,7 +308,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   }
                ]
             },
@@ -322,7 +322,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -363,6 +363,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Schwartz Arthur",
-   "key" : "Eb"
+   "composer" : "Arthur Schwartz",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Rock Pop",
+   "style" : null,
    "metadata" : [
       "IREALB;Cantaloupe Island;Hancock Herbie;Rock Pop;F-",
       "T44F-11   |%   |%   |%   |Db7#11   |%   |%   |%   |D-11   |%   |%   |%   |F-11   |%   |%   |%   "
@@ -28,7 +28,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -76,6 +76,6 @@
          ]
       }
    ],
-   "composer" : "Hancock Herbie",
-   "key" : "F-"
+   "composer" : "Herbie Hancock",
+   "key" : null
 }

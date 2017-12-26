@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Quiet Now;Zeitlin Denny;Ballad;C",
       "T44A:A-7 F^7 |E7 A-7 |D-7,G7,C^7 |Bb7#11 A7#5 |Dh7/Ab G7,E7,|A-7 D7#11 |Eb^7 Ab^7 |Db9   ",
@@ -56,11 +56,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -68,7 +68,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Dh7/Ab"
+                     "name" : "Dh7/A(b)"
                   },
                   {
                      "beats" : 1,
@@ -88,7 +88,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -160,11 +160,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7#5"
+                     "name" : "B7(#5)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eh7/Bb"
+                     "name" : "Eh7/B(b)"
                   },
                   {
                      "beats" : 1,
@@ -192,7 +192,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#11"
+                     "name" : "E7(#11)"
                   }
                ]
             },
@@ -224,7 +224,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             }
@@ -368,11 +368,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -380,7 +380,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Dh7/Ab"
+                     "name" : "Dh7/A(b)"
                   },
                   {
                      "beats" : 1,
@@ -400,7 +400,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -475,6 +475,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Zeitlin Denny",
-   "key" : "C"
+   "composer" : "Denny Zeitlin",
+   "key" : null
 }

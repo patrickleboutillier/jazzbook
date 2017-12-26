@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;You Must Believe In Spring;Legrand Michel;Ballad;B-",
       "A:T44C#h7 F#7b9 |F#7b9/B B-7 |E-7 A7 |A7b9/D D^7 |G#h7 C#7b9 |F#h7 B7b9 |E-7 A7 |D^7 C#h,F#7,",
@@ -19,7 +19,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -27,7 +27,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#7b9/B"
+                     "name" : "F#7(b9/B)"
                   },
                   {
                      "beats" : 2,
@@ -51,7 +51,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7b9/D"
+                     "name" : "A7(b9/D)"
                   },
                   {
                      "beats" : 2,
@@ -67,7 +67,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C#7b9"
+                     "name" : "C#7(b9)"
                   }
                ]
             },
@@ -79,7 +79,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -124,7 +124,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -132,7 +132,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#7b9/B"
+                     "name" : "F#7(b9/B)"
                   },
                   {
                      "beats" : 2,
@@ -156,7 +156,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7b9/D"
+                     "name" : "A7(b9/D)"
                   },
                   {
                      "beats" : 2,
@@ -172,7 +172,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C#7b9"
+                     "name" : "C#7(b9)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -229,7 +229,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -237,7 +237,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9/C"
+                     "name" : "G7(b9/C)"
                   },
                   {
                      "beats" : 2,
@@ -261,7 +261,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9/Eb"
+                     "name" : "Bb7(b9/Eb)"
                   },
                   {
                      "beats" : 2,
@@ -277,7 +277,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -289,7 +289,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -313,7 +313,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
@@ -325,7 +325,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -340,6 +340,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Legrand Michel",
-   "key" : "B-"
+   "composer" : "Michel Legrand",
+   "key" : null
 }

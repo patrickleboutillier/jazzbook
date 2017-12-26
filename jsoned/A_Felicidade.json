@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;A Felicidade;Jobim Antonio-Carlos;Bossa Nova;A-",
       "{A:T44A-7(C^7)   |%   |C^7   |%   |E-7   |B7b9   |E-7 <KFJlcGVhdCBPcHRpb25hbCk=>A7 |D-7 G7 ",
@@ -42,7 +42,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -58,7 +58,7 @@
                   }
                ],
                "comments" : [
-                  "(Repeat Optional)"
+                  "0-(Repeat Optional)"
                ]
             },
             {
@@ -99,7 +99,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -170,7 +170,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -275,7 +275,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -325,7 +325,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/F#"
+                     "name" : "D7/F(#)"
                   }
                ]
             },
@@ -351,7 +351,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -369,6 +369,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "A-"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;It's A Dance;Petrucciani Michel;Waltz;C",
       "A:T34Eb^7 |A7#5 |G7#5 |B-7 |E7 |G^7 |A7 |A-7,D7,|G^7 |F#7 |B-7 |E7 |F-7 |Bb7 |Eb^7 |Eb7,D7,",
@@ -21,14 +21,14 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -148,14 +148,14 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -270,7 +270,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -305,7 +305,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/F#"
+                     "name" : "B^7/F(#)"
                   }
                ]
             },
@@ -319,7 +319,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/F#"
+                     "name" : "B^7/F(#)"
                   }
                ]
             },
@@ -333,7 +333,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/F#"
+                     "name" : "B^7/F(#)"
                   }
                ]
             },
@@ -392,6 +392,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Petrucciani Michel",
-   "key" : "C"
+   "composer" : "Michel Petrucciani",
+   "key" : null
 }

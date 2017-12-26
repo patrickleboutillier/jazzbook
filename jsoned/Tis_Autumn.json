@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Tis Autumn;Nemo Henry;Ballad;Eb",
       "{T44A:F-7   |Bb7#5   |Eb^7 F-7 |G-7 C7b9 |F-7 Db7#11 |C-7 F13, |F-7 Bb13, ",
@@ -22,7 +22,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9#5"
+                           "name" : "C7(b9#5)"
                         }
                      ]
                   }
@@ -54,7 +54,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -78,7 +78,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -147,7 +147,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9#5"
+                     "name" : "Eb7(b9#5)"
                   }
                ]
             },
@@ -181,7 +181,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -236,7 +236,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -248,7 +248,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -284,7 +284,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9#5"
+                     "name" : "C7(b9#5)"
                   }
                ]
             }
@@ -292,6 +292,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Nemo Henry",
-   "key" : "Eb"
+   "composer" : "Henry Nemo",
+   "key" : null
 }

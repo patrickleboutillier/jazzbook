@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Gone With The Wind;Wrubel Allie;Medium Swing;Eb",
       "A:T44F-7 Bb7 |Eb^7 C7 |F-7 Bb7 |Eb^7   |A-7 D7 |G6 E7 |A-7 D7 |G^7   |G-   |F#o7   |F-7   |Bb7   |Eb^7 D7#5 |Db7 C7b9 |F-7   |Bb7   ",
@@ -132,7 +132,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -144,7 +144,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -287,7 +287,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -328,6 +328,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Wrubel Allie",
-   "key" : "Eb"
+   "composer" : "Allie Wrubel",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Blame It On My Youth;Levant Oscar;Ballad;Eb",
       "A:T44Eb^7 F-7 |G-7 C-7 |F-7 Eo7 |F-7 C7b13 |F-7 Eo7 |F-7 Bb7 |Eb^7 C-7 |Bb-7 Eb7 ",
@@ -56,7 +56,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -164,7 +164,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -238,7 +238,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -327,7 +327,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Eb"
+                     "name" : "F-7/E(b)"
                   }
                ]
             },
@@ -339,7 +339,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -395,6 +395,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Levant Oscar",
-   "key" : "Eb"
+   "composer" : "Oscar Levant",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Always And Forever;Metheny Pat;Ballad;A-",
       "i:T44A-   |D-6   |A-   |D-6 D-11 ",
@@ -79,7 +79,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "E7/G#"
+                     "name" : "E7/G(#)"
                   }
                ]
             },
@@ -146,7 +146,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E/G#"
+                     "name" : "E/G(#)"
                   }
                ]
             }
@@ -235,7 +235,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b5"
+                     "name" : "D7(b5)"
                   }
                ]
             },
@@ -288,7 +288,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "E7/G#"
+                     "name" : "E7/G(#)"
                   }
                ]
             },
@@ -369,7 +369,7 @@
                   }
                ],
                "comments" : [
-                  "  D.S. al coda"
+                  "0-  D.S. al coda"
                ]
             }
          ],
@@ -421,6 +421,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "A-"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

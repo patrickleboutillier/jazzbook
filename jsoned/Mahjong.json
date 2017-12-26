@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Mahjong;Shorter Wayne;Latin;F-",
       "{i:T44F7sus,   |Eb69,   |F7sus,   |Eb69,   ",
@@ -172,7 +172,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -272,6 +272,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "F-"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

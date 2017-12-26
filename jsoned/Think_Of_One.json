@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Think Of One;Monk Thelonious;Medium Swing;F",
       "{A:T44F B7b5 |D-7 Eb9 |Ab13 Db7 |Gb13   |F B7 |D-7 Eb9 |Ab7 Db7 |Gb7   ",
@@ -19,7 +19,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b5"
+                     "name" : "B7(b5)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -127,21 +127,21 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b5"
+                     "name" : "G7(b5)"
                   }
                ]
             },
@@ -155,7 +155,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9#11"
+                     "name" : "C7(b9#11)"
                   }
                ]
             }
@@ -172,7 +172,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b5"
+                     "name" : "B7(b5)"
                   }
                ]
             },
@@ -215,7 +215,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b5"
+                     "name" : "B7(b5)"
                   }
                ]
             },
@@ -243,7 +243,7 @@
                   }
                ],
                "comments" : [
-                  "Fine"
+                  "0-Fine"
                ]
             },
             {
@@ -257,6 +257,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "F"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

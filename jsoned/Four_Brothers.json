@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Four Brothers;Giuffre Jimmy;Up Tempo Swing;Ab",
       "{A:T44Bb7   |Bb-7 Eb7#5 |Ab^7   |F7   |Bb-7   |C-7 F7 ",
@@ -83,7 +83,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#5"
+                     "name" : "Eb7(#5)"
                   }
                ]
             },
@@ -232,7 +232,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#5"
+                     "name" : "Eb7(#5)"
                   }
                ]
             },
@@ -292,6 +292,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Giuffre Jimmy",
-   "key" : "Ab"
+   "composer" : "Jimmy Giuffre",
+   "key" : null
 }

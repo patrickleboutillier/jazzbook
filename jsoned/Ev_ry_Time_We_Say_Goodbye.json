@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Ev'ry Time We Say Goodbye;Porter Cole;Ballad;Eb",
       "A:T44Eb^7 Eb^7/Bb |Eb^,Eb7,Ab^,Ab-7,|G-7 C7 |F-7 Bb7 |Eb^7 Ab7 |G-7 C-7,B-7,|Bb-7 Eb7 |Ab-7 Db7 |G-7 Gb7 |F-7 Bb7 |Bb-7 Eb7 |Ab^7   |Ab-7 Db7 |G-7 C7 |Gb7#11   |F-7 Bb7 ",
@@ -18,7 +18,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -188,7 +188,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
@@ -217,7 +217,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -397,7 +397,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   }
                ]
             },
@@ -409,7 +409,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   }
                ]
             }
@@ -417,6 +417,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "Eb"
+   "composer" : "Cole Porter",
+   "key" : null
 }

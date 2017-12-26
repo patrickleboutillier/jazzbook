@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Pick Yourself Up;Kern Jerome;Medium Up Swing;F",
       "A:T44G-7 C7 |F^7 Bb^7 |Eh7 A7b9 |D-7 G7 |C7sus C7 |A-7 D7b9 |G-7 C7 |F^7   ",
@@ -44,7 +44,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -80,7 +80,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -140,7 +140,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -176,7 +176,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -299,7 +299,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -335,7 +335,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -362,6 +362,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Kern Jerome",
-   "key" : "F"
+   "composer" : "Jerome Kern",
+   "key" : null
 }

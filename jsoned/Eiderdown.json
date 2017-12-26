@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Eiderdown;Swallow Steve;Medium Swing;G-",
       "{T44A:B7alt   |%   |E-7   |%   |C-7   |%   |G-7   |%   ",
@@ -134,7 +134,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -227,6 +227,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Swallow Steve",
-   "key" : "G-"
+   "composer" : "Steve Swallow",
+   "key" : null
 }

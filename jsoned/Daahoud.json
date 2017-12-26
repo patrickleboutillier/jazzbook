@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Daahoud;Brown Clifford;Up Tempo Swing;Eb",
       "{A:T44Eb-7 Ab7 |Db-7 Gb7 |B^7   |F-7 Bb7 |Eb-7(Ab-7)  (Gb6) |B7(F7) Bb7(E^7) |Eb^7   |%   ",
@@ -235,9 +235,6 @@
                   {
                      "name" : "Gb^7"
                   }
-               ],
-               "comments" : [
-                  "Solos on AABA (alt. changes for head)"
                ]
             },
             {
@@ -272,9 +269,10 @@
                ]
             }
          ],
-         "label" : "@"
+         "label" : "@",
+         "description" : "Solos on AABA (alt. changes for head)"
       }
    ],
-   "composer" : "Brown Clifford",
-   "key" : "Eb"
+   "composer" : "Clifford Brown",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Crystal Silence;Corea Chick;Ballad;A-",
       "{A:T44A-   |E-   |F^7#11   |B-7   |Bb^7  |A-  ",
@@ -44,7 +44,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb^7#11"
+                           "name" : "Bb^7(#11)"
                         }
                      ]
                   }
@@ -63,7 +63,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "E7#9"
+                           "name" : "E7(#9)"
                         }
                      ]
                   },
@@ -77,7 +77,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "E7#9"
+                           "name" : "E7(#9)"
                         }
                      ]
                   },
@@ -128,7 +128,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
@@ -204,7 +204,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b13"
+                     "name" : "B7(b13)"
                   }
                ]
             },
@@ -242,7 +242,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
@@ -335,6 +335,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "A-"
+   "composer" : "Chick Corea",
+   "key" : null
 }

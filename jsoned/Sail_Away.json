@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Sail Away;Harrell Tom;Bossa Nova;C",
       "A:T44E-7 |A7alt |D-11 |G7b9sus |Fo7/C |A-7 |D/F# |G7b9sus |E-7 |Bb-7,Eb9,|D-11 |G7b9sus |Fo7/C |A-7 |F-11 |Bb7b9sus |G-7 |C7b9b5 |F-11 |Bb7b9sus |Abo7/Eb |C-7 |A-11 |D7b9b5 ",
@@ -36,7 +36,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -57,14 +57,14 @@
             {
                "chords" : [
                   {
-                     "name" : "D/F#"
+                     "name" : "D/F(#)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -97,7 +97,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9sus"
+                     "name" : "Bb7(b9sus)"
                   }
                ]
             },
@@ -139,7 +139,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9b5"
+                     "name" : "C7(b9b5)"
                   }
                ]
             },
@@ -153,14 +153,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9sus"
+                     "name" : "Bb7(b9sus)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Abo7/Eb"
+                     "name" : "Abo7/E(b)"
                   }
                ]
             },
@@ -181,7 +181,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9b5"
+                     "name" : "D7(b9b5)"
                   }
                ]
             }
@@ -207,7 +207,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A/C#"
+                     "name" : "A/C(#)"
                   }
                ]
             },
@@ -226,7 +226,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7#5"
+                     "name" : "E^7(#5)"
                   }
                ]
             },
@@ -266,7 +266,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b9b5"
+                     "name" : "Eb7(b9b5)"
                   }
                ]
             },
@@ -319,7 +319,7 @@
                "chords" : [
                   {
                      "beats" : 0.5,
-                     "name" : "Ab^/Bb"
+                     "name" : "Ab^/B(b)"
                   },
                   {
                      "beats" : 0.5,
@@ -356,7 +356,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -384,14 +384,14 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9#5"
+                     "name" : "B7(#9#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Cadd9/Bb"
+                     "name" : "Cadd9/B(b)"
                   }
                ]
             },
@@ -491,7 +491,7 @@
                   },
                   {
                      "beats" : 0.5,
-                     "name" : "D/F#"
+                     "name" : "D/F(#)"
                   }
                ]
             },
@@ -503,7 +503,7 @@
                   },
                   {
                      "beats" : 0.5,
-                     "name" : "E/G#"
+                     "name" : "E/G(#)"
                   }
                ]
             },
@@ -537,6 +537,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Harrell Tom",
-   "key" : "C"
+   "composer" : "Tom Harrell",
+   "key" : null
 }

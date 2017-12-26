@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;It Only Happens When I Dance With You;Berlin Irving;Medium Up Swing;C",
       "{A:T44C^7   |C#o7   |D-7   |G7   |C^7   |C#o7   |Dh7   |G7   |F^7   |F-6   ",
@@ -32,7 +32,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   },
@@ -46,7 +46,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -216,6 +216,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "C"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

@@ -8,9 +8,43 @@ use File::Copy ;
 
 print "<HTML>\n" ;
 
-my @files = glob("jsoned/*.json") ;
-my %complex = map { chomp($_) ; (basename($_, ".parsed") => 1) } 
-	`grep -l -P '([<>@\$]|T[^4]\d)' parsed/*.parsed` ;
+my %tunes = map { basename($_, ".json") => {simple => 1} } glob("jsoned/*.json") ;
+
+my %attrs = (
+	coda => '[@]',
+	segna => '[\$]',
+	comments => '[<>]',
+	oddtime => 'T[^4]\d',
+	NC => 'NC',
+) ;
+
+foreach my $a (keys %attrs){
+	map { delete $tunes{$_}->{simple} ; $tunes{$_}->{complex} = 1 ; $tunes{$_}->{$a} = 1 }
+		map { chomp($_) ; basename($_, ".parsed") } `grep -l -P '$attrs{$a}' parsed/*.parsed` ;
+}
+
+
+foreach my $a (('simple', 'complex'), sort keys %attrs){
+	list($a) ;
+}
+
+
+sub list {
+	my $type = shift ;
+
+
+	my @files = grep { $tunes{$_}->{$type} } keys %tunes ;
+	my $nb = scalar(@files) ;
+	my $title = ucfirst($type) ;
+	print "<H2>$title ($nb tunes)</H2>\n" ;
+	foreach my $f (sort @files){
+		print "<A HREF='jazzbook.html?t=$f'>$f</A>" ;
+		print "<BR>\n" ;
+	}
+}
+
+
+__DATA__
 
 my @basic = () ;
 my @complex = () ;
@@ -27,18 +61,5 @@ foreach my $f (@files){
 list("Basic", @basic) ;
 list("Complex", @complex) ;
 
-
-sub list {
-	my $title = shift ;
-	my @files = @_ ;
-
-	my $nb = scalar(@files) ;
-	print "<H2>$title ($nb tunes)</H2>\n" ;
-	foreach my $f (sort @files){
-		my $base = basename($f, ".json") ;
-		print "<A HREF='jazzbook.html?t=$base'>$base</A>" ;
-		print "<BR>\n" ;
-	}
-}
 
 print "</HTML>\n" ;

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Toy Tune;Shorter Wayne;Medium Swing;F",
       "{A:T44Bb-9,A-9,C-7,B-7,|B-7   |Db/A   |Bb-7 B^7 |Gb^7 E-6 |D^7 G-9 |F^7   ",
@@ -142,7 +142,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9#5"
+                     "name" : "G7(#9#5)"
                   }
                ]
             },
@@ -253,6 +253,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "F"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

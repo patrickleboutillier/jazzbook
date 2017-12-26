@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Ac-Cent-Tchu-Ate The Positive;Arlen Harold;Medium Swing;F",
       "{A:T44F^7 F+ |F6 F^7 |G-7   |C7   |F^7 F+ |F6 F^7 |G-7 C7 |F6 C7 ",
@@ -155,14 +155,14 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -268,6 +268,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "F"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

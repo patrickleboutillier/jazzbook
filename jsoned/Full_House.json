@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Full House;Montgomery Wes;Waltz;F-",
       "{A:T34F-   |Bb7   |F-   |Bb7   |F-   |Bb7   |F-(Db7)   |C7#9   |F-   |Bb7   |F-   |Bb7   |F-   |Bb7   |F-(Db7)  (C7) |% (F-)  ",
@@ -63,7 +63,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -177,7 +177,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9b5"
+                     "name" : "C7(b9b5)"
                   }
                ]
             }
@@ -238,7 +238,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -284,7 +284,7 @@
                   }
                ],
                "comments" : [
-                  "Alternate chords for solos."
+                  "0-Alternate chords for solos."
                ]
             },
             {
@@ -301,6 +301,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Montgomery Wes",
-   "key" : "F-"
+   "composer" : "Wes Montgomery",
+   "key" : null
 }

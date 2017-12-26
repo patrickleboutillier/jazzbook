@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Isn't It A Lovely Day (To Be Caught In The Rain);Berlin Irving;Medium Swing;G",
       "A:C^7   |C-6 D7 |B-7 A-7 |G^7 G7/F |C^7/E   |C-6/Eb D7 |B-7 A-7 |G69   ",
@@ -65,7 +65,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C-6/Eb"
+                     "name" : "C-6/E(b)"
                   },
                   {
                      "beats" : 2,
@@ -145,7 +145,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#5"
+                     "name" : "F#7(#5)"
                   }
                ]
             },
@@ -160,7 +160,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb9#11"
+                     "name" : "Eb9(#11)"
                   },
                   {
                      "beats" : 2,
@@ -227,7 +227,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C-6/Eb"
+                     "name" : "C-6/E(b)"
                   },
                   {
                      "beats" : 2,
@@ -282,7 +282,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C-/Eb"
+                     "name" : "C-/E(b)"
                   }
                ]
             },
@@ -347,6 +347,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "G"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

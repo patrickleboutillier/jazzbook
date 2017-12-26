@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Nightingale Sang In Berkeley Square, A;Sherwin Manning;Ballad;Eb",
       "{A:T44Eb^7 C-7 |G-7 Bb-7,Eb7,|Ab^7 Dh,G7,|C- Ab-6 |Eb^7/Bb F-7 |Eb^7/G Ab-7,Db7,|Eb^7 C-7 |F-7 Bb7 ",
@@ -128,7 +128,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   },
                   {
                      "beats" : 2,
@@ -343,7 +343,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   },
                   {
                      "beats" : 2,
@@ -419,6 +419,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Sherwin Manning",
-   "key" : "Eb"
+   "composer" : "Manning Sherwin",
+   "key" : null
 }

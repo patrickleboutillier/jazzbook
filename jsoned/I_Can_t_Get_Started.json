@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Can't Get Started;Duke Vernon;Ballad;C",
       "{A:T44C^7 A-7 |D-7 G7 |B-7,E7,Bb-7,Eb7,|A-7,D7,Ab-7,Db7,|C^7 A-7 |D-7 G7b9 ",
@@ -143,7 +143,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -312,7 +312,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -356,6 +356,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Duke Vernon",
-   "key" : "C"
+   "composer" : "Vernon Duke",
+   "key" : null
 }

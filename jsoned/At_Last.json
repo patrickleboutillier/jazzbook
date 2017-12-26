@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;At Last;Warren Harry;Medium Swing;C",
       "{A:T44C6 A-7 |D-7 G7b13 |C^7 A-7 |D-7 G7 |E-7 A7 |D-7 G7 ",
@@ -93,7 +93,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -183,7 +183,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -214,7 +214,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -226,7 +226,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -267,7 +267,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -291,7 +291,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -347,6 +347,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Warren Harry",
-   "key" : "C"
+   "composer" : "Harry Warren",
+   "key" : null
 }

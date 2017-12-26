@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Look To The Sky;Jobim Antonio-Carlos;Bossa Nova;Eb",
       "{A:T44Eb^7,   |%   |Eb-7,   |Ab7,   |Eb^7,   |%   |G-7,   |C7b9,   |F-7,   |%   |Ab-7,   |Db7   ",
@@ -56,7 +56,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "E^7#11"
+                           "name" : "E^7(#11)"
                         }
                      ]
                   },
@@ -121,7 +121,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -186,7 +186,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
@@ -205,7 +205,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7b9"
+                     "name" : "Db7(b9)"
                   }
                ]
             },
@@ -219,7 +219,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
@@ -236,6 +236,6 @@
          ]
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "Eb"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

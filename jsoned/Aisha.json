@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Aisha;Tyner McCoy;Ballad;A-",
       "{A:T44A-9   |G-9   |A-9   |F-9   |F-7 Bb7 |G-7 C7 |A-7, D7b9 ",
@@ -126,7 +126,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -144,7 +144,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -159,7 +159,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
@@ -174,7 +174,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#11"
+                     "name" : "E7(#11)"
                   }
                ]
             },
@@ -275,7 +275,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -340,13 +340,13 @@
                   }
                ],
                "comments" : [
-                  "rit....."
+                  "0-rit....."
                ]
             }
          ],
          "label" : "@"
       }
    ],
-   "composer" : "Tyner McCoy",
-   "key" : "A-"
+   "composer" : "McCoy Tyner",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;After You;Porter Cole;Ballad;C",
       "A:T44C^7   |G7b9   |C^7 G7#5 |C^7 E7#5 |A-7   |D7   |D-7   |G7b9   |C^7   |G7b9   |C^7 G7#5 |C^7 E7#5 |A-7   |D7   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -33,7 +33,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#5"
+                     "name" : "E7(#5)"
                   }
                ]
             },
@@ -73,7 +73,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -87,19 +87,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "C^7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -111,7 +99,19 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#5"
+                     "name" : "G7(#5)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7(#5)"
                   }
                ]
             },
@@ -144,7 +144,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -170,7 +170,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -198,14 +198,14 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7b5"
+                     "name" : "D-7(b5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -224,7 +224,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -290,6 +290,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "C"
+   "composer" : "Cole Porter",
+   "key" : null
 }

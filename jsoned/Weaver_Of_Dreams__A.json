@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Weaver Of Dreams, A;Young Victor;Medium Swing;C",
       "A:T44C^7   |%   |Bh7   |E7b9   |A-7   |%   |G-7   |C7   ",
@@ -32,7 +32,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -75,7 +75,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -142,7 +142,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -245,6 +245,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Young Victor",
-   "key" : "C"
+   "composer" : "Victor Young",
+   "key" : null
 }

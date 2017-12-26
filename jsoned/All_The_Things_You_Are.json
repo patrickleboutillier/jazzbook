@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;All The Things You Are;Kern Jerome;Medium Up Swing;Ab",
       "A:T44F-7   |Bb-7   |Eb7   |Ab^7   |Db^7   |D-7 G7 |C^7   |%   ",
@@ -170,7 +170,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             }
@@ -278,7 +278,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -286,6 +286,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Kern Jerome",
-   "key" : "Ab"
+   "composer" : "Jerome Kern",
+   "key" : null
 }

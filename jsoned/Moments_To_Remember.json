@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Moments To Remember;Allen Robert;Ballad;G",
       "{A:T44G^7 G6 |%   |G G7#5 |C A- |D7   |%   ",
@@ -87,7 +87,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -218,7 +218,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -263,6 +263,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Allen Robert",
-   "key" : "G"
+   "composer" : "Robert Allen",
+   "key" : null
 }

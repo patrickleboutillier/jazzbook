@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Blue Skies;Berlin Irving;Medium Up Swing;C",
       "{A:T44A-   |A-^7/G#   |A-7/G   |A-6/F#   ",
@@ -53,7 +53,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "E7b9"
+                           "name" : "E7(b9)"
                         }
                      ]
                   }
@@ -112,7 +112,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-^7/G#"
+                     "name" : "A-^7/G(#)"
                   }
                ]
             },
@@ -126,7 +126,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-6/F#"
+                     "name" : "A-6/F(#)"
                   }
                ]
             }
@@ -218,7 +218,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -237,7 +237,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-^7/G#"
+                     "name" : "A-^7/G(#)"
                   }
                ]
             },
@@ -251,7 +251,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-6/F#"
+                     "name" : "A-6/F(#)"
                   }
                ]
             },
@@ -294,7 +294,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -302,6 +302,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "C"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Tones For Joan's Bones;Corea Chick;Medium Swing;D",
       "T44i:<IEludHJvIHBsYXllZCBoYWxmIHRpbWU=>E-7   |%   |Eh7   |//Eb7 ",
@@ -17,9 +17,6 @@
                   {
                      "name" : "E-7"
                   }
-               ],
-               "comments" : [
-                  " Intro played half time"
                ]
             },
             {
@@ -49,7 +46,8 @@
                ]
             }
          ],
-         "label" : "i"
+         "label" : "i",
+         "description" : " Intro played half time"
       },
       {
          "bars" : [
@@ -58,9 +56,6 @@
                   {
                      "name" : "D^7"
                   }
-               ],
-               "comments" : [
-                  "Med. swing"
                ]
             },
             {
@@ -69,7 +64,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/D"
+                     "name" : "Bb^7(#11/D)"
                   }
                ]
             },
@@ -79,7 +74,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9/D"
+                     "name" : "F7(b9/D)"
                   }
                ]
             },
@@ -95,7 +90,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -136,7 +131,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
@@ -153,26 +148,27 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab-7/Gb"
+                     "name" : "Ab-7/G(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9/F"
+                     "name" : "Bb7(b9/F)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             }
          ],
-         "label" : "A"
+         "label" : "A",
+         "description" : "Med. swing"
       },
       {
          "bars" : [
@@ -237,7 +233,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -259,7 +255,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/D"
+                     "name" : "Bb^7(#11/D)"
                   }
                ]
             },
@@ -269,7 +265,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9/D"
+                     "name" : "F7(b9/D)"
                   }
                ]
             },
@@ -285,7 +281,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -400,14 +396,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
@@ -418,6 +414,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "D"
+   "composer" : "Chick Corea",
+   "key" : null
 }

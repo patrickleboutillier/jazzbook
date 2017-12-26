@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;This Time The Dream's On Me;Arlen Harold;Medium Up Swing;G",
       "{A:T44G^7 F9 |E7   |A-7   |C-6 D7 |F9 E7 |A-7 D7 ",
@@ -208,7 +208,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D13b9"
+                     "name" : "D13(b9)"
                   }
                ]
             }
@@ -299,7 +299,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D13b9"
+                     "name" : "D13(b9)"
                   }
                ]
             }
@@ -307,6 +307,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "G"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

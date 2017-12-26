@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;In Love In Vain;Leo Robin Jerome Kern;Medium Swing;Bb",
       "T44Bb^7 G7, |C-7 F7 |D-7 G7 |C-7 F7 |Bb^7   |C-7   |D-7   |G7   |C-7 C-7/Bb |Ah7 D7b9 |G-7   |G7b9   |C9   |C9   |C-7   |F7   |E-7 Eb-7 |D-7 G7 |C-7   |F7   |Bb^7   |C-7   |D-7   |G7   |Eb^7   |Eb-7   |D-7   |G7   |C-7   |F7   |Bb^7   |C-7 F7 "
@@ -93,7 +93,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -105,7 +105,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -119,7 +119,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -281,6 +281,6 @@
          ]
       }
    ],
-   "composer" : "Leo Robin Jerome Kern",
-   "key" : "Bb"
+   "composer" : "Kern Leo Robin Jerome",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Ghost Of A Chance, A;Young Victor;Ballad;C",
       "{A:T44C^7   |Db7#11   |G-7 C7 |F-7 Bb7 |E-7 Ebo7 |D-7 G7 ",
@@ -58,7 +58,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   }
@@ -78,7 +78,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -146,7 +146,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -208,7 +208,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             }
@@ -227,7 +227,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -307,6 +307,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Young Victor",
-   "key" : "C"
+   "composer" : "Victor Young",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Up Jumped Spring;Hubbard Freddie;Waltz;Bb",
       "{A:T34Bb^7   |G7#5   |C-7   |F7 F#o7 |G-7   |F-7   |Eh7   |A7b9   |D-7   |Eb-7   |D-7   |Eb-7   ",
@@ -17,7 +17,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "B7#11"
+                           "name" : "B7(#11)"
                         }
                      ]
                   },
@@ -129,7 +129,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -176,7 +176,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -263,7 +263,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd ending"
+                  "0-D.C. al 3rd ending"
                ]
             },
             {
@@ -277,6 +277,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Hubbard Freddie",
-   "key" : "Bb"
+   "composer" : "Freddie Hubbard",
+   "key" : null
 }

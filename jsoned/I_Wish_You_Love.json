@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I Wish You Love;Trenet Charles;Medium Swing;Eb",
       "{v:T44Eb- Eb-^7 |Eb-7 Eb-6 |Fh7   |Bb7b13   ",
@@ -51,7 +51,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb7b9"
+                           "name" : "Bb7(b9)"
                         }
                      ]
                   }
@@ -133,7 +133,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             }
@@ -417,6 +417,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Trenet Charles",
-   "key" : "Eb"
+   "composer" : "Charles Trenet",
+   "key" : null
 }

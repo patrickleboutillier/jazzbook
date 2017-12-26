@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Willow Weep For Me;Ronell Ann;Slow Swing;G",
       "{A:T44G^7 C7 |G^7 C7 |G^7 A-7,D7,|G6,A-7,Bbo,B-7,|C7   |Ah7 D7b13 ",
@@ -143,7 +143,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   }
                ]
             }
@@ -168,7 +168,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -192,7 +192,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -211,7 +211,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -323,7 +323,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   }
                ]
             },
@@ -355,6 +355,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ronell Ann",
-   "key" : "G"
+   "composer" : "Ann Ronell",
+   "key" : null
 }

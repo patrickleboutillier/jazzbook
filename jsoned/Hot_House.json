@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Hot House;Dameron Tadd;Up Tempo Swing;C",
       "{A:T44Gh7   |C7b9   |F-^7   |%   |Dh7   |G7b9   |C^7   |%   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -75,7 +75,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -92,7 +92,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -102,7 +102,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -124,7 +124,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -148,7 +148,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -166,6 +166,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Dameron Tadd",
-   "key" : "C"
+   "composer" : "Tadd Dameron",
+   "key" : null
 }

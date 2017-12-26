@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Nicolette;Wheeler Kenny;Waltz;Bb",
       "{A:T34E-9   |Bb7#9#5   |Eb-9   |Bb^7#11/A   |G^7#11/F#   |Go7, A#o7, |B-11   |E7#9#11   ",
@@ -22,7 +22,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -36,14 +36,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/A"
+                     "name" : "Bb^7(#11/A)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G^7#11/F#"
+                     "name" : "G^7(#11/F#)"
                   }
                ]
             },
@@ -69,7 +69,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9#11"
+                     "name" : "E7(#9#11)"
                   }
                ]
             }
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C#7#9#5"
+                     "name" : "C#7(#9#5)"
                   }
                ]
             },
@@ -127,7 +127,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A^7#11/G#"
+                     "name" : "A^7(#11/G#)"
                   }
                ]
             },
@@ -135,11 +135,11 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "C#^7#11"
+                     "name" : "C#^7(#11)"
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "F#^7#11"
+                     "name" : "F#^7(#11)"
                   }
                ]
             },
@@ -147,11 +147,11 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "B^7#11"
+                     "name" : "B^7(#11)"
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "D^7#11/E"
+                     "name" : "D^7(#11/E)"
                   }
                ]
             }
@@ -170,7 +170,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -184,14 +184,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/A"
+                     "name" : "Bb^7(#11/A)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G^7#11/F#"
+                     "name" : "G^7(#11/F#)"
                   }
                ]
             },
@@ -218,11 +218,11 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "E7b9#11"
+                     "name" : "E7(b9#11)"
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "E13#11"
+                     "name" : "E13(#11)"
                   }
                ]
             },
@@ -236,7 +236,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/A"
+                     "name" : "Bb^7(#11/A)"
                   }
                ]
             }
@@ -249,11 +249,11 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
@@ -273,6 +273,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Wheeler Kenny",
-   "key" : "Bb"
+   "composer" : "Kenny Wheeler",
+   "key" : null
 }

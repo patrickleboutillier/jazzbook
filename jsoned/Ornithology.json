@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Ornithology;Parker Charlie;Up Tempo Swing;G",
       "A:T44G^7   |%   |G-7   |C7   |F^7   |%   |F-7   |Bb7   ",
@@ -80,7 +80,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -99,7 +99,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -204,7 +204,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -274,6 +274,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "G"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

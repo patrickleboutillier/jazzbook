@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Funk In Deep Freeze;Mobley Hank;Medium Swing;Ab",
       "A:F-7   |Db7   |Gh7 C7alt |F-7 B7 |Bb7 Eb7 |Ab7 Db7 ",
@@ -89,7 +89,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -221,6 +221,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Mobley Hank",
-   "key" : "Ab"
+   "composer" : "Hank Mobley",
+   "key" : null
 }

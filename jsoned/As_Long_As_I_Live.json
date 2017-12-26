@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;As Long As I Live;Arlen Harold;Medium Swing;F",
       "A:T44F^7   |Eh7 A7b9, |D7   |A-7 D7 |G7   |G-7 C7 ",
@@ -28,7 +28,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -170,7 +170,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -235,6 +235,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "F"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

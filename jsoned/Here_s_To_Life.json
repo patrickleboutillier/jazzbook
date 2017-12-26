@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Here's To Life;Butler Artie;Ballad;Eb-",
       "A:Eb- Eb-7 |Ab7sus Ab9 |Db^7   |Gb^9   |Ch7   |F7b9#5   ",
@@ -61,7 +61,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9#5"
+                     "name" : "F7(b9#5)"
                   }
                ]
             }
@@ -80,7 +80,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ch7/Gb"
+                     "name" : "Ch7/G(b)"
                   }
                ]
             },
@@ -94,7 +94,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7/Ab"
+                     "name" : "Bb7/A(b)"
                   }
                ]
             },
@@ -108,7 +108,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ch7/Gb"
+                     "name" : "Ch7/G(b)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9/Gb"
+                     "name" : "Ab9/G(b)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/Ab"
+                     "name" : "Bb-7/A(b)"
                   }
                ]
             }
@@ -203,7 +203,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9/Gb"
+                     "name" : "Ab9/G(b)"
                   }
                ]
             },
@@ -222,7 +222,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b5"
+                     "name" : "G7(b5)"
                   }
                ]
             },
@@ -236,7 +236,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9/Gb"
+                     "name" : "Ab9/G(b)"
                   }
                ]
             },
@@ -285,6 +285,6 @@
          ]
       }
    ],
-   "composer" : "Butler Artie",
-   "key" : "Eb-"
+   "composer" : "Artie Butler",
+   "key" : null
 }

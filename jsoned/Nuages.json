@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Nuages;Reinhardt Django;Slow Swing;G",
       "A:T44Bb-6   |D7/A   |G6   |%   |Bb-6   |D7/A   |G6 D7/A |G6/B   |B7/F#   |B7   |E-6   |%   |A7 Ab7 |A7   |D7   |%   ",
@@ -70,7 +70,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7/F#"
+                     "name" : "B7/F(#)"
                   }
                ]
             },
@@ -230,6 +230,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Reinhardt Django",
-   "key" : "G"
+   "composer" : "Django Reinhardt",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;I'll Take Romance;Oakland Ben;Waltz;F",
       "{A:T34F6   |D-7   |G-7   |C7 C7/Bb, |A-7   |Ab7   |Db^7   |Gb7   |A7alt,   |D7b9,   |G-7   |C7   ",
@@ -135,7 +135,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "C7/Bb"
+                     "name" : "C7/B(b)"
                   }
                ]
             },
@@ -177,7 +177,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -306,7 +306,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd ending"
+                  "0-D.C. al 3rd ending"
                ]
             },
             {
@@ -320,6 +320,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Oakland Ben",
-   "key" : "F"
+   "composer" : "Ben Oakland",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Jackie-ing;Monk Thelonious;Medium Swing;Bb",
       "T44Bb^7#11   |%   |%%   |    |Bb^7#11   |%   |C-11 F9sus |F9sus   |Bb^7#11   |%   |G7b9   |F7/C(C-7) C7/F(F7) |Bb^7#11   |%   |%%   |    "
@@ -12,7 +12,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -26,7 +26,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -55,7 +55,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -65,7 +65,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -84,7 +84,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -98,6 +98,6 @@
          ]
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Bb"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

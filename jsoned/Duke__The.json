@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Duke, The;Brubeck Dave;Medium Swing;C",
       "{A:T44C^7 F^7 |E-7,A-7,B7 |E-7 A-7 |D-7 F-7,Bb7|Eb^7 Db^7 |C-7 B-7 |Bb-7,Eb7,Ab^7 |D7,Db7,C^7 ",
@@ -169,7 +169,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -241,7 +241,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             }
@@ -366,6 +366,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Brubeck Dave",
-   "key" : "C"
+   "composer" : "Dave Brubeck",
+   "key" : null
 }

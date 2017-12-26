@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Ecaroh;Silver Horace;Medium Swing;Db",
       "{i:Bb7#9#5 Eb7#9 |%   |%   |%   |B7#9#5 E7#9 |%   |%   |%   |A^7   |%   |D7#11   |%   |Db^7   |D-7 G7#9#5 |C^7   |C-7 F7#9#5 |F#7#9 G7#9 |E7#9 F7#9 |D7,Eb7,C7,Db7,|Bb7#9   |Bb7#9 B7#9 |Ab7#9 A7#9 |F#7,G7,E7,F7,|D7#9   ",
@@ -16,11 +16,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
@@ -37,11 +37,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#9#5"
+                     "name" : "B7(#9#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -67,7 +67,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -89,7 +89,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9#5"
+                     "name" : "G7(#9#5)"
                   }
                ]
             },
@@ -108,7 +108,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9#5"
+                     "name" : "F7(#9#5)"
                   }
                ]
             },
@@ -116,11 +116,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#7#9"
+                     "name" : "F#7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -128,11 +128,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -159,7 +159,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9"
+                     "name" : "Bb7(#9)"
                   }
                ]
             },
@@ -167,11 +167,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7#9"
+                     "name" : "Bb7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -179,11 +179,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7#9"
+                     "name" : "Ab7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#9"
+                     "name" : "A7(#9)"
                   }
                ]
             },
@@ -210,7 +210,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             }
@@ -289,7 +289,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7#9#5"
+                           "name" : "Bb7(#9#5)"
                         }
                      ]
                   },
@@ -301,7 +301,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Ab7#9#5"
+                           "name" : "Ab7(#9#5)"
                         }
                      ]
                   },
@@ -312,7 +312,7 @@
                         }
                      ],
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -331,7 +331,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
@@ -345,7 +345,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             }
@@ -365,7 +365,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#9"
+                     "name" : "Db7(#9)"
                   }
                ]
             },
@@ -377,7 +377,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b5"
+                     "name" : "A7(b5)"
                   }
                ]
             },
@@ -385,7 +385,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7b5"
+                     "name" : "Bb7(b5)"
                   },
                   {
                      "beats" : 2,
@@ -403,7 +403,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -414,7 +414,7 @@
                   }
                ],
                "comments" : [
-                  "D.S. al 2nd End."
+                  "0-D.S. al 2nd End."
                ]
             },
             {
@@ -428,6 +428,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Db"
+   "composer" : "Horace Silver",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;So In Love;Porter Cole;Up Tempo Swing;F-",
       "{A:T44F- |% |Gh7 |C7b9 |F- |% |Bb-7 |% |Eb7 |% ",
@@ -38,7 +38,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   },
@@ -52,7 +52,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -118,7 +118,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F7b9"
+                           "name" : "F7(b9)"
                         }
                      ]
                   },
@@ -146,7 +146,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F7b9"
+                           "name" : "F7(b9)"
                         }
                      ]
                   },
@@ -174,7 +174,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb7b9"
+                           "name" : "Eb7(b9)"
                         }
                      ]
                   },
@@ -198,7 +198,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -228,7 +228,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -326,7 +326,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -345,7 +345,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -357,7 +357,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Eb"
+                     "name" : "F-7/E(b)"
                   }
                ]
             },
@@ -369,7 +369,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -380,13 +380,13 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd ending"
+                  "0-D.C. al 3rd ending"
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -394,6 +394,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "F-"
+   "composer" : "Cole Porter",
+   "key" : null
 }

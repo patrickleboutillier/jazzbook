@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Say the Brother's Name;Metheny Pat;Even 8ths;Bb",
       "A:T44Bb^7,   |%   |A-7   |Eb^7#11   |D- D-/C |Bb^7 F/A |Ab^7   |Ab^7 Ab7, ",
@@ -32,7 +32,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
@@ -101,14 +101,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb/Bb"
+                     "name" : "Gb/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F-/Ab"
+                     "name" : "F-/A(b)"
                   }
                ]
             },
@@ -120,7 +120,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             },
@@ -140,7 +140,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D^7#11"
+                     "name" : "D^7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -156,7 +156,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G^7#11"
+                     "name" : "G^7(#11)"
                   }
                ]
             }
@@ -215,7 +215,7 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "D/F#"
+                     "name" : "D/F(#)"
                   },
                   {
                      "beats" : 4,
@@ -259,7 +259,7 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -267,7 +267,7 @@
                "chords" : [
                   {
                      "beats" : 4,
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   },
                   {
                      "beats" : 4,
@@ -293,7 +293,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
@@ -350,6 +350,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "Bb"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

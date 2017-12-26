@@ -28,6 +28,9 @@ while (<>){
 	if ($line =~ /^IREALB;(.*?);(.*?);(.*?);(.*?)$/){
 		$tune->{title} = $1 ;
 		$tune->{composer} = $2 ;
+		if ($tune->{composer} =~ /^([^s]+)\s([^\s]+)$/){
+			$tune->{composer} = "$2 $1" ;
+		}
 		$tune->{style} = $3 ;
 		$tune->{key} = $4 ;
 	}
@@ -92,11 +95,6 @@ sub parse_bar {
 
 	my @cs = () ;
 
-	# Remove empty bars
-	# return () if $b =~ /^\s*$/ ;
-
-	my $coda = ($b =~ s/(.)@/$1/) ;
-
 	my $bar = {} ;
 	my @comments = () ;
 
@@ -127,9 +125,13 @@ sub parse_bar {
 		elsif ($b =~ s/^\$//){
 			$bar->{segno} = 1 ;
 		}
-		elsif ($b =~ s/\<(.*?)\>//){
-			# TODO: if first bar of section, use comment as section description.
-			push @comments, $1 ;
+		elsif ($b =~ s/^\<(.*?)\>//){
+			if (($n == 0)&&($len == 0)){
+				$section->{description} = comment($1) if $1 ;
+			}
+			else {
+				push @comments, { pos => $len, txt => $1 } ;
+			}
 		}
 		elsif ($b =~ s/^,//){
 		}
@@ -155,7 +157,7 @@ sub parse_bar {
 		elsif ($b =~ s/^([_A-G][\/\#\^\-\+\w]*)//){
 			my $chord = $1 ;
 			$len++ ; 
-			$last_chord = { name => $chord, units => 1 } ;
+			$last_chord = { name => fix_chord($chord), units => 1 } ;
 			push @cs, $last_chord ;
 		}
 		elsif ($b =~ s/^\((.*?)\)//){
@@ -200,18 +202,44 @@ sub parse_bar {
 	}
 	
 	foreach my $c (@comments){
-		if ($c){
-			$c = decode_base64($c) ;
-			$c =~ s/"/\\"/g ;
-			push @{$bar->{comments}}, $c ;
-		}
+		push @{$bar->{comments}}, comment($c->{txt}, $c->{pos}) if $c->{txt} ;
 	}
-
-	$bar->{coda} = 1 if ($coda) ;
 
 	$bar->{chords} = \@cs if (scalar(@cs)) ;
 	
 	return $bar ;
+}
+
+
+sub fix_chord {
+	my $c = shift ;
+
+	if ($c =~ /^([_A-G](b|#)?)(.*)$/){
+		my $r = $1 ;
+		my $q = $3 ;
+
+		$r =~ s/_/ /g ;
+
+		#$q =~ s/[\^]/maj/g ;
+		#$q =~ s/[-]/m/g ;
+		#$q =~ s/h7/m7b5/g ;
+		$q =~ s/(b|#)(.*)$/\(\1\2\)/g ;
+
+		$c = "$r$q" ;
+	}
+
+	return $c ;	
+}
+
+
+sub comment {
+	my $c = shift ;
+	my $pos = shift ;
+
+	$c = decode_base64($c) ;
+	$c =~ s/"/\\"/g ;
+
+	return (defined($pos) ? "$pos-" : "") . $c ;
 }
 
 

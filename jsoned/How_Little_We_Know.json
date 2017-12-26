@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;How Little We Know;Carmichael Hoagy;Medium Swing;Ab",
       "{A:T44Ab^7 Db^7 |C-7 Bb-7 |Ab^7 Db^7 |Ab^7 Ao7 |Bb-7 E13 |Eb7 B9 |Bb-7 E7 ",
@@ -36,7 +36,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Eb7/Db"
+                           "name" : "Eb7/D(b)"
                         }
                      ]
                   }
@@ -53,7 +53,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Eb7/Db"
+                           "name" : "Eb7/D(b)"
                         }
                      ]
                   }
@@ -280,7 +280,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-b6"
+                     "name" : "F-(b6)"
                   }
                ]
             },
@@ -303,7 +303,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd End."
+                  "0-D.C. al 3rd End."
                ]
             },
             {
@@ -370,7 +370,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E9#11"
+                     "name" : "E9(#11)"
                   },
                   {
                      "beats" : 2,
@@ -386,7 +386,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -437,6 +437,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "Ab"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Flower Is A Lovesome Thing, A;Strayhorn Billy;Ballad;Db",
       "{A:T44B7#11   |%   |%   |%   |Bb7b13 Eb7 |Ab7b13 Db7 |D^7 Eb7,D^,|Db6   ",
@@ -14,7 +14,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -31,7 +31,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   },
                   {
                      "beats" : 2,
@@ -43,7 +43,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7b13"
+                     "name" : "Ab7(b13)"
                   },
                   {
                      "beats" : 2,
@@ -88,7 +88,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
@@ -107,7 +107,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -126,7 +126,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C#7#5"
+                     "name" : "C#7(#5)"
                   }
                ]
             },
@@ -141,11 +141,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -157,7 +157,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             }
@@ -169,7 +169,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -186,7 +186,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   },
                   {
                      "beats" : 2,
@@ -198,7 +198,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7b13"
+                     "name" : "Ab7(b13)"
                   },
                   {
                      "beats" : 2,
@@ -233,6 +233,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Strayhorn Billy",
-   "key" : "Db"
+   "composer" : "Billy Strayhorn",
+   "key" : null
 }

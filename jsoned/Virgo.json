@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Virgo;Shorter Wayne;Ballad;F",
       "A:T44F^7   |Bb-7 Eb7 |Dh7 Bb13 |A^7   |A-7   |F-7 Bb7 |Eh7 Eb13 |D^7   ",
@@ -255,7 +255,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7#5"
+                     "name" : "Db7(#5)"
                   }
                ]
             },
@@ -282,11 +282,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#5"
+                     "name" : "E7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -313,6 +313,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "F"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

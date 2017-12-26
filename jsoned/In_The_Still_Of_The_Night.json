@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;In The Still Of The Night;Porter Cole;Up Tempo Swing;F",
       "A:T44F^7 |% |Bb7 |% |F^7 |% |Bb7 |% |G-7 |% |C7 |% |F^7 |% |G-7 |C7 |F^7 |% |Bb7 |% |F^7 |% |Bb7 |E7b9 |A- |% |Bh7 |E7b9 |A- |% |C7 |% ",
@@ -134,7 +134,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -158,7 +158,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -237,7 +237,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#5"
+                     "name" : "F^7(#5)"
                   }
                ]
             },
@@ -395,6 +395,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "F"
+   "composer" : "Cole Porter",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Contemplation;Tyner McCoy;Waltz;C-",
       "T34C-7   |%   |%   |%   |C-7   |%   |%   |%   |Ab^7#11   |%   |%   |%   |G7b9   |%   |%   |%   "
@@ -44,7 +44,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
@@ -60,7 +60,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -76,6 +76,6 @@
          ]
       }
    ],
-   "composer" : "Tyner McCoy",
-   "key" : "C-"
+   "composer" : "McCoy Tyner",
+   "key" : null
 }

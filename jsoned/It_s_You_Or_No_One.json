@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;It's You Or No One;Styne Jule;Up Tempo Swing;F",
       "A:T44G-7   |C7   |F^7 Bb7 |A-7 D7 |G-7   |C7   |F^7   |%   ",
@@ -208,7 +208,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -297,6 +297,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Styne Jule",
-   "key" : "F"
+   "composer" : "Jule Styne",
+   "key" : null
 }

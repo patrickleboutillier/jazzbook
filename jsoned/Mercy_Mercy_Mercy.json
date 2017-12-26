@@ -1,5 +1,5 @@
 {
-   "style" : "Funk",
+   "style" : null,
    "metadata" : [
       "IREALB;Mercy Mercy Mercy;Zawinul Joe;Funk;Bb",
       "A:T44Bb7   |Eb7   |Bb7   |Eb7   |Bb7   |Eb7   |Bb7   |Eb7   ",
@@ -79,7 +79,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
@@ -91,7 +91,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
@@ -103,7 +103,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
@@ -115,7 +115,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
@@ -210,6 +210,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Zawinul Joe",
-   "key" : "Bb"
+   "composer" : "Joe Zawinul",
+   "key" : null
 }

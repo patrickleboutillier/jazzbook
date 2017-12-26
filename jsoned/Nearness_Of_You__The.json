@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Nearness Of You, The;Carmichael Hoagy;Ballad;F",
       "{A:T44F^7   |C-7 F7 |Bb^7   |Bbo7(Bh7)  (E7b9) |A-7 D7 |G-7 C7 ",
@@ -77,7 +77,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   },
@@ -236,7 +236,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -247,7 +247,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd ending"
+                  "0-D.C. al 3rd ending"
                ]
             },
             {
@@ -266,6 +266,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "F"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

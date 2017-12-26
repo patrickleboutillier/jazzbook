@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Ping Pong;Shorter Wayne;Medium Up Swing;C",
       "{i:T44Bb13   |B13   |Bb13   |B13   ",
@@ -116,7 +116,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -170,7 +170,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9#5"
+                     "name" : "D7(b9#5)"
                   }
                ]
             },
@@ -225,7 +225,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             },
@@ -261,6 +261,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "C"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

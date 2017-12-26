@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Only Trust Your Heart;Carter Benny;Bossa Nova;C",
       "{A:T44F^7#11,   |B7#9,   |E-7   |A-7   |D-7   |G7 G7#5, ",
@@ -54,7 +54,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Gb7#11"
+                           "name" : "Gb7(#11)"
                         }
                      ]
                   }
@@ -67,14 +67,14 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -107,7 +107,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             }
@@ -155,7 +155,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b13"
+                     "name" : "E7(b13)"
                   }
                ]
             },
@@ -191,14 +191,14 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -231,14 +231,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -288,14 +288,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -307,7 +307,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -334,6 +334,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Carter Benny",
-   "key" : "C"
+   "composer" : "Benny Carter",
+   "key" : null
 }

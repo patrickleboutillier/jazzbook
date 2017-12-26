@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Gravy Waltz, The;Brown Ray;Waltz;C",
       "{A:T34C   |F   |C/G,  E7/G#,|A-7   |F#-7,  F-,|Eh,A7,  |D7,  G7,|C   ",
@@ -33,7 +33,7 @@
                   },
                   {
                      "beats" : 1.33333333333333,
-                     "name" : "E7/G#"
+                     "name" : "E7/G(#)"
                   }
                ]
             },
@@ -176,7 +176,7 @@
                   },
                   {
                      "beats" : 1.33333333333333,
-                     "name" : "E7/G#"
+                     "name" : "E7/G(#)"
                   }
                ]
             },
@@ -234,6 +234,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Brown Ray",
-   "key" : "C"
+   "composer" : "Ray Brown",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Make Someone Happy;Styne Jule;Slow Swing;Eb",
       "{T44Eb Eb+ |Eb6   |Eb Eb+ |Eb6   |Bb-7   |Eb7   |Bb-7   |Eb7   |Ab Ab+ |Ab6   |Ab-7(Fh7)   |Db7(Bb7)   ",
@@ -65,7 +65,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7#5"
+                           "name" : "D7(#5)"
                         }
                      ]
                   },
@@ -263,6 +263,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Styne Jule",
-   "key" : "Eb"
+   "composer" : "Jule Styne",
+   "key" : null
 }

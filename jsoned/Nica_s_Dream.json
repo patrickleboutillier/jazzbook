@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Nica's Dream;Silver Horace;Latin;Bb-",
       "{A:T44Bb-^7   |%   |Ab-^7   |%   |Bb-^7   |%   |Ab-7   |Db7   |Ab-7   |Db7   |Gb^7   |C7#9#5   |F7#5   |%   |Bb-^7   |%  @ ",
@@ -79,14 +79,14 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -130,7 +130,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -187,7 +187,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al Coda"
+                  "0-D.C. al Coda"
                ]
             },
             {
@@ -223,7 +223,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -256,14 +256,14 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -293,6 +293,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Bb-"
+   "composer" : "Horace Silver",
+   "key" : null
 }

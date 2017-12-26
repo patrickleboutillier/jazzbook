@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Dolores;Shorter Wayne;Up Tempo Swing;Db",
       "{A:T44D-7   |F-7 Bb7 |Eb^7   |A-7 D7 |G-7   |Ah7 D7#9 |Db^7   |%   ",
@@ -64,7 +64,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -221,6 +221,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "Db"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

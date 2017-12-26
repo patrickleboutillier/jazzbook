@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Iris;Shorter Wayne;Waltz;F-",
       "T34F-11   |%   |E^7#11   |Gb^7#11   |Bb7#5   |Db7#11   |Ab^7#5   |%   |C-7   |%   |Db7#11   |C-7   |Db7#11   |Db-b6   |Db7#11   |%   "
@@ -22,35 +22,35 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#5"
+                     "name" : "Ab^7(#5)"
                   }
                ]
             },
@@ -70,7 +70,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -84,21 +84,21 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db-b6"
+                     "name" : "Db-(b6)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -108,6 +108,6 @@
          ]
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "F-"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

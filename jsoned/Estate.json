@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Estate;Martino Bruno;Bossa Nova;B-",
       "{A:T44B-7   |%   |E-7   |F#7b9   |B-7   |%   |E-7   |A7   |D7sus   |D7   |G^7   |%   |F#7   |F#7#5 <RmluZQ==>  ",
@@ -30,7 +30,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -92,11 +92,11 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#5"
+                     "name" : "F#7(#5)"
                   }
                ],
                "comments" : [
-                  "Fine"
+                  "0-Fine"
                ]
             }
          ],
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -139,7 +139,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -188,13 +188,13 @@
                   }
                ],
                "comments" : [
-                  "D.C. al Fine"
+                  "0-D.C. al Fine"
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F#7#5"
+                     "name" : "F#7(#5)"
                   }
                ]
             }
@@ -202,6 +202,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Martino Bruno",
-   "key" : "B-"
+   "composer" : "Bruno Martino",
+   "key" : null
 }

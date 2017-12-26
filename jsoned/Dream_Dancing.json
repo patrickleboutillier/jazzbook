@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Dream Dancing;Porter Cole;Medium Swing;C",
       "{A:T44E7#5   |%   |A^7   |Eb7   |D-7   |G7   |C^7   |C7   |F^7   |F-6   |E-7   |A7   |Eb-7 Ab7 |D-7 G7 |C^7   |%   ",
@@ -14,7 +14,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "E7#5"
+                     "name" : "E7(#5)"
                   }
                ]
             },
@@ -226,7 +226,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-6/Ab"
+                     "name" : "F-6/A(b)"
                   }
                ]
             },
@@ -238,7 +238,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "B7/F#"
+                     "name" : "B7/F(#)"
                   },
                   {
                      "beats" : 1,
@@ -344,6 +344,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "C"
+   "composer" : "Cole Porter",
+   "key" : null
 }

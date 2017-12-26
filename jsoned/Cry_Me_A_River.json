@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Cry Me A River;Hamilton Arthur;Ballad;Eb",
       "{A:T44C- C-b6 |C-6 C-7 |F-7 Bb7 |Eb^7 G7b9 |Gh7 C7b9 |F9   |F-7 Bb7sus ",
@@ -22,7 +22,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7b13"
+                           "name" : "G7(b13)"
                         }
                      ]
                   }
@@ -61,7 +61,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-b6"
+                     "name" : "C-(b6)"
                   }
                ]
             },
@@ -97,7 +97,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -109,7 +109,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -153,7 +153,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -173,11 +173,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -201,7 +201,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -237,7 +237,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-b6"
+                     "name" : "C-(b6)"
                   }
                ]
             },
@@ -273,7 +273,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -285,7 +285,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -316,7 +316,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             }
@@ -324,6 +324,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Hamilton Arthur",
-   "key" : "Eb"
+   "composer" : "Arthur Hamilton",
+   "key" : null
 }

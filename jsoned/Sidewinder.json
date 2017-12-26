@@ -1,5 +1,5 @@
 {
-   "style" : "Funk",
+   "style" : null,
    "metadata" : [
       "IREALB;Sidewinder;Morgan Lee;Funk;Eb",
       "T44NCD7,Eb7 |%   |%%   |    |NCD7,Eb7 |%   |%%   |    |NCG7,Ab7 |%   |%%   |    |NCD7,Eb7 |%   |%   |NCGh,C7b9 |NCF-7,Bb7 |%   |%%   |    |NCD7,Eb7 |%   |NCEb7,  |NC   "
@@ -112,7 +112,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -180,6 +180,6 @@
          ]
       }
    ],
-   "composer" : "Morgan Lee",
-   "key" : "Eb"
+   "composer" : "Lee Morgan",
+   "key" : null
 }

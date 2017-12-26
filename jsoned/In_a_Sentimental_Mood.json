@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;In a Sentimental Mood;Ellington Duke;Ballad;D-",
       "{A:T44D- D-^7 |D-7 D-6 |G- G-^7 |G-7 G-7,A7,|D-   |D9#5   |G-7 C7b9 ",
@@ -119,7 +119,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D9#5"
+                     "name" : "D9(#5)"
                   }
                ]
             },
@@ -131,7 +131,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -173,7 +173,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -294,7 +294,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D9#5"
+                     "name" : "D9(#5)"
                   }
                ]
             },
@@ -306,7 +306,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -330,6 +330,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "D-"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

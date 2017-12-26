@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Monk's Mood;Monk Thelonious;Ballad;Db",
       "{A:T44F-7 Bb7,C^,|C^7   |Dh7 G7b9#11 |Db^7#11   |Bb7 A7b13 |E7b9 Eb7#9 ",
@@ -34,7 +34,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7b9#11"
+                           "name" : "Bb7(b9#11)"
                         }
                      ]
                   }
@@ -47,7 +47,7 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Ab7#5"
+                           "name" : "Ab7(#5)"
                         },
                         {
                            "beats" : 2,
@@ -58,7 +58,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Db^7#11"
+                           "name" : "Db^7(#11)"
                         }
                      ]
                   }
@@ -99,14 +99,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9#11"
+                     "name" : "G7(b9#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db^7#11"
+                     "name" : "Db^7(#11)"
                   }
                ]
             },
@@ -118,7 +118,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -126,11 +126,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   }
                ]
             }
@@ -148,7 +148,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C13b9"
+                     "name" : "C13(b9)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B13b9"
+                     "name" : "B13(b9)"
                   }
                ]
             },
@@ -223,7 +223,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb-b6"
+                     "name" : "Bb-(b6)"
                   }
                ]
             },
@@ -235,7 +235,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9#11"
+                     "name" : "Bb7(b9#11)"
                   }
                ]
             }
@@ -275,7 +275,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9#11"
+                     "name" : "G7(b9#11)"
                   }
                ]
             },
@@ -294,7 +294,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -302,11 +302,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
@@ -314,7 +314,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   },
                   {
                      "beats" : 2,
@@ -325,7 +325,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db^7#11"
+                     "name" : "Db^7(#11)"
                   }
                ]
             }
@@ -333,6 +333,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Db"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

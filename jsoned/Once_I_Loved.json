@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Once I Loved;Jobim Antonio-Carlos;Bossa Nova;D-",
       "{T44G-7   |C7#5   |F^7   |F#o7   |G-7   |G#o7   |A-7   |A-7/G   |F-7   |Bb7#5   |Eb^7   |%   |Eh7   |A7b9   ",
@@ -22,7 +22,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   }
@@ -93,7 +93,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Ab7#11"
+                           "name" : "Ab7(#11)"
                         }
                      ]
                   },
@@ -112,7 +112,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   },
@@ -142,7 +142,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -198,7 +198,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -222,7 +222,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -230,6 +230,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "D-"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Tokyo Blues;Silver Horace;Medium Swing;C-",
       "A:T44Db7   |%   |C-7   |%   |Db7   |%   |C-7   |%   |Db7   |%   |C-7   |%   |Eb7   |D7b13 G7b9 |C-7   |%   "
@@ -80,11 +80,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -102,6 +102,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "C-"
+   "composer" : "Horace Silver",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I've Got You Under My Skin;Porter Cole;Medium Swing;Eb",
       "A:T44F-7 |Bb7 |Eb^7 |C7 |F-7 |Bb7 |Eb^7 |C7 |F-7 |Bb7 |Eb^7 |C7 |F-7 |Bb7 |Eb^7 |C7 ",
@@ -167,7 +167,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -258,7 +258,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -286,7 +286,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -422,6 +422,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "Eb"
+   "composer" : "Cole Porter",
+   "key" : null
 }

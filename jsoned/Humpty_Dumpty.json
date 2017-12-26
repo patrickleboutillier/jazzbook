@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Humpty Dumpty;Corea Chick;Up Tempo Swing;C",
       "T44Eb^7   |D^7   |Gb^7   |F^7   |A7alt   |Bb^7   |Bb-7   |%   |%   |%   ",
@@ -120,13 +120,13 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "C"
+   "composer" : "Chick Corea",
+   "key" : null
 }

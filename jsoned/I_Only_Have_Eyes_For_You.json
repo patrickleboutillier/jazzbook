@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Only Have Eyes For You;Warren Harry;Ballad;C",
       "{A:T44D-7   |G7   |D-7   |G7   |C^7   ",
@@ -58,7 +58,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "E7#5"
+                           "name" : "E7(#5)"
                         }
                      ]
                   },
@@ -235,14 +235,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -275,7 +275,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -283,6 +283,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Warren Harry",
-   "key" : "C"
+   "composer" : "Harry Warren",
+   "key" : null
 }

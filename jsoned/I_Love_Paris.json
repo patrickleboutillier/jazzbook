@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I Love Paris;Porter Cole;Medium Swing;C-",
       "A:T44C-6   |%   |%   |%   |C-6   |%   |Dh7   |G7b13   |Dh7   |G7b13   |Dh7   |G7b13   |Dh7   |G7b13   |C-6   |//G7 ",
@@ -46,7 +46,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -60,7 +60,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -74,7 +74,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -88,7 +88,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -222,7 +222,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -230,6 +230,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "C-"
+   "composer" : "Cole Porter",
+   "key" : null
 }

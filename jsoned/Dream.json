@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Dream;Mercer Johnny;Slow Swing;Ab",
       "A:T44Ab   |%   |D-11   |G7#11,   |Ab6   |%   |F7   |%   ",
@@ -32,7 +32,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -105,7 +105,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb13b9"
+                     "name" : "Eb13(b9)"
                   }
                ]
             }
@@ -134,7 +134,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -201,7 +201,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -228,6 +228,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Mercer Johnny",
-   "key" : "Ab"
+   "composer" : "Johnny Mercer",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Serenade To A Soul Sister;Silver Horace;Waltz;Eb-",
       "A:T34Eb-7   |E7#9   |%%   |    |Eb-7   |E7#9   |Eb-7   |E7#9 Eb-7 ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -39,7 +39,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -54,7 +54,7 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   },
                   {
                      "beats" : 2.66666666666667,
@@ -91,7 +91,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -105,7 +105,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -120,7 +120,7 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   },
                   {
                      "beats" : 2.66666666666667,
@@ -155,7 +155,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -167,7 +167,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -181,7 +181,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -195,7 +195,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             }
@@ -203,6 +203,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Eb-"
+   "composer" : "Horace Silver",
+   "key" : null
 }

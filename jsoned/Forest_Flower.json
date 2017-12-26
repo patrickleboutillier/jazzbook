@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Forest Flower;Lloyd Charles;Bossa Nova;C",
       "{A:T44A^7   |%   |G^7   |%   |C^7   |%   |Bb^7   |%   |Db-7   |Dh7 G7b9 |C^7   |%   |C-7   |B7#9   |Bb^7   |%   ",
@@ -65,7 +65,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -89,7 +89,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -143,7 +143,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -199,6 +199,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Lloyd Charles",
-   "key" : "C"
+   "composer" : "Charles Lloyd",
+   "key" : null
 }

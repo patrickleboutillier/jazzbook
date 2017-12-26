@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Chega De Saudade (No More Blues);Jobim Antonio-Carlos;Bossa Nova;D-",
       "i:T44G-9 |C |F^9 |Bb^7 |Bo7 |E-,A7,|D-7 |A7 ",
@@ -97,7 +97,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9/B"
+                     "name" : "E7(b9/B)"
                   }
                ]
             },
@@ -107,14 +107,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eh7/Bb"
+                     "name" : "Eh7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -186,7 +186,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -212,7 +212,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9/B"
+                     "name" : "E7(b9/B)"
                   }
                ]
             },
@@ -222,14 +222,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eh7/Bb"
+                     "name" : "Eh7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -243,7 +243,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -257,7 +257,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -278,14 +278,14 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9/B"
+                     "name" : "E7(b9/B)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -323,7 +323,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7/D#"
+                     "name" : "B7/D(#)"
                   }
                ]
             },
@@ -564,6 +564,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "D-"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Georgia On My Mind;Carmichael Hoagy;Slow Swing;F",
       "{A:T44F^7   |Eh7 A7b9 |D- D-/C |G/B Bb-7,Eb7,|A-7 D7 |G-7 C7 ",
@@ -34,7 +34,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7#5"
+                           "name" : "C7(#5)"
                         }
                      ]
                   }
@@ -58,7 +58,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   }
@@ -83,7 +83,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -153,7 +153,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -177,7 +177,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -201,7 +201,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -241,7 +241,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             }
@@ -265,7 +265,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -344,6 +344,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "F"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Odd Couple, The;Hefti Neal;Medium Swing;F",
       "{T44D-7 G7 |%   |%   |%   |G-7 C7 |%   |%   |%   ",
@@ -20,7 +20,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "B7b5"
+                           "name" : "B7(b5)"
                         }
                      ]
                   },
@@ -39,7 +39,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         }
                      ]
                   },
@@ -63,7 +63,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         }
                      ]
                   },
@@ -89,7 +89,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         }
                      ]
                   }
@@ -106,7 +106,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "B7b5"
+                           "name" : "B7(b5)"
                         }
                      ]
                   },
@@ -125,7 +125,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         }
                      ]
                   },
@@ -170,7 +170,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         }
                      ]
                   }
@@ -226,6 +226,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Hefti Neal",
-   "key" : "F"
+   "composer" : "Neal Hefti",
+   "key" : null
 }

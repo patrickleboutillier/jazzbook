@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Witchcraft;Coleman Cy;Medium Swing;F",
       "A:T44F6   |%   |G#o7   |%   |G-7   |C7sus   |F^7   |F7   |Bb^7   |%   |Eb7   |%   |Ab6   |G7b9   |C7   |%   ",
@@ -89,7 +89,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -148,7 +148,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -275,6 +275,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Coleman Cy",
-   "key" : "F"
+   "composer" : "Cy Coleman",
+   "key" : null
 }

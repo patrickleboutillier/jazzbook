@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Invitation;Kaper Bronislau;Even 8ths;C-",
       "A:T44C-7   |%   |%   |%   |C-7   |F7   |Bb7   |%   |Eb-7   |%  @ |%   |%   |Eb-7   |Ab7   |Db7#11   |%   ",
@@ -85,7 +85,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -205,7 +205,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al Coda"
+                  "0-D.C. al Coda"
                ]
             },
             {
@@ -226,7 +226,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -260,6 +260,6 @@
          ]
       }
    ],
-   "composer" : "Kaper Bronislau",
-   "key" : "C-"
+   "composer" : "Bronislau Kaper",
+   "key" : null
 }

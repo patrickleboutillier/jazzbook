@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Bright Boy;Bright John;Medium Up Swing;Eb",
       "{A:T44Eb^7   |E-7 A7b5 |Ab^7   |Ab-7 Db7 |G-7 C7 |F-7 Bb7 ",
@@ -25,7 +25,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "E7b5"
+                           "name" : "E7(b5)"
                         }
                      ]
                   }
@@ -65,7 +65,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b5"
+                     "name" : "A7(b5)"
                   }
                ]
             },
@@ -195,7 +195,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b5"
+                     "name" : "A7(b5)"
                   }
                ]
             },
@@ -301,7 +301,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             }
@@ -309,6 +309,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Bright John",
-   "key" : "Eb"
+   "composer" : "John Bright",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Ana Maria;Shorter Wayne;Even 8ths;G",
       "A:T44G^7   |Eb^7/G   |G7sus   |Eb^7/G   |Db^7/F   |Gb^7#11   |Ab-7   |Bb/Ab   |G-7   |C7sus   |D/C   |C7sus   |Ab/C Bb/C |Ab/C   ",
@@ -51,7 +51,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             },
@@ -65,7 +65,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb/Ab"
+                     "name" : "Bb/A(b)"
                   }
                ]
             },
@@ -124,7 +124,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -181,7 +181,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb/Ab"
+                     "name" : "Bb/A(b)"
                   }
                ]
             },
@@ -292,7 +292,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -313,7 +313,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb/Ab"
+                     "name" : "Bb/A(b)"
                   }
                ]
             },
@@ -363,7 +363,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -378,6 +378,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "G"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Rock Pop",
+   "style" : null,
    "metadata" : [
       "IREALB;Sunny;Hebb Bobby;Rock Pop;A-",
       "T44A-7   |C7   |F^7   |Bh7 E7b9 |A-7   |C7   |F^7   |Bh7 E7b9 |A-7   |C7   |F^7   |Bb7   |Bh7   |E7b9   |A-7   |E7b9   "
@@ -38,7 +38,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -71,7 +71,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -127,13 +127,13 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Hebb Bobby",
-   "key" : "A-"
+   "composer" : "Bobby Hebb",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Everything I Love;Porter Cole;Medium Swing;F",
       "A:T44F^7   |B7#11   |Bb^7   |A-7 D7 |G-7   |C7   |A-7 D7 |G-7 C7 |F6   |Ab7   |G-7   |A-7 D7 |Bb-7   |Eb7   |Ab^7   |G-7 C7 ",
@@ -20,7 +20,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -162,7 +162,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -195,7 +195,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -241,7 +241,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -295,6 +295,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "F"
+   "composer" : "Cole Porter",
+   "key" : null
 }

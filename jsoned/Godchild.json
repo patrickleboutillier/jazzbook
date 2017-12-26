@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Godchild;Wallington George;Medium Swing;Ab",
       "{T44A:Ab^7   |Bb-7 Bo7 |Eb-7 Ab7 |Db-7 Gb7 |C-7 B-7 |Bb-7 Eb7 |Ab^7   ",
@@ -39,7 +39,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7#9"
+                           "name" : "G7(#9)"
                         }
                      ]
                   }
@@ -300,6 +300,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Wallington George",
-   "key" : "Ab"
+   "composer" : "George Wallington",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Raincheck;Strayhorn Billy;Medium Swing;F",
       "{A:T44F^7 G-7 |A-7 Bb^7 |A-7 Abo7 |G-7 C7 |F^7 G-7 |A-7 G-7 |F^7 D-7 |G-7 C7 ",
@@ -157,7 +157,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7#9"
+                           "name" : "D7(#9)"
                         }
                      ]
                   },
@@ -293,6 +293,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Strayhorn Billy",
-   "key" : "F"
+   "composer" : "Billy Strayhorn",
+   "key" : null
 }

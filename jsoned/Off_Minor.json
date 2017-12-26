@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Off Minor;Monk Thelonious;Medium Swing;G-",
       "{A:T44G-6   |Db7 Gb7 |B-7 Bb7 |Eb^7 D7 |G-6   |Bb13#11,   |D13#11,   |%   ",
@@ -64,14 +64,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb13#11"
+                     "name" : "Bb13(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D13#11"
+                     "name" : "D13(#11)"
                   }
                ]
             },
@@ -104,7 +104,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -118,7 +118,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -144,7 +144,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D13#11"
+                     "name" : "D13(#11)"
                   }
                ]
             },
@@ -209,14 +209,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb13#11"
+                     "name" : "Bb13(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D13#11"
+                     "name" : "D13(#11)"
                   }
                ]
             },
@@ -227,6 +227,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "G-"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

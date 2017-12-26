@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Mas Que Nada;Ben Jorge;Latin;F-",
       "A:T44F-7 Bb7 |%   |Bb-7   |Eb7   |F-7   |C7sus   |F-7 Bb7 |%   |F-7 Bb7 |F-7 C-,B-,|Bb-7   |Eb7   |F-7   |C7sus   |F-7   |C7#9   ",
@@ -136,7 +136,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             }
@@ -155,7 +155,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -173,7 +173,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -232,11 +232,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7/Db"
+                     "name" : "Eb7/D(b)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -250,7 +250,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             }
@@ -269,7 +269,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -287,7 +287,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -310,6 +310,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Ben Jorge",
-   "key" : "F-"
+   "composer" : "Jorge Ben",
+   "key" : null
 }

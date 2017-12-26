@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Walkin' Shoes;Mulligan Gerry;Medium Swing;Eb",
       "{A:T44Eb   |Ab7   |Eb   |Gh7 C7 |F-7   |A-7 D7 |G-b6 Gb-7 ",
@@ -26,7 +26,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "E7#9"
+                           "name" : "E7(#9)"
                         }
                      ]
                   }
@@ -117,7 +117,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-b6"
+                     "name" : "G-(b6)"
                   },
                   {
                      "beats" : 2,
@@ -247,7 +247,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b5"
+                     "name" : "Bb7(b5)"
                   }
                ]
             },
@@ -269,6 +269,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Mulligan Gerry",
-   "key" : "Eb"
+   "composer" : "Gerry Mulligan",
+   "key" : null
 }

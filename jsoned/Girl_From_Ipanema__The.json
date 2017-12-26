@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Girl From Ipanema, The;Jobim Antonio-Carlos;Bossa Nova;F",
       "{A:T44F^7   |%   |G7#11   |%   |G-7   |Gb7#11   ",
@@ -62,7 +62,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -79,7 +79,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             }
@@ -159,7 +159,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9b5"
+                     "name" : "D7(b9b5)"
                   }
                ]
             },
@@ -173,7 +173,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9b5"
+                     "name" : "C7(b9b5)"
                   }
                ]
             }
@@ -195,7 +195,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
@@ -234,6 +234,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "F"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

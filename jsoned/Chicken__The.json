@@ -20,9 +20,6 @@
                      "beats" : 2,
                      "name" : "Eb7"
                   }
-               ],
-               "comments" : [
-                  "Vamp for intro"
                ]
             },
             {
@@ -36,7 +33,8 @@
             }
          ],
          "label" : "i",
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "Vamp for intro"
       },
       {
          "bars" : [
@@ -100,8 +98,8 @@
                   }
                ],
                "comments" : [
-                  "(Riff)",
-                  "   Fine"
+                  "0-(Riff)",
+                  "0-   Fine"
                ]
             },
             {

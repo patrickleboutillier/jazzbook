@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Got It Bad;Ellington Duke;Ballad;G",
       "{A:T44Go,G^7  |B7b9 E-7 |A7 E-7 |A7   |A-7   |B7,E7,A7,D7,",
@@ -89,7 +89,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -223,7 +223,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -305,6 +305,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "G"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

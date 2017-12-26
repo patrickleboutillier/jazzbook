@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Eye of the Hurricane;Hancock Herbie;Up Tempo Swing;F-",
       "A:T44F-6, Bb6, |Eb7sus, Ab7sus, |Db^7,  C7|NC   |Gb-7,  Bb-|NC   |Eb7#9/F,   |%   |Eb7#9/F,   |%   |NCT64   |T44F-7,   |F-7,   ",
@@ -75,7 +75,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#9/F"
+                     "name" : "Eb7(#9/F)"
                   }
                ]
             },
@@ -85,7 +85,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#9/F"
+                     "name" : "Eb7(#9/F)"
                   }
                ]
             },
@@ -167,7 +167,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A^7#11"
+                     "name" : "A^7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -185,14 +185,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#9/F"
+                     "name" : "Eb7(#9/F)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb7#9/F"
+                     "name" : "Eb7(#9/F)"
                   }
                ]
             },
@@ -226,13 +226,13 @@
             {
                "repeat_last" : 1,
                "comments" : [
-                  "Solos on F minor Blues"
+                  "0-Solos on F minor Blues"
                ]
             }
          ],
          "label" : "B"
       }
    ],
-   "composer" : "Hancock Herbie",
-   "key" : "F-"
+   "composer" : "Herbie Hancock",
+   "key" : null
 }

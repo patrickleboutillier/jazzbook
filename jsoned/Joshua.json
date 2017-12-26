@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Joshua;Feldman Victor;Up Tempo Swing;D-",
       "{A:T44D-11   |%   |%   |%   |D-11   |%   |%   |%   |D-7 C-7 |Bb-7 C-7 ",
@@ -132,7 +132,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -151,7 +151,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Ab7#9#5"
+                     "name" : "Ab7(#9#5)"
                   }
                ]
             },
@@ -165,7 +165,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9#5"
+                     "name" : "G7(#9#5)"
                   }
                ]
             },
@@ -182,18 +182,18 @@
                   }
                ],
                "comments" : [
-                  "3X (for solos only)"
+                  "0-3X (for solos only)"
                ]
             },
             {
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#9#5"
+                     "name" : "E7(#9#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9#5"
+                     "name" : "A7(b9#5)"
                   }
                ]
             }
@@ -273,6 +273,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Feldman Victor",
-   "key" : "D-"
+   "composer" : "Victor Feldman",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Remember;Berlin Irving;Medium Swing;Ab",
       "{A:T44Db7   |C7   |B7   |Bb7   |Bb-7   |Eb-7b5   ",
@@ -101,7 +101,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-7b5"
+                     "name" : "Eb-7(b5)"
                   }
                ]
             }
@@ -148,7 +148,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7b5"
+                     "name" : "G-7(b5)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-7b5"
+                     "name" : "Eb-7(b5)"
                   }
                ]
             },
@@ -229,6 +229,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "Ab"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

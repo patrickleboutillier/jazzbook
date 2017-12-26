@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;It's A Raggy Waltz;Brubeck Dave;Waltz;G",
       "A:T34G   |D7,Go7 /|G7   |%   |C7   |/C#o7 /|G7   |G,E7 /|A7b9   |D7b9   |G,G7,C |G   ",
@@ -93,14 +93,14 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -300,14 +300,14 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -338,6 +338,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Brubeck Dave",
-   "key" : "G"
+   "composer" : "Dave Brubeck",
+   "key" : null
 }

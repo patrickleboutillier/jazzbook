@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Quasimodo (Theme);Parker Charlie;Medium Swing;Eb",
       "A:T44Eb Ab7 |G-7 C7#5 |F-7   |Bb7   |F-7   |Bb7   |Eb   |Eb^7 Dh,G7,|C- C-/Bb |A-7 D7 |G-   |Ch7 F7b9 |Bb/D G7b13 |C-7 F13 |F-7 C7#5 |F-7 Bb7 ",
@@ -31,7 +31,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -94,7 +94,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-/Bb"
+                     "name" : "C-/B(b)"
                   }
                ]
             },
@@ -125,7 +125,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -161,7 +161,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -242,7 +242,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -285,7 +285,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-/Bb"
+                     "name" : "C-/B(b)"
                   }
                ]
             },
@@ -305,7 +305,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   },
                   {
                      "beats" : 2,
@@ -390,6 +390,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "Eb"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

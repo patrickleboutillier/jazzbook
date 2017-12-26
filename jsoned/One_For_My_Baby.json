@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;One For My Baby;Arlen Harold;Ballad;Eb",
       "A:T44Eb^7 F-7/Bb |%   |%   |%   |Eb^7 F-7/Bb |%   |Eb^7 Bb-7 |Bb-7 Eb7 |Ab^7   |Ab^7 Db7 |Eb^7 F-7 |G-7 C7#9, |G7#5, C7#9, |F-7,G-7,Ab,Ab/Bb|Eb6   |Ah7 D7b9 ",
@@ -21,7 +21,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   }
                ]
             },
@@ -42,7 +42,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   }
                ]
             },
@@ -112,7 +112,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -120,11 +120,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -144,7 +144,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
@@ -163,7 +163,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -206,7 +206,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "E7b9"
+                           "name" : "E7(b9)"
                         }
                      ]
                   },
@@ -371,7 +371,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -379,11 +379,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#5"
+                     "name" : "B7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -490,7 +490,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             }
@@ -498,6 +498,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "Eb"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

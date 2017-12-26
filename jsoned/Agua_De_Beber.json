@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Agua De Beber;Jobim Antonio-Carlos;Bossa Nova;D-",
       "{i:T44D-7   |E7#9 A7b13 |D-7   |E7#9 A7b13 |D-7   |Bb^7   |D-7   |%   ",
@@ -23,11 +23,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -42,11 +42,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -166,14 +166,14 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9/B"
+                     "name" : "E7(#9/B)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -194,7 +194,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -227,7 +227,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -255,7 +255,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             }
@@ -275,11 +275,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -294,11 +294,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -330,6 +330,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "D-"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

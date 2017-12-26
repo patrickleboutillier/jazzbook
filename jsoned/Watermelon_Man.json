@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Watermelon Man;Hancock Herbie;Even 8ths;F",
       "T44F7#9   |%   |%   |%   |Bb9   |%   |F7#9   |%   |C9   |Bb9   |C9   |Bb9   |C9   |Bb9   |F7#9(Ab13)   |%   "
@@ -12,7 +12,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -38,7 +38,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -100,6 +100,6 @@
          ]
       }
    ],
-   "composer" : "Hancock Herbie",
-   "key" : "F"
+   "composer" : "Herbie Hancock",
+   "key" : null
 }

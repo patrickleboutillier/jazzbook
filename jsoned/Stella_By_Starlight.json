@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Stella By Starlight;Young Victor;Medium Swing;Bb",
       "A:T44Eh7   |A7b9   |C-7   |F7   |F-7   |Bb7   |Eb^7   |Ab7   |Bb^7   |Eh7 A7b9 |D-7   |Bb-7 Eb7 |F^7   |Eh7(G-7)  (C7) |Eb^7#11(Ah7)   |D7b9   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -82,7 +82,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -122,14 +122,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -141,7 +141,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -161,7 +161,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -193,7 +193,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -207,7 +207,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -239,6 +239,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Young Victor",
-   "key" : "Bb"
+   "composer" : "Victor Young",
+   "key" : null
 }

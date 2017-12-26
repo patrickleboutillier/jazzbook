@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Forever Sonny;Heath Jimmy;Bossa Nova;Bb",
       "{A:T44G-7   |Eh7 Eb7 |D-7 G-7 |C-7 F7#5 |Bb7   |Eb7 Ab7, ",
@@ -34,7 +34,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7#9"
+                           "name" : "D7(#9)"
                         }
                      ]
                   }
@@ -107,7 +107,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -139,7 +139,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -159,7 +159,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -181,7 +181,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             }
@@ -229,7 +229,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -272,7 +272,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             }
@@ -280,6 +280,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Heath Jimmy",
-   "key" : "Bb"
+   "composer" : "Jimmy Heath",
+   "key" : null
 }

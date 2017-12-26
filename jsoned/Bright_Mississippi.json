@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Bright Mississippi;Monk Thelonious;Up Tempo Swing;Ab",
       "{T44F7   |%   |%   |%   |Bb7   |%   |%   |%   ",
@@ -67,7 +67,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -81,7 +81,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -160,6 +160,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Ab"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

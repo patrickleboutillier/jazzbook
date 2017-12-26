@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;There Will Never Be Another You;Warren Harry;Medium Up Swing;Eb",
       "A:T44Eb^7   |%   |Dh7   |G7b9   |C-7   |%   |Bb-7   |Eb7   ",
@@ -32,7 +32,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -75,7 +75,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -142,7 +142,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -260,6 +260,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Warren Harry",
-   "key" : "Eb"
+   "composer" : "Harry Warren",
+   "key" : null
 }

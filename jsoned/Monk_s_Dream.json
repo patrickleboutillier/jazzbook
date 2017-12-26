@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Monk's Dream;Monk Thelonious;Medium Swing;C",
       "{A:T44C^7 F7 |Bb7#11   |C^7 F7 |Bb7#11   |C^7 F7 |B-7 Bb7#11 |A7#11 Ab7#11 |G7#11   ",
@@ -26,7 +26,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -69,7 +69,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -77,18 +77,18 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             }
@@ -150,7 +150,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -169,7 +169,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -193,7 +193,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -201,18 +201,18 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             }
@@ -220,6 +220,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "C"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

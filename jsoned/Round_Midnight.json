@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Round Midnight;Monk Thelonious;Ballad;Eb-",
       "i:T44Ah7   |D7#9   |Gh7   |C7#9   |Fh7   |Bb7#9   |Eb-7 Ab7,Db7,|Gb7,B7,Bb7#5 ",
@@ -24,7 +24,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -38,7 +38,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -52,7 +52,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9"
+                     "name" : "Bb7(#9)"
                   }
                ]
             },
@@ -84,7 +84,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             }
@@ -103,7 +103,7 @@
                         },
                         {
                            "beats" : 3,
-                           "name" : "B7#11"
+                           "name" : "B7(#11)"
                         }
                      ]
                   },
@@ -142,7 +142,7 @@
                         }
                      ],
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -159,7 +159,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/Db"
+                     "name" : "Eb-7/D(b)"
                   }
                ]
             },
@@ -244,14 +244,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -263,14 +263,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -314,7 +314,7 @@
                   }
                ],
                "comments" : [
-                  "D.S. al 2nd ending"
+                  "0-D.S. al 2nd ending"
                ]
             },
             {
@@ -433,24 +433,24 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9b5"
+                     "name" : "Bb7(b9b5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ],
                "comments" : [
-                  "*42    #9"
+                  "0-*42    #9"
                ]
             }
          ],
          "label" : "@"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Eb-"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

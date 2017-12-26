@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;East Of The Sun;Bowman Brooks;Medium Swing;G",
       "A:T44G^7   |% (C7)  |B-7   |E7   |A-7   |%   |C-7   |F7   ",
@@ -87,7 +87,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b13"
+                     "name" : "B7(b13)"
                   }
                ]
             },
@@ -204,7 +204,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -283,6 +283,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Bowman Brooks",
-   "key" : "G"
+   "composer" : "Brooks Bowman",
+   "key" : null
 }

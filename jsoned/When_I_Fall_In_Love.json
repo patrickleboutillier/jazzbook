@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;When I Fall In Love;Young Victor;Ballad;Eb",
       "A:T44Eb^7 C7 |F-7 Bb7 |Eb^7 C7 |F-7 Bb7 |Eb^7 Ab7 |G7b9 C7b9 |F7   |Bb7   ",
@@ -76,11 +76,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -147,7 +147,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -171,7 +171,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -183,7 +183,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -268,11 +268,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -303,7 +303,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   }
                ]
             },
@@ -327,7 +327,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -390,6 +390,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Young Victor",
-   "key" : "Eb"
+   "composer" : "Victor Young",
+   "key" : null
 }

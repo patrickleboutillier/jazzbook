@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Bright Size Life;Metheny Pat;Even 8ths;D",
       "A:T44G^7   |%   |Bb^7#11/A   |%   |D   |D/C   |Bb^7   |%   ",
@@ -25,7 +25,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/A"
+                     "name" : "Bb^7(#11/A)"
                   }
                ]
             },
@@ -74,7 +74,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/A"
+                     "name" : "Bb^7(#11/A)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11/A"
+                     "name" : "Bb^7(#11/A)"
                   }
                ]
             },
@@ -211,6 +211,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "D"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

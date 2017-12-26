@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Cheetah;Burrell Kenny;Up Tempo Swing;Bb",
       "{A:T44Bb^7   |C-7 C#o7 |D-7 G7#9 |C7 F7 |Bb7   |Eb Eo7 |Bb/F G7 ",
@@ -81,7 +81,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -218,7 +218,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -303,6 +303,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Burrell Kenny",
-   "key" : "Bb"
+   "composer" : "Kenny Burrell",
+   "key" : null
 }

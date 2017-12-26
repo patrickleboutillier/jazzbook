@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Left My Heart In San Francisco;Cory George;Ballad;Bb",
       "A:T44Bb6   |D-7 Dbo7 |C-7   |F7   |C- C-^7 |C-7 F7 |Bb^7 G7 |C-7 F7 ",
@@ -232,7 +232,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -286,6 +286,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Cory George",
-   "key" : "Bb"
+   "composer" : "George Cory",
+   "key" : null
 }

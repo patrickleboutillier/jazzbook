@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Bat, The;Metheny Pat;Ballad;G",
       "{T44G D/F# E- A7 |D / A-7, D7 |G, D/F# E- A7 |T34D,/A- |Db/Cb,/Bb13b9 ",
@@ -20,7 +20,7 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "D/F#"
+                     "name" : "D/F(#)"
                   },
                   {
                      "beats" : 4,
@@ -60,7 +60,7 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "D/F#"
+                     "name" : "D/F(#)"
                   },
                   {
                      "beats" : 4,
@@ -93,7 +93,7 @@
                "chords" : [
                   {
                      "beats" : 1.33333333333333,
-                     "name" : "Db/Cb"
+                     "name" : "Db/C(b)"
                   },
                   {
                      "beats" : 1.33333333333333,
@@ -101,7 +101,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Bb13b9"
+                     "name" : "Bb13(b9)"
                   }
                ]
             }
@@ -147,7 +147,7 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "Db/Cb"
+                     "name" : "Db/C(b)"
                   }
                ]
             },
@@ -155,7 +155,7 @@
                "chords" : [
                   {
                      "beats" : 4,
-                     "name" : "Gb/Bb"
+                     "name" : "Gb/B(b)"
                   },
                   {
                      "beats" : 4,
@@ -175,7 +175,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C13b9"
+                     "name" : "C13(b9)"
                   },
                   {
                      "beats" : 2,
@@ -192,7 +192,7 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             }
@@ -234,7 +234,7 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "Ab-/Cb"
+                     "name" : "Ab-/C(b)"
                   },
                   {
                      "beats" : 4,
@@ -247,7 +247,7 @@
                "chords" : [
                   {
                      "beats" : 4,
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   },
                   {
                      "beats" : 4,
@@ -267,7 +267,7 @@
                "chords" : [
                   {
                      "beats" : 4,
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   },
                   {
                      "beats" : 4,
@@ -291,35 +291,35 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb/Bb"
+                     "name" : "Eb/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
@@ -334,6 +334,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "G"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

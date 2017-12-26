@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Leaving;Beirach Richie;Even 8ths;Bb",
       "T44Eb^7#11   |D7b9   |G-b6   |%   |Gb^7#5 F7b9 |D7b9   |G-b6   |%   |C-7   |Ab7sus   |Bb^, F^/A |Ab7#11 G7b9 |C-^7 Gb^7#11 |B^7#11   |D/Bb   |D7alt   "
@@ -12,21 +12,21 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G-b6"
+                     "name" : "G-(b6)"
                   }
                ]
             },
@@ -37,25 +37,25 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Gb^7#5"
+                     "name" : "Gb^7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G-b6"
+                     "name" : "G-(b6)"
                   }
                ]
             },
@@ -92,11 +92,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -108,21 +108,21 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B^7#11"
+                     "name" : "B^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D/Bb"
+                     "name" : "D/B(b)"
                   }
                ]
             },
@@ -136,6 +136,6 @@
          ]
       }
    ],
-   "composer" : "Beirach Richie",
-   "key" : "Bb"
+   "composer" : "Richie Beirach",
+   "key" : null
 }

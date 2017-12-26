@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;My Ship;Weill Kurt;Ballad;F",
       "{A:T44F^7 D7 |G7 C7 |F^7 D7 |Bh7 Bb7 |A-7 D7 |G-7 Bb-7,Eb7,",
@@ -337,7 +337,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd Ending"
+                  "0-D.C. al 3rd Ending"
                ]
             },
             {
@@ -348,7 +348,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             }
@@ -356,6 +356,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Weill Kurt",
-   "key" : "F"
+   "composer" : "Kurt Weill",
+   "key" : null
 }

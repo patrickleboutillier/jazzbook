@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;You're Everything;Corea Chick;Bossa Nova;A",
       "A:T44A^7 |Ab-6 |G^7 |F#7b9 |E-7 |G^7#11 |G#7sus |G-7 |F#-7 |F-7 |Bb9 |E-7 |A7 |D^7 |D-7 ",
@@ -36,7 +36,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -50,7 +50,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G^7#11"
+                     "name" : "G^7(#11)"
                   }
                ]
             },
@@ -146,7 +146,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -160,14 +160,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A^7#5"
+                     "name" : "A^7(#5)"
                   }
                ]
             },
@@ -188,7 +188,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#9#5"
+                     "name" : "F#7(#9#5)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -230,7 +230,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#5"
+                     "name" : "F^7(#5)"
                   }
                ]
             }
@@ -277,7 +277,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -291,7 +291,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9#5"
+                     "name" : "B7(#9#5)"
                   }
                ]
             },
@@ -352,7 +352,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -366,14 +366,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A^7#5"
+                     "name" : "A^7(#5)"
                   }
                ]
             },
@@ -394,7 +394,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#9#5"
+                     "name" : "F#7(#9#5)"
                   }
                ]
             },
@@ -408,7 +408,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -444,6 +444,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "A"
+   "composer" : "Chick Corea",
+   "key" : null
 }

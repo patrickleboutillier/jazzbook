@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;April Joy;Metheny Pat;Even 8ths;F",
       "A:T44Bb^7   |%   |A-7/D   |%   |Bb^7   |%   |A/Bb   |%   |Bb^7 A-7 |Bb^7 A-7 |Dadd9   |%   ",
@@ -43,7 +43,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A/Bb"
+                     "name" : "A/B(b)"
                   }
                ]
             },
@@ -99,7 +99,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -189,7 +189,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9sus"
+                     "name" : "A7(b9sus)"
                   }
                ]
             },
@@ -207,6 +207,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "F"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

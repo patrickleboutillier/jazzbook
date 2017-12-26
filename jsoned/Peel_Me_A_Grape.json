@@ -21,7 +21,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   }
@@ -44,13 +44,11 @@
                            "beats" : 2,
                            "name" : "D-7"
                         }
-                     ],
-                     "comments" : [
-                        "Fine"
                      ]
                   }
                ],
-               "no" : "2"
+               "no" : "2",
+               "description" : "Fine"
             }
          ],
          "bars" : [
@@ -90,7 +88,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -138,11 +136,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F7#9/C"
+                     "name" : "F7(#9/C)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -162,11 +160,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F7#9/C"
+                     "name" : "F7(#9/C)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -184,7 +182,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -209,7 +207,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -224,7 +222,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -248,7 +246,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -262,13 +260,13 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 2nd ending"
+                  "0-D.C. al 2nd ending"
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }

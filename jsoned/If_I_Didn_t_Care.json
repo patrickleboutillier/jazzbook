@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;If I Didn't Care;Lawrence Jack;Medium Swing;Bb",
       "A:T44Bb6 F7#5 |Bb6   |//F7#5 |Bb6   |C7 C7#5 |C7   |//C7#5 |C7   ",
@@ -20,7 +20,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -43,7 +43,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -62,7 +62,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -85,7 +85,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -167,7 +167,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -190,7 +190,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -270,7 +270,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -297,6 +297,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Lawrence Jack",
-   "key" : "Bb"
+   "composer" : "Jack Lawrence",
+   "key" : null
 }

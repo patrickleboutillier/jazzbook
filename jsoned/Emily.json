@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Emily;Mandel Johnny;Waltz;G",
       "A:T34G^7   |E-7   |A-7   |D7   |G^7   |G7   |C^7   |F7   ",
@@ -97,7 +97,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             }
@@ -205,7 +205,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b13"
+                     "name" : "F#7(b13)"
                   }
                ]
             },
@@ -247,7 +247,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -275,7 +275,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -311,6 +311,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Mandel Johnny",
-   "key" : "G"
+   "composer" : "Johnny Mandel",
+   "key" : null
 }

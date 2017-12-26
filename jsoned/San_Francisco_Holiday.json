@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;San Francisco Holiday;Monk Thelonious;Medium Swing;Eb",
       "{A:T44Ah7 D7b9 |Gh7 C7b9 |Bb7#9#5   |F-9 Bb13b9 |Ah7 D7b9 |Gh7 C7b9 |Bb7#9#5   ",
@@ -17,7 +17,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb7b9#11"
+                           "name" : "Bb7(b9#11)"
                         }
                      ]
                   }
@@ -29,7 +29,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb7b9#11"
+                           "name" : "Bb7(b9#11)"
                         }
                      ]
                   }
@@ -47,7 +47,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -59,14 +59,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -78,7 +78,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb13b9"
+                     "name" : "Bb13(b9)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -102,14 +102,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             }
@@ -138,7 +138,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -150,7 +150,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -162,7 +162,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -197,7 +197,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -209,7 +209,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -226,7 +226,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -238,14 +238,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -257,7 +257,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb13b9"
+                     "name" : "Bb13(b9)"
                   }
                ]
             },
@@ -269,7 +269,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -281,14 +281,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -303,6 +303,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Eb"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

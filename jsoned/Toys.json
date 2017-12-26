@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Toys;Hancock Herbie;Medium Swing;D-",
       "A:T44Bb7(F7)   |%   |F7   |%   |E7#9   |Db   |C-7   |%   ",
@@ -33,7 +33,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -104,7 +104,7 @@
                   }
                ],
                "comments" : [
-                  "Alt chords for head only"
+                  "0-Alt chords for head only"
                ]
             },
             {
@@ -114,6 +114,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Hancock Herbie",
-   "key" : "D-"
+   "composer" : "Herbie Hancock",
+   "key" : null
 }

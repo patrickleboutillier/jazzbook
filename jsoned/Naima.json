@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Naima;Coltrane John;Ballad;Ab",
       "{A:T44Bb-7/Eb   |Eb-7   |B7#11/Eb A7#11/Eb |Ab^7/Eb   ",
@@ -15,7 +15,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Bb-7/Eb"
+                     "name" : "Bb-7/E(b)"
                   }
                ]
             },
@@ -30,18 +30,18 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#11/Eb"
+                     "name" : "B7(#11/Eb)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11/Eb"
+                     "name" : "A7(#11/Eb)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7/Eb"
+                     "name" : "Ab^7/E(b)"
                   }
                ]
             }
@@ -54,56 +54,56 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/Bb"
+                     "name" : "B^7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B^7/Bb"
+                     "name" : "B^7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E7#11/Bb"
+                     "name" : "E7(#11/Bb)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B^7/Bb"
+                     "name" : "B^7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7/Bb"
+                     "name" : "Ab^7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Gb13/Bb"
+                     "name" : "Gb13/B(b)"
                   }
                ]
             }
@@ -115,7 +115,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/Eb"
+                     "name" : "Bb-7/E(b)"
                   }
                ]
             },
@@ -130,11 +130,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#11/Eb"
+                     "name" : "B7(#11/Eb)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11/Eb"
+                     "name" : "A7(#11/Eb)"
                   }
                ]
             },
@@ -142,7 +142,7 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "name" : "Ab^7/Eb"
+                     "name" : "Ab^7/E(b)"
                   }
                ]
             }
@@ -155,18 +155,18 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#11/Eb"
+                     "name" : "B7(#11/Eb)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11/Eb"
+                     "name" : "A7(#11/Eb)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7/Eb"
+                     "name" : "Ab^7/E(b)"
                   }
                ]
             },
@@ -174,18 +174,18 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#11/Eb"
+                     "name" : "B7(#11/Eb)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11/Eb"
+                     "name" : "A7(#11/Eb)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7/Eb"
+                     "name" : "Ab^7/E(b)"
                   }
                ]
             },
@@ -193,11 +193,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#11/Eb"
+                     "name" : "B7(#11/Eb)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#11/Eb"
+                     "name" : "A7(#11/Eb)"
                   }
                ]
             },
@@ -248,6 +248,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Coltrane John",
-   "key" : "Ab"
+   "composer" : "John Coltrane",
+   "key" : null
 }

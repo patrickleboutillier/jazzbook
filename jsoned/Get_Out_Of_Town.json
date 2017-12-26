@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Get Out Of Town;Porter Cole;Medium Swing;Bb",
       "A:T44G-6   |%   |G-6(C7)   |%   |G-6   |%   |Dh7(G-7)   |G7b9(G-7/F)   |C-7(Eh7)   |F7(Ebo7)   |Bb^7(D-7)   |Eb7(Dbo7)   |Eh7(C-7)   |A7b9(Eh7)  (A7) |Ah7   |D7b9   ",
@@ -50,7 +50,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -92,7 +92,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -106,7 +106,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -155,7 +155,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -198,7 +198,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -217,7 +217,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -236,7 +236,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -244,6 +244,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "Bb"
+   "composer" : "Cole Porter",
+   "key" : null
 }

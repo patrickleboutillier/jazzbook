@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;One Morning In May;Carmichael Hoagy;Up Tempo Swing;D",
       "{A:T44D^7 |B7b9 |E-7 |A7 |F#-7 |B7b9 |E-7 |A7 |D^7   |A-7 D7 |G^7   |Eh7 A7 ",
@@ -107,7 +107,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -135,7 +135,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -335,7 +335,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -363,7 +363,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -461,6 +461,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "D"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

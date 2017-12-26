@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Parisian Thoroughfare;Powell Bud;Up Tempo Swing;F",
       "{A:T44F^7   |G-7 C7 |A-11 D7 |G-7 C7 |F^7   |G-7 C7 |F^7   ",
@@ -191,7 +191,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b5"
+                     "name" : "C7(b5)"
                   }
                ]
             }
@@ -285,6 +285,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Powell Bud",
-   "key" : "F"
+   "composer" : "Bud Powell",
+   "key" : null
 }

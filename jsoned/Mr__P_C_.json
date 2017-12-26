@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Mr. P.C.;Coltrane John;Up Tempo Swing;C-",
       "T44C-7   |%   |%   |%   |F-7   |%   |C-7   |%   |Ab7   |G7b13   |C-7   |%   "
@@ -55,7 +55,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -72,6 +72,6 @@
          ]
       }
    ],
-   "composer" : "Coltrane John",
-   "key" : "C-"
+   "composer" : "John Coltrane",
+   "key" : null
 }

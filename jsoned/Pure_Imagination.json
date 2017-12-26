@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Pure Imagination;Newley Anthony;Ballad;Eb",
       "{A:T44F-7   |Bb9sus   |Eb^7 F-7,F#o,|Eb/G C-7 |F-7   |Bb9sus   ",
@@ -127,7 +127,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -285,6 +285,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Newley Anthony",
-   "key" : "Eb"
+   "composer" : "Anthony Newley",
+   "key" : null
 }

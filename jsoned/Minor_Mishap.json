@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Minor Mishap;Flanagan Tommy;Medium Up Swing;Bb-",
       "A:T44Bb-7   |C7#9#5 F7 |Bb-7   |C7b9#5 F7 |Bb-7   |Eb-7 Bb-7 |Gh7   |C7b9   ",
@@ -23,7 +23,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   },
                   {
                      "beats" : 2,
@@ -42,7 +42,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7b9#5"
+                     "name" : "C7(b9#5)"
                   },
                   {
                      "beats" : 2,
@@ -79,7 +79,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -99,7 +99,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7#9#5"
+                     "name" : "G7(#9#5)"
                   },
                   {
                      "beats" : 2,
@@ -118,7 +118,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9#5"
+                     "name" : "G7(b9#5)"
                   },
                   {
                      "beats" : 2,
@@ -149,11 +149,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -218,7 +218,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   },
                   {
                      "beats" : 2,
@@ -242,7 +242,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   },
                   {
                      "beats" : 2,
@@ -261,7 +261,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7b9#5"
+                     "name" : "C7(b9#5)"
                   },
                   {
                      "beats" : 2,
@@ -292,11 +292,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -316,6 +316,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Flanagan Tommy",
-   "key" : "Bb-"
+   "composer" : "Tommy Flanagan",
+   "key" : null
 }

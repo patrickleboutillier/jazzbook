@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;This Is New;Weill Kurt;Ballad;C-",
       "A:T44C-6   |G7alt   |C-7   |F7   |Bb-7   |F7b13   |Bb-7   |Bb7b13   |Eb-7   |%   |Ab7b13   |%   |Db-7   |%   |E7 Eb7 |D7 G7b9 ",
@@ -48,7 +48,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b13"
+                     "name" : "F7(b13)"
                   }
                ]
             },
@@ -62,7 +62,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -79,7 +79,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b13"
+                     "name" : "Ab7(b13)"
                   }
                ]
             },
@@ -116,7 +116,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -173,7 +173,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -187,7 +187,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -201,7 +201,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -229,7 +229,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b13"
+                     "name" : "Eb7(b13)"
                   }
                ]
             },
@@ -248,7 +248,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -256,6 +256,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Weill Kurt",
-   "key" : "C-"
+   "composer" : "Kurt Weill",
+   "key" : null
 }

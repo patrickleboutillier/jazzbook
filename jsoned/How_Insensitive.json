@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;How Insensitive;Jobim Antonio-Carlos;Bossa Nova;D-",
       "A:T44D-   |%   |C#o7   |%   |C-6   |%   |G7/B   |%   |Bb^7   |%   |Eb^7#11   |%   |Eh7   |A7b9   |D-   |//Db7 ",
@@ -63,7 +63,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
@@ -80,7 +80,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -147,7 +147,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -198,7 +198,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -230,6 +230,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "D-"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

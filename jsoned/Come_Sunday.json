@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Come Sunday;Ellington Duke;Ballad;Bb",
       "{A:T44F7   |Eb7#11   |F7  Gb7,|G7   |C-7   |F7   |Bb Eb6/Bb |Bbo7 Bb6 ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -66,7 +66,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   }
                ]
             },
@@ -141,7 +141,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -155,7 +155,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             }
@@ -174,7 +174,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -219,7 +219,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   }
                ]
             },
@@ -239,6 +239,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "Bb"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

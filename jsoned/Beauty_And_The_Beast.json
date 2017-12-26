@@ -1,5 +1,5 @@
 {
-   "style" : "Funk",
+   "style" : null,
    "metadata" : [
       "IREALB;Beauty And The Beast;Shorter Wayne;Funk;F",
       "i:T44F13   |%   |%   |%   |F13   |%   |%   |F13 E7#9, ",
@@ -50,7 +50,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             }
@@ -82,7 +82,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "E7#9"
+                           "name" : "E7(#9)"
                         }
                      ]
                   }
@@ -125,7 +125,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7#9"
+                           "name" : "C7(#9)"
                         }
                      ]
                   }
@@ -145,11 +145,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -168,7 +168,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -201,7 +201,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             }
@@ -216,9 +216,6 @@
                   {
                      "name" : "F13"
                   }
-               ],
-               "comments" : [
-                  "Open for solos"
                ]
             },
             {
@@ -231,9 +228,10 @@
                "repeat_last" : 1
             }
          ],
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "Open for solos"
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "F"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;C'est Si Bon;Betti Henri;Medium Swing;Bb",
       "{T44A:C-7   |F7   |Bb^7 Eb7 |D-7 G7 |C-7   |F7   ",
@@ -34,7 +34,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -264,7 +264,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -343,6 +343,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Betti Henri",
-   "key" : "Bb"
+   "composer" : "Henri Betti",
+   "key" : null
 }

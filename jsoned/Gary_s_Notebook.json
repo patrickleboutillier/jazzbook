@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Gary's Notebook;Morgan Lee;Waltz;C-",
       "{i:T34C-   |Db7b5   |C-   |Db7b5   ",
@@ -22,7 +22,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             },
@@ -36,7 +36,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             }
@@ -56,7 +56,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             },
@@ -70,7 +70,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             }
@@ -89,7 +89,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             },
@@ -103,7 +103,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b5"
+                     "name" : "C7(b5)"
                   }
                ]
             },
@@ -117,7 +117,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b5"
+                     "name" : "F#7(b5)"
                   }
                ]
             },
@@ -145,7 +145,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             },
@@ -187,7 +187,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -201,7 +201,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             },
@@ -215,7 +215,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b5"
+                     "name" : "Db7(b5)"
                   }
                ]
             }
@@ -223,6 +223,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Morgan Lee",
-   "key" : "C-"
+   "composer" : "Lee Morgan",
+   "key" : null
 }

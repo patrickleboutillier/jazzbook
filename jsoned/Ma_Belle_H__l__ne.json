@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Ma Belle Hélène;Wheeler Kenny;Medium Up Swing;C",
       "A:T44Ab/G   |%   |E/F#   |%   |C/F   |%   |Ab/Bb   |%   |G/Eb   |%   |Eb/D   |%   |B/C#   |%   |G/F#   |%   |F#/B   |Bb/B   |D/Ab   |C/Ab   |Gb/Ab   |%   |%   |%   ",
@@ -23,7 +23,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E/F#"
+                     "name" : "E/F(#)"
                   }
                ]
             },
@@ -43,7 +43,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
@@ -53,7 +53,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G/Eb"
+                     "name" : "G/E(b)"
                   }
                ]
             },
@@ -73,7 +73,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B/C#"
+                     "name" : "B/C(#)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G/F#"
+                     "name" : "G/F(#)"
                   }
                ]
             },
@@ -107,21 +107,21 @@
             {
                "chords" : [
                   {
-                     "name" : "D/Ab"
+                     "name" : "D/A(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C/Ab"
+                     "name" : "C/A(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Gb/Ab"
+                     "name" : "Gb/A(b)"
                   }
                ]
             },
@@ -142,7 +142,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A/G#"
+                     "name" : "A/G(#)"
                   }
                ]
             },
@@ -162,7 +162,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C#/F#"
+                     "name" : "C#/F(#)"
                   }
                ]
             },
@@ -192,7 +192,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E/Eb"
+                     "name" : "E/E(b)"
                   }
                ]
             },
@@ -275,6 +275,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Wheeler Kenny",
-   "key" : "C"
+   "composer" : "Kenny Wheeler",
+   "key" : null
 }

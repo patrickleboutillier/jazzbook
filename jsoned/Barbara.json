@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Barbara;Silver Horace;Waltz;Eb",
       "{A:T64Bb7b9b5   |%   |Ab7b9b5   |%   |Bb7b9b5   |%   |Eb7sus   |%   ",
@@ -35,7 +35,7 @@
                         },
                         {
                            "beats" : 1.33333333333333,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -47,7 +47,7 @@
                         },
                         {
                            "beats" : 1.33333333333333,
-                           "name" : "Bb7b9"
+                           "name" : "Bb7(b9)"
                         }
                      ]
                   }
@@ -80,7 +80,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -165,7 +165,7 @@
                "meter" : "6/4",
                "chords" : [
                   {
-                     "name" : "Bb7b9b5"
+                     "name" : "Bb7(b9b5)"
                   }
                ]
             },
@@ -175,7 +175,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9b5"
+                     "name" : "Ab7(b9b5)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9b5"
+                     "name" : "Bb7(b9b5)"
                   }
                ]
             },
@@ -218,7 +218,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b9b5"
+                     "name" : "Db7(b9b5)"
                   }
                ]
             },
@@ -236,6 +236,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Eb"
+   "composer" : "Horace Silver",
+   "key" : null
 }

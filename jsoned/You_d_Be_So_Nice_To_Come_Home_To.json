@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;You'd Be So Nice To Come Home To;Porter Cole;Medium Up Swing;A-",
       "A:T44A-7   |Bh7 E7b9 |A-7 E7b9 |A-7   |G-7   |C7   |F^7   |%   ",
@@ -27,7 +27,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -39,7 +39,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -127,7 +127,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -151,7 +151,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -163,7 +163,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -265,7 +265,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -273,6 +273,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "A-"
+   "composer" : "Cole Porter",
+   "key" : null
 }

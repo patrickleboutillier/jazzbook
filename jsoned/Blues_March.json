@@ -133,9 +133,6 @@
                   {
                      "name" : "Bb7"
                   }
-               ],
-               "comments" : [
-                  "*68  Solos:"
                ]
             },
             {
@@ -229,7 +226,7 @@
                   }
                ],
                "comments" : [
-                  "After solos, D.C. al Coda"
+                  "0-After solos, D.C. al Coda"
                ]
             },
             {
@@ -246,7 +243,8 @@
             }
          ],
          "label" : "B",
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "*68  Solos:"
       },
       {
          "bars" : [

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Bohemia After Dark;Pettiford Oscar;Up Tempo Swing;G-",
       "{A:T44G-7   |Ah7 D7b9 |%%   |    |G-7   |Ah7 D7b9 ",
@@ -25,7 +25,7 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         },
                         {
                            "beats" : 2,
@@ -69,7 +69,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -92,7 +92,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -134,7 +134,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -158,7 +158,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -181,7 +181,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -199,6 +199,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Pettiford Oscar",
-   "key" : "G-"
+   "composer" : "Oscar Pettiford",
+   "key" : null
 }

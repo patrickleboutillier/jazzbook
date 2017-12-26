@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;It's A Good Day;Lee Peggy;Medium Up Swing;Eb",
       "A:T44Eb6 |F-7 |G-7 |C-7 |F-7   |Bb7   |Eb6   |//Bb7#5, |Eb6   |F-7   |G-7 |C-7 |F-7 |Bb7 |Eb6   |Bb7#5   ",
@@ -73,7 +73,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -129,7 +129,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             }
@@ -202,7 +202,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -305,7 +305,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -370,7 +370,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             }
@@ -453,6 +453,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Lee Peggy",
-   "key" : "Eb"
+   "composer" : "Peggy Lee",
+   "key" : null
 }

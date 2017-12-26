@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;How About You;Lane Burton;Medium Swing;F",
       "A:T44F^7 Bb7 |A-7 Abo7 |G-7   |C7   |F^7 Bb7 |A-7 Abo7 |Ah7   |D7b13   |G-7   |Bb-6(Eh7) Eb7(A7b9) |A-7(D-7) D-7 |Bh7 E7b9 |A^7 F#-7 |B-7 E7 |A^7   |G-7 C7 ",
@@ -82,7 +82,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   }
                ]
             },
@@ -125,7 +125,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -272,7 +272,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -323,6 +323,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Lane Burton",
-   "key" : "F"
+   "composer" : "Burton Lane",
+   "key" : null
 }

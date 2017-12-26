@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Wayne's Thang;Garrett Kenny;Medium Up Swing;E-",
       "A:T44E-7   |%   |C6   |%   |B7b9b13   |%   |E-7   |%   ",
@@ -33,7 +33,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9b13"
+                     "name" : "B7(b9b13)"
                   }
                ]
             },
@@ -78,7 +78,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9b13"
+                     "name" : "B7(b9b13)"
                   }
                ]
             },
@@ -99,6 +99,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Garrett Kenny",
-   "key" : "E-"
+   "composer" : "Kenny Garrett",
+   "key" : null
 }

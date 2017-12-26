@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Close Your Eyes;Petkere Bernice;Medium Swing;Eb-",
       "{A:T44Fh7   |Bb7b9   |Fh7   |Bb7b9   |Eb-6 Ch7 |Fh7 Bb7b9 ",
@@ -55,7 +55,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -69,7 +69,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -93,7 +93,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             }
@@ -151,7 +151,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             }
@@ -170,7 +170,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -208,7 +208,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -226,6 +226,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Petkere Bernice",
-   "key" : "Eb-"
+   "composer" : "Bernice Petkere",
+   "key" : null
 }

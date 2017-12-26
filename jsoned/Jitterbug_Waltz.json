@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Jitterbug Waltz;Waller Fats;Waltz;Eb",
       "{A:T34Eb^7   |%   |%   |%   |Ab7   |%   |%   |%   |Eb^7   |%   |%   |%   |G-7   |C7   |G-7   |C7   ",
@@ -191,7 +191,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -222,6 +222,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Waller Fats",
-   "key" : "Eb"
+   "composer" : "Fats Waller",
+   "key" : null
 }

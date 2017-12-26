@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Folks Who Live On The Hill, The;Kern Jerome;Ballad;C",
       "{T44A:C^7 Gb7#11, |F^7 G7sus, |C^7/E, Ebo7 |D-7 A-7/C, |G7/B, A-7 |D-7/G, G7/F, |C^7 C7 |F^7 G7 |E-7 A7b9, |D-7 G7 ",
@@ -58,7 +58,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "B7b9"
+                           "name" : "B7(b9)"
                         }
                      ]
                   }
@@ -76,7 +76,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -209,7 +209,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-^7/D#"
+                     "name" : "E-^7/D(#)"
                   }
                ]
             },
@@ -233,7 +233,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "A7/C#"
+                     "name" : "A7/C(#)"
                   },
                   {
                      "beats" : 1,
@@ -286,7 +286,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
@@ -382,7 +382,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -406,7 +406,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -450,6 +450,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Kern Jerome",
-   "key" : "C"
+   "composer" : "Jerome Kern",
+   "key" : null
 }

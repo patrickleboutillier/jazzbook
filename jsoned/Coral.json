@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Coral;Jarrett Keith;Ballad;C-",
       "T44C-7 F7 |D/Bb Bb^7 |Ah D7b9 |G-7 C7 |B^7 F#^7/A# |G#-7 B^7/F# |Gb^9#11 Gb7sus |F-11, Dh,G7b9"
@@ -25,7 +25,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D/Bb"
+                     "name" : "D/B(b)"
                   },
                   {
                      "beats" : 2,
@@ -41,7 +41,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -65,7 +65,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F#^7/A#"
+                     "name" : "F#^7/A(#)"
                   }
                ]
             },
@@ -77,7 +77,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B^7/F#"
+                     "name" : "B^7/F(#)"
                   }
                ]
             },
@@ -85,7 +85,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Gb^9#11"
+                     "name" : "Gb^9(#11)"
                   },
                   {
                      "beats" : 2,
@@ -105,13 +105,13 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Jarrett Keith",
-   "key" : "C-"
+   "composer" : "Keith Jarrett",
+   "key" : null
 }

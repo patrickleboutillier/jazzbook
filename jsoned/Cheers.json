@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Cheers;McGhee Howard;Medium Swing;Bb",
       "{A:T44Bb6   |Eb7   |Bb6   |Gb7   |D-7 G7 |C-7 F7 ",
@@ -22,7 +22,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -161,7 +161,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             }
@@ -245,6 +245,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "McGhee Howard",
-   "key" : "Bb"
+   "composer" : "Howard McGhee",
+   "key" : null
 }

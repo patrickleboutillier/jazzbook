@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Lady's In Love With You, The;Lane Burton;Medium Swing;G",
       "{A:T44A7,   |%   |A-7,   |D9,   |G6,   |//D7#5, |G6,   |%   ",
@@ -54,7 +54,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -175,7 +175,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -193,6 +193,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Lane Burton",
-   "key" : "G"
+   "composer" : "Burton Lane",
+   "key" : null
 }

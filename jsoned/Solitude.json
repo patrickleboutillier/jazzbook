@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Solitude;Ellington Duke;Ballad;Eb",
       "{A:T44Eb^7   |//Eb7 |Ab^7   |Db7#11   |F-7   |Bb7   ",
@@ -96,7 +96,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   }
                ]
             },
@@ -166,11 +166,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -224,7 +224,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -270,6 +270,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "Eb"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Celia;Powell Bud;Up Tempo Swing;Bb",
       "{i:T44Bb^7   |B7   |Bb^7   |B7   ",
@@ -163,7 +163,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -332,7 +332,7 @@
                   }
                ],
                "comments" : [
-                  "solos on AABA"
+                  "0-solos on AABA"
                ]
             },
             {
@@ -351,6 +351,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Powell Bud",
-   "key" : "Bb"
+   "composer" : "Bud Powell",
+   "key" : null
 }

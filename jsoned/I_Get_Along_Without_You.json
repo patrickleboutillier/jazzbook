@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Get Along Without You;Carmichael Hoagy;Ballad;Bb",
       "{T44A:Bb^7 C-7,F7,|Bb^7  G7,|C-7 F7 |C-7 F7 |C-7 F7 |C-7 F7 ",
@@ -392,7 +392,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -423,6 +423,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "Bb"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Favela;Jobim Antonio-Carlos;Bossa Nova;G-",
       "A:T34G-7   |F/G   |G-7   |F/G   |G-7   |F/G   |G-7   |%   |C-7   |F7   |Bb^7   |Bb7   |Eh7 Eb-6 |G-7 D-7 |G-7   |%   ",
@@ -176,18 +176,18 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             }
@@ -314,6 +314,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "G-"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

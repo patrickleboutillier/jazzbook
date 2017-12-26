@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;In Pursuit Of The 27th Man;Silver Horace;Latin;C",
       "{i:C7b9sus   |%   |%%   |    ",
@@ -14,7 +14,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9sus"
+                     "name" : "C7(b9sus)"
                   }
                ]
             },
@@ -34,7 +34,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9sus"
+                     "name" : "C7(b9sus)"
                   }
                ]
             },
@@ -48,7 +48,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9sus"
+                     "name" : "C7(b9sus)"
                   }
                ]
             },
@@ -75,7 +75,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -99,7 +99,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             }
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9sus"
+                     "name" : "C7(b9sus)"
                   }
                ]
             },
@@ -139,7 +139,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9sus"
+                     "name" : "C7(b9sus)"
                   }
                ]
             },
@@ -154,6 +154,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "C"
+   "composer" : "Horace Silver",
+   "key" : null
 }

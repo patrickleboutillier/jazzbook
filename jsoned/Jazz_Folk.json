@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Jazz Folk;Abercrombie John;Medium Swing;C",
       "{A:T44C^7   |F^7   |A-7 Ab7#11 |G7sus G7 |C7sus   |C7   |F^7   |F-7   |E-7   |A7b9   |D-7   |G7   ",
@@ -81,7 +81,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "B7#9#5"
+                           "name" : "B7(#9#5)"
                         }
                      ]
                   }
@@ -151,7 +151,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -205,7 +205,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -239,7 +239,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -257,7 +257,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -269,11 +269,11 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd End."
+                  "0-D.C. al 3rd End."
                ]
             },
             {
@@ -292,6 +292,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Abercrombie John",
-   "key" : "C"
+   "composer" : "John Abercrombie",
+   "key" : null
 }

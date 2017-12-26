@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Smooth One, A;Goodman Benny;Medium Up Swing;F",
       "{A:T44Bo7 Bb6 |F6/A F6 |Bo7 Bb6 |F6/A F6 |Bo7 Bb6 |F6/A F6 |G7 C7 ",
@@ -189,7 +189,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -305,6 +305,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Goodman Benny",
-   "key" : "F"
+   "composer" : "Benny Goodman",
+   "key" : null
 }

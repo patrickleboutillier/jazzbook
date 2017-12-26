@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Blue Silver;Silver Horace;Medium Swing;Eb-",
       "A:T44E-7   |Eb-7   |Fh7   |Ab-7 Db9 |Fh7 Ab-7 |Db-9 Gb6 |Fh7 Gb13 |Ab13 Bb7#5 |Eb-7   |%   |%   |%   ",
@@ -88,7 +88,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -159,7 +159,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -190,7 +190,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             }
@@ -276,7 +276,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -300,6 +300,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Eb-"
+   "composer" : "Horace Silver",
+   "key" : null
 }

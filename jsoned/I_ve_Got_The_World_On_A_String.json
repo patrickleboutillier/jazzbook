@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I've Got The World On A String;Arlen Harold;Medium Swing;F",
       "{A:T44F6,Eb7,D7 |G-7 C7 |F^7 Bb7 |A-7 Ab-7 |G-7 C7 |G-7 C7 ",
@@ -18,11 +18,11 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7#9"
+                           "name" : "D7(#9)"
                         }
                      ]
                   },
@@ -307,6 +307,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "F"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

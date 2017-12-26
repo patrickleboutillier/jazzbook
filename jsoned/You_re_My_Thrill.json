@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;You're My Thrill;Gorney Jay;Medium Swing;C",
       "{A:T44E13   |Bh7   |E13   |%   |Eh7   |A7b9   |D7 Bb9 |A-, F7, ",
@@ -45,7 +45,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -89,7 +89,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -171,7 +171,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -203,6 +203,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Gorney Jay",
-   "key" : "C"
+   "composer" : "Jay Gorney",
+   "key" : null
 }

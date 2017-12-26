@@ -1,5 +1,5 @@
 {
-   "style" : "Samba",
+   "style" : null,
    "metadata" : [
       "IREALB;Lone Jack (Page 1);Metheny Pat;Samba;Bb-",
       "{A:T44Bb-7 |% |Gb^7 |% |Bb-7 |% |Gb^7 |% |Bb-7   |%   |Gb^7   |%   |F7#9   |%   |Ab Bb-7 |Bb-7  @ ",
@@ -74,7 +74,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -160,7 +160,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             },
@@ -170,7 +170,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -196,7 +196,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al Coda"
+                  "0-D.C. al Coda"
                ]
             }
          ],
@@ -218,7 +218,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db/Eb"
+                     "name" : "Db/E(b)"
                   },
                   {
                      "beats" : 2,
@@ -230,7 +230,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Gb6/Ab"
+                     "name" : "Gb6/A(b)"
                   },
                   {
                      "beats" : 2,
@@ -242,7 +242,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db/Eb"
+                     "name" : "Db/E(b)"
                   },
                   {
                      "beats" : 2,
@@ -258,7 +258,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
@@ -270,7 +270,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E/F#"
+                     "name" : "E/F(#)"
                   }
                ]
             },
@@ -313,14 +313,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             }
@@ -328,6 +328,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "Bb-"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

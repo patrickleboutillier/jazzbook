@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;If You Never Come To Me;Jobim Antonio-Carlos;Bossa Nova;C",
       "T44C^7   |B^7   |Bb^7#11   |A7b9   |D-11   |%   |F-7   |Bb7   |E7   |A7   |D7#9   |G7   |C7   |F7   |C^7   |Db7#11   "
@@ -26,14 +26,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -78,7 +78,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -113,13 +113,13 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "C"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Dreamsville;Mancini Henry;Ballad;C",
       "{A:T44C^7   |G-7/C   |C^7   |G-7  F#7,|C-7/F F7 |D-7 Eb-7 ",
@@ -51,7 +51,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Db7#11"
+                           "name" : "Db7(#11)"
                         }
                      ]
                   },
@@ -139,7 +139,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b13"
+                     "name" : "B7(b13)"
                   }
                ]
             },
@@ -182,7 +182,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C#7b9"
+                     "name" : "C#7(b9)"
                   }
                ]
             },
@@ -194,7 +194,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -206,7 +206,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -292,7 +292,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -307,6 +307,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Mancini Henry",
-   "key" : "C"
+   "composer" : "Henry Mancini",
+   "key" : null
 }

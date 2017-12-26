@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;What Is This Thing Called Love;Porter Cole;Up Tempo Swing;C",
       "{A:T44Gh7   |C7b9   |F-6   |%   |Dh7   |G7#5   |C^7   |%   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -128,7 +128,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -152,7 +152,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -170,6 +170,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "C"
+   "composer" : "Cole Porter",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;My Little Brown Book;Strayhorn Billy;Slow Swing;Bb",
       "{A:T44Bb6 F7#5 |Bb7   |Eb^7   |Eb-6 Ab7 |Bb Bb+ |C-7 F7 ",
@@ -34,7 +34,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "F7#5"
+                           "name" : "F7(#5)"
                         }
                      ]
                   }
@@ -81,7 +81,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -149,7 +149,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -161,7 +161,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
@@ -197,7 +197,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -209,7 +209,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -229,7 +229,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -250,7 +250,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -350,6 +350,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Strayhorn Billy",
-   "key" : "Bb"
+   "composer" : "Billy Strayhorn",
+   "key" : null
 }

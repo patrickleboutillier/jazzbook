@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;New Picture;Heath Jimmy;Waltz;Bb",
       "i:T34Bb^7,   |%   |Eb-^7   |%   |Bb^7   |%   |Eb-^7   |%   ",
@@ -68,7 +68,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -122,14 +122,14 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7b5"
+                     "name" : "D-7(b5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -150,7 +150,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E-7b5"
+                     "name" : "E-7(b5)"
                   }
                ]
             },
@@ -160,7 +160,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#9"
+                     "name" : "A7(#9)"
                   }
                ]
             },
@@ -182,7 +182,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -203,7 +203,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7#11"
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
@@ -213,7 +213,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -350,6 +350,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Heath Jimmy",
-   "key" : "Bb"
+   "composer" : "Jimmy Heath",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I've Grown Accustomed To Her Face;Loewe Frederick;Ballad;Eb",
       "A:T44Eb^7 Ab7#11 |G-7 C-7 |F-7   |Bb7   |Ab^7#11 Ah,D7,|G-7 C7b9 |F-7 C7b9 |F-7 Bb7 ",
@@ -18,7 +18,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -52,7 +52,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   },
                   {
                      "beats" : 1,
@@ -72,7 +72,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -84,7 +84,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -147,7 +147,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   },
                   {
                      "beats" : 1,
@@ -167,7 +167,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -187,11 +187,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   }
                ]
             },
@@ -219,7 +219,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -231,7 +231,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   }
                ]
             },
@@ -251,6 +251,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Loewe Frederick",
-   "key" : "Eb"
+   "composer" : "Frederick Loewe",
+   "key" : null
 }

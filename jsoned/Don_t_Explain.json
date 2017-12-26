@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Don't Explain;Holiday Billie;Ballad;D-",
       "{A:T44D-   |Eh7 A7b9 |D-   |Eh7 A7b9 |Eb7#11   |Db7#11 G-7,C7,|F^7   |Eh7 A7b9 ",
@@ -26,7 +26,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -45,14 +45,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -60,7 +60,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   },
                   {
                      "beats" : 1,
@@ -87,7 +87,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -141,7 +141,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -189,7 +189,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -213,7 +213,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -232,14 +232,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -247,7 +247,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   },
                   {
                      "beats" : 1,
@@ -274,7 +274,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -282,6 +282,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Holiday Billie",
-   "key" : "D-"
+   "composer" : "Billie Holiday",
+   "key" : null
 }

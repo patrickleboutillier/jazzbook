@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Just In Tune;Abercrombie John;Medium Up Swing;C",
       "{A:T44D7sus   |%   |Dh7   |G7b9   |C-7   |C-7/Bb   |A-7   |%   ",
@@ -69,7 +69,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "E7b9"
+                           "name" : "E7(b9)"
                         }
                      ]
                   }
@@ -82,7 +82,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F^7#11"
+                           "name" : "F^7(#11)"
                         }
                      ]
                   },
@@ -96,7 +96,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Ab^7#11"
+                           "name" : "Ab^7(#11)"
                         }
                      ]
                   },
@@ -150,7 +150,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -164,7 +164,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -183,6 +183,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Abercrombie John",
-   "key" : "C"
+   "composer" : "John Abercrombie",
+   "key" : null
 }

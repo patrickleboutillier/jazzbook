@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I Concentrate On You;Porter Cole;Up Tempo Swing;Eb",
       "A:T44Eb^7 |% |Ab7#11 |% |Eb-7 |% |Ab-6 |% |Fh7 |Bb7b9 |Eb-7 |Gb7 |B7 |Bb7b13, |Eb6 |F-7,Bb7,",
@@ -25,7 +25,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -62,7 +62,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -131,7 +131,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -393,7 +393,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -403,14 +403,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -461,6 +461,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "Eb"
+   "composer" : "Cole Porter",
+   "key" : null
 }

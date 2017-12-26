@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Star Eyes;DePaul Gene;Medium Swing;Eb",
       "{A:T44Eb^7   |F-7 Bb7 |Eb^7   |Eb-7 Ab7 |Db^7   |G-7 C7 |F^7   |B7 Bb7 ",
@@ -231,11 +231,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -243,11 +243,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db7#9"
+                     "name" : "Db7(#9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -283,6 +283,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "DePaul Gene",
-   "key" : "Eb"
+   "composer" : "Gene DePaul",
+   "key" : null
 }

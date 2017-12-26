@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;For Once In My Life;Murden Orlando;Medium Swing;Bb",
       "A:T44Bb Bb+ |Bb6 Bo7 |C- G7 |C- G7 |C- C-b6 |C-6 F7 |Bb6 F7 |Bb6 D7 ",
@@ -68,7 +68,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-b6"
+                     "name" : "C-(b6)"
                   }
                ]
             },
@@ -121,7 +121,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F#"
+                     "name" : "G-/F(#)"
                   }
                ]
             },
@@ -133,7 +133,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             }
@@ -250,7 +250,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-b6"
+                     "name" : "C-(b6)"
                   }
                ]
             },
@@ -303,7 +303,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F#"
+                     "name" : "G-/F(#)"
                   }
                ]
             },
@@ -315,7 +315,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -329,7 +329,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -380,6 +380,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Murden Orlando",
-   "key" : "Bb"
+   "composer" : "Orlando Murden",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;There's A Lull In My Life;Revel Harry;Ballad;F",
       "{A:T44F^7 G-7,A-,|Bb^7 A-7 |G-7 A-7,Bb^,|A-7 G-7 |F6 G-7,A-|Bb^7 G-7,C7",
@@ -51,7 +51,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Eb7#11"
+                           "name" : "Eb7(#11)"
                         }
                      ]
                   },
@@ -407,6 +407,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Revel Harry",
-   "key" : "F"
+   "composer" : "Harry Revel",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Indiana (Back Home Again In);Hanley James;Up Tempo Swing;F",
       "A:T44F^7 Eb7 |D7   |G7   |%   |G-7   |C7   |F^7   |C-7 F7 |Bb^7   |Bb-7 Eb7 |F^7   |D7   |G7   |%   |G-7   |C7   ",
@@ -173,7 +173,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -192,7 +192,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -286,6 +286,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Hanley James",
-   "key" : "F"
+   "composer" : "James Hanley",
+   "key" : null
 }

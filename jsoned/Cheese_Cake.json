@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Cheese Cake;Gordon Dexter;Medium Up Swing;C-",
       "{A:T44C-69,   |Dh7 G7#5 |C-69   |C7   |F-69   |C7#5   |F-69   |%   |Dh7   |G7#5   |F-7   |Bb7   |Eb-7 Ab7 |Dh7 G7#5, ",
@@ -28,7 +28,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7#5"
+                           "name" : "G7(#5)"
                         }
                      ]
                   }
@@ -47,7 +47,7 @@
                   {
                      "repeat_last" : 1,
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -71,7 +71,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -99,7 +99,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -123,7 +123,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -161,7 +161,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             }
@@ -220,13 +220,13 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 2nd End."
+                  "0-D.C. al 2nd End."
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G9#5"
+                     "name" : "G9(#5)"
                   }
                ]
             }
@@ -234,6 +234,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Gordon Dexter",
-   "key" : "C-"
+   "composer" : "Dexter Gordon",
+   "key" : null
 }

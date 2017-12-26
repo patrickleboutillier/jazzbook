@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Serene;Dolphy Eric;Slow Swing;Eb",
       "T44Eb^7   |Ab7#11   |Db7   |Eb7   |Ab7   |D7b5   |Eb^7   |Db-7 Gb7 |Fh7   |Bb7b5 B-7,E7,|Ab7#11  @ |%   ",
@@ -20,7 +20,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -48,7 +48,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b5"
+                     "name" : "D7(b5)"
                   }
                ]
             },
@@ -82,7 +82,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7b5"
+                     "name" : "Bb7(b5)"
                   },
                   {
                      "beats" : 1,
@@ -98,7 +98,7 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -125,7 +125,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   },
                   {
                      "beats" : 2,
@@ -144,6 +144,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Dolphy Eric",
-   "key" : "Eb"
+   "composer" : "Eric Dolphy",
+   "key" : null
 }

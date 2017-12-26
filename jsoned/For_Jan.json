@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;For Jan;Wheeler Kenny;Waltz;A",
       "T34Bb^7#11   |E7alt   |A7b9b13   |D-9   |E7b9b13   |%   |A-7   |F^7#11   |Bb^7#11   |E7alt   |A7b9b13   |Ab7#5   |C/G   |E7b13/G#   |A-7   |B7#9#5   |E-11   |D-11   |C-11   |Bb^7#11   |E7alt   |%   |A^7   |%   "
@@ -12,7 +12,7 @@
                "meter" : "3/4",
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -26,7 +26,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9b13"
+                     "name" : "A7(b9b13)"
                   }
                ]
             },
@@ -40,7 +40,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9b13"
+                     "name" : "E7(b9b13)"
                   }
                ]
             },
@@ -57,14 +57,14 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -78,14 +78,14 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9b13"
+                     "name" : "A7(b9b13)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
@@ -99,7 +99,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b13/G#"
+                     "name" : "E7(b13/G#)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9#5"
+                     "name" : "B7(#9#5)"
                   }
                ]
             },
@@ -141,7 +141,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -168,6 +168,6 @@
          ]
       }
    ],
-   "composer" : "Wheeler Kenny",
-   "key" : "A"
+   "composer" : "Kenny Wheeler",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Our Delight;Dameron Tad;Medium Swing;Ab",
       "A:T44Bb13   |Bb-7(A13) Eb7 |Ab^7   |F9   |Bb13   |Bb-7 Bo7 ",
@@ -80,7 +80,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9b13"
+                     "name" : "Ab7(b9b13)"
                   }
                ]
             },
@@ -227,6 +227,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Dameron Tad",
-   "key" : "Ab"
+   "composer" : "Tad Dameron",
+   "key" : null
 }

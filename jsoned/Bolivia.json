@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Bolivia;Walton Cedar;Up Tempo Swing;D",
       "{i:G7 |% |% |% |% |% |% |% (E^)",
@@ -69,7 +69,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b13"
+                     "name" : "F#7(b13)"
                   }
                ]
             },
@@ -97,7 +97,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7#11"
+                     "name" : "C^7(#11)"
                   }
                ]
             },
@@ -144,7 +144,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -158,7 +158,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#9"
+                     "name" : "A7(#9)"
                   }
                ]
             }
@@ -200,6 +200,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Walton Cedar",
-   "key" : "D"
+   "composer" : "Cedar Walton",
+   "key" : null
 }

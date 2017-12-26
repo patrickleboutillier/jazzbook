@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Ugly Beauty;Monk Thelonious;Waltz;Db",
       "{A:T34Dh7   |G7b9   |Dh7   |Db^7 Eb7#11 |Eb-7   |Ab13b9   |Db^7   |%   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -40,7 +40,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -54,7 +54,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             },
@@ -84,14 +84,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b9"
+                     "name" : "Db7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -103,7 +103,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -117,7 +117,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -131,7 +131,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b5"
+                     "name" : "G7(b5)"
                   }
                ]
             }
@@ -150,7 +150,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -169,7 +169,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -183,7 +183,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             },
@@ -201,6 +201,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Db"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

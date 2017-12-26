@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Didn't Know About You;Ellington Duke;Ballad;F",
       "{A:T44G-7 C7 |F^7 F6 |Bb7 A7 |Eb9 D7b9 |G7#11   |G-7 C7 ",
@@ -29,7 +29,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   }
@@ -98,14 +98,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -209,7 +209,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             }
@@ -262,14 +262,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -305,7 +305,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -313,6 +313,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "F"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

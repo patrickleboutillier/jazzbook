@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Out Of Nowhere;Green Johnny;Medium Swing;G",
       "A:T44G^7   |%   |Bb-7   |Eb7   |G^7   |%   |B-7   |E7b9   ",
@@ -56,7 +56,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -75,7 +75,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -162,7 +162,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -181,7 +181,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -246,6 +246,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Green Johnny",
-   "key" : "G"
+   "composer" : "Johnny Green",
+   "key" : null
 }

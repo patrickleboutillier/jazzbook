@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Very Thought Of You, The;Noble Ray;Ballad;Ab",
       "A:T44Ab^7 Db^7 |C-7 Eb7sus |Ab6 Db^7 |C-7 Eb7sus |Ab6 Bb-7 |Bo7 Ab6/C |Bb9   |%   ",
@@ -119,7 +119,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -131,7 +131,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Eb"
+                     "name" : "F-7/E(b)"
                   }
                ]
             },
@@ -179,7 +179,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -187,7 +187,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#11"
+                     "name" : "E7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -307,7 +307,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -319,7 +319,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Eb"
+                     "name" : "F-7/E(b)"
                   }
                ]
             },
@@ -377,6 +377,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Noble Ray",
-   "key" : "Ab"
+   "composer" : "Ray Noble",
+   "key" : null
 }

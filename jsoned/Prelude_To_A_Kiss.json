@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Prelude To A Kiss;Ellington Duke;Ballad;C",
       "{A:T44D9 G9 |C7 F^7 |B9 E9 |A7 D-7 |D-7 G7,G#o,|A-7 D13 |D-7 G7b9 ",
@@ -141,7 +141,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -344,7 +344,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -368,6 +368,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "C"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

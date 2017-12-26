@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Crisis;Hubbard Freddie;Medium Swing;C",
       "{i:T44B7   |%   |%   |%  <NHg=> ",
@@ -30,7 +30,7 @@
             {
                "repeat_last" : 1,
                "comments" : [
-                  "4x"
+                  "0-4x"
                ]
             }
          ],
@@ -44,7 +44,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F#7#9"
+                           "name" : "F#7(#9)"
                         }
                      ]
                   }
@@ -75,7 +75,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "F#7#9"
+                           "name" : "F#7(#9)"
                         }
                      ]
                   },
@@ -120,7 +120,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "F#7#9"
+                           "name" : "F#7(#9)"
                         }
                      ]
                   }
@@ -190,7 +190,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#9"
+                     "name" : "F#7(#9)"
                   }
                ]
             },
@@ -204,7 +204,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#9"
+                     "name" : "F#7(#9)"
                   }
                ]
             },
@@ -281,7 +281,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#9"
+                     "name" : "F#7(#9)"
                   }
                ]
             },
@@ -295,7 +295,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#9"
+                     "name" : "F#7(#9)"
                   }
                ]
             },
@@ -320,23 +320,21 @@
                   {
                      "name" : "B-"
                   }
-               ],
-               "comments" : [
-                  "Repeat and Fade"
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F#7#9"
+                     "name" : "F#7(#9)"
                   }
                ]
             }
          ],
          "label" : "@",
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "Repeat and Fade"
       }
    ],
-   "composer" : "Hubbard Freddie",
-   "key" : "C"
+   "composer" : "Freddie Hubbard",
+   "key" : null
 }

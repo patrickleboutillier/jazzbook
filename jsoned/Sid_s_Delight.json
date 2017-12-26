@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Sid's Delight;Dameron Tadd;Medium Swing;Ab",
       "{T44Bb-7   |Bb-7 Eb7b9 |Ab^7   |Ch F7 |Bb-7   |Bb-7 Eb7b9 |Ab^7   |Eb-7 Ab7 ",
@@ -22,7 +22,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Gb7#11"
+                           "name" : "Gb7(#11)"
                         }
                      ]
                   },
@@ -36,14 +36,14 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F7#11"
+                           "name" : "F7(#11)"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "Bb7#11"
+                           "name" : "Bb7(#11)"
                         }
                      ]
                   },
@@ -53,7 +53,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb7#11"
+                           "name" : "Eb7(#11)"
                         }
                      ]
                   },
@@ -84,7 +84,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Gb7#11"
+                           "name" : "Gb7(#11)"
                         }
                      ]
                   },
@@ -98,7 +98,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F7#11"
+                           "name" : "F7(#11)"
                         }
                      ]
                   },
@@ -152,7 +152,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -190,7 +190,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -217,6 +217,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Dameron Tadd",
-   "key" : "Ab"
+   "composer" : "Tadd Dameron",
+   "key" : null
 }

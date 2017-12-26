@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Sophisticated Lady;Ellington Duke;Ballad;Ab",
       "{A:T44Bb-7   |Gb7,F7,E7,Eb7,|Ab^7   |Ab7,G7,Gb7,F7,|Bb7   |Bb-7 Eb7 ",
@@ -29,7 +29,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "F7b9"
+                           "name" : "F7(b9)"
                         }
                      ]
                   }
@@ -174,7 +174,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -186,7 +186,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -335,7 +335,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -343,6 +343,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "Ab"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

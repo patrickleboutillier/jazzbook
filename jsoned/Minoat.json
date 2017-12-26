@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Minoat;Waldron Mal;Ballad;C-",
       "{A:T44F7#11   |F-9 Bb7b9 |Ab^7#11   |G7b13   |C-7 B+/C# |Dh7 G7b13 ",
@@ -24,7 +24,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -52,7 +52,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F7#11"
+                     "name" : "F7(#11)"
                   }
                ]
             },
@@ -64,21 +64,21 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B+/C#"
+                     "name" : "B+/C(#)"
                   }
                ]
             },
@@ -102,7 +102,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             }
@@ -139,7 +139,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -151,7 +151,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab+/Bb"
+                     "name" : "Ab+/B(b)"
                   }
                ]
             },
@@ -178,7 +178,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -206,7 +206,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#11"
+                     "name" : "F7(#11)"
                   }
                ]
             },
@@ -218,21 +218,21 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11"
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -244,7 +244,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B+/C#"
+                     "name" : "B+/C(#)"
                   }
                ]
             },
@@ -256,7 +256,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -270,7 +270,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -278,6 +278,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Waldron Mal",
-   "key" : "C-"
+   "composer" : "Mal Waldron",
+   "key" : null
 }

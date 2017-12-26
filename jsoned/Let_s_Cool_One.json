@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Let's Cool One;Monk Thelonious;Medium Swing;Eb",
       "{A:T44Eb^7   |F-7 Bb7 |Eb^,D7,Db7,G7,|C7b9#11   |F7   |Bb7   |Eb6   |% (F-7) (Bb7) ",
@@ -53,7 +53,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9#11"
+                     "name" : "C7(b9#11)"
                   }
                ]
             },
@@ -178,7 +178,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9#11"
+                     "name" : "C7(b9#11)"
                   }
                ]
             },
@@ -210,6 +210,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Eb"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

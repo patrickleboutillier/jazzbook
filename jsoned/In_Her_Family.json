@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;In Her Family;Metheny Pat;Even 8ths;E",
       "{A:T44G#-9   |D^7/F#   |E^9   |D#-7   |C#-7 E^9 |F#2 E^9 |C#-7 G#-9 |F#/A# Aadd9 |E/G#, Bb^7#11/F |E, Bb^7#11/D |E Bb^7#11,@ |E   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7/F#"
+                     "name" : "D^7/F(#)"
                   }
                ]
             },
@@ -79,7 +79,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#/A#"
+                     "name" : "F#/A(#)"
                   },
                   {
                      "beats" : 2,
@@ -91,11 +91,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E/G#"
+                     "name" : "E/G(#)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb^7#11/F"
+                     "name" : "Bb^7(#11/F)"
                   }
                ]
             },
@@ -107,7 +107,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb^7#11/D"
+                     "name" : "Bb^7(#11/D)"
                   }
                ]
             },
@@ -120,7 +120,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -161,7 +161,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C/Bb"
+                     "name" : "C/B(b)"
                   }
                ]
             },
@@ -234,14 +234,14 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
             {
                "repeat_last" : 1,
                "comments" : [
-                  "D.C. al coda"
+                  "0-D.C. al coda"
                ]
             }
          ],
@@ -257,7 +257,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb^7#11/F"
+                     "name" : "Bb^7(#11/F)"
                   }
                ]
             },
@@ -275,6 +275,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "E"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

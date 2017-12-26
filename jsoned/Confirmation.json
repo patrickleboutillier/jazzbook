@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Confirmation;Parker Charlie;Up Tempo Swing;F",
       "{A:T44F^7   |Eh7 A7b9 |D-7 G7 |C-7 F7 |Bb7   |A-7 D7 ",
@@ -24,7 +24,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -73,7 +73,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -203,7 +203,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -278,6 +278,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "F"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

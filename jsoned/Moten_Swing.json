@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Moten Swing;Moten Bennie;Medium Swing;Ab",
       "{A:T44Ab6   |%   |Bb-7   |Eb7   |Bb7   |Bb-7/Eb   ",
@@ -22,7 +22,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "F7b9"
+                           "name" : "F7(b9)"
                         }
                      ]
                   },
@@ -102,7 +102,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/Eb"
+                     "name" : "Bb-7/E(b)"
                   }
                ]
             }
@@ -202,7 +202,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/Eb"
+                     "name" : "Bb-7/E(b)"
                   }
                ]
             },
@@ -214,7 +214,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -222,11 +222,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             }
@@ -234,6 +234,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Moten Bennie",
-   "key" : "Ab"
+   "composer" : "Bennie Moten",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Crazy He Calls Me;Sigman Carl;Ballad;F",
       "{A:T44F^7 G-7 |A-7 G-7 |F^7 Bb7#11 |A-7 D7 |G-7 C7 |A-7 D7 ",
@@ -22,7 +22,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D9#5"
+                           "name" : "D9(#5)"
                         }
                      ]
                   },
@@ -34,7 +34,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -109,7 +109,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -288,7 +288,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -356,6 +356,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Sigman Carl",
-   "key" : "F"
+   "composer" : "Carl Sigman",
+   "key" : null
 }

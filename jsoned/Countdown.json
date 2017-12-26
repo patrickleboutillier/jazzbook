@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Countdown;Coltrane John;Up Tempo Swing;Bb",
       "T44E-7 F7 |Bb^7 Db7 |Gb^7 A7 |D^7   |D-7 Eb7 |Ab^7 B7 |E^7 G7 |C^7   |C-7 Db7 |Gb^7 A7 |D^7 F7 |Bb^7   |E-7   |F7   |Bb^7   |A7(Eb7)  @ ",
@@ -232,7 +232,7 @@
                   }
                ],
                "comments" : [
-                  "Rit."
+                  "0-Rit."
                ]
             },
             {
@@ -270,6 +270,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Coltrane John",
-   "key" : "Bb"
+   "composer" : "John Coltrane",
+   "key" : null
 }

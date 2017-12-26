@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Poor Butterfly;Hubbell Raymon;Ballad;Ab",
       "A:T44Bb-7   |Eb7sus Eb7b9 |Abo7   |Ab^7   |C7#9#5   |%   |F7   |C-7 F7 ",
@@ -27,7 +27,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -48,7 +48,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   }
                ]
             },
@@ -101,7 +101,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/Eb"
+                     "name" : "Bb-7/E(b)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -161,7 +161,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -182,7 +182,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   }
                ]
             },
@@ -240,7 +240,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7#11"
+                     "name" : "Db7(#11)"
                   }
                ]
             },
@@ -298,6 +298,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Hubbell Raymon",
-   "key" : "Ab"
+   "composer" : "Raymon Hubbell",
+   "key" : null
 }

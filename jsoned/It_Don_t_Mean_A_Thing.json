@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;It Don't Mean A Thing;Ellington Duke;Medium Up Swing;Bb",
       "{A:T44G-(G-) G-/F# |G-/F(G-^7) C7/E |Eb7(G-7) D7 |G-   ",
@@ -38,7 +38,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D7b5"
+                           "name" : "D7(b5)"
                         }
                      ]
                   }
@@ -85,7 +85,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F#"
+                     "name" : "G-/F(#)"
                   }
                ]
             },
@@ -191,7 +191,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F#"
+                     "name" : "G-/F(#)"
                   }
                ]
             },
@@ -254,6 +254,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "Bb"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

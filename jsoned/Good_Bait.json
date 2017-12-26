@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Good Bait;Dameron Tadd;Medium Swing;Bb",
       "{A:T44Bb6 G-7 |C-7 F7 |Bb6 G-7 |C-7 F7 |Bb^7 Bb7 |Eb^7 Ab7 |D-,Db7,C-,B7,",
@@ -39,7 +39,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7#5"
+                           "name" : "Bb7(#5)"
                         }
                      ]
                   }
@@ -364,6 +364,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Dameron Tadd",
-   "key" : "Bb"
+   "composer" : "Tadd Dameron",
+   "key" : null
 }

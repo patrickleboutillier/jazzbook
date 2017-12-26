@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Upper Manhattan Medical Group;Strayhorn Billy;Medium Up Swing;Db",
       "{A:T44Fh7   |Bb7b9   |Eb-7   |Ab7   |Dbo7 Db6 |Db^7   ",
@@ -63,7 +63,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -116,7 +116,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -140,7 +140,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7b13"
+                     "name" : "Db7(b13)"
                   }
                ]
             },
@@ -173,7 +173,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -223,6 +223,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Strayhorn Billy",
-   "key" : "Db"
+   "composer" : "Billy Strayhorn",
+   "key" : null
 }

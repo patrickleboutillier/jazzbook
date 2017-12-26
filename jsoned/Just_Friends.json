@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Just Friends;Klenner John;Medium Swing;G",
       "A:T44C^7   |%   |C-7   |F7   |G^7   |%   |Bb-7   |Eb7   ",
@@ -202,7 +202,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -255,6 +255,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Klenner John",
-   "key" : "G"
+   "composer" : "John Klenner",
+   "key" : null
 }

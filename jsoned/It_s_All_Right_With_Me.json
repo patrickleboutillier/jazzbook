@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;It's All Right With Me;Porter Cole;Up Tempo Swing;C-",
       "{A:T44C-   |C-^7   |C-7   |C-6   |C-7   |%   |F-7   |%   |F#o7   |%   |Gh7   |C7b9   ",
@@ -34,7 +34,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -148,7 +148,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -226,7 +226,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -239,7 +239,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-6/Eb"
+                     "name" : "Bb-6/E(b)"
                   }
                ]
             },
@@ -259,7 +259,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Abo7/Eb"
+                     "name" : "Abo7/E(b)"
                   }
                ]
             },
@@ -279,7 +279,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-6/Eb"
+                     "name" : "Bb-6/E(b)"
                   }
                ]
             },
@@ -299,14 +299,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Abo7/Eb"
+                     "name" : "Abo7/E(b)"
                   }
                ]
             },
             {
                "repeat_last" : 1,
                "comments" : [
-                  "D.C. al 3rd ending"
+                  "0-D.C. al 3rd ending"
                ]
             },
             {
@@ -319,7 +319,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -327,6 +327,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "C-"
+   "composer" : "Cole Porter",
+   "key" : null
 }

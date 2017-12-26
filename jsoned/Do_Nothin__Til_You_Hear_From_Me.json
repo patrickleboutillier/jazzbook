@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Do Nothin' Til You Hear From Me;Ellington Duke;Medium Swing;Bb",
       "{A:T44Bb^7   |F-7 Bb7 |Eb^7   |Eb-7 Ab7#11 |Bb^7 G7#5 |C7 F7 ",
@@ -97,7 +97,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -109,7 +109,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -223,7 +223,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -235,7 +235,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -274,6 +274,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Ellington Duke",
-   "key" : "Bb"
+   "composer" : "Duke Ellington",
+   "key" : null
 }

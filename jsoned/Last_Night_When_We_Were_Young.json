@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Last Night When We Were Young;Arlen Harold;Ballad;G",
       "{T44A:G^7 C7 |B-7 E7b13 |A7   |A-7 D7#9 |D-7 G7 |Ah7 D7b9 |G^7 G#o7 |A-7 D7 ",
@@ -31,7 +31,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b13"
+                     "name" : "E7(b13)"
                   }
                ]
             },
@@ -50,7 +50,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -74,7 +74,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -142,7 +142,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -168,7 +168,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -282,6 +282,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "G"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

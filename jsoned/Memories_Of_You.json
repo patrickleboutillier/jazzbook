@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Memories Of You;Blake Eubie;Ballad;Eb",
       "{A:T44Eb^7 Eo7 |F-7 F#o7 |Eb^7/G C-7 |Ah7 Ab-6 |Eb^7 D7 |Db7 C7 |F7 Bb7 ",
@@ -176,7 +176,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -322,6 +322,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Blake Eubie",
-   "key" : "Eb"
+   "composer" : "Eubie Blake",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Down In The Depths;Porter Cole;Medium Swing;D",
       "{A:D^7   |A7sus   |D^7   |A7sus   |F#-7   |B-7   |E-7   |C9   ",
@@ -53,7 +53,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D/F#"
+                           "name" : "D/F(#)"
                         }
                      ]
                   }
@@ -286,7 +286,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -319,7 +319,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -355,6 +355,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "D"
+   "composer" : "Cole Porter",
+   "key" : null
 }

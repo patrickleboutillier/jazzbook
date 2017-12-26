@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Beautiful Love;Young Victor;Medium Swing;D-",
       "{A:T44Eh7   |A7b9   |D-   |% (D7)  |G-7   |C7   |F^7   |Eh7 A7b9 ",
@@ -36,7 +36,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   },
@@ -50,7 +50,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7#11"
+                           "name" : "G7(#11)"
                         }
                      ]
                   },
@@ -64,7 +64,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   }
@@ -98,7 +98,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   },
@@ -118,11 +118,11 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Bb7#11"
+                           "name" : "Bb7(#11)"
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   },
@@ -153,7 +153,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -196,7 +196,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -205,6 +205,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Young Victor",
-   "key" : "D-"
+   "composer" : "Victor Young",
+   "key" : null
 }

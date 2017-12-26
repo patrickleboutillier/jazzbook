@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Spain;Corea Chick;Latin;B-",
       "T44G^7#11   |%   |%   |%   |F#7b13   |%   |%   |%   |E-7   |%   |A7   |%   |D^7   |%   |G^7#11   |%   |C#7alt   |%   |F#7b13   |%   |B-7   |%   |B7   |%   "
@@ -12,7 +12,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "G^7#11"
+                     "name" : "G^7(#11)"
                   }
                ]
             },
@@ -28,7 +28,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b13"
+                     "name" : "F#7(b13)"
                   }
                ]
             },
@@ -74,7 +74,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G^7#11"
+                     "name" : "G^7(#11)"
                   }
                ]
             },
@@ -94,7 +94,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b13"
+                     "name" : "F#7(b13)"
                   }
                ]
             },
@@ -124,6 +124,6 @@
          ]
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "B-"
+   "composer" : "Chick Corea",
+   "key" : null
 }

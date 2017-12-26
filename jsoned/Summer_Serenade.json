@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Summer Serenade;Carter Benny;Bossa Nova;Db",
       "A:Db^7   |G13 G9 |C^7   |F#13 F#9 |B^7   |F13 F9 |Bb^7   |F-7 Bb9 ",
@@ -255,7 +255,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7/Bb"
+                     "name" : "C7/B(b)"
                   }
                ]
             },
@@ -283,7 +283,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -363,6 +363,6 @@
          ]
       }
    ],
-   "composer" : "Carter Benny",
-   "key" : "Db"
+   "composer" : "Benny Carter",
+   "key" : null
 }

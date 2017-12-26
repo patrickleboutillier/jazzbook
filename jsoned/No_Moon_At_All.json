@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;No Moon At All;Mann David;Medium Swing;D-",
       "{A:T44D-   |A7b9/C#   |D-/C   |G6/B   |Eh7/Bb   |D-/A Bb7,A7,|D-   |Bb7 A7b9 ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9/C#"
+                     "name" : "A7(b9/C#)"
                   }
                ]
             },
@@ -42,7 +42,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eh7/Bb"
+                     "name" : "Eh7/B(b)"
                   }
                ]
             },
@@ -77,7 +77,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -132,7 +132,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -151,7 +151,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9/C#"
+                     "name" : "A7(b9/C#)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eh7/Bb"
+                     "name" : "Eh7/B(b)"
                   }
                ]
             },
@@ -207,7 +207,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -215,6 +215,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Mann David",
-   "key" : "D-"
+   "composer" : "David Mann",
+   "key" : null
 }

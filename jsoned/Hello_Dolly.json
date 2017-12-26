@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Hello Dolly;Herman Jerry;Medium Swing;Bb",
       "A:T44Bb   |%   |G-   |%   |Bb^7   |Dbo7   |C-7   |F7   |C-7   |%   |Ab/C   |%   |C-7   |F7   |D-7 Dbo7 |C-7 F7 ",
@@ -166,7 +166,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -310,6 +310,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Herman Jerry",
-   "key" : "Bb"
+   "composer" : "Jerry Herman",
+   "key" : null
 }

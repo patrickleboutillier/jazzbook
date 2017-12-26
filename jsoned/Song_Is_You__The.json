@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Song Is You, The;Kern Jerome;Up Tempo Swing;C",
       "{A:T44C^7   |Ebo7   |D-7   |G7   |C^7   |A7   |D-7   |G7   |E-7   |A7   |D-7   |G7   ",
@@ -222,7 +222,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D#7b9"
+                     "name" : "D#7(b9)"
                   }
                ]
             },
@@ -387,6 +387,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Kern Jerome",
-   "key" : "C"
+   "composer" : "Jerome Kern",
+   "key" : null
 }

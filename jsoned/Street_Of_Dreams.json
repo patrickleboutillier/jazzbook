@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Street Of Dreams;Young Victor;Ballad;Eb",
       "v:T44Eb-6   |B7 Bb7b13 |Eb-6   |B7 Bb7b13 |Eb-6 Db7 |B7 Bb7 |Eb-6 A9#11 |Bbh7 Eb7b9 |Ab-6   |Bb7b13 E9 |Eb-6   |B7 Bb7b13 |Eb- Db7 |B7 Bb7 |Ch7 B7 |F-7 Bb7 ",
@@ -26,7 +26,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -81,7 +81,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A9#11"
+                     "name" : "A9(#11)"
                   }
                ]
             },
@@ -93,7 +93,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -108,7 +108,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   },
                   {
                      "beats" : 2,
@@ -131,7 +131,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -227,7 +227,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -258,7 +258,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -308,7 +308,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -322,7 +322,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#5"
+                     "name" : "B7(#5)"
                   }
                ]
             },
@@ -349,6 +349,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Young Victor",
-   "key" : "Eb"
+   "composer" : "Victor Young",
+   "key" : null
 }

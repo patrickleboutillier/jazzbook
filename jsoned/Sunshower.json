@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Sunshower;Barron Kenny;Bossa Nova;A-",
       "i:T44A-7   |Bh7   |A-7   |Bh7   |A-7   |Bh7   |A-7   |Bh7   ",
@@ -106,7 +106,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   }
@@ -272,6 +272,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Barron Kenny",
-   "key" : "A-"
+   "composer" : "Kenny Barron",
+   "key" : null
 }

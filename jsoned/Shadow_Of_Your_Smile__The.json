@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Shadow Of Your Smile, The;Mandel Johnny;Bossa Nova;G",
       "A:T44F#-7   |B7b9   |E-7   |A7   |A-7   |D7   |G^7   |C^7   |F#h7   |B7b9   |E-7   |E-7/D   |C#h7   |F#7b9   |F#h7   |B7b13   ",
@@ -20,7 +20,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -76,7 +76,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -104,7 +104,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -118,7 +118,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b13"
+                     "name" : "B7(b13)"
                   }
                ]
             }
@@ -137,7 +137,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -179,7 +179,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b13"
+                     "name" : "E7(b13)"
                   }
                ]
             },
@@ -231,7 +231,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -249,6 +249,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Mandel Johnny",
-   "key" : "G"
+   "composer" : "Johnny Mandel",
+   "key" : null
 }

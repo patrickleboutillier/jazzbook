@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Midnight Blue;Burrell Kenny;Medium Swing;Ab",
       "{i:T44F-7, G-7 |Ab^7 G-7 |%%   |    ",
@@ -69,7 +69,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -97,7 +97,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -109,7 +109,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -136,7 +136,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9#5"
+                     "name" : "C7(b9#5)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
                "chords" : [
                   {
                      "beats" : 3,
-                     "name" : "C7#9#5"
+                     "name" : "C7(#9#5)"
                   },
                   {
                      "beats" : 1,
@@ -193,7 +193,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             }
@@ -212,9 +212,6 @@
                      "beats" : 2,
                      "name" : "G-7"
                   }
-               ],
-               "comments" : [
-                  "*71   (Solos)"
                ]
             },
             {
@@ -278,7 +275,8 @@
             }
          ],
          "label" : "C",
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "*71   (Solos)"
       },
       {
          "bars" : [
@@ -292,7 +290,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9#5"
+                     "name" : "C7(b9#5)"
                   }
                ]
             },
@@ -320,7 +318,7 @@
                   }
                ],
                "comments" : [
-                  "Solos on CD, after solos D.S. al Coda"
+                  "0-Solos on CD, after solos D.S. al Coda"
                ]
             },
             {
@@ -333,7 +331,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9#5"
+                     "name" : "C7(b9#5)"
                   }
                ]
             }
@@ -371,7 +369,7 @@
             },
             {
                "comments" : [
-                  "Vamp"
+                  "0-Vamp"
                ]
             }
          ],
@@ -379,6 +377,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Burrell Kenny",
-   "key" : "Ab"
+   "composer" : "Kenny Burrell",
+   "key" : null
 }

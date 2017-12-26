@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;And The Angels Sing;Elman Ziggy;Medium Swing;Eb",
       "{A:T44Eb6   |F-7 Bb7 |Eb^7   |Eb9   |F-7 C7b13 |F9 Bb7 ",
@@ -223,7 +223,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b13"
+                     "name" : "C7(b13)"
                   }
                ]
             },
@@ -392,7 +392,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd end."
+                  "0-D.C. al 3rd end."
                ]
             },
             {
@@ -411,6 +411,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Elman Ziggy",
-   "key" : "Eb"
+   "composer" : "Ziggy Elman",
+   "key" : null
 }

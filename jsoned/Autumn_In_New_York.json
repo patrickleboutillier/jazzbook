@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Autumn In New York;Duke Vernon;Ballad;F",
       "A:T44G-7 A-7 |Bb6 C7 |F^7 G-7 |A-7 D7b9 |G-7 A-7 |Bb6 C7 |Ah7   |D7b9   ",
@@ -56,7 +56,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -94,7 +94,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -141,7 +141,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -165,7 +165,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             }
@@ -265,7 +265,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b13"
+                     "name" : "F7(b13)"
                   }
                ]
             },
@@ -301,7 +301,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -365,7 +365,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -388,7 +388,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -396,6 +396,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Duke Vernon",
-   "key" : "F"
+   "composer" : "Vernon Duke",
+   "key" : null
 }

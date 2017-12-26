@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Little Willie Leaps;Parker Charlie;Up Tempo Swing;F",
       "{T44F^7   |G-7 C7 |A-7 D7b9 |G-7 C7b9 |F^7   |G-7 C7 |A-7   |D7b9   |B-7 E7b9 |A-7 D7 |G-7 C7 |F6   ",
@@ -112,7 +112,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -124,7 +124,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -157,7 +157,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -169,7 +169,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -208,6 +208,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "F"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

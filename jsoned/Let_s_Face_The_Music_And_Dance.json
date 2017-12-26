@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Let's Face The Music And Dance;Berlin Irving;Medium Swing;C",
       "T44A:C-   |%   |Dh7   |G7b9,   |C-   |%   |Dh7   |G7b9   |C^7   |G-7 C7 |F^7   |Bb7  @ |C-,   |Dh7 G7b9 ",
@@ -32,7 +32,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -56,7 +56,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -109,7 +109,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -296,11 +296,11 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ],
                "comments" : [
-                  "D.C. al Coda"
+                  "0-D.C. al Coda"
                ]
             }
          ],
@@ -348,13 +348,13 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "C"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

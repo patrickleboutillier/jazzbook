@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;It's A Lovely Day Today;Berlin Irving;Medium Swing;Bb",
       "{A:T44Bb^7 G-7 |C-7 F7 |Bb^7   |F-7 Bb7 |Eb^7 Eb-7 |Bb^7/D Dbo7 |C-7   |F7   ",
@@ -23,7 +23,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F7b9"
+                           "name" : "F7(b9)"
                         }
                      ]
                   }
@@ -35,14 +35,14 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Ab9#11"
+                           "name" : "Ab9(#11)"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   },
@@ -230,7 +230,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -242,6 +242,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "Bb"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

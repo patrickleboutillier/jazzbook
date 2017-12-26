@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Unrequited;Mehldau Brad;Even 8ths;C",
       "A:T44E-7 C^7 |A-7 B7 |C-9 C-9/Bb |A-7b5 D7b9 |Bb^7 Eb^7 |C-7 D7b9 |Eb-9 F7 |F#o7 G-7 |G7#5 B/F# |F7b5 F7 |Bb-6 F#-6 |E6   |Eb7   |Ab7b9   |C#-9 A-7 |G B7 ",
@@ -42,7 +42,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-9/Bb"
+                     "name" : "C-9/B(b)"
                   }
                ]
             },
@@ -50,11 +50,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A-7b5"
+                     "name" : "A-7(b5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -78,7 +78,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -110,11 +110,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "B/F#"
+                     "name" : "B/F(#)"
                   }
                ]
             },
@@ -122,7 +122,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F7b5"
+                     "name" : "F7(b5)"
                   },
                   {
                      "beats" : 2,
@@ -159,7 +159,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -197,9 +197,6 @@
                   {
                      "name" : "C^7"
                   }
-               ],
-               "comments" : [
-                  "ral...."
                ]
             },
             {
@@ -224,9 +221,10 @@
                ]
             }
          ],
-         "label" : "@"
+         "label" : "@",
+         "description" : "ral...."
       }
    ],
-   "composer" : "Mehldau Brad",
-   "key" : "C"
+   "composer" : "Brad Mehldau",
+   "key" : null
 }

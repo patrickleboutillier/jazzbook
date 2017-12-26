@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Breeze And I, The;Lecuona Ernesto;Latin;Eb",
       "{A:T44Eb6   |%   |%   |%   |Db-7   |%   |Eb6   ",
@@ -97,7 +97,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   }
                ]
             },
@@ -139,7 +139,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -158,7 +158,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   }
                ]
             },
@@ -240,6 +240,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Lecuona Ernesto",
-   "key" : "Eb"
+   "composer" : "Ernesto Lecuona",
+   "key" : null
 }

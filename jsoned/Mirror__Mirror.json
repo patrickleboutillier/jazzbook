@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Mirror, Mirror;Chick Corea;Waltz;C",
       "A:T34C^7   |E7alt   |F^7   |A7alt   |D^7   |F#7alt   |G^7   |B7alt   |C^7   |B7#11   |B^7   |A-7   |F7   |F#o7   |C/G   |C7b9   ",
@@ -76,7 +76,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -118,7 +118,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -172,7 +172,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db^7#11"
+                     "name" : "Db^7(#11)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -243,6 +243,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Chick Corea",
-   "key" : "C"
+   "composer" : "Corea Chick",
+   "key" : null
 }

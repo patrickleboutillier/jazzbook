@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Morgan The Pirate;Morgan Lee;Medium Swing;Eb",
       "{A:T34Eb69   |Ab69   |Eb69   |Db^7   |B^7   |Bb7   ",
@@ -23,7 +23,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb7#9"
+                           "name" : "Bb7(#9)"
                         }
                      ]
                   }
@@ -42,7 +42,7 @@
                   {
                      "repeat_last" : 1,
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -152,11 +152,11 @@
                "chords" : [
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "D-7b5"
+                     "name" : "D-7(b5)"
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -170,7 +170,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -209,7 +209,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 2nd End."
+                  "0-D.C. al 2nd End."
                ]
             },
             {
@@ -223,6 +223,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Morgan Lee",
-   "key" : "Eb"
+   "composer" : "Lee Morgan",
+   "key" : null
 }

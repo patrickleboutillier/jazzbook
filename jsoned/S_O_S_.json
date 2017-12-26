@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;S.O.S.;Montgomery Wes;Up Tempo Swing;C-",
       "A:T44C-7   |Bb-7 Eb7 |Ab^7   |Dh7 G7#5 |C-7 Eb7 |Ab^7 G7#5 |C^7   |G7   ",
@@ -47,7 +47,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -71,7 +71,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -128,7 +128,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -152,7 +152,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -202,28 +202,28 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b5"
+                     "name" : "Bb7(b5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab7b5"
+                     "name" : "Ab7(b5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             }
@@ -266,7 +266,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -290,7 +290,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -304,7 +304,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b5"
+                     "name" : "G7(b5)"
                   }
                ]
             }
@@ -316,7 +316,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9"
+                     "name" : "Bb7(#9)"
                   }
                ]
             },
@@ -330,7 +330,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -363,11 +363,11 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b5"
+                     "name" : "G7(b5)"
                   }
                ],
                "comments" : [
-                  "Solos A B C B"
+                  "0-Solos A B C B"
                ]
             },
             {
@@ -377,6 +377,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Montgomery Wes",
-   "key" : "C-"
+   "composer" : "Wes Montgomery",
+   "key" : null
 }

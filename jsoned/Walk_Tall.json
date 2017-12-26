@@ -1,5 +1,5 @@
 {
-   "style" : "Funk",
+   "style" : null,
    "metadata" : [
       "IREALB;Walk Tall;Adderley Cannonball;Funk;C",
       "{T44G7 C7 |%   |%   |%   |G7 C7 |%   |%   |%   |B-7   |E-7   |D7sus   |A-7,B-7,C^7 |B-7   |E-7   |A-7   |D7sus   |D7sus   |T24D7sus ",
@@ -147,9 +147,6 @@
                      "beats" : 4,
                      "name" : "C7"
                   }
-               ],
-               "comments" : [
-                  "Vamp"
                ]
             },
             {
@@ -165,9 +162,10 @@
                ]
             }
          ],
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "Vamp"
       }
    ],
-   "composer" : "Adderley Cannonball",
-   "key" : "C"
+   "composer" : "Cannonball Adderley",
+   "key" : null
 }

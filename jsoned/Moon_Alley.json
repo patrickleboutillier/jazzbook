@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Moon Alley;Harrell Tom;Even 8ths;F",
       "{A:T44F^7   |%   |<Ri0gaW4gc29sb3M=>F^7 F- |F-   |Bb-   |Eb-   |F- F^7 |F^7   ",
@@ -34,7 +34,7 @@
                   }
                ],
                "comments" : [
-                  "F- in solos"
+                  "0-F- in solos"
                ]
             },
             {
@@ -96,7 +96,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-/Ab"
+                     "name" : "Eb-/A(b)"
                   }
                ]
             },
@@ -127,7 +127,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb^7#11"
+                     "name" : "Gb^7(#11)"
                   }
                ]
             }
@@ -158,7 +158,7 @@
                   }
                ],
                "comments" : [
-                  "F- in solos"
+                  "0-F- in solos"
                ]
             },
             {
@@ -245,6 +245,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Harrell Tom",
-   "key" : "F"
+   "composer" : "Tom Harrell",
+   "key" : null
 }

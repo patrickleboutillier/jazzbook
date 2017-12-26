@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Loop, The;Corea Chick;Waltz;F",
       "{A:T34F^7   |D-7   |G-7   |C7 C#o7 |D-7   |D-7/C   |Bh7   |Bb-^7   ",
@@ -141,7 +141,7 @@
                         },
                         {
                            "beats" : 2.66666666666667,
-                           "name" : "B7#11"
+                           "name" : "B7(#11)"
                         }
                      ]
                   }
@@ -242,7 +242,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/Db"
+                     "name" : "Bb-7/D(b)"
                   }
                ]
             },
@@ -256,7 +256,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/Db"
+                     "name" : "Bb-7/D(b)"
                   }
                ]
             },
@@ -334,6 +334,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "F"
+   "composer" : "Chick Corea",
+   "key" : null
 }

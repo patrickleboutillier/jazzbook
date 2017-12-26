@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Nefertiti;Shorter Wayne;Slow Swing;Ab",
       "T44Ab^7   |Db^7(Db7sus)   |Gh7   |C7b9   |B^7   |B^7#11   |Bbh7   |Eb7b9#11   |E^7   |A9sus   |D7alt/Bb   |Gb9sus   |E9sus   |Eb7#11   |Bb-^7   |Eb7#11   "
@@ -33,7 +33,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -47,7 +47,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7#11"
+                     "name" : "B^7(#11)"
                   }
                ]
             },
@@ -61,7 +61,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b9#11"
+                     "name" : "Eb7(b9#11)"
                   }
                ]
             },
@@ -82,7 +82,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7alt/Bb"
+                     "name" : "D7alt/B(b)"
                   }
                ]
             },
@@ -103,7 +103,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -117,13 +117,13 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "Ab"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

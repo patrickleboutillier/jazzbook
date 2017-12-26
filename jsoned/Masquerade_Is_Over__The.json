@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Masquerade Is Over, The;Wrubel Allie;Ballad;Eb",
       "{A:T44Eb^7   |Dh7 G7b9 |C-7 F7 |Bb-7 Eb7 |Ab^7  (Ah7) (D7)|G-7 C7b9 |F7   |F-7 Bb7 |Eb^7   |Bb-7 Eb7 |Ab^7   |Db7   ",
@@ -164,7 +164,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -207,7 +207,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -320,7 +320,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -348,7 +348,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 3rd Ending"
+                  "0-D.C. al 3rd Ending"
                ]
             },
             {
@@ -367,6 +367,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Wrubel Allie",
-   "key" : "Eb"
+   "composer" : "Allie Wrubel",
+   "key" : null
 }

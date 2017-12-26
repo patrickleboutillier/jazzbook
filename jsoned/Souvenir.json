@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Souvenir;Carter Benny;Ballad;Eb",
       "{A:T44F9#11   |Bb9sus   |Ab6/Eb Ab-6/Eb |Eb^7 A7b5 |D7alt   |G7sus   |C-7 C-7/Bb |Ah7 Ab9 ",
@@ -20,7 +20,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         }
                      ]
                   },
@@ -39,7 +39,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7#5"
+                           "name" : "D7(#5)"
                         }
                      ]
                   },
@@ -51,7 +51,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -63,7 +63,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7#5"
+                           "name" : "C7(#5)"
                         }
                      ]
                   },
@@ -75,7 +75,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7b9"
+                           "name" : "Bb7(b9)"
                         }
                      ]
                   },
@@ -99,7 +99,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -117,7 +117,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7#5"
+                           "name" : "A7(#5)"
                         }
                      ]
                   },
@@ -136,7 +136,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7#5"
+                           "name" : "D7(#5)"
                         }
                      ]
                   },
@@ -148,7 +148,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9#5"
+                           "name" : "C7(b9#5)"
                         }
                      ]
                   },
@@ -183,7 +183,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F9#11"
+                           "name" : "F9(#11)"
                         }
                      ]
                   },
@@ -197,14 +197,14 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F/Eb"
+                           "name" : "F/E(b)"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "F/Eb"
+                           "name" : "F/E(b)"
                         }
                      ]
                   }
@@ -218,7 +218,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F9#11"
+                     "name" : "F9(#11)"
                   }
                ]
             },
@@ -233,11 +233,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab6/Eb"
+                     "name" : "Ab6/E(b)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab-6/Eb"
+                     "name" : "Ab-6/E(b)"
                   }
                ]
             },
@@ -249,7 +249,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b5"
+                     "name" : "A7(b5)"
                   }
                ]
             },
@@ -275,7 +275,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -296,6 +296,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Carter Benny",
-   "key" : "Eb"
+   "composer" : "Benny Carter",
+   "key" : null
 }

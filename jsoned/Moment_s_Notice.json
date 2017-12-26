@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Moment's Notice;Coltrane John;Up Tempo Swing;Eb",
       "{T44E-7 A7 |F-7 Bb7 |Eb^7   |Ab-7 Db7 |D-7 G7 |Eb-7 Ab7 |Db^7   |D-7 G7 |C-7 B7 |Bb-7 Eb7 |Ab^7   |Ab-7 Db7 ",
@@ -87,28 +87,28 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb6/Bb"
+                           "name" : "Eb6/B(b)"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "F-7/Bb"
+                           "name" : "F-7/B(b)"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "G-7/Bb"
+                           "name" : "G-7/B(b)"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "F-7/Bb"
+                           "name" : "F-7/B(b)"
                         }
                      ]
                   },
@@ -116,11 +116,11 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Eb6/Bb"
+                           "name" : "Eb6/B(b)"
                         },
                         {
                            "beats" : 2,
-                           "name" : "F-7/Bb"
+                           "name" : "F-7/B(b)"
                         }
                      ]
                   },
@@ -128,11 +128,11 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "G-7/Bb"
+                           "name" : "G-7/B(b)"
                         },
                         {
                            "beats" : 2,
-                           "name" : "F-7/Bb"
+                           "name" : "F-7/B(b)"
                         }
                      ]
                   },
@@ -294,6 +294,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Coltrane John",
-   "key" : "Eb"
+   "composer" : "John Coltrane",
+   "key" : null
 }

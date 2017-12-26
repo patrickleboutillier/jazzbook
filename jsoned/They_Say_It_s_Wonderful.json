@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;They Say It's Wonderful;Berlin Irving;Medium Swing;F",
       "{A:T44G-7   |Gh7 C7b9 |F^7   |A-7 Abo7 |Gh7   |C7b9   ",
@@ -78,7 +78,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -111,7 +111,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -131,7 +131,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -174,7 +174,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -222,7 +222,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -236,7 +236,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   }
                ]
             },
@@ -264,7 +264,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             }
@@ -272,6 +272,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "F"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

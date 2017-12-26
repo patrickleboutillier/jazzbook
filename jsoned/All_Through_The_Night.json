@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;All Through The Night;Porter Cole;Medium Swing;F",
       "{A:T44F^7   |Eh7 A7b9 |D-7 Db7 |C-7 F7b9 |Bb^7   |Bb-7 Eb7b9 |Ab^7   |%   ",
@@ -24,7 +24,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   },
@@ -38,7 +38,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -52,7 +52,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   },
@@ -66,7 +66,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -99,7 +99,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb7b9"
+                           "name" : "Eb7(b9)"
                         }
                      ]
                   },
@@ -123,7 +123,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -148,7 +148,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -191,7 +191,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -235,7 +235,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -273,7 +273,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -287,7 +287,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F-7/Eb"
+                     "name" : "F-7/E(b)"
                   }
                ]
             },
@@ -301,7 +301,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -315,7 +315,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -339,7 +339,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -363,7 +363,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -415,7 +415,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -429,7 +429,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -443,7 +443,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -451,6 +451,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "F"
+   "composer" : "Cole Porter",
+   "key" : null
 }

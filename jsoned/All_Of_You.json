@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;All Of You;Porter Cole;Medium Swing;Eb",
       "A:T44Ab-6   |Eb^7   |Ab-6   |%   |Ab-6   |Eb^7   |Ab-6   |%   ",
@@ -208,7 +208,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -250,7 +250,7 @@
                   }
                ],
                "comments" : [
-                  "Optional Bb pedal in A sections"
+                  "0-Optional Bb pedal in A sections"
                ]
             },
             {
@@ -267,6 +267,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "Eb"
+   "composer" : "Cole Porter",
+   "key" : null
 }

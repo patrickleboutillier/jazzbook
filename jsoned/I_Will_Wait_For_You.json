@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I Will Wait For You;Legrand Michel;Medium Swing;F",
       "{T44A:D-7   |//D7b9 |G-7   |//Db7 |C7sus   |C7 C7b9 |Bb/F F^7 |Eh7 A7b9 |D-7   |//D7b9 |G-7   |G-7 Eh7 |D-/A, Bh7 |Eh7 A7b9 ",
@@ -28,7 +28,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7b9"
+                           "name" : "A7(b9)"
                         }
                      ]
                   }
@@ -47,7 +47,7 @@
                   {
                      "repeat_last" : 1,
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -75,7 +75,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -117,7 +117,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -141,7 +141,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -164,7 +164,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -207,7 +207,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -247,7 +247,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -261,31 +261,31 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9sus"
+                     "name" : "A7(b9sus)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ],
                "comments" : [
-                  "D.C. al 2nd ending"
+                  "0-D.C. al 2nd ending"
                ]
             }
          ],
          "label" : "B"
       }
    ],
-   "composer" : "Legrand Michel",
-   "key" : "F"
+   "composer" : "Michel Legrand",
+   "key" : null
 }

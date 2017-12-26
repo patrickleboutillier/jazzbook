@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;It's A Big Wide Wonderful World;Rox John;Waltz;Ab",
       "{A:T34Db^7 |% |% |G7b9 |C-7 |% |F7 |% |Bb-7 |% |Eb7 |% |Ab^7 |% |Eb-7 |Ab7 ",
@@ -27,7 +27,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -210,7 +210,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -282,6 +282,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Rox John",
-   "key" : "Ab"
+   "composer" : "John Rox",
+   "key" : null
 }

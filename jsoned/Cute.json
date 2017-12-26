@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Cute;Hefti Neal;Medium Swing;F",
       "{i:T44Bb6 A-7,Ab7,|G-7 C7,F6,|NC   |%   |Bb6 A-7,Ab7,|G-7 C7,F7,|NC   |%   |Bb6,A-7,G-7,Bb-|NC   |F^,Bb6,A7,D-7|NC   ",
@@ -266,7 +266,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "E7b9"
+                           "name" : "E7(b9)"
                         }
                      ]
                   },
@@ -309,7 +309,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -333,7 +333,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   }
@@ -347,9 +347,6 @@
                   {
                      "name" : "G-7"
                   }
-               ],
-               "comments" : [
-                  "*70 Solos:"
                ]
             },
             {
@@ -431,9 +428,10 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "*70 Solos:"
       }
    ],
-   "composer" : "Hefti Neal",
-   "key" : "F"
+   "composer" : "Neal Hefti",
+   "key" : null
 }

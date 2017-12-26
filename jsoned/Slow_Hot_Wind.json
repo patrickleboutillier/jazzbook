@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Slow Hot Wind;Mancini Henry;Bossa Nova;C",
       "{A:T44A-9   |F9#11   |A-9   |//Eb9#11 |D-9   |%   ",
@@ -48,7 +48,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Gb9#11"
+                           "name" : "Gb9(#11)"
                         }
                      ]
                   }
@@ -68,7 +68,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F9#11"
+                     "name" : "F9(#11)"
                   }
                ]
             },
@@ -91,7 +91,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb9#11"
+                     "name" : "Eb9(#11)"
                   }
                ]
             },
@@ -114,7 +114,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
@@ -169,7 +169,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -188,7 +188,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F9#11"
+                     "name" : "F9(#11)"
                   }
                ]
             },
@@ -211,7 +211,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb9#11"
+                     "name" : "Eb9(#11)"
                   }
                ]
             },
@@ -240,7 +240,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9#5"
+                     "name" : "E7(#9#5)"
                   }
                ]
             }
@@ -248,6 +248,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Mancini Henry",
-   "key" : "C"
+   "composer" : "Henry Mancini",
+   "key" : null
 }

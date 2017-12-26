@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Everything I Have Is Yours;Lane Burton;Ballad;C",
       "T44A:C^7   |Eb-7 Ab7 |D-7 G7 |D-7 G7#5 |C^7   |Eb-7 Ab7 |D-7 G7 |Bh7 E7b9 ",
@@ -51,7 +51,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -94,7 +94,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-^7/G#"
+                     "name" : "A-^7/G(#)"
                   }
                ]
             },
@@ -127,7 +127,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D9/F#"
+                     "name" : "D9/F(#)"
                   }
                ]
             },
@@ -213,7 +213,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -251,7 +251,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -270,7 +270,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-^7/G#"
+                     "name" : "A-^7/G(#)"
                   }
                ]
             },
@@ -285,7 +285,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7/F#"
+                     "name" : "D7/F(#)"
                   },
                   {
                      "beats" : 2,
@@ -344,6 +344,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Lane Burton",
-   "key" : "C"
+   "composer" : "Burton Lane",
+   "key" : null
 }

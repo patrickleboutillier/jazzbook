@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Strangers In The Night;Kaempfert Bert;Slow Swing;F",
       "T44A:F^7   |%   |%   |%   |F^7   |F/A Abo7 |G-6 Eb/G |%   ",
@@ -102,7 +102,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -134,7 +134,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -219,7 +219,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -237,6 +237,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Kaempfert Bert",
-   "key" : "F"
+   "composer" : "Bert Kaempfert",
+   "key" : null
 }

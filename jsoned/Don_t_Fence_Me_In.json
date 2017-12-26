@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Don't Fence Me In;Porter Cole;Medium Swing;F",
       "A:T44F F^7 |%   |F G-7,F,|G-7 C7, |G-7 C7 |%   |%   |F^7 F6 ",
@@ -110,7 +110,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -149,7 +149,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -165,7 +165,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -177,7 +177,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             }
@@ -220,7 +220,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -292,7 +292,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -347,7 +347,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -371,6 +371,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "F"
+   "composer" : "Cole Porter",
+   "key" : null
 }

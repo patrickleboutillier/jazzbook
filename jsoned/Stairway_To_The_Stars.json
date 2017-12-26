@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Stairway To The Stars;Maineck Matt;Ballad;C",
       "{A:T44C6 G7 |G-7 C7 |F^7   |Bb7#11   |A-7 D7 |D-7 G7 ",
@@ -63,7 +63,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "B7b9"
+                           "name" : "B7(b9)"
                         }
                      ]
                   }
@@ -107,7 +107,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -149,7 +149,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#11"
+                     "name" : "F7(#11)"
                   }
                ]
             },
@@ -173,7 +173,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -185,7 +185,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -197,7 +197,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -276,7 +276,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -332,6 +332,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Maineck Matt",
-   "key" : "C"
+   "composer" : "Matt Maineck",
+   "key" : null
 }

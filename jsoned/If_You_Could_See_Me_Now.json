@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;If You Could See Me Now;Dameron Tadd;Ballad;Eb",
       "{A:T44Eb^7   |Ab7   |Eb^7   |Ab7   |G-7, F#-7,B7,|F-7, Bb7, ",
@@ -18,7 +18,7 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Db7#11"
+                           "name" : "Db7(#11)"
                         },
                         {
                            "beats" : 2,
@@ -314,6 +314,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Dameron Tadd",
-   "key" : "Eb"
+   "composer" : "Tadd Dameron",
+   "key" : null
 }

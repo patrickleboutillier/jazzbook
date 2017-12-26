@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Anything Goes;Porter Cole;Medium Swing;C",
       "{A:T44C6(C^7)  (D-7) |% (E-7) (D-7) |% (C^7) (D-7) |C7(G-7)  (C9) |F6   |Bb9(D-7)  (G9sus) ",
@@ -116,7 +116,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C#7b9"
+                     "name" : "C#7(b9)"
                   }
                ]
             },
@@ -251,6 +251,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "C"
+   "composer" : "Cole Porter",
+   "key" : null
 }

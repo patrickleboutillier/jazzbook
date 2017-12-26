@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Day Dreaming;Kern Jerome;Ballad;Bb",
       "{A:T44Bb^7 C-7 |D-7 C#o7 |C-7 Do7 |C-7 F7#9 |Bb^7 Eb^7 |D7#11 Ab9 |G7b9   |C-7 F7 ",
@@ -20,7 +20,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7/Ab"
+                           "name" : "Bb7/A(b)"
                         }
                      ]
                   },
@@ -51,7 +51,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7#5"
+                           "name" : "D7(#5)"
                         }
                      ]
                   },
@@ -117,7 +117,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7/Ab"
+                           "name" : "Bb7/A(b)"
                         }
                      ]
                   },
@@ -246,7 +246,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#9"
+                     "name" : "F7(#9)"
                   }
                ]
             },
@@ -266,7 +266,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -277,7 +277,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -298,6 +298,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Kern Jerome",
-   "key" : "Bb"
+   "composer" : "Jerome Kern",
+   "key" : null
 }

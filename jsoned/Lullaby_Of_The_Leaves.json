@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Lullaby Of The Leaves;Petkere Bernice;Medium Swing;C-",
       "{A:T44C- Ah7 |D7 G7b13 |G-7 C7 |F-7 Eb7 |Dh7   |G7b13   ",
@@ -29,7 +29,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -74,7 +74,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -112,7 +112,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             }
@@ -186,7 +186,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             }
@@ -215,7 +215,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -253,7 +253,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -272,7 +272,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -280,6 +280,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Petkere Bernice",
-   "key" : "C-"
+   "composer" : "Bernice Petkere",
+   "key" : null
 }

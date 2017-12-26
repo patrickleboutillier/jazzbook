@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Triste;Jobim Antonio-Carlos;Bossa Nova;A",
       "A:T44A^7   |%   |F^7#11   |%   |A^7   |%   |C#-7   |F#7b9   |B-7   |G#h7 C#7b9 |F#-7   |G#7#9   |C#^7   |D#-7 G#7 |C#^7 F#7 |B-7 E7 ",
@@ -23,7 +23,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
@@ -50,7 +50,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -69,7 +69,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C#7b9"
+                     "name" : "C#7(b9)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G#7#9"
+                     "name" : "G#7(#9)"
                   }
                ]
             },
@@ -282,6 +282,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "A"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

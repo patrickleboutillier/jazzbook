@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Summer Knows, The;Legrand Michel;Ballad;F-",
       "A:T44F-   |C7b9/E   |F-7/Eb   |Dh7   |Bb-7   |F7b9/A   |Bb-7/Ab Gh7 |C7b9sus C7b9 ",
@@ -22,14 +22,14 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9/E"
+                     "name" : "C7(b9/E)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F-7/Eb"
+                     "name" : "F-7/E(b)"
                   }
                ]
             },
@@ -50,7 +50,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9/A"
+                     "name" : "F7(b9/A)"
                   }
                ]
             },
@@ -58,7 +58,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb-7/Ab"
+                     "name" : "Bb-7/A(b)"
                   },
                   {
                      "beats" : 2,
@@ -70,11 +70,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7b9sus"
+                     "name" : "C7(b9sus)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -112,7 +112,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -131,7 +131,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -143,7 +143,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -155,7 +155,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -167,7 +167,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -179,7 +179,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -198,7 +198,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -255,7 +255,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9sus"
+                     "name" : "C7(b9sus)"
                   }
                ]
             },
@@ -272,6 +272,6 @@
          ]
       }
    ],
-   "composer" : "Legrand Michel",
-   "key" : "F-"
+   "composer" : "Michel Legrand",
+   "key" : null
 }

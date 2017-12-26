@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;So Many Stars;Mendez Sergio;Bossa Nova;Db",
       "{A:T44Ab13sus   |Ab13b9   |Ab-7   |Db7b9 Db13 |Gb^7   |B13   |F- Db/F |F-6 F-7 |F-^7 F-7 |Bb7#9#5   |Ab13sus   |Ab13b9   ",
@@ -29,7 +29,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb7#9#5"
+                           "name" : "Bb7(#9#5)"
                         }
                      ]
                   }
@@ -68,7 +68,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db7b9"
+                     "name" : "Db7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -144,7 +144,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             },
@@ -158,7 +158,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             }
@@ -178,7 +178,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb13#11"
+                     "name" : "Gb13(#11)"
                   }
                ]
             },
@@ -192,7 +192,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb13b9"
+                     "name" : "Bb13(b9)"
                   }
                ]
             },
@@ -206,7 +206,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             },
@@ -218,7 +218,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -230,7 +230,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#9#5"
+                     "name" : "Bb7(#9#5)"
                   }
                ]
             }
@@ -249,7 +249,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             },
@@ -263,7 +263,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b13"
+                     "name" : "Bb7(b13)"
                   }
                ]
             },
@@ -277,7 +277,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab13b9"
+                     "name" : "Ab13(b9)"
                   }
                ]
             },
@@ -295,6 +295,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Mendez Sergio",
-   "key" : "Db"
+   "composer" : "Sergio Mendez",
+   "key" : null
 }

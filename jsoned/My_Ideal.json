@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;My Ideal;Whiting Richard;Ballad;Eb",
       "A:T44Eb6 C9#5 |F-7   |Db7 C9#5 |F7   |F-7 Bb7 |Dh7 G7b9 |C-7 F7 |B7 Bb7 ",
@@ -18,7 +18,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C9#5"
+                     "name" : "C9(#5)"
                   }
                ]
             },
@@ -37,7 +37,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C9#5"
+                     "name" : "C9(#5)"
                   }
                ]
             },
@@ -68,7 +68,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -109,7 +109,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C9#5"
+                     "name" : "C9(#5)"
                   }
                ]
             },
@@ -128,7 +128,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C9#5"
+                     "name" : "C9(#5)"
                   }
                ]
             },
@@ -194,6 +194,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Whiting Richard",
-   "key" : "Eb"
+   "composer" : "Richard Whiting",
+   "key" : null
 }

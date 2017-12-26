@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Call Me;Hatch Tony;Bossa Nova;G",
       "{T44A:G^7   |%   |G-7   |C7   |F^7   |%   |F-7   |Bb7   |Eb^7   |C-7   |Eb^7   |C-7   |Eb^7   |C-7   |G^7   |%   ",
@@ -152,7 +152,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -179,7 +179,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -304,6 +304,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Hatch Tony",
-   "key" : "G"
+   "composer" : "Tony Hatch",
+   "key" : null
 }

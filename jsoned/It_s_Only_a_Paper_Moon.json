@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;It's Only a Paper Moon;Arlen Harold;Medium Swing;G",
       "{A:T44G^7 E7 |A-7 D7 |A-7 D7 |G^7 A-7,D7,|D-7 G7 |C^7 Ah7 |D7   ",
@@ -217,7 +217,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -341,6 +341,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "G"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

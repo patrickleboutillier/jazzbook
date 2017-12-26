@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Meditation;Jobim Antonio-Carlos;Bossa Nova;C",
       "{A:T44C6   |%   |B7sus   |B7   |C6   |%   |E-7   |A7b13   |D-7   |%   |F-6   |% (Bb7) @ |E-7   |A7b13   |D-7   |G7#5   ",
@@ -55,7 +55,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -104,7 +104,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             }
@@ -155,13 +155,13 @@
                   }
                ],
                "comments" : [
-                  "D.C. al Coda"
+                  "0-D.C. al Coda"
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             }
@@ -178,7 +178,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -217,6 +217,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "C"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

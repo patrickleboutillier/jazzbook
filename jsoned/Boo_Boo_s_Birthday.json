@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Boo Boo's Birthday;Monk Thelonious;Medium Swing;C",
       "{A:T44C^7   |B7   |E7b9   |%   |F7#11 E7#11 |Eb7#11 D7#11 |Db^7#11   |Db7   ",
@@ -27,7 +27,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -38,11 +38,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F7#11"
+                     "name" : "F7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#11"
+                     "name" : "E7(#11)"
                   }
                ]
             },
@@ -50,18 +50,18 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db^7#11"
+                     "name" : "Db^7(#11)"
                   }
                ]
             },
@@ -115,7 +115,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -127,6 +127,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "C"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Tippin';Silver Horace;Medium Up Swing;Bb",
       "{T44A:Bb6 G7b9 |C-7 C#o7 |Bb/D G7b9 |C-7 F7 |Bb7   ",
@@ -34,7 +34,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   },
@@ -109,7 +109,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -133,7 +133,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -231,7 +231,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -255,7 +255,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -322,6 +322,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Bb"
+   "composer" : "Horace Silver",
+   "key" : null
 }

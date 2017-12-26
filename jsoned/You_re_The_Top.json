@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;You're The Top;Porter Cole;Medium Swing;Eb",
       "v:T44Eb^7 Eo7 |F-7 Bb7 |G-7 F#o7 |G-7 C7 |F-7   |F-7 Bb7 |Eb^7   |F-7 Bb7 |Eb^7 Eo7 |F-7 Bb7 |Eb^7   |A-7 D7 |G-7 D7b9 |G-7 D7b9 |Bb7   |Bb7 Bb7#5 ",
@@ -151,7 +151,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -163,7 +163,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -182,7 +182,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             }
@@ -203,7 +203,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -340,7 +340,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   },
                   {
                      "beats" : 2,
@@ -352,7 +352,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C9#5"
+                     "name" : "C9(#5)"
                   },
                   {
                      "beats" : 2,
@@ -411,7 +411,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -450,6 +450,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "Eb"
+   "composer" : "Cole Porter",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;On Green Dolphin Street;Kaper Bronislau;Up Tempo Swing;Eb",
       "A:T44Eb^7   |%   |Eb-7   |%   |F7/Eb   |E^7/Eb   |Eb^7   |C7   ",
@@ -35,14 +35,14 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/Eb"
+                     "name" : "F7/E(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E^7/Eb"
+                     "name" : "E^7/E(b)"
                   }
                ]
             },
@@ -150,14 +150,14 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/Eb"
+                     "name" : "F7/E(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E^7/Eb"
+                     "name" : "E^7/E(b)"
                   }
                ]
             },
@@ -188,7 +188,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/Eb"
+                     "name" : "F-7/E(b)"
                   }
                ]
             },
@@ -200,7 +200,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -224,7 +224,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -275,6 +275,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Kaper Bronislau",
-   "key" : "Eb"
+   "composer" : "Bronislau Kaper",
+   "key" : null
 }

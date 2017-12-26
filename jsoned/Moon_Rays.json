@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Moon Rays;Silver Horace;Latin;Eb",
       "{A:T44F-7/Bb   |Bb7   |Eb^7/Bb   |%   |F#-7   |B7   |F-7   |Bb7   |Ah7   |Ab-7   |Gh7   |C7b9   |F-7   |Bb7   |Eb^7   ",
@@ -18,13 +18,11 @@
                         {
                            "name" : "Eb^7"
                         }
-                     ],
-                     "comments" : [
-                        "    Fine"
                      ]
                   }
                ],
-               "no" : "1"
+               "no" : "1",
+               "description" : "    Fine"
             },
             {
                "bars" : [
@@ -49,7 +47,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F-7/Bb"
+                     "name" : "F-7/B(b)"
                   }
                ]
             },
@@ -63,7 +61,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -122,7 +120,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -229,7 +227,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -243,7 +241,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -259,7 +257,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 1st End."
+                  "0-D.C. al 1st End."
                ]
             },
             {
@@ -278,6 +276,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Eb"
+   "composer" : "Horace Silver",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;From This Moment On;Porter Cole;Up Tempo Swing;F-",
       "{A:T44F-6   |%   |Gh7   |C7b9   |Bb-6/F   |F-6   |Eb-7   |Ab7   |Db^7   |%   |Gb7   |%   |Ab6   |%   ",
@@ -24,7 +24,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   }
@@ -116,7 +116,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -238,7 +238,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -269,7 +269,7 @@
             {
                "repeat_last" : 1,
                "comments" : [
-                  "D.C. al 3rd Ending"
+                  "0-D.C. al 3rd Ending"
                ]
             },
             {
@@ -280,7 +280,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
@@ -288,6 +288,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Porter Cole",
-   "key" : "F-"
+   "composer" : "Cole Porter",
+   "key" : null
 }

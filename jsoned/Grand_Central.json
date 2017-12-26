@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Grand Central;Coltrane John;Up Tempo Swing;Bb-",
       "{A:T44F-7   |Bb-7 Eb7 |Ab-7 Db7 |F#-7 B7 |Bb-7   |B7#11,   ",
@@ -24,7 +24,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "B7#11"
+                           "name" : "B7(#11)"
                         }
                      ]
                   }
@@ -102,7 +102,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             }
@@ -221,7 +221,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -235,7 +235,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -249,7 +249,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -267,6 +267,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Coltrane John",
-   "key" : "Bb-"
+   "composer" : "John Coltrane",
+   "key" : null
 }

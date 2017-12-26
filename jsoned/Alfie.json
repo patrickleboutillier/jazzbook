@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Alfie;Bacharach Burt;Ballad;Bb",
       "{A:T44Bb^7   |F7sus   |Bb^7   |D-7 G7 |C-7   |D-7 G-7 |C-7 F7sus |Bbo7   ",
@@ -28,7 +28,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "F7#5"
+                           "name" : "F7(#5)"
                         }
                      ]
                   }
@@ -257,7 +257,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -319,6 +319,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Bacharach Burt",
-   "key" : "Bb"
+   "composer" : "Burt Bacharach",
+   "key" : null
 }

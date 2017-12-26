@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Better Days Ahead;Metheny Pat;Latin;C",
       "A:T44E/F# B^7 |G/A   |D^9 Ab9#11 |G^7   |E-7 F#-7 |T24B-7 |T44A-7 D7 |Ab-7 Db7b9 |Gb^7, ",
@@ -15,7 +15,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E/F#"
+                     "name" : "E/F(#)"
                   },
                   {
                      "beats" : 2,
@@ -38,7 +38,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab9#11"
+                     "name" : "Ab9(#11)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7b9"
+                     "name" : "Db7(b9)"
                   }
                ]
             },
@@ -114,7 +114,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -138,7 +138,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7b9"
+                     "name" : "Db7(b9)"
                   }
                ]
             },
@@ -181,14 +181,14 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db/Cb"
+                     "name" : "Db/C(b)"
                   }
                ]
             }
@@ -205,7 +205,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D^7/F#"
+                     "name" : "D^7/F(#)"
                   }
                ]
             },
@@ -213,11 +213,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E/F#"
+                     "name" : "E/F(#)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D^7/F#"
+                     "name" : "D^7/F(#)"
                   }
                ]
             },
@@ -229,7 +229,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D^7/F#"
+                     "name" : "D^7/F(#)"
                   }
                ]
             },
@@ -237,11 +237,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E/F#"
+                     "name" : "E/F(#)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G^7/F#"
+                     "name" : "G^7/F(#)"
                   }
                ]
             },
@@ -265,14 +265,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7b9"
+                     "name" : "Db7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G^7#11"
+                     "name" : "G^7(#11)"
                   }
                ]
             }
@@ -280,6 +280,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "C"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

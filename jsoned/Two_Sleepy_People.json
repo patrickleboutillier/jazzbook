@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Two Sleepy People;Carmichael Hoagy;Ballad;C",
       "{A:T44C E-7 |D-7 G7 |E-7 A7 |D-7 G7 |Bh7 Bb7#11 |A7   |D-7 G7 |C   ",
@@ -67,7 +67,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -255,7 +255,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7#11"
+                     "name" : "Bb7(#11)"
                   }
                ]
             },
@@ -289,6 +289,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "C"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

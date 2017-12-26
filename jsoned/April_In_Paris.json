@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;April In Paris;Duke Vernon;Medium Swing;C",
       "A:T44G7b9sus   |C^7   |Dh7   |G7b9   |C^7   |%   |G-7   |C7   ",
@@ -15,7 +15,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -36,7 +36,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -113,7 +113,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -178,7 +178,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -249,7 +249,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9sus"
+                     "name" : "G7(b9sus)"
                   }
                ]
             },
@@ -270,7 +270,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -307,6 +307,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Duke Vernon",
-   "key" : "C"
+   "composer" : "Vernon Duke",
+   "key" : null
 }

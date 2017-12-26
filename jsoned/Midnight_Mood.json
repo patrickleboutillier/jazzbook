@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Midnight Mood;Zawinul Joe;Waltz;Db",
       "T34Db^7   |Ebh7/Db   |Db^7   |Ebh7/Db   |Db^7   |Ebh7/Db   |Db^7   |G7b9b5   |Gb^7   |C7#9   |F-7   |Bb-7   |Eb-7   |Eb-7/Ab   |Ab-7/Db   |/G7b9b5 /|Gb^7   |C7#9   |F-7   |Bb7#9   |Eb-7   |Ab7   |Db^7   |Ebh7/Db   "
@@ -19,7 +19,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/Db"
+                     "name" : "Ebh7/D(b)"
                   }
                ]
             },
@@ -33,7 +33,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/Db"
+                     "name" : "Ebh7/D(b)"
                   }
                ]
             },
@@ -47,7 +47,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/Db"
+                     "name" : "Ebh7/D(b)"
                   }
                ]
             },
@@ -61,7 +61,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9b5"
+                     "name" : "G7(b9b5)"
                   }
                ]
             },
@@ -75,7 +75,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -103,14 +103,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-7/Ab"
+                     "name" : "Eb-7/A(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab-7/Db"
+                     "name" : "Ab-7/D(b)"
                   }
                ]
             },
@@ -122,7 +122,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "G7b9b5"
+                     "name" : "G7(b9b5)"
                   },
                   {
                      "beats" : 1.33333333333333,
@@ -140,7 +140,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -154,7 +154,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9"
+                     "name" : "Bb7(#9)"
                   }
                ]
             },
@@ -182,13 +182,13 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/Db"
+                     "name" : "Ebh7/D(b)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Zawinul Joe",
-   "key" : "Db"
+   "composer" : "Joe Zawinul",
+   "key" : null
 }

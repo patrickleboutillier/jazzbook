@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;United;Shorter Wayne;Waltz;F",
       "T34Eh7   |A7b9   |D-   |%   |Eh7   |A7b9   |D-   |%   |C-7   |F7   |Bb^7   |Ab-7 Db7 |Gb^7   |G-7 C7 |F^7   |%   "
@@ -19,7 +19,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -43,7 +43,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -122,6 +122,6 @@
          ]
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "F"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

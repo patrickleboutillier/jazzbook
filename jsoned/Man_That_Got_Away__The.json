@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Man That Got Away, The;Arlen Harold;Slow Swing;F",
       "A:T44F6   |%   |G-7 C7 |Bb7,B7,C7 |F6   |//A7#5 |D7#5   |%   |G-11   |C7   |Ah7   |D7b9   |G-11   |C7   |F^7   |C13   ",
@@ -69,14 +69,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -107,7 +107,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -232,7 +232,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -273,7 +273,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9#5"
+                     "name" : "D7(b9#5)"
                   }
                ]
             },
@@ -318,7 +318,7 @@
                   }
                ],
                "comments" : [
-                  "D.S. al Coda"
+                  "0-D.S. al Coda"
                ]
             }
          ],
@@ -350,7 +350,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -391,6 +391,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "F"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Home At Last;Mobley Hank;Bossa Nova;Bb",
       "{A:T44Bb^7   |%   |A-   |D7#9   |G-   |%   |F-   |Bb7   ",
@@ -23,7 +23,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Ab7#11"
+                           "name" : "Ab7(#11)"
                         }
                      ]
                   },
@@ -47,7 +47,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A7#9"
+                           "name" : "A7(#9)"
                         }
                      ]
                   },
@@ -59,7 +59,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7#9"
+                           "name" : "G7(#9)"
                         }
                      ]
                   },
@@ -90,7 +90,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Ab7#11"
+                           "name" : "Ab7(#11)"
                         }
                      ]
                   },
@@ -104,7 +104,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -134,7 +134,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -192,7 +192,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -220,6 +220,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Mobley Hank",
-   "key" : "Bb"
+   "composer" : "Hank Mobley",
+   "key" : null
 }

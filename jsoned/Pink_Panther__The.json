@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Pink Panther, The;Mancini Henry;Medium Swing;E-",
       "A:T44E-   |%   |C9   |%   |E-   |%   |F9   |%   ",
@@ -91,7 +91,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -142,7 +142,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9#11"
+                     "name" : "Ab9(#11)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -202,6 +202,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Mancini Henry",
-   "key" : "E-"
+   "composer" : "Henry Mancini",
+   "key" : null
 }

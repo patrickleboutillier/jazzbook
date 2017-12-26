@@ -1,5 +1,5 @@
 {
-   "style" : "Slow Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Fools Rush In;Bloom Rube;Slow Swing;C",
       "A:T44D-7   |G7   |C^7   |A-7   |D-7   |G7   |C^7   |A-7   |D-7   |G7   |C6   |A-7   |D7#11   |%   |G7   |G7b9   ",
@@ -97,7 +97,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -114,7 +114,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -175,7 +175,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -249,6 +249,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Bloom Rube",
-   "key" : "C"
+   "composer" : "Rube Bloom",
+   "key" : null
 }

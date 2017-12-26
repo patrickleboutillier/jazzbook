@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Everybody's Song But My Own;Wheeler Kenny;Waltz;C-",
       "A:T34Ab/Bb   |G7b13/B   |C-7   |C-7/Bb   |Ah7   |D7   ",
@@ -17,14 +17,14 @@
                "meter" : "3/4",
                "chords" : [
                   {
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b13/B"
+                     "name" : "G7(b13/B)"
                   }
                ]
             },
@@ -38,7 +38,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "F#7b9"
+                     "name" : "F#7(b9)"
                   }
                ]
             },
@@ -158,14 +158,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab/Bb"
+                     "name" : "Ab/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b13/B"
+                     "name" : "G7(b13/B)"
                   }
                ]
             },
@@ -179,7 +179,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -217,7 +217,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -231,7 +231,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db^7#11"
+                     "name" : "Db^7(#11)"
                   }
                ]
             },
@@ -245,7 +245,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -265,7 +265,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/Bb"
+                     "name" : "B^7/B(b)"
                   }
                ]
             },
@@ -279,7 +279,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/Bb"
+                     "name" : "B^7/B(b)"
                   }
                ]
             }
@@ -288,6 +288,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Wheeler Kenny",
-   "key" : "C-"
+   "composer" : "Kenny Wheeler",
+   "key" : null
 }

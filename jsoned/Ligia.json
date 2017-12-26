@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Ligia;Jobim Antonio-Carlos;Bossa Nova;B",
       "T44C#-7   |F#7#5   |D#-7   |Do7   |C#h7   |F#7sus F#7 |A#-7   |D#7   |E^7   |Fo7   |B^7   |G#-7   |F-7   |Bb7   |D#^7 G#7#5 |C#-7   |C7sus   |%   "
@@ -19,7 +19,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7#5"
+                     "name" : "F#7(#5)"
                   }
                ]
             },
@@ -120,7 +120,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G#7#5"
+                     "name" : "G#7(#5)"
                   }
                ]
             },
@@ -144,6 +144,6 @@
          ]
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "B"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

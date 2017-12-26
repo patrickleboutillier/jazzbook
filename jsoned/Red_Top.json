@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Red Top;Hampton Lionel;Medium Swing;G",
       "{A:T44G6 G6/B |C C#h7 |G/D C |G/B G7 |C9   |C-7 C#h7 |G/D C |Bh7 E7b9 |A-7   |D7   |G,G/B,C,C#h,|G/D,C,G/B,A-"
@@ -96,7 +96,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -159,6 +159,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Hampton Lionel",
-   "key" : "G"
+   "composer" : "Lionel Hampton",
+   "key" : null
 }

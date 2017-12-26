@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Donna Lee;Parker Charlie;Up Tempo Swing;Ab",
       "A:T44Ab^7   |F7   |Bb7   |%   |Bb-7   |Eb7   |Ab^7   |Eb-7 Ab7 |Db^7   |Gb7   |Ab^7   |F7   |Bb7   |%   |Bb-7   |Eb7   ",
@@ -158,7 +158,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -186,7 +186,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -251,6 +251,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "Ab"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

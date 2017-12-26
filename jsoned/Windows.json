@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Windows;Corea Chick;Waltz;B-",
       "A:T34B-7 |% |% |% |G#h7 |% |% |C#7 |F#-7 |% |% |% |D7sus |% |% |% |E^7#11 |% |% |% |% |% |% |% ",
@@ -83,7 +83,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7#11"
+                     "name" : "E^7(#11)"
                   }
                ]
             },
@@ -184,7 +184,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7/D#"
+                     "name" : "E^7/D(#)"
                   }
                ]
             },
@@ -212,7 +212,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bbh7/Ab"
+                     "name" : "Bbh7/A(b)"
                   }
                ]
             },
@@ -240,7 +240,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab-7/Gb"
+                     "name" : "Ab-7/G(b)"
                   }
                ]
             },
@@ -283,7 +283,7 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             }
@@ -312,7 +312,7 @@
             {
                "repeat_last" : 1,
                "comments" : [
-                  "4x"
+                  "0-4x"
                ]
             }
          ],
@@ -320,6 +320,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "B-"
+   "composer" : "Chick Corea",
+   "key" : null
 }

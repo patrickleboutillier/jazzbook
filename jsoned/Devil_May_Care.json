@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Devil May Care;Kirk T.P.;Medium Up Swing;G-",
       "T44A:G- Eh7 |A7b5 D7b9 |G- Eh7 |A7b9 D7b9 |G-   |Eh7   |Eb9#11   |D7b9   |G- Eh7 |A7b9 D7b9 |G- G-7/F |Eo7 Bbo7 |Ah7   |D7b9#5   |G-   |//Db9 ",
@@ -27,11 +27,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7b5"
+                     "name" : "A7(b5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -51,11 +51,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -76,14 +76,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb9#11"
+                     "name" : "Eb9(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -103,11 +103,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -145,7 +145,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9#5"
+                     "name" : "D7(b9#5)"
                   }
                ]
             },
@@ -277,7 +277,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -321,11 +321,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -345,11 +345,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -375,7 +375,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb13#11"
+                     "name" : "Eb13(#11)"
                   }
                ]
             },
@@ -392,7 +392,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9b5"
+                     "name" : "D7(#9b5)"
                   }
                ]
             },
@@ -410,6 +410,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Kirk T.P.",
-   "key" : "G-"
+   "composer" : "T.P. Kirk",
+   "key" : null
 }

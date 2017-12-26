@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Why Do I Love You?;Kern Jerome;Medium Swing;Ab",
       "{A:T44Ab^7   |F-7   |Bb-7   |Eb7   |Ab^7   |F7   |Bb-7   |Eb7   ",
@@ -41,7 +41,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ]
                   },
@@ -213,6 +213,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Kern Jerome",
-   "key" : "Ab"
+   "composer" : "Jerome Kern",
+   "key" : null
 }

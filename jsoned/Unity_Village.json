@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Unity Village;Metheny Pat;Ballad;A-",
       "A:T44A-   |E7   |F^7   |%   |A-   |E7   |F^7   |Bb^7,   ",
@@ -90,7 +90,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7#9"
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
@@ -165,7 +165,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C/Bb"
+                     "name" : "C/B(b)"
                   }
                ]
             },
@@ -199,6 +199,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "A-"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

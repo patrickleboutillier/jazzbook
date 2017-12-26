@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;All Alone;Berlin Irving;Waltz;F",
       "T34F   |F/C   |C7   |%   |F   |C7#5   |F^7   |F6   |Eh7   |A7b9   |D-7   |G7   |A   |E7   |A   |G-7 C7 |C-7   |F7   |Bb   |%   |G7   |%   |C7   |C7#5   |F   |C-7 F7 |Bb^7   |Eb7   |F/C   |C7   |F,   |G-7 C7 "
@@ -43,7 +43,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -71,7 +71,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -166,7 +166,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -239,6 +239,6 @@
          ]
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "F"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

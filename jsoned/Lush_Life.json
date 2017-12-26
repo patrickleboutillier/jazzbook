@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Lush Life;Strayhorn Billy;Ballad;Db",
       "{v:T44Db6 Cb7 |Db^7 Cb7 |%   |Db^,Eb-7,F-7,Gb-7,|Ab-7 D7 |F-7 D7 ",
@@ -200,7 +200,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#11"
+                     "name" : "A7(#11)"
                   }
                ]
             },
@@ -214,7 +214,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             }
@@ -230,7 +230,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -261,7 +261,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -273,7 +273,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -316,7 +316,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7b9"
+                     "name" : "Eb7(b9)"
                   }
                ]
             },
@@ -377,7 +377,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -428,7 +428,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   },
                   {
                      "beats" : 2,
@@ -476,7 +476,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   },
                   {
                      "beats" : 2,
@@ -532,7 +532,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -544,7 +544,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             }
@@ -552,6 +552,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Strayhorn Billy",
-   "key" : "Db"
+   "composer" : "Billy Strayhorn",
+   "key" : null
 }

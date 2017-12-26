@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;My Song;Jarrett Keith;Even 8ths;C",
       "{i:T44C   |C   |Db^7   |D-7 G7sus ",
@@ -59,7 +59,7 @@
                      "coda" : 1,
                      "chords" : [
                         {
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   }
@@ -138,7 +138,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F#7b5"
+                     "name" : "F#7(b5)"
                   }
                ]
             },
@@ -229,14 +229,14 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -260,7 +260,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -274,7 +274,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9#11"
+                     "name" : "C7(b9#11)"
                   }
                ]
             },
@@ -282,7 +282,7 @@
                "chords" : [
                   {
                      "beats" : 3,
-                     "name" : "C/Db"
+                     "name" : "C/D(b)"
                   },
                   {
                      "beats" : 1,
@@ -298,14 +298,14 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb-7/Ab"
+                     "name" : "Bb-7/A(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b9b13"
+                     "name" : "G7(b9b13)"
                   }
                ]
             },
@@ -344,7 +344,7 @@
                   }
                ],
                "comments" : [
-                  "D.S. al Coda"
+                  "0-D.S. al Coda"
                ]
             }
          ],
@@ -390,6 +390,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Jarrett Keith",
-   "key" : "C"
+   "composer" : "Keith Jarrett",
+   "key" : null
 }

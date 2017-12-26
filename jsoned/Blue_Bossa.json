@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Blue Bossa;Dorham Kenny;Bossa Nova;C-",
       "T44C-7   |%   |F-7   |%   |Dh7   |G7b9   |C-7   |%   |Eb-7   |Ab7   |Db^7   |%   |Dh7   |G7b9   |C-7   |Dh7 G7b9 "
@@ -39,7 +39,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -87,7 +87,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -106,13 +106,13 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Dorham Kenny",
-   "key" : "C-"
+   "composer" : "Kenny Dorham",
+   "key" : null
 }

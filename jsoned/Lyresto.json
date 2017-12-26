@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Lyresto;Burrell Kenny;Up Tempo Swing;C",
       "{A:T44Eb^7   |G-7 C7 |F-7   |Bb7   |Eb^7   |G-7 C7 |Ab-7   |Db7   ",
@@ -120,7 +120,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7#5"
+                           "name" : "C7(#5)"
                         }
                      ]
                   },
@@ -144,7 +144,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7#5"
+                           "name" : "C7(#5)"
                         }
                      ]
                   },
@@ -238,6 +238,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Burrell Kenny",
-   "key" : "C"
+   "composer" : "Kenny Burrell",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Quasimodo (Blowing Changes);Parker Charlie;Medium Swing;Eb",
       "A:T44Eb^7   |A-7 D7 |F-7 Bb7 |Gh7 C7 |F-7   |Ab-7 Db7 |Eb   |Dh7 G7 |C- C-/Bb |A-7 D7 |G- G-/F |Eh7 Eb-7 |D-7 G7 |C-7 F7 |F-7   |Bb7   ",
@@ -99,7 +99,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-/Bb"
+                     "name" : "C-/B(b)"
                   }
                ]
             },
@@ -290,7 +290,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-/Bb"
+                     "name" : "C-/B(b)"
                   }
                ]
             },
@@ -358,6 +358,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "Eb"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

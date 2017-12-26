@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I've Got My Love To Keep Me Warm;Berlin Irving;Medium Swing;Eb",
       "{T44A:Eb6   |Gbo7   |F-7   |Bb7   |Ah7   |D7b9   |Ah7   |D7b9 D7b9/F# |F-7   |Bb7   |F-7   |Bb7   |G-7 C7b9 |F-7 Bb7 ",
@@ -58,7 +58,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   }
@@ -106,7 +106,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -121,11 +121,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9/F#"
+                     "name" : "D7(b9/F#)"
                   }
                ]
             },
@@ -165,7 +165,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -202,7 +202,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b13"
+                     "name" : "D7(b13)"
                   }
                ]
             },
@@ -296,7 +296,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -311,11 +311,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9/F#"
+                     "name" : "D7(b9/F#)"
                   }
                ]
             },
@@ -355,7 +355,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -399,6 +399,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "Eb"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

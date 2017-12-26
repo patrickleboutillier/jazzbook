@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Time For Love, A;Mandel Johnny;Ballad;F",
       "A:T44F^7   |Eb7/F   |F6   |G7   |G-7   |G-7/F   |E-7 A7 |Eh7/A A7b9 ",
@@ -74,7 +74,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             }
@@ -93,7 +93,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7/Db"
+                     "name" : "Eb7/D(b)"
                   }
                ]
             },
@@ -145,7 +145,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             }
@@ -186,7 +186,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b13"
+                     "name" : "E7(b13)"
                   }
                ]
             },
@@ -198,7 +198,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b13"
+                     "name" : "A7(b13)"
                   }
                ]
             },
@@ -270,7 +270,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -322,7 +322,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -372,6 +372,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Mandel Johnny",
-   "key" : "F"
+   "composer" : "Johnny Mandel",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Rockin' Chair;Carmichael Hoagy;Medium Swing;Eb",
       "A:T44Eb6   |Eb7   |Ab^7   |Db7   |Eb6   |C7   |F7   |Bb7   |Eb6 G7 |C-7   |Ah7 D7b9 |G-   |F7   |%   |F-7 Bb7 |Eb6   ",
@@ -94,7 +94,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -167,7 +167,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -267,6 +267,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Carmichael Hoagy",
-   "key" : "Eb"
+   "composer" : "Hoagy Carmichael",
+   "key" : null
 }

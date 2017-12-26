@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Again;Newman Lionel;Ballad;G",
       "A:T44G^7, E-7 |A-7 D7 |B-7 E7 |A-7 D7 |B-7 E7b9 |Ah7 D7b9 |B7#5 E7b9 |A-7 D7 ",
@@ -68,7 +68,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -80,7 +80,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -88,11 +88,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#5"
+                     "name" : "B7(#5)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -169,7 +169,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -181,7 +181,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -269,7 +269,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -346,7 +346,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -358,7 +358,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9#5"
+                     "name" : "D7(b9#5)"
                   }
                ]
             },
@@ -376,6 +376,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Newman Lionel",
-   "key" : "G"
+   "composer" : "Lionel Newman",
+   "key" : null
 }

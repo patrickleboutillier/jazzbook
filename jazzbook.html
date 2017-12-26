@@ -34,6 +34,11 @@ body {
 
 .label {
 	font-size: 1.25em ;
+	height: 0.5em ;
+}
+
+.symbol {
+	font-size: 1.25em ;
 }
 
 .description {
@@ -77,7 +82,7 @@ body {
 
 .smallchord {
 	font-size: 2.25em ;
-	// font-weight: bold ;
+	/* font-weight: bold ; */
 }
 
 .comment {
@@ -89,7 +94,12 @@ body {
 
 @font-face {
 	font-family: Realbook ;
-	src: url(realbook-webfont.woff) ;
+	src: url(realbook-webfont.ttf) ;
+}
+
+@font-face {
+	font-family: JazzText ;
+	src: url(JazzText.ttf) ;
 }
 
 </STYLE>
@@ -135,7 +145,6 @@ var col = 0 ;
 
 var tbl ;
 var top_tr, mid_tr, bot_tr ;
-var last_ending_col ;
 
 
 var dir = "/tunes/" ;
@@ -165,12 +174,19 @@ function parse_query_string(){
 }
 
 
-function display(tune) {
-	header(document.body, tune) ;
+function display(tune){
+	var top = document.body ;
+	header(top, tune) ;
 
 	for (var i in tune.sections){
 		var s = tune.sections[i] ;
 		section(s) ;
+	}
+
+	if (_debug){
+		var pre = document.createElement('pre') ;
+		top.appendChild(pre) ;
+		pre.innerHTML = tune.metadata.join("\n") ;
 	}
 }
 
@@ -236,7 +252,17 @@ function section(section){
 		for (var e = 0 ; e < section.endings.length ; e++){
 			var ending = section.endings[e] ;
 			if ((ending.bars)&&(ending.bars.length > 0)){
+				var padding = [] ;
+				if ((e < section.endings.length - 1)&&((ending.bars.length % 4) > 0)){
+					// In order to align the starts of the repeat section, we must ensure the endings
+					// are of full line lengths (multiples of 4).
+					var extra = 4 - (ending.bars.length % 4) ;
+					for (var j = 0 ; j < extra ; j++){
+						padding.push({}) ;
+					}
+				}
 				for (var i = 0 ; i < ending.bars.length ; i++){
+
 					var first = (i == 0 ? true : false) ;
 					var last = (i == (ending.bars.length - 1) ? true : false) ;
 
@@ -247,11 +273,22 @@ function section(section){
 					if ((last)&&(ending.no == 1)){
 						// Force a repeat bar line
 						postbar(last, true) ;
-						last_ending_col = col ;
 					}
 					else {
 						postbar(last, false) ;
 					}
+
+					col++ ;
+					if (col == 4){
+						col = 0 ;
+					}
+				}
+
+				// Add padding
+				for (var i = 0 ; i < padding.length ; i++){
+					prebar("", false, false, true) ;
+					bar(padding[i], "", false) ;
+					postbar(false, false, true) ;
 
 					col++ ;
 					if (col == 4){
@@ -274,7 +311,7 @@ function fix_label(label){
 		case "D": return "&#x0394;" ;
 		case "E": return "&#x0395;" ;
 		case "F": return "&#x0396;" ;
-		case "@": return "@" ;
+		case "@": return "&#x00A4;" ;
 		default : return (label ? "(" + label + ")" : "") ;
 	}
 }
@@ -283,31 +320,32 @@ function fix_label(label){
 /* A bar is opened if it is the first bar of a section or of a line.
    Also, if it is the first bar of the section and it is a repeat section, we put the repeat sign.
 */
-function prebar(label, first, repeat){
+function prebar(label, first, repeat, white = 0){
 	if ((col == 0)||((first)&&(label))){
+		// Insert a new tr
 		top_tr = tbl.insertRow() ;
 		mid_tr = tbl.insertRow() ;
 		bot_tr = tbl.insertRow() ;
-		if (col != 0){
-			col = 0 ;
-		}
+		col = 0 ;
 	}
 
 	var td = top_tr.insertCell() ;
 	td.className = "label" ;
-	td.innerHTML = (label ? label : "&nbsp;") ;
+	td.innerHTML = label ; // (label ? label : "&nbsp;") ;
 
 	td = mid_tr.insertCell() ;
-    if ((first)&&(col == 0)){
-        td.className = "prebar2" ;
-    }
-    else if (col == 0){
-		td.className = "prebar" ;
-    }
+	if (! white){
+	    if ((first)&&(col == 0)){
+	        td.className = "prebar2" ;
+	    }
+	    else if (col == 0){
+			td.className = "prebar" ;
+	    }
 
-    if ((first)&&(repeat)){
-		td.innerHTML = "<span class='chord'>:</span>" ;
-    }
+	    if ((first)&&(repeat)){
+			td.innerHTML = "<span class='chord'>:</span>" ;
+	    }
+	}
 
 	td = bot_tr.insertCell() ; // empty cell
 }
@@ -318,16 +356,18 @@ function prebar(label, first, repeat){
 
    Also, if it is the last bar of the section and it is a repeat section, we put the repeat sign.
 */
-function postbar(last, repeat){
+function postbar(last, repeat, white = 0){
 	var td = top_tr.insertCell() ; // empty cell
 
     td = mid_tr.insertCell() ;
-    td.className = "postbar" ;
+	if (! white){
+	    td.className = "postbar" ;
 
-	if (last){
-		td.className = "postbar2" ;
-		if (repeat){
-			td.innerHTML = "<span class='chord'>:</span>" ;
+		if (last){
+			td.className = "postbar2" ;
+			if (repeat){
+				td.innerHTML = "<span class='chord'>:</span>" ;
+			}
 		}
 	}
 
@@ -352,16 +392,16 @@ function bar(bar, description, ending = 0){
 		td.className = "ending" ;
 	}
 	if (bar.meter){
-		td.innerHTML += bar.meter + " " ;
+		td.innerHTML += "<span class='symbol'>" + bar.meter + "</span> " ;
 	}
 	if (bar.segno){
-		td.innerHTML += "$ " ;
+		td.innerHTML += "<span class='symbol'>&#x00A7;</span> " ;
 	}
 	if (description){
 		td.innerHTML += "<span class='description'>" + description + "</span>" ;
 	}
 	if (bar.coda){
-		td.innerHTML += " -@" ;
+		td.innerHTML += " -<span class='symbol'>&#x00A4;</span>" ;
 	}
 
 	td = mid_tr.insertCell() ;
@@ -441,19 +481,25 @@ function chord(tr, chord, beats){
 	}
 
 	var c = chord.name ;
-	var matches = c.match(/^([_A-G])(b|#|)(.*)$/) ;
+	var matches = c.match(/^([_A-G])([b#]+|)([\^\-h]+|)(.*)$/) ;
 	if ((matches)&&(matches.length > 0)){
 		var acc = matches[2] ;
-		var rest = matches[3] ;
-		acc = acc.replace("#", "&#x03B3;") ;
-		acc = acc.replace("b", "&#x03B2;") ;
+		var sym = matches[3] ;
+		var rest = matches[4] ;
+
+		acc = acc.replace(/b/g, "&#x044C;") ;
+
+		sym = sym.replace(/\^/g, "&#x00AA;") ;
+		sym = sym.replace(/h/g, "&#x00D8;") ;
+
+	    rest = rest.replace(/#/g, "<sup>#</sup>") ;
+		rest = rest.replace(/b/g, "<sup>&#x044C;</sup>") ;
 
 		// rest = rest.replace(/\/(.*)/, "<br/>/$1") ;
 
-	    rest = rest.replace("#", "&#x03B3;") ;
-		rest = rest.replace("b", "<sup>&#x03B2;</sup>") ;
-
-		td.innerHTML = matches[1] + acc + "<span class='q'><sup>" + rest + "</sup></span>" ;
+		td.innerHTML = matches[1] + 
+			"<sup>" + acc + "</sup>" +
+			"<span class='q'>" + sym + "<sup>" + rest + "</sup></span>" ;
 	}
 	else {
 		td.innerHTML = c ;

@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Ahmid-6;Metheny Pat;Even 8ths;C",
       "A:T44D-7   |C#-7   |%%   |    |F#-7 B7 |E-7 A7 |G F |E- D-7 |C^7   |B7   |Bb^7#11   |Ah7 D7b9 |F#h7 B7b9 |Eh7 A7b9 |D-7 E-7 |F-7 Bb7 |Eb9sus |% |Ab^9 |% |Ab7sus |% |Db^13 |% |Dh7 G7b9 |C-7 F7 |F-7 Bb7 |Gh7 C7#9 |F-7 F#-7 |G-7 C-7 |T34F#-7, B7,|E-7,A7sus |T24A7sus |T44A7sus   |%   ",
@@ -93,7 +93,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -105,7 +105,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -117,7 +117,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -129,7 +129,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -205,7 +205,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -241,7 +241,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -509,6 +509,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "C"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

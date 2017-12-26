@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Falling In Love Again;Hollander Frederick;Waltz;C",
       "{A:T34C^7 C7 |F^7 Dh7 |C^7 Eh7/Bb |A7   |D-7   |G7   |C6   ",
@@ -81,7 +81,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Eh7/Bb"
+                     "name" : "Eh7/B(b)"
                   }
                ]
             },
@@ -218,7 +218,7 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Eh7/Bb"
+                     "name" : "Eh7/B(b)"
                   }
                ]
             },
@@ -266,6 +266,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Hollander Frederick",
-   "key" : "C"
+   "composer" : "Frederick Hollander",
+   "key" : null
 }

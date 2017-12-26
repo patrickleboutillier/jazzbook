@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Happiness Is A Thing Called Joe;Arlen Harold;Medium Swing;C",
       "i:T44C^7 D-7 |E-7 F^7 |%%   |    |B-7 E13 |B-9 E9#11 |A-9 D13 |D-7 |G13, ",
@@ -61,7 +61,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E9#11"
+                     "name" : "E9(#11)"
                   }
                ]
             },
@@ -140,7 +140,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -164,7 +164,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -195,7 +195,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab13#9"
+                     "name" : "Ab13(#9)"
                   }
                ]
             },
@@ -207,7 +207,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab13#9"
+                     "name" : "Ab13(#9)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F9#11"
+                     "name" : "F9(#11)"
                   }
                ]
             },
@@ -235,7 +235,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A7#5"
+                     "name" : "A7(#5)"
                   }
                ]
             },
@@ -302,7 +302,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -326,7 +326,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5/E"
+                     "name" : "C7(#5/E)"
                   }
                ]
             },
@@ -338,7 +338,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -402,7 +402,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -416,7 +416,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -458,6 +458,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Arlen Harold",
-   "key" : "C"
+   "composer" : "Harold Arlen",
+   "key" : null
 }

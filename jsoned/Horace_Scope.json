@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Horace Scope;Silver Horace;Medium Swing;Db",
       "{T44Db^7   |E-7 A7 |Eb-7   |Ab-7 Db7 |Db-7   |Ab7#5   |G13   |//Gb13 |F-7   |Bb-7   |Eb-7   |Ab7#5   |Db7#9   |Bb7#9b5   |A7   ",
@@ -15,7 +15,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Ab7#9#5"
+                           "name" : "Ab7(#9#5)"
                         }
                      ]
                   }
@@ -35,7 +35,7 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Bb7#9b5"
+                           "name" : "Bb7(#9b5)"
                         },
                         {
                            "beats" : 2,
@@ -46,14 +46,14 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Gb-7/Ab"
+                           "name" : "Gb-7/A(b)"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "Db7#9"
+                           "name" : "Db7(#9)"
                         }
                      ]
                   }
@@ -111,7 +111,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
@@ -162,21 +162,21 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db7#9"
+                     "name" : "Db7(#9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7#9b5"
+                     "name" : "Bb7(#9b5)"
                   }
                ]
             },
@@ -191,6 +191,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Db"
+   "composer" : "Horace Silver",
+   "key" : null
 }

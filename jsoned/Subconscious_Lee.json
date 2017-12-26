@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Subconscious Lee;Konitz Lee;Medium Up Swing;C",
       "{T44A:Gh7   |C7b9,   |F-7   |%   |Dh7   |G7b9,   |C^7   |%   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -124,7 +124,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -148,7 +148,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -166,6 +166,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Konitz Lee",
-   "key" : "C"
+   "composer" : "Lee Konitz",
+   "key" : null
 }

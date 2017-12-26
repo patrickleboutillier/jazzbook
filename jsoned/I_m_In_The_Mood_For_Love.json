@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I'm In The Mood For Love;McHugh Jimmy;Medium Swing;C",
       "{A:T44C^7 A-7 |D-7 G7 |D-7 G7 |C^7 F7 |E-7 Ebo7 |D-7   |G7   ",
@@ -175,7 +175,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -300,6 +300,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "McHugh Jimmy",
-   "key" : "C"
+   "composer" : "Jimmy McHugh",
+   "key" : null
 }

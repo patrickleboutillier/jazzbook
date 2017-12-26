@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Ask Me Now;Monk Thelonious;Ballad;Db",
       "{A:T44G-7,C7,F#-7,B7,|F-7,Bb7,E-7,A7,|Eb-7 Ab7#5 |B7#11 Bb7 |Eb7 D7 |Db^7 Eb7 |Eb-7 Ab7 ",
@@ -100,7 +100,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
@@ -108,7 +108,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -185,7 +185,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             }
@@ -278,7 +278,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
@@ -286,7 +286,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   },
                   {
                      "beats" : 2,
@@ -326,7 +326,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#5"
+                     "name" : "Ab7(#5)"
                   }
                ]
             },
@@ -341,6 +341,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Db"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

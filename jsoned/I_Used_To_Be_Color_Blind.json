@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;I Used To Be Color Blind;Berlin Irving;Medium Swing;Eb",
       "A:Eb^7 Eb^7/Bb |Ah7   |Ab-6   |G-7   |A-7 D7 |G7sus G7 |G-7 F#o7 |G-7 C7 ",
@@ -19,7 +19,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -126,7 +126,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
@@ -138,7 +138,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -150,7 +150,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab9#11"
+                     "name" : "Ab9(#11)"
                   }
                ]
             },
@@ -186,7 +186,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -233,7 +233,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#5"
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -276,7 +276,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -292,7 +292,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "Ab7/Gb"
+                     "name" : "Ab7/G(b)"
                   }
                ]
             },
@@ -338,6 +338,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "Eb"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

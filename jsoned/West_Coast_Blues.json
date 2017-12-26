@@ -1,9 +1,9 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;West Coast Blues;Montgomery Wes;Waltz;Bb",
-      "{i:T64Bb7   |Ab7   |Bb7   |B-7 E7 |Eb7   |%   |Bb7   |%   |F7   |Eb7   |Bb7   |%   ",
-      "A:<U29sb3M6>Bb7   |Ab7   |Bb7   |B-7 E7 |Eb7   |Eb-7 Ab7 |D-7 G7 |C#-7 F#7 |C-7   |C-7 F7 |Bb^7 Db7 |Gb^7 F7 "
+      "{i:T64Bb7   |Ab7   |Bb7   |B-7  E7  |Eb7   |%   |Bb7   |%   |F7   |Eb7   |Bb7   |%   ",
+      "A:<U29sb3M6>Bb7   |Ab7   |Bb7   |B-7  E7  |Eb7   |Eb-7  Ab7  |D-7  G7  |C#-7  F#7  |C-7   |C-7  F7  |Bb^7  Db7  |Gb^7  F7  "
    ],
    "title" : "West Coast Blues",
    "sections" : [
@@ -34,11 +34,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "B-7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "E7"
                   }
                ]
@@ -98,9 +98,6 @@
                   {
                      "name" : "Bb7"
                   }
-               ],
-               "comments" : [
-                  "Solos:"
                ]
             },
             {
@@ -120,11 +117,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "B-7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "E7"
                   }
                ]
@@ -139,11 +136,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "Eb-7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "Ab7"
                   }
                ]
@@ -151,11 +148,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "D-7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "G7"
                   }
                ]
@@ -163,11 +160,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "C#-7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "F#7"
                   }
                ]
@@ -182,11 +179,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "C-7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "F7"
                   }
                ]
@@ -194,11 +191,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "Bb^7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "Db7"
                   }
                ]
@@ -206,19 +203,20 @@
             {
                "chords" : [
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "Gb^7"
                   },
                   {
-                     "beats" : 1.33333333333333,
+                     "beats" : 3,
                      "name" : "F7"
                   }
                ]
             }
          ],
-         "label" : "A"
+         "label" : "A",
+         "description" : "Solos:"
       }
    ],
-   "composer" : "Montgomery Wes",
-   "key" : "Bb"
+   "composer" : "Wes Montgomery",
+   "key" : null
 }

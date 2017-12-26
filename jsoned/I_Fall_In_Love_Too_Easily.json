@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Fall In Love Too Easily;Styne Jule;Ballad;Eb",
       "T44F-7 Bb7 |Eb^7 Ab^7 |Dh7 G7#9 |C- A7b5 |Dh7 G7#9 |C-7 C-7/Bb |Ah7 D7b9 |Dh7 G7b9 ",
@@ -42,7 +42,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -54,7 +54,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b5"
+                     "name" : "A7(b5)"
                   }
                ]
             },
@@ -66,7 +66,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7#9"
+                     "name" : "G7(#9)"
                   }
                ]
             },
@@ -78,7 +78,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -90,7 +90,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -102,7 +102,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -137,7 +137,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -149,7 +149,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -177,7 +177,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -201,13 +201,13 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Styne Jule",
-   "key" : "Eb"
+   "composer" : "Jule Styne",
+   "key" : null
 }

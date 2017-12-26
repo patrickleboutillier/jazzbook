@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Segment;Parker Charlie;Up Tempo Swing;Bb-",
       "{A:T44Bb-7   |Ch7 F7b9 |Bb-7   |Ch7 F7b9 |Bb-7   |Ch7 F7b9 |Bb-7   |Ch7 F7b9 ",
@@ -26,7 +26,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -64,7 +64,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -83,7 +83,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -103,7 +103,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -127,7 +127,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -146,7 +146,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -170,7 +170,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -189,7 +189,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -208,7 +208,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -227,7 +227,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             }
@@ -235,6 +235,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "Bb-"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;500 Miles High;Corea Chick;Bossa Nova;E-",
       "T44E-7   |%   |G-7   |%   |Bb^7   |%   |Bh7   |E7#9   |A-7   |%   |F#h7   |%   |F-7   |%  @ |C-7   |%   |B7#9   |%   ",
@@ -50,7 +50,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -98,7 +98,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -134,6 +134,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "E-"
+   "composer" : "Chick Corea",
+   "key" : null
 }

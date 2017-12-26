@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Questar;Jarrett Keith;Even 8ths;Bb",
       "{T44Bb^7   |Cb^7/Bb   |Bb^9   |Eb^7/Bb   |Bb^7   |Cb^7/Bb   |Eb-6/Bb   |Bb^9#11   ",
@@ -20,7 +20,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Cb^7/Bb"
+                     "name" : "Cb^7/B(b)"
                   }
                ]
             },
@@ -34,7 +34,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -48,21 +48,21 @@
             {
                "chords" : [
                   {
-                     "name" : "Cb^7/Bb"
+                     "name" : "Cb^7/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb-6/Bb"
+                     "name" : "Eb-6/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb^9#11"
+                     "name" : "Bb^9(#11)"
                   }
                ]
             }
@@ -105,7 +105,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -119,14 +119,14 @@
             {
                "chords" : [
                   {
-                     "name" : "Cb/Bb"
+                     "name" : "Cb/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb-6/Bb"
+                     "name" : "Eb-6/B(b)"
                   }
                ]
             },
@@ -157,7 +157,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F#^7#5"
+                     "name" : "F#^7(#5)"
                   }
                ]
             },
@@ -223,7 +223,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7#11/G"
+                     "name" : "Ab^7(#11/G)"
                   }
                ]
             },
@@ -233,7 +233,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7#11"
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -263,6 +263,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Jarrett Keith",
-   "key" : "Bb"
+   "composer" : "Keith Jarrett",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Bouncin' With Bud;Powell Bud;Up Tempo Swing;Bb",
       "{i:T44Bb^7   |%   |B7#11   |%   ",
@@ -28,7 +28,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -177,14 +177,14 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -304,7 +304,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7/F#"
+                     "name" : "D7/F(#)"
                   },
                   {
                      "beats" : 2,
@@ -340,7 +340,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -365,7 +365,7 @@
                   }
                ],
                "comments" : [
-                  "solos on AABA"
+                  "0-solos on AABA"
                ]
             },
             {
@@ -375,6 +375,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Powell Bud",
-   "key" : "Bb"
+   "composer" : "Bud Powell",
+   "key" : null
 }

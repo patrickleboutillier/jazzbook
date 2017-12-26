@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Ballade;Parker Charlie;Ballad;F",
       "A:T44C-7 F7 |Bb^7   |Bb-7 Eb7 |Ab^7 D-7,G7,|D-7   |D-7 G7 |G-7 D7#9 |G-7 C7#9 ",
@@ -84,7 +84,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   }
                ]
             },
@@ -96,7 +96,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             }
@@ -120,7 +120,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7#9"
+                     "name" : "A7(#9)"
                   }
                ]
             },
@@ -167,6 +167,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Parker Charlie",
-   "key" : "F"
+   "composer" : "Charlie Parker",
+   "key" : null
 }

@@ -17,11 +17,11 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "G7b13"
+                           "name" : "G7(b13)"
                         },
                         {
                            "beats" : 2,
-                           "name" : "Db7#11"
+                           "name" : "Db7(#11)"
                         }
                      ]
                   },
@@ -40,11 +40,11 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ],
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -56,11 +56,11 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "G7b13"
+                           "name" : "G7(b13)"
                         },
                         {
                            "beats" : 2,
-                           "name" : "Db7#11"
+                           "name" : "Db7(#11)"
                         }
                      ]
                   },
@@ -79,7 +79,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "A7#9"
+                           "name" : "A7(#9)"
                         }
                      ]
                   }
@@ -92,7 +92,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -103,18 +103,18 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7b13"
+                     "name" : "G7(b13)"
                   }
                ]
             },
@@ -126,7 +126,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Bb"
+                     "name" : "C-7/B(b)"
                   }
                ]
             },
@@ -138,7 +138,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             },
@@ -150,7 +150,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7/Gb"
+                     "name" : "Ab7/G(b)"
                   }
                ]
             },
@@ -158,11 +158,11 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7b9/F"
+                     "name" : "G7(b9/F)"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/Eb"
+                     "name" : "C-7/E(b)"
                   }
                ]
             },
@@ -174,7 +174,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7#11"
+                     "name" : "Ab7(#11)"
                   }
                ]
             }
@@ -229,7 +229,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 1st ending"
+                  "0-D.C. al 1st ending"
                ]
             },
             {
@@ -240,7 +240,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             }

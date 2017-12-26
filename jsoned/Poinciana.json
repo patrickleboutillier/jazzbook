@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Poinciana;Simon Nat;Latin;D",
       "{i:T44A7sus   |%   |%   |%   |A7sus   |%   |D6   |%   ",
@@ -89,7 +89,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -189,7 +189,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7b9"
+                     "name" : "A7(b9)"
                   }
                ]
             },
@@ -211,6 +211,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Simon Nat",
-   "key" : "D"
+   "composer" : "Nat Simon",
+   "key" : null
 }

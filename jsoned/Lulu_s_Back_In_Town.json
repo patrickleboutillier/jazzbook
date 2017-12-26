@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Lulu's Back In Town;Warren Harry;Medium Up Swing;F",
       "{A:T44D7 G7 |C7 F^7 |D7 G7 |C7, F^,A7,|Bb^7 Bo7 |F^7 D7 |G7 C7 |F6   ",
@@ -168,7 +168,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -307,6 +307,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Warren Harry",
-   "key" : "F"
+   "composer" : "Harry Warren",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Juju;Shorter Wayne;Waltz;B",
       "T34B7#5   |%   |%   |%   |B7#5   |%   |%   |%   |Bb7#5   |%   |A7   |%   |Ab^7   |%   |E-7   |%   |F^7   |%   |B-7   |%   |F^7   |%   |B-7   |%   "
@@ -12,7 +12,7 @@
                "meter" : "3/4",
                "chords" : [
                   {
-                     "name" : "B7#5"
+                     "name" : "B7(#5)"
                   }
                ]
             },
@@ -28,7 +28,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#5"
+                     "name" : "B7(#5)"
                   }
                ]
             },
@@ -44,7 +44,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7#5"
+                     "name" : "Bb7(#5)"
                   }
                ]
             },
@@ -124,6 +124,6 @@
          ]
       }
    ],
-   "composer" : "Shorter Wayne",
-   "key" : "B"
+   "composer" : "Wayne Shorter",
+   "key" : null
 }

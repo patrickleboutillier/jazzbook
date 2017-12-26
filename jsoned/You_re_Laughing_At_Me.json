@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;You're Laughing At Me;Berlin Irving;Medium Swing;Eb",
       "A:Eb6   |Fh7 Bb7b9 |Eb^7 G-7/D |C-7 Bo7 |Eb^7/Bb   |Ao7 D7b9 |G-7 C-7 |Ab-7 Db7 ",
@@ -26,7 +26,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -57,7 +57,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/Bb"
+                     "name" : "Eb^7/B(b)"
                   }
                ]
             },
@@ -69,7 +69,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -124,7 +124,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb^7/Db"
+                     "name" : "Gb^7/D(b)"
                   }
                ]
             },
@@ -150,7 +150,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7b9"
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -198,7 +198,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -277,7 +277,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7/Bb"
+                     "name" : "Eb7/B(b)"
                   }
                ]
             },
@@ -332,7 +332,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7/Bb"
+                     "name" : "D7/B(b)"
                   }
                ]
             },
@@ -340,7 +340,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Fo7/Eb"
+                     "name" : "Fo7/E(b)"
                   },
                   {
                      "beats" : 2,
@@ -364,6 +364,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Berlin Irving",
-   "key" : "Eb"
+   "composer" : "Irving Berlin",
+   "key" : null
 }

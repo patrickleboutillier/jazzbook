@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Gloria's Step;LaFaro Scott;Medium Swing;F",
       "A:T44F^7   |Eb^7 D^7 |Db^7   |C7#9   |F-7   |F^7   |Eb^7 D^7 |Db^7   |C7#9   |F-7   ",
@@ -39,7 +39,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -79,7 +79,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -154,7 +154,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#9#5"
+                     "name" : "Eb7(#9#5)"
                   }
                ]
             },
@@ -165,6 +165,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "LaFaro Scott",
-   "key" : "F"
+   "composer" : "Scott LaFaro",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I Cover The Waterfront;Green Johnny;Ballad;G",
       "{A:T44E-7 A7 |A-7 D7 |G^7 C^7 |B-7 Bbo7 |A-7   |D7sus D7 |G^7   |Bh7 E7b9 ",
@@ -93,7 +93,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -281,7 +281,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -289,6 +289,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Green Johnny",
-   "key" : "G"
+   "composer" : "Johnny Green",
+   "key" : null
 }

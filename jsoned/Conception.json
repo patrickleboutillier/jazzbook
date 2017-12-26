@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Conception;Shearing George;Medium Swing;Db",
       "{A:T44Ebh7   |Ab7b9   |Db^7 B-7 |A^7 Ab^7 |Ab-7 Db7 |Gb7 F7 |Bb7 A7 |Ab7 G7 |F#-7 B7 |E^7 A^7 |Eb-7 Ab7 |Db^7   ",
@@ -21,7 +21,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -237,7 +237,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7b9"
+                     "name" : "Ab7(b9)"
                   }
                ]
             },
@@ -360,6 +360,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Shearing George",
-   "key" : "Db"
+   "composer" : "George Shearing",
+   "key" : null
 }

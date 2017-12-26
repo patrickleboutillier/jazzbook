@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Looking Up;Petrucciani Michel;Latin;A",
       "{T44A^7   |A7   |D^7   |G7   |A^7   |A7   |D^7   |C#7   |F#-7   |B7   |E^7   |C#7   |D#-7   |%   |G#7   |%   ",
@@ -51,7 +51,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "G7b5"
+                           "name" : "G7(b5)"
                         }
                      ]
                   },
@@ -305,6 +305,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Petrucciani Michel",
-   "key" : "A"
+   "composer" : "Michel Petrucciani",
+   "key" : null
 }

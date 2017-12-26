@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Litha;Corea Chick;Up Tempo Swing;D",
       "A:T68D^7   |C#-7   |B^7   |Bb-7   |Ab^7   |G-7   |F^7#11 |% |% |% |D^7 |% |% |% |Eb^7 |% |% |% |C^7 |% |% |% |F7sus |% |% |% |B7#9 |% |% |% ",
@@ -55,7 +55,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7#11"
+                     "name" : "F^7(#11)"
                   }
                ]
             },
@@ -135,7 +135,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7#9"
+                     "name" : "B7(#9)"
                   }
                ]
             },
@@ -269,6 +269,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "D"
+   "composer" : "Chick Corea",
+   "key" : null
 }

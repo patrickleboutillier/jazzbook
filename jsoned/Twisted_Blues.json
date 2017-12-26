@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Twisted Blues;Montgomery Wes;Medium Up Swing;Db",
       "T44Gb7   |G7   |Gb7   |G7   |Gb7   |G7   |Gb7   |G7   |Gb7   |Go7   |Db^7   |B-7 E7,@ |Bb-7 Eb7 |E-7 A7 |Eb-7 Ab7 |D-7 G7 ",
@@ -179,7 +179,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7#9"
+                     "name" : "Db7(#9)"
                   }
                ]
             }
@@ -187,6 +187,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Montgomery Wes",
-   "key" : "Db"
+   "composer" : "Wes Montgomery",
+   "key" : null
 }

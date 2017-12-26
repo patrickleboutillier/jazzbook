@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Silver's Serenade;Silver Horace;Medium Swing;G",
       "A:T44E-9   |%   |Bb-9   |%   |A-9   |%   |Eb-9   |%   ",
@@ -124,7 +124,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             }
@@ -136,7 +136,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#11"
+                     "name" : "D7(#11)"
                   }
                ]
             },
@@ -150,7 +150,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G^7#11"
+                     "name" : "G^7(#11)"
                   }
                ]
             }
@@ -158,6 +158,6 @@
          "label" : "@"
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "G"
+   "composer" : "Horace Silver",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Lucky Southern;Jarrett Keith;Bossa Nova;D",
       "{i:T44D^7   |D^7#5   |D6   |D^7#5   ",
@@ -23,7 +23,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7#5"
+                     "name" : "D^7(#5)"
                   }
                ]
             },
@@ -37,7 +37,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7#5"
+                     "name" : "D^7(#5)"
                   }
                ]
             }
@@ -230,7 +230,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D/F#"
+                     "name" : "D/F(#)"
                   }
                ]
             },
@@ -283,6 +283,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Jarrett Keith",
-   "key" : "D"
+   "composer" : "Keith Jarrett",
+   "key" : null
 }

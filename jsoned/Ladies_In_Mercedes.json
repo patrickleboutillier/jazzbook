@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Ladies In Mercedes;Swallow Steve;Bossa Nova;G",
       "A:T44G^7   |%   |C7#11   |%   |B-7   |%   |E7   |%   ",
@@ -25,7 +25,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -115,7 +115,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#11"
+                     "name" : "Gb7(#11)"
                   }
                ]
             },
@@ -191,6 +191,6 @@
          "label" : "D"
       }
    ],
-   "composer" : "Swallow Steve",
-   "key" : "G"
+   "composer" : "Steve Swallow",
+   "key" : null
 }

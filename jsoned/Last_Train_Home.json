@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Last Train Home;Metheny Pat;Even 8ths;Bb",
       "A:T44Bb   |C/Bb   |Ab   |Bb   |Bb,   |D- D-7 |G-   |Eb   |F7sus   |%   |F7   |G-   |D7/F#   |G-/F   |Eb^7   |%   |D-7   |G-7   |%%   |    |G-7,   |Eb6/Bb   |%   |%   |F   ",
@@ -20,7 +20,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C/Bb"
+                     "name" : "C/B(b)"
                   }
                ]
             },
@@ -98,7 +98,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/F#"
+                     "name" : "D7/F(#)"
                   }
                ]
             },
@@ -147,7 +147,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb6/Bb"
+                     "name" : "Eb6/B(b)"
                   }
                ]
             },
@@ -177,14 +177,14 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/Bb"
+                     "name" : "F/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/Bb"
+                     "name" : "F/B(b)"
                   }
                ]
             },
@@ -215,14 +215,14 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/Bb"
+                     "name" : "F/B(b)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/Bb"
+                     "name" : "F/B(b)"
                   }
                ]
             },
@@ -248,6 +248,6 @@
          ]
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "Bb"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

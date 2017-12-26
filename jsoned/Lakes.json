@@ -1,5 +1,5 @@
 {
-   "style" : "Even 8ths",
+   "style" : null,
    "metadata" : [
       "IREALB;Lakes;Metheny Pat;Even 8ths;D",
       "{i:T44D   |A/D   |G/D   |A/D   ",
@@ -56,7 +56,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "A/C#"
+                     "name" : "A/C(#)"
                   },
                   {
                      "beats" : 1,
@@ -80,7 +80,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E/G#"
+                     "name" : "E/G(#)"
                   },
                   {
                      "beats" : 2,
@@ -132,7 +132,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D^7/F#"
+                     "name" : "D^7/F(#)"
                   },
                   {
                      "beats" : 2,
@@ -197,7 +197,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A/C#"
+                     "name" : "A/C(#)"
                   },
                   {
                      "beats" : 2,
@@ -213,7 +213,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F#/G#"
+                     "name" : "F#/G(#)"
                   }
                ]
             },
@@ -288,7 +288,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E7#9/G#"
+                     "name" : "E7(#9/G#)"
                   },
                   {
                      "beats" : 2,
@@ -299,7 +299,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D/A#"
+                     "name" : "D/A(#)"
                   }
                ]
             },
@@ -319,7 +319,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7/C#"
+                     "name" : "A7/C(#)"
                   },
                   {
                      "beats" : 1,
@@ -327,7 +327,7 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "D/Eb"
+                     "name" : "D/E(b)"
                   }
                ]
             },
@@ -354,7 +354,7 @@
                   }
                ],
                "comments" : [
-                  "Fine"
+                  "0-Fine"
                ]
             }
          ],
@@ -367,9 +367,6 @@
                   {
                      "name" : "D"
                   }
-               ],
-               "comments" : [
-                  "Solos"
                ]
             },
             {
@@ -394,7 +391,8 @@
                ]
             }
          ],
-         "repeat" : 1
+         "repeat" : 1,
+         "description" : "Solos"
       },
       {
          "bars" : [
@@ -498,6 +496,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Metheny Pat",
-   "key" : "D"
+   "composer" : "Pat Metheny",
+   "key" : null
 }

@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Someday My Prince Will Come;Churchill Frank;Waltz;Bb",
       "A:T34Bb^7   |D7#5   |Eb^7   |G7b9   |C-7   |G7b9   |C-7   |F7   ",
@@ -22,7 +22,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -36,7 +36,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -50,7 +50,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -144,7 +144,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7#5"
+                     "name" : "D7(#5)"
                   }
                ]
             },
@@ -158,7 +158,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -172,7 +172,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -255,6 +255,6 @@
          "label" : "C"
       }
    ],
-   "composer" : "Churchill Frank",
-   "key" : "Bb"
+   "composer" : "Frank Churchill",
+   "key" : null
 }

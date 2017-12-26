@@ -1,5 +1,5 @@
 {
-   "style" : "Up Tempo Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Straight Street;Coltrane John;Up Tempo Swing;Eb-",
       "{A:T44B-7 E7 |A-7 D7 |G-7 C7 |F-7 Bb7 |Eb-7   |E7   |Gb7   |D7   |F-7   |Bb7   |Eb-7   |%   ",
@@ -169,7 +169,7 @@
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -320,6 +320,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Coltrane John",
-   "key" : "Eb-"
+   "composer" : "John Coltrane",
+   "key" : null
 }

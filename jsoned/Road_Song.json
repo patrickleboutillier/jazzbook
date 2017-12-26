@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Road Song;Montgomery Wes;Latin;G-",
       "{A:T44G-7   |%   |Ah7   |D7b9   |G-7 G-7/F |Eb^7   |Eh7 C-7 |D7#9 G-7 ",
@@ -31,7 +31,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -70,7 +70,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   },
                   {
                      "beats" : 2,
@@ -175,7 +175,7 @@
             {
                "chords" : [
                   {
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -214,7 +214,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7#9"
+                     "name" : "D7(#9)"
                   },
                   {
                      "beats" : 2,
@@ -226,6 +226,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Montgomery Wes",
-   "key" : "G-"
+   "composer" : "Wes Montgomery",
+   "key" : null
 }

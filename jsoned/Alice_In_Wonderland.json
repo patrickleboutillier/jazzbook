@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Alice In Wonderland;Fain Sammy;Waltz;C",
       "{A:T34D-7   |G7   |C^7   |F^7   |Bh7   |E7b9   |A-7   |Eb7#11   |D-7   |G7   |E-7   |A-7   |D-7   |G7   ",
@@ -42,7 +42,7 @@
                   {
                      "repeat_last" : 1,
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -89,7 +89,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -103,7 +103,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7#11"
+                     "name" : "Eb7(#11)"
                   }
                ]
             },
@@ -221,7 +221,7 @@
             {
                "chords" : [
                   {
-                     "name" : "B7b9"
+                     "name" : "B7(b9)"
                   }
                ]
             },
@@ -260,7 +260,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 2nd ending"
+                  "0-D.C. al 2nd ending"
                ]
             },
             {
@@ -274,6 +274,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Fain Sammy",
-   "key" : "C"
+   "composer" : "Sammy Fain",
+   "key" : null
 }

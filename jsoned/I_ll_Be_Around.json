@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;I'll Be Around;Wilder Alec;Ballad;C",
       "{A:T44C^7 D-7 |E-7 F^7 |G7 G#o7 |F/A G7/B |C^7 A-7 |D-7 G7 ",
@@ -159,7 +159,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db7/Ab"
+                     "name" : "Db7/A(b)"
                   },
                   {
                      "beats" : 2,
@@ -178,7 +178,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db7/Ab"
+                     "name" : "Db7/A(b)"
                   },
                   {
                      "beats" : 1,
@@ -201,7 +201,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab7/Eb"
+                     "name" : "Ab7/E(b)"
                   },
                   {
                      "beats" : 2,
@@ -354,6 +354,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Wilder Alec",
-   "key" : "C"
+   "composer" : "Alec Wilder",
+   "key" : null
 }

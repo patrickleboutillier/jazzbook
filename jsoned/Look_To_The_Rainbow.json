@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Look To The Rainbow;Lane Burton;Waltz;Eb",
       "{A:T34Eb6   |Ab^7   |G-11   |<LyAgICAvICAgIC8=>F-11 Bb7 |Eb6   |<LyAgICAvICAgIC8=>Bb-7 Eb7 |Ab6   |Bb7   |F-11   |Bb7   |F-11   |Bb7   |F-6   |Bb7   |Ab6   |Eb6   ",
@@ -42,7 +42,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb6/Bb"
+                           "name" : "Eb6/B(b)"
                         }
                      ]
                   },
@@ -58,7 +58,7 @@
                         }
                      ],
                      "comments" : [
-                        "/    /    /"
+                        "0-/    /    /"
                      ]
                   },
                   {
@@ -83,11 +83,11 @@
                         },
                         {
                            "beats" : 2.66666666666667,
-                           "name" : "C7b9"
+                           "name" : "C7(b9)"
                         }
                      ],
                      "comments" : [
-                        "/    /    /"
+                        "0-/    /    /"
                      ]
                   },
                   {
@@ -98,11 +98,11 @@
                         },
                         {
                            "beats" : 2.66666666666667,
-                           "name" : "Bb7b9"
+                           "name" : "Bb7(b9)"
                         }
                      ],
                      "comments" : [
-                        "/    /    /"
+                        "0-/    /    /"
                      ]
                   },
                   {
@@ -151,7 +151,7 @@
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             },
             {
@@ -173,7 +173,7 @@
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             },
             {
@@ -278,7 +278,7 @@
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             },
             {
@@ -300,7 +300,7 @@
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             },
             {
@@ -322,7 +322,7 @@
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             },
             {
@@ -358,7 +358,7 @@
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             },
             {
@@ -383,11 +383,11 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             },
             {
@@ -398,17 +398,17 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ],
                "comments" : [
-                  "/    /    /"
+                  "0-/    /    /"
                ]
             }
          ],
          "label" : "B"
       }
    ],
-   "composer" : "Lane Burton",
-   "key" : "Eb"
+   "composer" : "Burton Lane",
+   "key" : null
 }

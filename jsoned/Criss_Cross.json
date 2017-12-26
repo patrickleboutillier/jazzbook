@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Criss Cross;Monk Thelonious;Medium Swing;G-",
       "{A:T44G-6   |%   |Gb7#9   |Bb13   |D-7   |G7#11   |Gb13   |%   ",
@@ -24,7 +24,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#9"
+                     "name" : "Gb7(#9)"
                   }
                ]
             },
@@ -45,7 +45,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -125,7 +125,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb7#9"
+                     "name" : "Gb7(#9)"
                   }
                ]
             },
@@ -146,7 +146,7 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#11"
+                     "name" : "G7(#11)"
                   }
                ]
             },
@@ -164,6 +164,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "G-"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

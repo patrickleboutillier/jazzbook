@@ -1,5 +1,5 @@
 {
-   "style" : "Waltz",
+   "style" : null,
    "metadata" : [
       "IREALB;Heyoke;Wheeler Kenny;Waltz;F",
       "{T34F^7   |%   |B-7   |C#7   |F#-7   |%   |Bb-7   |A^7   |Ab^7   |%   |B^7   |%   |D^7   |G^7   ",
@@ -58,7 +58,7 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A^7#11/Ab"
+                           "name" : "A^7(#11/Ab)"
                         }
                      ]
                   },
@@ -167,6 +167,6 @@
          "repeat" : 1
       }
    ],
-   "composer" : "Wheeler Kenny",
-   "key" : "F"
+   "composer" : "Kenny Wheeler",
+   "key" : null
 }

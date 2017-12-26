@@ -1,5 +1,5 @@
 {
-   "style" : "Latin",
+   "style" : null,
    "metadata" : [
       "IREALB;Sea Journey;Corea Chick;Latin;A-",
       "{i:T44A-b6   |A-,   |A-b6   |A-   ",
@@ -17,7 +17,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "A-b6"
+                     "name" : "A-(b6)"
                   }
                ]
             },
@@ -31,7 +31,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-b6"
+                     "name" : "A-(b6)"
                   }
                ]
             },
@@ -51,7 +51,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-b6"
+                     "name" : "A-(b6)"
                   }
                ]
             },
@@ -65,7 +65,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-b6"
+                     "name" : "A-(b6)"
                   }
                ]
             },
@@ -144,7 +144,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -156,7 +156,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-b6"
+                     "name" : "A-(b6)"
                   }
                ]
             },
@@ -170,7 +170,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-b6"
+                     "name" : "A-(b6)"
                   }
                ]
             },
@@ -195,7 +195,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C^7#5"
+                     "name" : "C^7(#5)"
                   }
                ]
             },
@@ -207,7 +207,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -224,7 +224,7 @@
             {
                "chords" : [
                   {
-                     "name" : "E7#9"
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -275,7 +275,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             }
@@ -287,7 +287,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-b6"
+                     "name" : "A-(b6)"
                   }
                ]
             },
@@ -298,13 +298,13 @@
                   }
                ],
                "comments" : [
-                  "Open Vamp"
+                  "0-Open Vamp"
                ]
             }
          ],
          "repeat" : 1
       }
    ],
-   "composer" : "Corea Chick",
-   "key" : "A-"
+   "composer" : "Chick Corea",
+   "key" : null
 }

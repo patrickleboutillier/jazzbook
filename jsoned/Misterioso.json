@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Misterioso;Monk Thelonious;Medium Swing;Bb",
       "T44Bb7   |Eb7   |Bb7   |%   |Eb7   |%   |Bb7   |%   |C-7   |F7   |Bb7   |Bb7b5   "
@@ -77,13 +77,13 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7b5"
+                     "name" : "Bb7(b5)"
                   }
                ]
             }
          ]
       }
    ],
-   "composer" : "Monk Thelonious",
-   "key" : "Bb"
+   "composer" : "Thelonious Monk",
+   "key" : null
 }

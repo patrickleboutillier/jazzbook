@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;You Turned The Tables on Me;Alter Louis;Medium Swing;F",
       "A:T44G-7   |C7   |F^7 G-7 |A-7 D7b9 |G-7   |C7   |F^7   |C-7 F7 |Bb^7   |Eb7b5   |A-7   |Abo   |G-7   |Abo   |A-7 D7 |G-7 D7 ",
@@ -44,7 +44,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -91,7 +91,7 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7b5"
+                     "name" : "Eb7(b5)"
                   }
                ]
             },
@@ -275,6 +275,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Alter Louis",
-   "key" : "F"
+   "composer" : "Louis Alter",
+   "key" : null
 }

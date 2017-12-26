@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Joker, The;Morgan Lee;Medium Swing;Eb",
       "{A:T44Eb C7#9 |F-7 Bb7 |G-7 F#7 |F-7 Bb7 |Bb-7 Eb7 |Ab Ab-7 ",
@@ -21,7 +21,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7#9"
+                           "name" : "C7(#9)"
                         }
                      ]
                   },
@@ -61,7 +61,7 @@
                         }
                      ],
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -78,7 +78,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7#9"
+                     "name" : "C7(#9)"
                   }
                ]
             },
@@ -193,7 +193,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 2nd End."
+                  "0-D.C. al 2nd End."
                ]
             },
             {
@@ -207,6 +207,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Morgan Lee",
-   "key" : "Eb"
+   "composer" : "Lee Morgan",
+   "key" : null
 }

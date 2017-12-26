@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Samba De Orfeu;Bonfa Luiz;Bossa Nova;C",
       "{A:T44C^7   |%   |%   |%   |C^7 F7#11 |E-7 A7 |D-7   |G7   |D-7(Eb-7)   |G7(Ab7)   |D-7(Eb-7)   |G7(Ab7)   |D-7   |G7   ",
@@ -17,7 +17,7 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Bb7#11"
+                           "name" : "Bb7(#11)"
                         },
                         {
                            "beats" : 2,
@@ -52,7 +52,7 @@
                   {
                      "repeat_last" : 1,
                      "comments" : [
-                        "Fine"
+                        "0-Fine"
                      ]
                   }
                ],
@@ -85,7 +85,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7#11"
+                     "name" : "F7(#11)"
                   }
                ]
             },
@@ -208,7 +208,7 @@
                   }
                ],
                "comments" : [
-                  "D.C. al 2nd ending"
+                  "0-D.C. al 2nd ending"
                ]
             },
             {
@@ -227,6 +227,6 @@
          "label" : "B"
       }
    ],
-   "composer" : "Bonfa Luiz",
-   "key" : "C"
+   "composer" : "Luiz Bonfa",
+   "key" : null
 }

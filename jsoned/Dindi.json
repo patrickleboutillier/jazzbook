@@ -1,5 +1,5 @@
 {
-   "style" : "Bossa Nova",
+   "style" : null,
    "metadata" : [
       "IREALB;Dindi;Jobim Antonio-Carlos;Bossa Nova;Eb",
       "{v:T44Eb^7   |Db^7   |Eb^7   |Db^7   |C^7   |A-9   |D-9   |G13   ",
@@ -112,7 +112,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D7b9"
+                           "name" : "D7(b9)"
                         }
                      ]
                   }
@@ -208,7 +208,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7b9"
+                     "name" : "C7(b9)"
                   }
                ]
             },
@@ -246,7 +246,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7b9"
+                     "name" : "Bb7(b9)"
                   }
                ]
             }
@@ -320,6 +320,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Jobim Antonio-Carlos",
-   "key" : "Eb"
+   "composer" : "Antonio-Carlos Jobim",
+   "key" : null
 }

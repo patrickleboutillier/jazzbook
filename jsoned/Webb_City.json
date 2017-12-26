@@ -1,5 +1,5 @@
 {
-   "style" : "Medium Up Swing",
+   "style" : null,
    "metadata" : [
       "IREALB;Webb City;Powell Bud;Medium Up Swing;Bb",
       "{A:T44Bb^7 G-7 |C-7 C#o7 |D-7 G7b9 |C-7 F7 |Bb7   |Eb7 Eb-7 ",
@@ -22,7 +22,7 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7b9"
+                           "name" : "G7(b9)"
                         }
                      ]
                   },
@@ -100,7 +100,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -161,14 +161,14 @@
             {
                "chords" : [
                   {
-                     "name" : "G7#5"
+                     "name" : "G7(#5)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C7#11"
+                     "name" : "C7(#11)"
                   }
                ]
             },
@@ -178,7 +178,7 @@
             {
                "chords" : [
                   {
-                     "name" : "F7#5"
+                     "name" : "F7(#5)"
                   }
                ]
             },
@@ -222,7 +222,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7b9"
+                     "name" : "G7(b9)"
                   }
                ]
             },
@@ -280,6 +280,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Powell Bud",
-   "key" : "Bb"
+   "composer" : "Bud Powell",
+   "key" : null
 }

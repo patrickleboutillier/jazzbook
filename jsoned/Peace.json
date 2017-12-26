@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Peace;Silver Horace;Ballad;Bb",
       "T44Ah7 D7b9 |G-7 C7 |B^7 Ch,F7,|Bb^7   |B-7 E7 |A^7 F#-7 |Ebh7 Ab7 |Db^7   |C7alt B7#11 |Bb^7   "
@@ -17,7 +17,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7b9"
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -107,7 +107,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7#11"
+                     "name" : "B7(#11)"
                   }
                ]
             },
@@ -121,6 +121,6 @@
          ]
       }
    ],
-   "composer" : "Silver Horace",
-   "key" : "Bb"
+   "composer" : "Horace Silver",
+   "key" : null
 }

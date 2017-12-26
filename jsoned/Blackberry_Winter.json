@@ -1,5 +1,5 @@
 {
-   "style" : "Ballad",
+   "style" : null,
    "metadata" : [
       "IREALB;Blackberry Winter;Wilder Alec;Ballad;F",
       "{A:T44F^7 A-7 |D-7 G-7,C7,|F^7 G-7 |A-7 Bb^7 |A-7 D-7 |G-7 C7sus ",
@@ -225,7 +225,7 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7b9"
+                     "name" : "E7(b9)"
                   }
                ]
             },
@@ -353,6 +353,6 @@
          "label" : "A"
       }
    ],
-   "composer" : "Wilder Alec",
-   "key" : "F"
+   "composer" : "Alec Wilder",
+   "key" : null
 }
