@@ -103,8 +103,7 @@
                      "beats" : 2,
                      "name" : "G7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -113,7 +112,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Parker Charlie",

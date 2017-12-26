@@ -61,12 +61,12 @@
                      ]
                   },
                   {
+                     "coda" : 1,
                      "chords" : [
                         {
                            "name" : "Eb^7"
                         }
-                     ],
-                     "label" : "coda"
+                     ]
                   },
                   {
                      "repeat_last" : 1
@@ -157,12 +157,12 @@
          "bars" : [
             {},
             {
+               "coda" : 1,
                "chords" : [
                   {
                      "name" : "Eb^7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [

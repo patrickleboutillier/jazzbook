@@ -299,8 +299,7 @@
                      "beats" : 2,
                      "name" : "A7#11"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -321,7 +320,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Mingus Charles",

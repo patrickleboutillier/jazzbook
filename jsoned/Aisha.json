@@ -322,8 +322,7 @@
                      "beats" : 1,
                      "name" : "Bb7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -344,7 +343,8 @@
                   "rit....."
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Tyner McCoy",

@@ -162,8 +162,7 @@
                      "beats" : 2,
                      "name" : "Eb7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -184,7 +183,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Montgomery Wes",

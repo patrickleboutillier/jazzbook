@@ -259,8 +259,7 @@
                      "beats" : 2,
                      "name" : "Bb^7#11/F"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -272,7 +271,8 @@
             {
                "repeat_last" : 1
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Metheny Pat",

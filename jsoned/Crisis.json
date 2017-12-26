@@ -321,7 +321,6 @@
                      "name" : "B-"
                   }
                ],
-               "label" : "coda",
                "comments" : [
                   "Repeat and Fade"
                ]
@@ -334,6 +333,7 @@
                ]
             }
          ],
+         "label" : "@",
          "repeat" : 1
       }
    ],

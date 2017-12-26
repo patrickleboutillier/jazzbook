@@ -326,6 +326,7 @@
                ]
             },
             {
+               "coda" : 1,
                "chords" : [
                   {
                      "beats" : 2,
@@ -335,8 +336,7 @@
                      "beats" : 2,
                      "name" : "C7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -365,8 +365,7 @@
                      "beats" : 2,
                      "name" : "C7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -387,7 +386,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Parker Charlie",

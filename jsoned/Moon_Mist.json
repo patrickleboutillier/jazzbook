@@ -343,8 +343,7 @@
                      "beats" : 2,
                      "name" : "Bb9"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -377,7 +376,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Ellington-Mercer",

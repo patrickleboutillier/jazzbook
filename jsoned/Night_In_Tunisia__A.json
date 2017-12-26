@@ -213,8 +213,7 @@
                   {
                      "name" : "Eh7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "repeat_last" : 1
@@ -297,7 +296,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Gillespie Dizzy",

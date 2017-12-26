@@ -257,8 +257,7 @@
                      "beats" : 2,
                      "name" : "A13"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -306,7 +305,8 @@
             {
                "repeat_last" : 1
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Evans Bill",

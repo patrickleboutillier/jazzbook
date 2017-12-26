@@ -306,8 +306,7 @@
                      "beats" : 2,
                      "name" : "Eo7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -340,7 +339,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Swift-James",

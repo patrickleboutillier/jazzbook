@@ -76,7 +76,8 @@ sub parse_bars {
 	my $section = shift ;
 	my $t = shift ;
 
-	my @bars = map { parse_bar($section, $_) } split(/\|/, $t) ;
+	my $i = 0 ;
+	my @bars = map { parse_bar($section, $_, $i++) } split(/\|/, $t) ;
 
 	return @bars ;
 }
@@ -85,6 +86,7 @@ sub parse_bars {
 sub parse_bar {
 	my $section = shift ;
 	my $b = shift ;
+	my $n = shift ;
 
 	my $ob = $b ;
 
@@ -103,11 +105,11 @@ sub parse_bar {
 	my $last_chord = undef ;
 	while (length($b)){
 		if ($b =~ s/^([a-zA-Z])://){
-			if (! $section->{label}){
+			if (($n == 0)&&(! $section->{label})){
 				$section->{label} = $1 ;
 			}
 			else {
-				# TODO: Append to section comments?
+				# TODO: Prepend to section description?
 			}
 		}
 		elsif ($b =~ s/^T(\d)(\d)//){
@@ -115,13 +117,18 @@ sub parse_bar {
 			$meter_nb = $1 ;
 		}
 		elsif ($b =~ s/^@//){
-			$bar->{label} = 'coda' ;
+			if (($n == 0)&&($len == 0)){
+				$section->{label} = '@' ;
+			}
+			else {
+				$bar->{coda} = 1 ;
+			}
 		}
 		elsif ($b =~ s/^\$//){
 			$bar->{segno} = 1 ;
 		}
 		elsif ($b =~ s/\<(.*?)\>//){
-			# if first bar of section, use comment as section description.
+			# TODO: if first bar of section, use comment as section description.
 			push @comments, $1 ;
 		}
 		elsif ($b =~ s/^,//){

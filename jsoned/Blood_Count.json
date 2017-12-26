@@ -404,8 +404,7 @@
                      "beats" : 2,
                      "name" : "F9"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -451,7 +450,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Strayhorn Billy",

@@ -182,8 +182,7 @@
                      "beats" : 2,
                      "name" : "F7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -267,7 +266,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Coltrane John",

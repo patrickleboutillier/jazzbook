@@ -161,8 +161,7 @@
                      "beats" : 2,
                      "name" : "A7#11/Eb"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "chords" : [
@@ -245,7 +244,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Coltrane John",

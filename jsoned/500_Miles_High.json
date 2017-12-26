@@ -114,8 +114,7 @@
                   {
                      "name" : "C-7"
                   }
-               ],
-               "label" : "coda"
+               ]
             },
             {
                "repeat_last" : 1
@@ -131,6 +130,7 @@
                "repeat_last" : 1
             }
          ],
+         "label" : "@",
          "repeat" : 1
       }
    ],

@@ -1,4 +1,8 @@
+<!DOCTYPE html>
 <HTML>
+<HEAD>
+<META charset="utf-8"/>
+</HEAD>
 
 <STYLE>
 
@@ -7,6 +11,9 @@ body {
 }
 
 .tune {
+	/* Center the table */
+	margin-left: auto ;
+	margin-right: auto ;
 }
 
 .composer {
@@ -34,33 +41,33 @@ body {
 }
 
 .prebar {
-    border-left: 3px solid black ;
-    width: 1px ;
+	border-left: 3px solid black ;
+	width: 1px ;
 }
 
 .prebar2 {
-    border-left: 8px double black ;
-    width: 1px ;
+	border-left: 8px double black ;
+	width: 1px ;
 }
 
 .postbar {
-    border-right: 3px solid black ;
-    width: 1px ;
+	border-right: 3px solid black ;
+	width: 1px ;
 }
 
 .postbar2 {
-    border-right: 8px double black ;
-    width: 1px ;
+	border-right: 8px double black ;
+	width: 1px ;
 }
 
 .ending {
-    border-top: 2px solid black ;
-    border-left: 2px solid black ;
-    width: 1px ;
+	border-top: 2px solid black ;
+	border-left: 2px solid black ;
+	width: 1px ;
 }
 
 .q {
-   font-size: 0.75em ;
+	font-size: 0.75em ;
 }
 
 .chord {
@@ -69,15 +76,11 @@ body {
 }
 
 .smallchord {
-	font-size: 2.5em ;
+	font-size: 2.25em ;
 	// font-weight: bold ;
 }
 
 .comment {
-}
-
-th {
-	text-aligh: left ;
 }
 
 .cols {
@@ -109,7 +112,7 @@ Each section can contain:
 	- bars: A list of bars
 
 Each bar can contain:
-	- coda, segno?
+	- coda, segno: symbols that are added to the top of the bar.
 	- repeat_last: repeat last bar (1, %) or last two bars (2, %%).
 	- meter: Time signature for the bar (4/4). Carries on from the last bar if not specified.
 	- beats: number of beats in the bar. Carries on from the last bar if not specified.
@@ -125,22 +128,23 @@ Each chord can contain:
 var params = parse_query_string() ;
 var name = params['t'] ;
 
-var debug = params['debug'] ;
+var _debug = params['debug'] ;
+var _beats = params['beats'] ;
 var beats_per_bar = 4 ;
 var col = 0 ;
 
 var tbl ;
 var top_tr, mid_tr, bot_tr ;
-var last_postbar, last_ending_col ;
+var last_ending_col ;
 
 
-var dir = "http://35.196.250.42/tunes/" ;
+var dir = "/tunes/" ;
 var xmlhttp = new XMLHttpRequest() ;
 xmlhttp.onreadystatechange = function(){
-    if (this.readyState == 4 && this.status == 200){
-        var tune = JSON.parse(this.responseText) ;
-        display(tune) ;
-    }
+	if (this.readyState == 4 && this.status == 200){
+		var tune = JSON.parse(this.responseText) ;
+		display(tune) ;
+	}
 } ;
 xmlhttp.open("GET", dir + name + ".json", true) ;
 xmlhttp.send() ;
@@ -173,8 +177,8 @@ function display(tune) {
 
 function header(parent, tune){
 	tbl = document.createElement('table') ;
-    parent.appendChild(tbl) ;
-    if (debug){
+	parent.appendChild(tbl) ;
+	if (_debug){
 		tbl.setAttribute("border", "1") ;
 	}
 	tbl.className = "tune" ;
@@ -201,7 +205,7 @@ function header(parent, tune){
 */
 function section(section){
 	var repeat = (section.repeat ? section.repeat : 0) ;
-    var label = fix_label(section.label) ;
+	var label = fix_label(section.label) ;
 	var description = (section.description ? section.description : "") ;
 
 	// We go through the bars of the section.
@@ -210,25 +214,25 @@ function section(section){
 			var first = (i == 0 ? true : false) ;
 			var last = (i == (section.bars.length - 1) ? true : false) ;
 
-            prebar((first ? label : ""), first, repeat) ;
-        	bar(section.bars[i], (first ? description : "")) ;
+			prebar((first ? label : ""), first, repeat) ;
+			bar(section.bars[i], (first ? description : "")) ;
 
 			if ((last)&&(repeat)&&(section.endings)){
 				// Force a plain bar line.
 				postbar(0, 0) ;
 			}
 			else {
-                postbar(last, repeat) ;
+				postbar(last, repeat) ;
 			}
 
  			col++ ;
-            if (col == 4){
+			if (col == 4){
 				col = 0 ;
 			}
 		}
 	}
 
-    if ((section.endings)&&(section.endings.length > 0)){
+	if ((section.endings)&&(section.endings.length > 0)){
 		for (var e = 0 ; e < section.endings.length ; e++){
 			var ending = section.endings[e] ;
 			if ((ending.bars)&&(ending.bars.length > 0)){
@@ -237,8 +241,8 @@ function section(section){
 					var last = (i == (ending.bars.length - 1) ? true : false) ;
 
 					// For repeat section, we never use double bar lines or repeats
-                    prebar("", false, false) ;
-			        bar(ending.bars[i], (first ? "&nbsp;" + ending.no + "." : ""), first) ;
+					prebar("", false, false) ;
+					bar(ending.bars[i], (first ? "&nbsp;" + ending.no + "." : ""), first) ;
 
 					if ((last)&&(ending.no == 1)){
 						// Force a repeat bar line
@@ -246,10 +250,10 @@ function section(section){
 						last_ending_col = col ;
 					}
 					else {
-		                postbar(last, false) ;
+						postbar(last, false) ;
 					}
 
-	                col++ ;
+					col++ ;
 					if (col == 4){
 						col = 0 ;
 					}
@@ -270,6 +274,7 @@ function fix_label(label){
 		case "D": return "&#x0394;" ;
 		case "E": return "&#x0395;" ;
 		case "F": return "&#x0396;" ;
+		case "@": return "@" ;
 		default : return (label ? "(" + label + ")" : "") ;
 	}
 }
@@ -280,12 +285,11 @@ function fix_label(label){
 */
 function prebar(label, first, repeat){
 	if ((col == 0)||((first)&&(label))){
-	    top_tr = tbl.insertRow() ;
-	    mid_tr = tbl.insertRow() ;
-	    bot_tr = tbl.insertRow() ;
-	    if (col != 0){
-	    	last_postbar.className = "postbar2" ;
-		    col = 0 ;
+		top_tr = tbl.insertRow() ;
+		mid_tr = tbl.insertRow() ;
+		bot_tr = tbl.insertRow() ;
+		if (col != 0){
+			col = 0 ;
 		}
 	}
 
@@ -293,7 +297,7 @@ function prebar(label, first, repeat){
 	td.className = "label" ;
 	td.innerHTML = (label ? label : "&nbsp;") ;
 
-    td = mid_tr.insertCell() ;
+	td = mid_tr.insertCell() ;
     if ((first)&&(col == 0)){
         td.className = "prebar2" ;
     }
@@ -305,7 +309,7 @@ function prebar(label, first, repeat){
 		td.innerHTML = "<span class='chord'>:</span>" ;
     }
 
- 	td = bot_tr.insertCell() ; // empty cell
+	td = bot_tr.insertCell() ; // empty cell
 }
 
 
@@ -319,7 +323,6 @@ function postbar(last, repeat){
 
     td = mid_tr.insertCell() ;
     td.className = "postbar" ;
-	last_postbar = td ;
 
 	if (last){
 		td.className = "postbar2" ;
@@ -337,6 +340,9 @@ function postbar(last, repeat){
 	- Beat staff
 */
 function bar(bar, description, ending = 0){
+	if (bar.meter){
+		beats_per_bar = bar.meter.split("/")[0] ;
+	}
 	if (bar.beats > 0){
 		beats_per_bar = bar.beats ;
 	}
@@ -345,15 +351,24 @@ function bar(bar, description, ending = 0){
 	if (ending){
 		td.className = "ending" ;
 	}
+	if (bar.meter){
+		td.innerHTML += bar.meter + " " ;
+	}
+	if (bar.segno){
+		td.innerHTML += "$ " ;
+	}
 	if (description){
-		td.innerHTML = "<span class='description'>" + description + "</span>" ;
+		td.innerHTML += "<span class='description'>" + description + "</span>" ;
+	}
+	if (bar.coda){
+		td.innerHTML += " -@" ;
 	}
 
 	td = mid_tr.insertCell() ;
 	td.className = "cols" ;
 	var tbl = document.createElement('table') ;
 	td.appendChild(tbl) ;
-	if (debug){
+	if (_debug){
 	    tbl.setAttribute("border", "1") ;
 	}
     tbl.style.width = "100%" ;
@@ -363,7 +378,7 @@ function bar(bar, description, ending = 0){
 	for (var i = 0 ; i < beats_per_bar ; i++){
 		td = tr.insertCell() ;
 		td.height = "1px" ;
-		td.style.width = "25%" ;
+		td.style.width = (100 / beats_per_bar) + "%" ;
 	}
 
     tr = tbl.insertRow() ;
@@ -379,31 +394,31 @@ function bar(bar, description, ending = 0){
 		td.className = "chord" ;
 		td.setAttribute('colspan', beats_per_bar) ;
 		td.style.textAlign = 'right' ;
-		td.innerHTML = "%" ;
+		td.innerHTML = "%%" ;
 	}
 	else {
 		if ((bar.chords)&&(bar.chords.length > 0)){
 			for (var i in bar.chords){
 				var c = bar.chords[i] ;
-				var cols = (c.beats > 0 ? c.beats : beats_per_bar) ;
-				td = tr.insertCell() ;
-				if (cols > 1){
-					td.setAttribute("colspan", cols) ;
-					td.className = "chord" ;
+				var beats = (c.beats > 0 ? c.beats : beats_per_bar) ;
+				if (_beats){
+					chord(tr, c, 1) ;
+					for (var j = 0 ; j < beats - 1 ; j++){
+						chord(tr, { name: "/" }, 1) ;
+					}
 				}
 				else {
-	            	td.className = "smallchord" ;
+					chord(tr, c, beats) ;
 				}
-				chord(td, c) ;
 			}
 		}
 		else {
 			// This can probably happen in other cases...
-			td = tr.insertCell() ;
-			td.className = "chord" ;
-			td.setAttribute('colspan', beats_per_bar) ;
-			td.style.textAlign = 'left' ;
-			td.innerHTML = "%" ;
+			//td = tr.insertCell() ;
+			//td.className = "chord" ;
+			//td.setAttribute('colspan', beats_per_bar) ;
+			//td.style.textAlign = 'left' ;
+			//td.innerHTML = "%" ;
 		}
 	}
 
@@ -415,7 +430,16 @@ function bar(bar, description, ending = 0){
 }
 
 
-function chord(parent, chord){
+function chord(tr, chord, beats){
+	td = tr.insertCell() ;
+	if (beats > 1){
+		td.setAttribute("colspan", beats) ;
+		td.className = "chord" ;
+	}
+	else {
+       	td.className = "smallchord" ;
+	}
+
 	var c = chord.name ;
 	var matches = c.match(/^([_A-G])(b|#|)(.*)$/) ;
 	if ((matches)&&(matches.length > 0)){
@@ -429,30 +453,15 @@ function chord(parent, chord){
 	    rest = rest.replace("#", "&#x03B3;") ;
 		rest = rest.replace("b", "<sup>&#x03B2;</sup>") ;
 
-		parent.innerHTML = matches[1] + acc + "<span class='q'><sup>" + rest + "</sup></span>" + "&nbsp;" ;
+		td.innerHTML = matches[1] + acc + "<span class='q'><sup>" + rest + "</sup></span>" ;
 	}
 	else {
-		parent.innerHTML = c + "&nbsp;" ;
+		td.innerHTML = c ;
 	}
+
+	td.innerHTML += "&nbsp;" ;
 }
 </SCRIPT>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</BODY>
+</HTML>
