@@ -334,7 +334,6 @@
       {
          "bars" : [
             {
-               "coda" : 1,
                "chords" : [
                   {
                      "beats" : 2,
@@ -379,7 +378,7 @@
                   }
                ],
                "comments" : [
-                  "0-solos on AABA"
+                  "2-solos on AABA"
                ]
             },
             {
@@ -395,7 +394,7 @@
                ]
             }
          ],
-         "label" : "C"
+         "label" : "@"
       }
    ],
    "composer" : "Bud Powell",

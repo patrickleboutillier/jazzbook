@@ -41,6 +41,10 @@ body {
 	font-size: 1.25em ;
 }
 
+.repeat {
+	font-size: 0.75em ;
+}
+
 .description {
 	font-size: 1.25em ;
 }
@@ -72,7 +76,11 @@ body {
 }
 
 .q {
-	font-size: 0.75em ;
+	font-size: 0.70em ;
+}
+
+.q2 {
+	font-size: 0.90em ;
 }
 
 .chord {
@@ -427,14 +435,14 @@ function bar(bar, description, ending = 0){
 		td.className = "chord" ;
 		td.setAttribute('colspan', beats_per_bar) ;
 		td.style.textAlign = 'center' ;
-		td.innerHTML = "%" ;
+		td.innerHTML = "<span class='repeat'>%</span>" ;
 	}
 	else if (bar.repeat_last == 2){
 		td = tr.insertCell() ;
 		td.className = "chord" ;
 		td.setAttribute('colspan', beats_per_bar) ;
 		td.style.textAlign = 'right' ;
-		td.innerHTML = "%%" ;
+		td.innerHTML = "<span class='repeat'>%%</span>" ;
 	}
 	else {
 		if ((bar.chords)&&(bar.chords.length > 0)){
@@ -491,6 +499,7 @@ function chord(tr, chord, beats){
 
 		sym = sym.replace(/\^/g, "&#x00AA;") ;
 		sym = sym.replace(/h/g, "&#x00D8;") ;
+		sym = sym.replace(/\-/g, "<sup>-</sup>") ;
 
 	    rest = rest.replace(/#/g, "<sup>#</sup>") ;
 		rest = rest.replace(/b/g, "<sup>&#x044C;</sup>") ;
@@ -498,7 +507,7 @@ function chord(tr, chord, beats){
 		// rest = rest.replace(/\/(.*)/, "<br/>/$1") ;
 
 		td.innerHTML = matches[1] + 
-			"<sup>" + acc + "</sup>" +
+			(acc ? "<span class='q2'><sup>" + acc + "</sup></span>" : "") +
 			"<span class='q'>" + sym + "<sup>" + rest + "</sup></span>" ;
 	}
 	else {

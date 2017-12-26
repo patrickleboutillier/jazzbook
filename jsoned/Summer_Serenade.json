@@ -317,7 +317,6 @@
       {
          "bars" : [
             {
-               "coda" : 1,
                "chords" : [
                   {
                      "beats" : 2,
@@ -360,7 +359,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "label" : "@"
       }
    ],
    "composer" : "Benny Carter",
