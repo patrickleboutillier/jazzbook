@@ -219,7 +219,40 @@
          "repeat" : 1
       },
       {
-         "endings" : [
+         "bars" : [
+            {
+               "segno" : 1,
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb7(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7(#11)"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -270,7 +303,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -316,42 +349,9 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "segno" : 1,
-               "chords" : [
-                  {
-                     "name" : "Db^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Gb7(#11)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Db^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G7(#11)"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

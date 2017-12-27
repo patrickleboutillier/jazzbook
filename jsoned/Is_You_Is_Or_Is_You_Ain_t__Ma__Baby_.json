@@ -13,56 +13,6 @@
    "title" : "Is You Is Or Is You Ain't (Ma' Baby)",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Db7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "C7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb7(#5)"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Ab7(#5)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -106,7 +56,57 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Db7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb7(#5)"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Ab7(#5)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [
@@ -189,61 +189,6 @@
          "label" : "B"
       },
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Db7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "C7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "chords" : [
@@ -307,7 +252,62 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Db7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       }
    ],
    "composer" : "Austin-Jordan",

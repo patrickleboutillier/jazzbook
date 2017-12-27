@@ -11,37 +11,6 @@
    "title" : "I'm In The Mood For Love",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "C^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "G7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C6"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -120,7 +89,38 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "C^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C6"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

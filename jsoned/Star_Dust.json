@@ -168,7 +168,78 @@
          "label" : "v"
       },
       {
-         "endings" : [
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb-^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F#-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -262,7 +333,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -338,80 +409,9 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "chords" : [
-                  {
-                     "name" : "Gb^7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Gb-^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "F#-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "B7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Db^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "F-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "Eb-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb-7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Hoagy Carmichael",

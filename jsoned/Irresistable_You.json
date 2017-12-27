@@ -9,143 +9,6 @@
    "title" : "Irresistable You",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab^7"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Db7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Gb^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "G-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Abo7"
-                        }
-                     ]
-                  }
-               ],
-               "label" : "B",
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bh7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "A-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Abo7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "F^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Bb9"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "A-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Abo7"
-                        }
-                     ]
-                  }
-               ],
-               "label" : "C",
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -226,7 +89,144 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab^7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Db7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Gb^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Abo7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1",
+               "label" : "B"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bh7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Abo7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb9"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "A-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Abo7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2",
+               "label" : "C"
+            }
+         ]
       }
    ],
    "composer" : "Gene DePaul",

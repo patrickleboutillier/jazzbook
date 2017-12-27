@@ -10,45 +10,6 @@
    "title" : "Morgan The Pirate",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb69"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb7(#9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb69"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1,
-                     "comments" : [
-                        "0-Fine"
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "3/4",
@@ -95,7 +56,46 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb69"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7(#9)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb69"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1,
+                     "comments" : [
+                        "0-Fine"
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

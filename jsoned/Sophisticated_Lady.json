@@ -11,56 +11,6 @@
    "title" : "Sophisticated Lady",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Ch7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F7(b9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Ah7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "D7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -138,7 +88,57 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ch7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7(b9)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ah7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "D7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

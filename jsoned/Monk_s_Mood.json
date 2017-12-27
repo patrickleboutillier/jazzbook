@@ -11,61 +11,6 @@
    "title" : "Monk's Mood",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "D7sus"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "E7sus"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "D-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Bb7(b9#11)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Ab7(#5)"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "G7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Db^7(#11)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -136,7 +81,62 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D7sus"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "E7sus"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7(b9#11)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ab7(#5)"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Db^7(#11)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

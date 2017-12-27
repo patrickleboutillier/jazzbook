@@ -11,54 +11,6 @@
    "title" : "Walkin' Shoes",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "/"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "F-"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "E7(#9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "/"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "F-"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "E7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "Ab7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -127,7 +79,55 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F-"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "E7(#9)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F-"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "E7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Ab7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

@@ -11,112 +11,6 @@
    "title" : "Up Jumped Spring",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "B7(#11)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "E7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ch7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "Ah7"
-                        },
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "D7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "B^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb^7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "3"
-            }
-         ],
          "bars" : [
             {
                "meter" : "3/4",
@@ -210,7 +104,113 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "B7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ch7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "Ah7"
+                        },
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "D7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "B^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb^7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "3"
+            }
+         ]
       },
       {
          "bars" : [

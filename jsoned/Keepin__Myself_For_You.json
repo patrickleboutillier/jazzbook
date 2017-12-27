@@ -11,69 +11,6 @@
    "title" : "Keepin' Myself For You",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "G",
-                           "name" : "Eb6"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Gbo7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "F-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Bb7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb69"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "G",
-                           "name" : "Eb6"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F#",
-                           "name" : "B7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -150,7 +87,70 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "G",
+                           "name" : "Eb6"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Gbo7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb69"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "G",
+                           "name" : "Eb6"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F#",
+                           "name" : "B7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

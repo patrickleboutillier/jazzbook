@@ -11,75 +11,6 @@
    "title" : "I Believe In You",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "E7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "B-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "E7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "3"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -241,7 +172,76 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Eb7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "B-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "E7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "3"
+            }
+         ]
       },
       {
          "bars" : [

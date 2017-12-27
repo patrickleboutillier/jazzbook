@@ -10,99 +10,6 @@
    "title" : "It's A Lovely Day Today",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F7(b9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab9(#11)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G7(b9)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb-^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "D",
-                           "name" : "Bb^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "C7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "C-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb6"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "C-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "F7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -189,7 +96,100 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F7(b9)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab9(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G7(b9)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Eb-^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "D",
+                           "name" : "Bb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "C-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb6"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

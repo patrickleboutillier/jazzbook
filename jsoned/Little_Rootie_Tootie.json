@@ -11,63 +11,6 @@
    "title" : "Little Rootie Tootie",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "Eb",
-                           "name" : "Ab"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "Eb",
-                           "name" : "Ab6"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab6"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -144,7 +87,64 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "Eb",
+                           "name" : "Ab"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Eb7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "Eb",
+                           "name" : "Ab6"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Eb7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab6"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

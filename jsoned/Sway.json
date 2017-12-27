@@ -11,38 +11,6 @@
    "title" : "Sway",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G-7"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G-7"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -87,7 +55,39 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G-7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G-7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

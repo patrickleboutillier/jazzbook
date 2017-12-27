@@ -338,94 +338,6 @@
          "label" : "A"
       },
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "D-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C6"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "D-7"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Dh7"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "D-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "G7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C6"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "chords" : [
@@ -505,7 +417,95 @@
             }
          ],
          "label" : "C",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C6"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D-7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Dh7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C6"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       }
    ],
    "composer" : "Cole Porter",

@@ -9,7 +9,43 @@
    "title" : "Bright Mississippi",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -53,7 +89,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -119,45 +155,9 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "F7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            }
-         ],
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Thelonious Monk",

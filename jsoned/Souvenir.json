@@ -9,7 +9,91 @@
    "title" : "Souvenir",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F9(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb9sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "bass" : "Eb",
+                     "name" : "Ab6"
+                  },
+                  {
+                     "beats" : 2,
+                     "bass" : "Eb",
+                     "name" : "Ab-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7(b5)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "bass" : "Bb",
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Ah7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ab9"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -104,8 +188,8 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "1"
+               "ending" : "1",
+               "label" : "B"
             },
             {
                "bars" : [
@@ -212,94 +296,10 @@
                      ]
                   }
                ],
-               "label" : "C",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "C"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "F9(#11)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb9sus"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "bass" : "Eb",
-                     "name" : "Ab6"
-                  },
-                  {
-                     "beats" : 2,
-                     "bass" : "Eb",
-                     "name" : "Ab-6"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "Eb^7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "A7(b5)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "D7alt"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G7sus"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "C-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "bass" : "Bb",
-                     "name" : "C-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "Ah7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Ab9"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Benny Carter",

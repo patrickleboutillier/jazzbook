@@ -11,78 +11,6 @@
    "title" : "Dedicated To You",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "G-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "C7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "C-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F7(#5)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "G-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "C7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "C-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "F7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb6"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "E-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "A7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -148,7 +76,79 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "C-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7(#5)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb6"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "E-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "A7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

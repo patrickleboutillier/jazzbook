@@ -11,110 +11,6 @@
    "title" : "Just One Of Those Things",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "D7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "G-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "G-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eh7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "A7(b9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F6"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F6"
-                        }
-                     ]
-                  },
-                  {
-                     "repeat_last" : 1
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eh7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "A7(b9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "3"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -195,7 +91,111 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "G-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eh7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "A7(b9)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F6"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F6"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eh7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A7(b9)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "3"
+            }
+         ]
       },
       {
          "bars" : [

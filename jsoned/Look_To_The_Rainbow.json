@@ -10,113 +10,6 @@
    "title" : "Look To The Rainbow",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb6"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "bass" : "Bb",
-                           "name" : "Eb6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "F-7"
-                        },
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "Bb7"
-                        }
-                     ],
-                     "comments" : [
-                        "0-/    /    /"
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Ab6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "G-7"
-                        },
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "C7(b9)"
-                        }
-                     ],
-                     "comments" : [
-                        "0-/    /    /"
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "F-7"
-                        },
-                        {
-                           "beats" : 2.66666666666667,
-                           "name" : "Bb7(b9)"
-                        }
-                     ],
-                     "comments" : [
-                        "0-/    /    /"
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb6"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "3/4",
@@ -249,7 +142,114 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "bass" : "Bb",
+                           "name" : "Eb6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "F-7"
+                        },
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "Bb7"
+                        }
+                     ],
+                     "comments" : [
+                        "0-/    /    /"
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ab6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "C7(b9)"
+                        }
+                     ],
+                     "comments" : [
+                        "0-/    /    /"
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "F-7"
+                        },
+                        {
+                           "beats" : 2.66666666666667,
+                           "name" : "Bb7(b9)"
+                        }
+                     ],
+                     "comments" : [
+                        "0-/    /    /"
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

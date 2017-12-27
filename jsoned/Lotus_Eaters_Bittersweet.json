@@ -11,66 +11,6 @@
    "title" : "Lotus Eaters Bittersweet",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "C-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Db^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Ebh7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb7sus"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "A7(#11)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Ab^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Ab7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -148,7 +88,67 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Db^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Ebh7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7sus"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "A7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ab^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Ab7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

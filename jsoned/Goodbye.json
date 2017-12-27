@@ -10,83 +10,6 @@
    "title" : "Goodbye",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "G7(b13)"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Db7(#11)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Dh7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "G7(b9)"
-                        }
-                     ],
-                     "comments" : [
-                        "2-Fine"
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "G7(b13)"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Db7(#11)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "A7(#9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -185,7 +108,84 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G7(b13)"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Db7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Dh7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7(b9)"
+                        }
+                     ],
+                     "comments" : [
+                        "2-Fine"
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G7(b13)"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Db7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "A7(#9)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

@@ -11,46 +11,6 @@
    "title" : "I Loves You Porgy",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "F6"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "C7sus"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "F6"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "Bh"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "E7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -134,7 +94,47 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F6"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C7sus"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F6"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Bh"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "E7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

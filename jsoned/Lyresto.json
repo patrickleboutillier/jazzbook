@@ -9,7 +9,78 @@
    "title" : "Lyresto",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -79,8 +150,8 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "1"
+               "ending" : "1",
+               "label" : "B"
             },
             {
                "bars" : [
@@ -161,81 +232,10 @@
                      ]
                   }
                ],
-               "label" : "C",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "C"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Eb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "G-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "C7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "G-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "C7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Ab-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Db7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Kenny Burrell",

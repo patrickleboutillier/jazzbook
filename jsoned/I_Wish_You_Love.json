@@ -14,89 +14,6 @@
    "title" : "I Wish You Love",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb-"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb-^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb-6"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Fh7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb7(b9)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Ch7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "F-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -139,21 +56,19 @@
             }
          ],
          "label" : "v",
-         "repeat" : 1
-      },
-      {
-         "endings" : [
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Eb^7"
+                           "name" : "Eb-"
                         },
                         {
                            "beats" : 2,
-                           "name" : "Ab7"
+                           "name" : "Eb-^7"
                         }
                      ]
                   },
@@ -161,37 +76,72 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "G-7"
+                           "name" : "Eb-7"
                         },
                         {
                            "beats" : 2,
-                           "name" : "C7"
+                           "name" : "Eb-6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Fh7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7(b9)"
                         }
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
                   {
                      "chords" : [
                         {
-                           "name" : "Bb-7"
+                           "name" : "Eb^7"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "Eb7"
+                           "beats" : 2,
+                           "name" : "Ch7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7"
                         }
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
+         ]
+      },
+      {
          "bars" : [
             {
                "chords" : [
@@ -247,7 +197,57 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Ab7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

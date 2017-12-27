@@ -11,7 +11,88 @@
    "title" : "My Ship",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -39,7 +120,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -68,7 +149,7 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             },
             {
                "bars" : [
@@ -172,90 +253,9 @@
                      ]
                   }
                ],
-               "no" : "3"
+               "ending" : "3"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "F^7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "D7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "G7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "C7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "F^7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "D7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "Bh7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "A-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "D7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "G-7"
-                  },
-                  {
-                     "beats" : 1,
-                     "name" : "Bb-7"
-                  },
-                  {
-                     "beats" : 1,
-                     "name" : "Eb7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

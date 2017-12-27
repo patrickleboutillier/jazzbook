@@ -11,45 +11,6 @@
    "title" : "When You Wish Upon A Star",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "E-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "A7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "D-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "G7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "C6"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -124,7 +85,46 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "E-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "A7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "G7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C6"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

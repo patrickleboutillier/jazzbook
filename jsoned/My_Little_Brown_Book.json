@@ -11,66 +11,6 @@
    "title" : "My Little Brown Book",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "D-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Db7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "C-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F7(#5)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "D-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Db7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Gb^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Ab7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -137,7 +77,67 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Db7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "C-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7(#5)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Db7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Gb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Ab7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

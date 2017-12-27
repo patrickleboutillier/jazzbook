@@ -11,66 +11,6 @@
    "title" : "Let's Do It (Let's Fall In Love)",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "D7(#5)"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "G7(b9)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "C9"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "F7(#5)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb6"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb6"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "D7(#5)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -147,7 +87,67 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D7(#5)"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7(b9)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "C9"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "F7(#5)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb6"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Eb7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb6"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "D7(#5)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

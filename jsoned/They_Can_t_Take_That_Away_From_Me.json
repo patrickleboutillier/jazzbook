@@ -11,74 +11,6 @@
    "title" : "They Can't Take That Away From Me",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Ab^7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "G-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "C7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "F-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Bb7sus"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Ab^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Bb7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb6"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "Ah"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "D7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -135,7 +67,75 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ab^7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "G-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "F-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7sus"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Ab^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb6"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Ah"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "D7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

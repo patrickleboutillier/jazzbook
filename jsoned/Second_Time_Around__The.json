@@ -9,7 +9,87 @@
    "title" : "Second Time Around, The",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Ebo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -51,7 +131,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -141,89 +221,9 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "C^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "E-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Ebo7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "D-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "D-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C6"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bh7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "E7(b9)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "A-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Van-Heusen Jimmy",

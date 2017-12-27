@@ -11,54 +11,6 @@
    "title" : "Where Are You?",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "B7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "E7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "A-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "D7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "G^7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "D-7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "G7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -147,7 +99,55 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "B7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "E7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "A-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "D7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "G^7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "G7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

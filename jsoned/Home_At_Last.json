@@ -10,7 +10,60 @@
    "title" : "Home At Last",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7(#9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -76,7 +129,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -109,62 +162,9 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Bb^7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "A-"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "D7(#9)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G-"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F-"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

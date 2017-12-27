@@ -11,14 +11,6 @@
    "title" : "Like Someone In Love",
    "sections" : [
       {
-         "endings" : [
-            {
-               "no" : "1"
-            },
-            {
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -111,7 +103,15 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "ending" : "1"
+            },
+            {
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

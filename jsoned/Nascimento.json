@@ -36,7 +36,64 @@
          "repeat" : 1
       },
       {
-         "endings" : [
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Fh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "Db",
+                     "name" : "Eb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ch7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -111,8 +168,8 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "1"
+               "ending" : "1",
+               "label" : "B"
             },
             {
                "bars" : [
@@ -164,67 +221,10 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "B"
             }
-         ],
-         "bars" : [
-            {
-               "chords" : [
-                  {
-                     "name" : "B^7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Fh7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "bass" : "Db",
-                     "name" : "Eb-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Ch7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

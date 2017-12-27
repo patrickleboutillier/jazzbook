@@ -11,46 +11,6 @@
    "title" : "Cry Me A River",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb6"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "G7(b13)"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Eb6"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "Ah"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "D7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -134,7 +94,47 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb6"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7(b13)"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eb6"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Ah"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "D7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

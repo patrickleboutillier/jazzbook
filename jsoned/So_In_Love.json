@@ -11,7 +11,66 @@
    "title" : "So In Love",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -57,7 +116,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -104,7 +163,7 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             },
             {
                "bars" : [
@@ -203,68 +262,9 @@
                      ]
                   }
                ],
-               "no" : "3"
+               "ending" : "3"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "F-"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Gh7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C7(b9)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F-"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb-7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

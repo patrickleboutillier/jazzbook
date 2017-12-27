@@ -213,7 +213,43 @@
          "label" : "v"
       },
       {
-         "endings" : [
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -283,8 +319,8 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "1"
+               "ending" : "1",
+               "label" : "B"
             },
             {
                "bars" : [
@@ -346,46 +382,10 @@
                      "repeat_last" : 1
                   }
                ],
-               "label" : "C",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "C"
             }
-         ],
-         "bars" : [
-            {
-               "chords" : [
-                  {
-                     "name" : "C7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Gershwin George",

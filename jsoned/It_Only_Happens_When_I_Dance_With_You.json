@@ -9,7 +9,82 @@
    "title" : "It Only Happens When I Dance With You",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-6"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -51,7 +126,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -136,84 +211,9 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "C^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C#o7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "D-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C#o7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Dh7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F-6"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Irving Berlin",

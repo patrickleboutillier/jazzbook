@@ -12,123 +12,6 @@
    "title" : "Warm Valley",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "C-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Bb69"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Ch7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Bb^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "C-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "D-7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Eb^7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Bb^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Go7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Bb^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Go7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Bb"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F",
-                           "name" : "Go7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb^7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "3"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -186,7 +69,124 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "C-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Bb69"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Ch7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Bb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "C-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Eb^7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Bb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Go7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Bb^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Go7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Bb"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F",
+                           "name" : "Go7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb^7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "3"
+            }
+         ]
       },
       {
          "bars" : [

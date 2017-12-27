@@ -10,7 +10,44 @@
    "title" : "Swinging At The Haven",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb13sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab13sus"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -57,7 +94,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -115,46 +152,9 @@
                      "repeat_last" : 1
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Bb13sus"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Ab13sus"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "repeat_last" : 1
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

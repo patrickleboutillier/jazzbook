@@ -49,9 +49,9 @@ while (<>){
 		elsif ($line =~ s/^\t(\d)\.//){
 			# Alternate endings.
 			my $no = $1 ;
-			$section->{no} = $no ;
+			$section->{ending} = $no ;
 			push @bars, parse_bars($section, $line) ;
-			push @{$cur_repeat->{endings}}, $section ;
+			push @{$cur_repeat->{sections}}, $section ;
 		}
 		elsif ($line =~ s/^\t//){
 			# Sub-section, can only be used within a repeat section.

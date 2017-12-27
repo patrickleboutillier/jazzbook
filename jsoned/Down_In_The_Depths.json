@@ -11,58 +11,6 @@
    "title" : "Down In The Depths",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "D^7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "bass" : "A",
-                           "name" : "Eh7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "D^7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "E-7"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 2,
-                           "name" : "Fo7"
-                        },
-                        {
-                           "beats" : 2,
-                           "bass" : "F#",
-                           "name" : "D"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "chords" : [
@@ -122,7 +70,59 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "bass" : "A",
+                           "name" : "Eh7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D^7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "E-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Fo7"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "F#",
+                           "name" : "D"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

@@ -11,45 +11,6 @@
    "title" : "Ask Me Now",
    "sections" : [
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "B7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "Bb7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "A7"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "Ab7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Db^7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "meter" : "4/4",
@@ -154,7 +115,46 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "B7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Bb7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "A7"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "Ab7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Db^7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

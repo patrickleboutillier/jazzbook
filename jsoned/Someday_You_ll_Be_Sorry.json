@@ -9,7 +9,52 @@
    "title" : "Someday You'll Be Sorry",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -70,8 +115,8 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "1"
+               "ending" : "1",
+               "label" : "B"
             },
             {
                "bars" : [
@@ -128,55 +173,10 @@
                      "repeat_last" : 1
                   }
                ],
-               "label" : "C",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "C"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Eb"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "D7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Armstrong Louis",

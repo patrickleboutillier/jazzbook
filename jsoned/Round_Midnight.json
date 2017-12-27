@@ -92,63 +92,6 @@
          "label" : "i"
       },
       {
-         "endings" : [
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "Ch"
-                        },
-                        {
-                           "beats" : 3,
-                           "name" : "B7(#11)"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Bb7"
-                        }
-                     ]
-                  }
-               ],
-               "no" : "1"
-            },
-            {
-               "bars" : [
-                  {
-                     "chords" : [
-                        {
-                           "beats" : 1,
-                           "name" : "Ch"
-                        },
-                        {
-                           "beats" : 1,
-                           "name" : "B7"
-                        },
-                        {
-                           "beats" : 2,
-                           "name" : "Bb7sus"
-                        }
-                     ]
-                  },
-                  {
-                     "chords" : [
-                        {
-                           "name" : "Eb6"
-                        }
-                     ],
-                     "comments" : [
-                        "2-Fine"
-                     ]
-                  }
-               ],
-               "no" : "2"
-            }
-         ],
          "bars" : [
             {
                "segno" : 1,
@@ -233,7 +176,64 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Ch"
+                        },
+                        {
+                           "beats" : 3,
+                           "name" : "B7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Ch"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "B7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Bb7sus"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb6"
+                        }
+                     ],
+                     "comments" : [
+                        "2-Fine"
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
       },
       {
          "bars" : [

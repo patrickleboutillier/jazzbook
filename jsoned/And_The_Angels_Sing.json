@@ -11,7 +11,69 @@
    "title" : "And The Angels Sing",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eb6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7(b13)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -39,7 +101,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -63,7 +125,7 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             },
             {
                "bars" : [
@@ -177,71 +239,9 @@
                      ]
                   }
                ],
-               "no" : "3"
+               "ending" : "3"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Eb6"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "F-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb9"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "F-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "C7(b13)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "F9"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Bb7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

@@ -9,7 +9,84 @@
    "title" : "Manoir De Mes Rêves (Django's Castle)",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7(b9)"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 2
+            },
+            {},
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7(b9)"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -88,7 +165,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -164,86 +241,9 @@
                      ]
                   }
                ],
-               "no" : "2"
+               "ending" : "2"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Eb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 1,
-                     "name" : "/"
-                  },
-                  {
-                     "beats" : 1,
-                     "name" : "/"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Bb7(b9)"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 2
-            },
-            {},
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 1,
-                     "name" : "/"
-                  },
-                  {
-                     "beats" : 1,
-                     "name" : "/"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Bb7(b9)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 1,
-                     "name" : "/"
-                  },
-                  {
-                     "beats" : 1,
-                     "name" : "/"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "Eb7(b9)"
-                  }
-               ]
-            }
-         ],
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Django Reinhardt",

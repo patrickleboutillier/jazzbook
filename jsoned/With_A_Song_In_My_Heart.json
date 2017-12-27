@@ -9,7 +9,116 @@
    "title" : "With A Song In My Heart",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7(b13)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7(b13)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7(b9)"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -107,8 +216,8 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "1"
+               "ending" : "1",
+               "label" : "B"
             },
             {
                "bars" : [
@@ -223,119 +332,10 @@
                      ]
                   }
                ],
-               "label" : "C",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "C"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Eb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C7(b13)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Eb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C7(b13)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G7(b9)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C-7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Dh7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G7(b9)"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C-7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Dh7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G7(b9)"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Rodgers Richard",

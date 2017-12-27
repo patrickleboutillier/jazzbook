@@ -9,7 +9,60 @@
    "title" : "Certain Smile, A",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -83,8 +136,8 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "1"
+               "ending" : "1",
+               "label" : "B"
             },
             {
                "bars" : [
@@ -161,63 +214,10 @@
                      "repeat_last" : 1
                   }
                ],
-               "label" : "C",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "C"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "G-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F^7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "G-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F^7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       }
    ],
    "composer" : "Fain-Webster",

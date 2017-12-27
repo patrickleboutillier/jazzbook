@@ -10,7 +10,83 @@
    "title" : "Alfie",
    "sections" : [
       {
-         "endings" : [
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bbo7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
             {
                "bars" : [
                   {
@@ -33,7 +109,7 @@
                      ]
                   }
                ],
-               "no" : "1"
+               "ending" : "1"
             },
             {
                "bars" : [
@@ -111,86 +187,10 @@
                      ]
                   }
                ],
-               "label" : "B",
-               "no" : "2"
+               "ending" : "2",
+               "label" : "B"
             }
-         ],
-         "bars" : [
-            {
-               "meter" : "4/4",
-               "chords" : [
-                  {
-                     "name" : "Bb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F7sus"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bb^7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "D-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "G7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "D-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "G-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "C-7"
-                  },
-                  {
-                     "beats" : 2,
-                     "name" : "F7sus"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Bbo7"
-                  }
-               ]
-            }
-         ],
-         "label" : "A",
-         "repeat" : 1
+         ]
       },
       {
          "bars" : [

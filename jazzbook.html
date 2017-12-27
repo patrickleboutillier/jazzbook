@@ -241,7 +241,7 @@ function section(sect){
 			prebar((first ? label : ""), first, repeat) ;
 			bar(sect.bars[i], (first ? description : "")) ;
 
-			if ((last)&&(repeat)&&(sect.endings)){
+			if ((last)&&(repeat)&&(sect.sections)&&(sect.sections[0].ending == 1)){
 				// Force a plain bar line.
 				postbar(0, 0) ;
 			}
@@ -256,62 +256,64 @@ function section(sect){
 		}
 	}
 
-	if ((sect.endings)&&(sect.endings.length > 0)){
-		// Handle subsections
-		if ((sect.sections)&&(sect.sections.length > 0)){
-			for (var i = 0 ; i < sect.sections.length ; i++){
-				section(sect.sections[i]) ;
+
+	if ((sect.sections)&&(sect.sections.length > 0)){
+		for (var i = 0 ; i < sect.sections.length ; i++){
+			var sub = sect.sections[i] ;
+			var ending = sub.ending ;
+
+			if (ending > 0){
+				// Section ending.
+				if ((sub.bars)&&(sub.bars.length > 0)){
+					var padding = [] ;
+					if ((i < sect.sections.length - 1)&&((sub.bars.length % 4) > 0)){
+						// In order to align the starts of the repeat section, we must ensure the endings
+						// are of full line lengths (multiples of 4).
+						var extra = 4 - (sub.bars.length % 4) ;
+						for (var j = 0 ; j < extra ; j++){
+							padding.push({}) ;
+						}
+					}
+					for (var j = 0 ; j < sub.bars.length ; j++){
+						var label = fix_label(sub.label) ;
+						var description = (sub.description ? sub.description : "") ;
+
+						var first = (j == 0 ? true : false) ;
+						var last = (j == (sub.bars.length - 1) ? true : false) ;
+
+						// For repeat section, we never use double bar lines or repeats
+						prebar((first ? label : ""), ((first)&&(label)), false) ;
+						bar(sub.bars[j], (first ? "&nbsp;" + ending + ". " + description : "") , first) ;
+
+						if ((last)&&(ending == 1)){
+							// Force a repeat bar line
+							postbar(last, true) ;
+						}
+						else {
+							postbar(last, false) ;
+						}
+
+						col++ ;
+						if (col == 4){
+							col = 0 ;
+						}
+					}
+		
+					// Add padding
+					for (var j = 0 ; j < padding.length ; j++){
+						prebar("", false, false, true) ;
+						bar(padding[j], "", false) ;
+						postbar(false, false, (j < padding.length - 1)) ;
+	
+						col++ ;
+						if (col == 4){
+							col = 0 ;
+						}
+					}
+				}
 			}
-		}
-
-		for (var e = 0 ; e < sect.endings.length ; e++){
-			var ending = sect.endings[e] ;
-			if ((ending.bars)&&(ending.bars.length > 0)){
-				var padding = [] ;
-				if ((e < sect.endings.length - 1)&&((ending.bars.length % 4) > 0)){
-					// In order to align the starts of the repeat section, we must ensure the endings
-					// are of full line lengths (multiples of 4).
-					var extra = 4 - (ending.bars.length % 4) ;
-					for (var j = 0 ; j < extra ; j++){
-						padding.push({}) ;
-					}
-				}
-				for (var i = 0 ; i < ending.bars.length ; i++){
-					var label = fix_label(ending.label) ;
-					var description = (ending.description ? ending.description : "") ;
-
-					var first = (i == 0 ? true : false) ;
-					var last = (i == (ending.bars.length - 1) ? true : false) ;
-
-					// For repeat section, we never use double bar lines or repeats
-					prebar((first ? label : ""), ((first)&&(label)), false) ;
-					bar(ending.bars[i], (first ? "&nbsp;" + ending.no + ". " + description : "") , first) ;
-
-					if ((last)&&(ending.no == 1)){
-						// Force a repeat bar line
-						postbar(last, true) ;
-					}
-					else {
-						postbar(last, false) ;
-					}
-
-					col++ ;
-					if (col == 4){
-						col = 0 ;
-					}
-				}
-
-				// Add padding
-				for (var i = 0 ; i < padding.length ; i++){
-					prebar("", false, false, true) ;
-					bar(padding[i], "", false) ;
-					postbar(false, false, (i < padding.length - 1)) ;
-
-					col++ ;
-					if (col == 4){
-						col = 0 ;
-					}
-				}
+			else {
+				section(sub) ;
 			}
 		}
 	}
