@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Tones For Joan's Bones;Corea Chick;Medium Swing;D",
       "T44i:<IEludHJvIHBsYXllZCBoYWxmIHRpbWU=>E-7   |%   |Eh7   |//Eb7 ",
@@ -64,7 +64,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/D)"
+                     "bass" : "D",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -74,7 +75,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F7(b9/D)"
+                     "bass" : "D",
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -148,14 +150,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab-7/G(b)"
+                     "bass" : "Gb",
+                     "name" : "Ab-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7(b9/F)"
+                     "bass" : "F",
+                     "name" : "Bb7(b9)"
                   }
                ]
             },
@@ -255,7 +259,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/D)"
+                     "bass" : "D",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -265,7 +270,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F7(b9/D)"
+                     "bass" : "D",
+                     "name" : "F7(b9)"
                   }
                ]
             },
@@ -415,5 +421,5 @@
       }
    ],
    "composer" : "Chick Corea",
-   "key" : null
+   "key" : "D"
 }

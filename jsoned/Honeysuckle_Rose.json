@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Honeysuckle Rose;Waller Fats;Up Tempo Swing;F",
       "{A:T44G-7 C7 |G-7 C7 |G-7 C7 |G-7 C7 |F6 F7/A |Bb6 C7 ",
@@ -115,7 +115,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -238,7 +239,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -283,5 +285,5 @@
       }
    ],
    "composer" : "Fats Waller",
-   "key" : null
+   "key" : "F"
 }

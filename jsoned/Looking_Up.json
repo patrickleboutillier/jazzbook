@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Looking Up;Petrucciani Michel;Latin;A",
       "{T44A^7   |A7   |D^7   |G7   |A^7   |A7   |D^7   |C#7   |F#-7   |B7   |E^7   |C#7   |D#-7   |%   |G#7   |%   ",
@@ -23,7 +23,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C#-7/B"
+                           "bass" : "B",
+                           "name" : "C#-7"
                         }
                      ]
                   },
@@ -84,7 +85,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C#7/B"
+                           "bass" : "B",
+                           "name" : "C#7"
                         }
                      ]
                   },
@@ -145,7 +147,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "C#-7/B"
+                           "bass" : "B",
+                           "name" : "C#-7"
                         }
                      ]
                   },
@@ -173,7 +176,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "A/E"
+                           "bass" : "E",
+                           "name" : "A"
                         }
                      ]
                   },
@@ -187,7 +191,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D/E"
+                           "bass" : "E",
+                           "name" : "D"
                         }
                      ]
                   }
@@ -306,5 +311,5 @@
       }
    ],
    "composer" : "Michel Petrucciani",
-   "key" : null
+   "key" : "A"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Witchcraft;Coleman Cy;Medium Swing;F",
       "A:T44F6   |%   |G#o7   |%   |G-7   |C7sus   |F^7   |F7   |Bb^7   |%   |Eb7   |%   |Ab6   |G7b9   |C7   |%   ",
@@ -162,7 +162,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   }
                ]
             },
@@ -177,7 +178,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   },
                   {
                      "beats" : 2,
@@ -195,7 +197,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/G"
+                     "bass" : "G",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -276,5 +279,5 @@
       }
    ],
    "composer" : "Cy Coleman",
-   "key" : null
+   "key" : "F"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;I Fall In Love Too Easily;Styne Jule;Ballad;Eb",
       "T44F-7 Bb7 |Eb^7 Ab^7 |Dh7 G7#9 |C- A7b5 |Dh7 G7#9 |C-7 C-7/Bb |Ah7 D7b9 |Dh7 G7b9 ",
@@ -78,7 +78,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -209,5 +210,5 @@
       }
    ],
    "composer" : "Jule Styne",
-   "key" : null
+   "key" : "Eb"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Nutty;Monk Thelonious;Medium Swing;Bb",
       "{A:T44Bb^7 Bo7 |C-7 C#o7 |Bb^7/D C-7,F7,|F7   |Bb^7 Bo7 |C-7 F7 |Bb^7   ",
@@ -72,7 +72,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   },
                   {
                      "beats" : 1,
@@ -251,7 +252,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   },
                   {
                      "beats" : 1,
@@ -322,5 +324,5 @@
       }
    ],
    "composer" : "Thelonious Monk",
-   "key" : null
+   "key" : "Bb"
 }

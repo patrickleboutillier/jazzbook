@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Pretty Girl Is Like A Melody, A;Berlin Irving;Medium Swing;G",
       "A:T44A7 Bb13 |A7   |A-9   |D7   |F#/G G |%   |G^9   |%   |D-7 G7 |C6   |F9   |G^7   |A7   |%   |D9   |/C9,B7,Bb7",
@@ -47,7 +47,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#/G"
+                     "bass" : "G",
+                     "name" : "F#"
                   },
                   {
                      "beats" : 2,
@@ -180,7 +181,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#/G"
+                     "bass" : "G",
+                     "name" : "F#"
                   },
                   {
                      "beats" : 2,
@@ -208,7 +210,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E7/B"
+                     "bass" : "B",
+                     "name" : "E7"
                   }
                ]
             },
@@ -300,5 +303,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "G"
 }

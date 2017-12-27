@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Road Song;Montgomery Wes;Latin;G-",
       "{A:T44G-7   |%   |Ah7   |D7b9   |G-7 G-7/F |Eb^7   |Eh7 C-7 |D7#9 G-7 ",
@@ -43,7 +43,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -187,7 +188,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -227,5 +229,5 @@
       }
    ],
    "composer" : "Wes Montgomery",
-   "key" : null
+   "key" : "G-"
 }

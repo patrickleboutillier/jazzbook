@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;I Only Have Eyes For You;Warren Harry;Ballad;C",
       "{A:T44D-7   |G7   |D-7   |G7   |C^7   ",
@@ -134,7 +134,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
@@ -284,5 +285,5 @@
       }
    ],
    "composer" : "Harry Warren",
-   "key" : null
+   "key" : "C"
 }

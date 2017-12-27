@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Country;Jarrett Keith;Even 8ths;Eb",
       "{A:T44Ab   |Bb   |Eb(C-)   |Eb7(C-)   |Ab   |Bb G/B |C-   |C- Eb7/Bb |Ab   |Bb  G/B,|C-   |F7 F#o7 |Eb/G   |Ab   |Bb7  Eb,|Eb   ",
@@ -53,7 +53,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   }
                ]
             },
@@ -72,7 +73,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb7"
                   }
                ]
             },
@@ -91,7 +93,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   }
                ]
             },
@@ -117,7 +120,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/G"
+                     "bass" : "G",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -212,7 +216,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -243,7 +248,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "Eb7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb7"
                   },
                   {
                      "beats" : 2,
@@ -254,7 +260,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/G"
+                     "bass" : "G",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -290,5 +297,5 @@
       }
    ],
    "composer" : "Keith Jarrett",
-   "key" : null
+   "key" : "Eb"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Moonlight Saving Time;Kahal Irving;Medium Swing;F",
       "{A:T44F^7 Abo7 |G-7 C7#5 |F6 C7#5 |A-11 Abo7 |G-7 C7 |%   ",
@@ -291,7 +291,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C7/G"
+                     "bass" : "G",
+                     "name" : "C7"
                   },
                   {
                      "beats" : 2,
@@ -332,5 +333,5 @@
       }
    ],
    "composer" : "Irving Kahal",
-   "key" : null
+   "key" : "F"
 }

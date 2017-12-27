@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Questar;Jarrett Keith;Even 8ths;Bb",
       "{T44Bb^7   |Cb^7/Bb   |Bb^9   |Eb^7/Bb   |Bb^7   |Cb^7/Bb   |Eb-6/Bb   |Bb^9#11   ",
@@ -20,7 +20,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Cb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Cb^7"
                   }
                ]
             },
@@ -34,7 +35,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -48,14 +50,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Cb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Cb^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb-6/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb-6"
                   }
                ]
             },
@@ -105,7 +109,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -119,14 +124,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Cb/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Cb"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb-6/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb-6"
                   }
                ]
             },
@@ -176,7 +183,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C#/D"
+                     "bass" : "D",
+                     "name" : "C#"
                   }
                ]
             },
@@ -197,7 +205,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E/G"
+                     "bass" : "G",
+                     "name" : "E"
                   }
                ]
             },
@@ -205,7 +214,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B/G"
+                     "bass" : "G",
+                     "name" : "B"
                   },
                   {
                      "beats" : 2,
@@ -223,7 +233,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7(#11/G)"
+                     "bass" : "G",
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
@@ -264,5 +275,5 @@
       }
    ],
    "composer" : "Keith Jarrett",
-   "key" : null
+   "key" : "Bb"
 }

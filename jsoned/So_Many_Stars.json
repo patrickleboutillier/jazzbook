@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;So Many Stars;Mendez Sergio;Bossa Nova;Db",
       "{A:T44Ab13sus   |Ab13b9   |Ab-7   |Db7b9 Db13 |Gb^7   |B13   |F- Db/F |F-6 F-7 |F-^7 F-7 |Bb7#9#5   |Ab13sus   |Ab13b9   ",
@@ -113,7 +113,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db/F"
+                     "bass" : "F",
+                     "name" : "Db"
                   }
                ]
             },
@@ -296,5 +297,5 @@
       }
    ],
    "composer" : "Sergio Mendez",
-   "key" : null
+   "key" : "Db"
 }

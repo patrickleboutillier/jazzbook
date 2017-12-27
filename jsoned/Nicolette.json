@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Nicolette;Wheeler Kenny;Waltz;Bb",
       "{A:T34E-9   |Bb7#9#5   |Eb-9   |Bb^7#11/A   |G^7#11/F#   |Go7, A#o7, |B-11   |E7#9#11   ",
@@ -36,14 +36,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/A)"
+                     "bass" : "A",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G^7(#11/F#)"
+                     "bass" : "F#",
+                     "name" : "G^7(#11)"
                   }
                ]
             },
@@ -87,7 +89,8 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "E-11/D"
+                     "bass" : "D",
+                     "name" : "E-11"
                   }
                ]
             },
@@ -127,7 +130,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A^7(#11/G#)"
+                     "bass" : "G#",
+                     "name" : "A^7(#11)"
                   }
                ]
             },
@@ -151,7 +155,8 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "D^7(#11/E)"
+                     "bass" : "E",
+                     "name" : "D^7(#11)"
                   }
                ]
             }
@@ -184,14 +189,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/A)"
+                     "bass" : "A",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G^7(#11/F#)"
+                     "bass" : "F#",
+                     "name" : "G^7(#11)"
                   }
                ]
             },
@@ -236,7 +243,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/A)"
+                     "bass" : "A",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             }
@@ -274,5 +282,5 @@
       }
    ],
    "composer" : "Kenny Wheeler",
-   "key" : null
+   "key" : "Bb"
 }

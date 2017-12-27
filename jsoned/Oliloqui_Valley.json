@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Oliloqui Valley;Hancock Herbie;Even 8ths;C",
       "{T44F7sus   |%   |%   |%   |Eb7sus   |%   |%   |%   ",
@@ -43,7 +43,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F#-7/E"
+                           "bass" : "E",
+                           "name" : "F#-7"
                         }
                      ]
                   },
@@ -57,7 +58,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F#-7/E"
+                           "bass" : "E",
+                           "name" : "F#-7"
                         }
                      ]
                   },
@@ -71,7 +73,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F#-7/E"
+                           "bass" : "E",
+                           "name" : "F#-7"
                         }
                      ]
                   },
@@ -137,5 +140,5 @@
       }
    ],
    "composer" : "Herbie Hancock",
-   "key" : null
+   "key" : "C"
 }

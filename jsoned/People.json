@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;People;Styne Jule;Ballad;Bb",
       "T44A:Bb^7 G-7 |C-7 F7 |Bb^7 G-7 |C-7 F7b9 |Eb/Bb   |Bb^7   |A-7   |D7   ",
@@ -63,7 +63,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -141,7 +142,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
@@ -153,7 +155,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   },
                   {
                      "beats" : 2,
@@ -179,7 +182,8 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "E/F"
+                     "bass" : "F",
+                     "name" : "E"
                   },
                   {
                      "beats" : 1,
@@ -263,7 +267,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -354,14 +359,16 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -381,7 +388,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -445,7 +453,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/F"
+                     "bass" : "F",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -457,7 +466,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -485,5 +495,5 @@
       }
    ],
    "composer" : "Jule Styne",
-   "key" : null
+   "key" : "Bb"
 }

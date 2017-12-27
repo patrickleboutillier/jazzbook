@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;My Little Brown Book;Strayhorn Billy;Slow Swing;Bb",
       "{A:T44Bb6 F7#5 |Bb7   |Eb^7   |Eb-6 Ab7 |Bb Bb+ |C-7 F7 ",
@@ -169,7 +169,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db^7/F"
+                     "bass" : "F",
+                     "name" : "Db^7"
                   },
                   {
                      "beats" : 2,
@@ -351,5 +352,5 @@
       }
    ],
    "composer" : "Billy Strayhorn",
-   "key" : null
+   "key" : "Bb"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Passion Dance;Tyner McCoy;Up Tempo Swing;F",
       "{A:T44F7sus   |%   |%   |%   |F7sus   |%   |%   |%   ",
@@ -83,7 +83,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-11/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb-11"
                   }
                ]
             },
@@ -99,7 +100,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-11/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb-11"
                   }
                ]
             },
@@ -110,7 +112,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db/C(b)"
+                     "bass" : "Cb",
+                     "name" : "Db"
                   },
                   {
                      "beats" : 2,
@@ -130,5 +133,5 @@
       }
    ],
    "composer" : "McCoy Tyner",
-   "key" : null
+   "key" : "F"
 }

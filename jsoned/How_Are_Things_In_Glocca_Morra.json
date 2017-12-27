@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;How Are Things In Glocca Morra;Lane Burton;Ballad;F",
       "T44A:F^7   |A-7 D7#9 |G-7   |C7   |G-7 C7 |%   |F6   |G-7 C7sus ",
@@ -193,7 +193,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -221,7 +222,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -301,5 +303,5 @@
       }
    ],
    "composer" : "Burton Lane",
-   "key" : null
+   "key" : "F"
 }

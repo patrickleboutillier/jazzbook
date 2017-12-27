@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Beyond The Sea;Trenet Charles;Medium Swing;F",
       "{A:T44F6 D-7 |G-7 C7 |F6 D-7 |G-7 C7 |F6 A7 |D-7 C7 |F6 D-7 |Bb6 D7/A |G-7 C7 ",
@@ -174,7 +174,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
@@ -422,7 +423,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
@@ -474,5 +476,5 @@
       }
    ],
    "composer" : "Charles Trenet",
-   "key" : null
+   "key" : "F"
 }

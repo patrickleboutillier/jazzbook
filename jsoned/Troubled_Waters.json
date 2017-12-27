@@ -125,7 +125,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/E"
+                     "bass" : "E",
+                     "name" : "F"
                   },
                   {
                      "beats" : 1,
@@ -133,7 +134,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "D-/C"
+                     "bass" : "C",
+                     "name" : "D-"
                   }
                ]
             }
@@ -314,7 +316,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/E"
+                     "bass" : "E",
+                     "name" : "F"
                   },
                   {
                      "beats" : 1,
@@ -330,7 +333,8 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "name" : "Gh7/C"
+                     "bass" : "C",
+                     "name" : "Gh7"
                   }
                ]
             }

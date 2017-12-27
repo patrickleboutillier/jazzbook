@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Bud Powell;Corea Chick;Medium Up Swing;F",
       "{A:T44F^7   |Bh7 Bb7 |A-7   |D7b9   |G-7   |Bb-7 Eb7 |D-7   |G7 G#o7 |A-7 D7 |G-7 Db7,C7,|B7 Bb7,A7,|Ab7,Db^,C7#5, ",
@@ -237,7 +237,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/B"
+                     "bass" : "B",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -251,7 +252,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/B"
+                     "bass" : "B",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -265,7 +267,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/B"
+                     "bass" : "B",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -472,5 +475,5 @@
       }
    ],
    "composer" : "Chick Corea",
-   "key" : null
+   "key" : "F"
 }

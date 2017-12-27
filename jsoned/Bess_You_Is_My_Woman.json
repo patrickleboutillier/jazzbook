@@ -21,7 +21,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/C"
+                     "bass" : "C",
+                     "name" : "F7"
                   }
                ]
             },
@@ -29,7 +30,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -57,7 +59,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -77,7 +80,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -113,7 +117,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/C"
+                     "bass" : "C",
+                     "name" : "F7"
                   }
                ]
             },
@@ -121,11 +126,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/D"
+                     "bass" : "D",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -133,7 +140,8 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "name" : "A7/E"
+                     "bass" : "E",
+                     "name" : "A7"
                   }
                ]
             },
@@ -145,7 +153,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B-7/A"
+                     "bass" : "A",
+                     "name" : "B-7"
                   }
                ]
             },
@@ -178,7 +187,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F#6/A(#)"
+                     "bass" : "A#",
+                     "name" : "F#6"
                   }
                ]
             },
@@ -226,7 +236,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D/A"
+                     "bass" : "A",
+                     "name" : "D"
                   },
                   {
                      "beats" : 2,
@@ -238,11 +249,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D9/F(#)"
+                     "bass" : "F#",
+                     "name" : "D9"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A7/E"
+                     "bass" : "E",
+                     "name" : "A7"
                   }
                ]
             },
@@ -250,11 +263,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B-6/D"
+                     "bass" : "D",
+                     "name" : "B-6"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F#7/C(#)"
+                     "bass" : "C#",
+                     "name" : "F#7"
                   }
                ]
             },
@@ -324,7 +339,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D9/F(#)"
+                     "bass" : "F#",
+                     "name" : "D9"
                   }
                ]
             },
@@ -348,7 +364,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D9/F(#)"
+                     "bass" : "F#",
+                     "name" : "D9"
                   }
                ]
             },

@@ -34,7 +34,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/C"
+                     "bass" : "C",
+                     "name" : "D"
                   }
                ]
             },
@@ -86,7 +87,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G/F"
+                     "bass" : "F",
+                     "name" : "G"
                   }
                ]
             },
@@ -135,7 +137,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-6/C"
+                     "bass" : "C",
+                     "name" : "F-6"
                   }
                ]
             },
@@ -149,7 +152,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/C"
+                     "bass" : "C",
+                     "name" : "D"
                   }
                ]
             },
@@ -211,7 +215,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/F(#)"
+                     "bass" : "F#",
+                     "name" : "D"
                   }
                ]
             },

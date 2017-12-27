@@ -98,7 +98,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-/F"
+                     "bass" : "F",
+                     "name" : "G-"
                   }
                ]
             },
@@ -249,11 +250,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
-                     "name" : "B/B(b)"
+                     "bass" : "Bb",
+                     "name" : "B"
                   }
                ]
             }

@@ -77,7 +77,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -120,7 +121,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -225,7 +227,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -245,7 +248,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F6/C"
+                     "bass" : "C",
+                     "name" : "F6"
                   },
                   {
                      "beats" : 2,

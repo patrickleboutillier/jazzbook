@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Just In Tune;Abercrombie John;Medium Up Swing;C",
       "{A:T44D7sus   |%   |Dh7   |G7b9   |C-7   |C-7/Bb   |A-7   |%   ",
@@ -22,7 +22,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb/D"
+                           "bass" : "D",
+                           "name" : "Bb"
                         }
                      ]
                   },
@@ -36,7 +37,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb/D"
+                           "bass" : "D",
+                           "name" : "Bb"
                         }
                      ]
                   },
@@ -48,7 +50,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D-/C"
+                           "bass" : "C",
+                           "name" : "D-"
                         }
                      ]
                   },
@@ -164,7 +167,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -184,5 +188,5 @@
       }
    ],
    "composer" : "John Abercrombie",
-   "key" : null
+   "key" : "C"
 }

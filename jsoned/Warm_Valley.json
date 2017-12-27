@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Warm Valley;Ellington Duke;Ballad;Bb",
       "{A:T44Bb^7   |E9   |Eb9   |D7   |Dh7 G7b9 |C-7 Ch7/F, ",
@@ -23,7 +23,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "C-7/F"
+                           "bass" : "F",
+                           "name" : "C-7"
                         }
                      ]
                   },
@@ -31,11 +32,13 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Bb69/F"
+                           "bass" : "F",
+                           "name" : "Bb69"
                         },
                         {
                            "beats" : 2,
-                           "name" : "Ch7/F"
+                           "bass" : "F",
+                           "name" : "Ch7"
                         }
                      ]
                   }
@@ -77,11 +80,13 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Bb^7/F"
+                           "bass" : "F",
+                           "name" : "Bb^7"
                         },
                         {
                            "beats" : 2,
-                           "name" : "Go7/F"
+                           "bass" : "F",
+                           "name" : "Go7"
                         }
                      ]
                   },
@@ -89,11 +94,13 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Bb^7/F"
+                           "bass" : "F",
+                           "name" : "Bb^7"
                         },
                         {
                            "beats" : 2,
-                           "name" : "Go7/F"
+                           "bass" : "F",
+                           "name" : "Go7"
                         }
                      ]
                   },
@@ -101,11 +108,13 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Bb/F"
+                           "bass" : "F",
+                           "name" : "Bb"
                         },
                         {
                            "beats" : 2,
-                           "name" : "Go7/F"
+                           "bass" : "F",
+                           "name" : "Go7"
                         }
                      ]
                   },
@@ -170,7 +179,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ch7/F"
+                     "bass" : "F",
+                     "name" : "Ch7"
                   }
                ]
             }
@@ -267,7 +277,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ch7/F"
+                     "bass" : "F",
+                     "name" : "Ch7"
                   }
                ]
             }
@@ -324,7 +335,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ch7/F"
+                     "bass" : "F",
+                     "name" : "Ch7"
                   }
                ]
             },
@@ -332,11 +344,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -344,11 +358,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eo7/F"
+                     "bass" : "F",
+                     "name" : "Eo7"
                   }
                ]
             }
@@ -357,5 +373,5 @@
       }
    ],
    "composer" : "Duke Ellington",
-   "key" : null
+   "key" : "Bb"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Nobody Else But Me;Kern Jerome;Medium Swing;C",
       "A:T44C^7 F7 |E-7 A7 |D-7   |G7   |D-7 G7 |C#-7 F#7 |B^7   |F#-7(F7#11) B7 ",
@@ -115,14 +115,16 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/F(#)"
+                     "bass" : "F#",
+                     "name" : "B^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb7/G"
+                     "bass" : "G",
+                     "name" : "Eb7"
                   }
                ]
             },
@@ -345,5 +347,5 @@
       }
    ],
    "composer" : "Jerome Kern",
-   "key" : null
+   "key" : "C"
 }

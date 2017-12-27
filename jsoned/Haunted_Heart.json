@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Haunted Heart;Schwartz Arthur;Ballad;Eb",
       "T44A:Eb6 C-7 |F-7 Bb7 |Eb6 C-7 |F-7 Bb7 |Eb6 Ab^7 |G-7 C7b13 |F-7   |Bb7   ",
@@ -287,7 +287,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb6/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb6"
                   }
                ]
             },
@@ -364,5 +365,5 @@
       }
    ],
    "composer" : "Arthur Schwartz",
-   "key" : null
+   "key" : "Eb"
 }

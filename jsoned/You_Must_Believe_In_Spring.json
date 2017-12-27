@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;You Must Believe In Spring;Legrand Michel;Ballad;B-",
       "A:T44C#h7 F#7b9 |F#7b9/B B-7 |E-7 A7 |A7b9/D D^7 |G#h7 C#7b9 |F#h7 B7b9 |E-7 A7 |D^7 C#h,F#7,",
@@ -27,7 +27,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#7(b9/B)"
+                     "bass" : "B",
+                     "name" : "F#7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -51,7 +52,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7(b9/D)"
+                     "bass" : "D",
+                     "name" : "A7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -132,7 +134,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F#7(b9/B)"
+                     "bass" : "B",
+                     "name" : "F#7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -156,7 +159,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A7(b9/D)"
+                     "bass" : "D",
+                     "name" : "A7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -237,7 +241,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7(b9/C)"
+                     "bass" : "C",
+                     "name" : "G7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -261,7 +266,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7(b9/Eb)"
+                     "bass" : "Eb",
+                     "name" : "Bb7(b9)"
                   },
                   {
                      "beats" : 2,
@@ -341,5 +347,5 @@
       }
    ],
    "composer" : "Michel Legrand",
-   "key" : null
+   "key" : "B-"
 }

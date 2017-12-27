@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Stormy Weather;Arlen Harold;Ballad;G",
       "{A:T44G^7 G#o7 |A-7 D7 |G^7 G#o7 |A-7 D7 |G6 G#o7 |A-7 D7#5 ",
@@ -191,7 +191,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G6/D"
+                     "bass" : "D",
+                     "name" : "G6"
                   },
                   {
                      "beats" : 2,
@@ -215,7 +216,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G6/D"
+                     "bass" : "D",
+                     "name" : "G6"
                   },
                   {
                      "beats" : 2,
@@ -239,7 +241,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G6/D"
+                     "bass" : "D",
+                     "name" : "G6"
                   },
                   {
                      "beats" : 2,
@@ -251,7 +254,8 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "G6/D"
+                     "bass" : "D",
+                     "name" : "G6"
                   },
                   {
                      "beats" : 1,
@@ -405,5 +409,5 @@
       }
    ],
    "composer" : "Harold Arlen",
-   "key" : null
+   "key" : "G"
 }

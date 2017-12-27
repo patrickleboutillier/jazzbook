@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Samba",
    "metadata" : [
       "IREALB;Lone Jack (Page 1);Metheny Pat;Samba;Bb-",
       "{A:T44Bb-7 |% |Gb^7 |% |Bb-7 |% |Gb^7 |% |Bb-7   |%   |Gb^7   |%   |F7#9   |%   |Ab Bb-7 |Bb-7  @ ",
@@ -218,11 +218,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Db"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb/F"
+                     "bass" : "F",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -230,11 +232,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Gb6/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Gb6"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F6/G"
+                     "bass" : "G",
+                     "name" : "F6"
                   }
                ]
             },
@@ -242,11 +246,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Db"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb/F"
+                     "bass" : "F",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -254,11 +260,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/C"
+                     "bass" : "C",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -266,11 +274,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D/E"
+                     "bass" : "E",
+                     "name" : "D"
                   },
                   {
                      "beats" : 2,
-                     "name" : "E/F(#)"
+                     "bass" : "F#",
+                     "name" : "E"
                   }
                ]
             },
@@ -278,11 +288,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/A"
+                     "bass" : "A",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A/B"
+                     "bass" : "B",
+                     "name" : "A"
                   }
                ]
             },
@@ -290,18 +302,21 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/D"
+                     "bass" : "D",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D/E"
+                     "bass" : "E",
+                     "name" : "D"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             },
@@ -309,18 +324,21 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/A"
+                     "bass" : "A",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Ab"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Ab"
                   }
                ]
             }
@@ -329,5 +347,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "Bb-"
 }

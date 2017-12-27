@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Georgia On My Mind;Carmichael Hoagy;Slow Swing;F",
       "{A:T44F^7   |Eh7 A7b9 |D- D-/C |G/B Bb-7,Eb7,|A-7 D7 |G-7 C7 ",
@@ -95,7 +95,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-/C"
+                     "bass" : "C",
+                     "name" : "D-"
                   }
                ]
             },
@@ -103,7 +104,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 1,
@@ -189,7 +191,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/B"
+                     "bass" : "B",
+                     "name" : "G7"
                   }
                ]
             },
@@ -277,7 +280,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-/C"
+                     "bass" : "C",
+                     "name" : "D-"
                   }
                ]
             },
@@ -285,7 +289,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 1,
@@ -345,5 +350,5 @@
       }
    ],
    "composer" : "Hoagy Carmichael",
-   "key" : null
+   "key" : "F"
 }

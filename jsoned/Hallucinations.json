@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Hallucinations;Powell Bud;Up Tempo Swing;F",
       "{A:T44F6 Bb7 |A7 D7 |G7 C7 |F6 F7 |Bb7 Bo7 |F7/C D7 |G-7 C7 ",
@@ -109,7 +109,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F7/C"
+                     "bass" : "C",
+                     "name" : "F7"
                   },
                   {
                      "beats" : 2,
@@ -191,7 +192,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
@@ -300,7 +302,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F7/C"
+                     "bass" : "C",
+                     "name" : "F7"
                   },
                   {
                      "beats" : 2,
@@ -398,5 +401,5 @@
       }
    ],
    "composer" : "Bud Powell",
-   "key" : null
+   "key" : "F"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Round Midnight;Monk Thelonious;Ballad;Eb-",
       "i:T44Ah7   |D7#9   |Gh7   |C7#9   |Fh7   |Bb7#9   |Eb-7 Ab7,Db7,|Gb7,B7,Bb7#5 ",
@@ -159,7 +159,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Eb-7"
                   }
                ]
             },
@@ -452,5 +453,5 @@
       }
    ],
    "composer" : "Thelonious Monk",
-   "key" : null
+   "key" : "Eb-"
 }

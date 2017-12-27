@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;I Wish I Knew;Warren Harry;Ballad;G",
       "A:T44A-7   |D7   |A-7   |D7   |G^7   |C7   |G^7   |B-7 E7 ",
@@ -137,7 +137,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/C"
+                     "bass" : "C",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -290,5 +291,5 @@
       }
    ],
    "composer" : "Harry Warren",
-   "key" : null
+   "key" : "G"
 }

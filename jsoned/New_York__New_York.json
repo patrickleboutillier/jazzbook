@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;New York, New York;Kander John;Medium Swing;F",
       "{A:T44F   |%   |G-7   |C7   |F   |%   ",
@@ -215,7 +215,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F/C"
+                     "bass" : "C",
+                     "name" : "F"
                   }
                ]
             },
@@ -279,5 +280,5 @@
       }
    ],
    "composer" : "John Kander",
-   "key" : null
+   "key" : "F"
 }

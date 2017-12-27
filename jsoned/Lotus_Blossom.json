@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Lotus Blossom;Strayhorn Billy;Waltz;Bb",
       "{A:T34Bb^7/D   |Db-6   |Ch7   |F7   |Bb^7/D   |Eh7  Ebh,|Dh7   |G7#5   |C-7   |Eb-6   |Bb^7/D   |Db-6   |Ch7  @ |F7   |Bb^7   ",
@@ -42,7 +42,8 @@
                "meter" : "3/4",
                "chords" : [
                   {
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -70,7 +71,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -117,7 +119,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -191,14 +194,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bbo7/F"
+                     "bass" : "F",
+                     "name" : "Bbo7"
                   }
                ]
             },
@@ -267,7 +272,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -311,5 +317,5 @@
       }
    ],
    "composer" : "Billy Strayhorn",
-   "key" : null
+   "key" : "Bb"
 }

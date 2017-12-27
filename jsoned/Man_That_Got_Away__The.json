@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Man That Got Away, The;Arlen Harold;Slow Swing;F",
       "A:T44F6   |%   |G-7 C7 |Bb7,B7,C7 |F6   |//A7#5 |D7#5   |%   |G-11   |C7   |Ah7   |D7b9   |G-11   |C7   |F^7   |C13   ",
@@ -247,7 +247,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-9/C"
+                     "bass" : "C",
+                     "name" : "G-9"
                   },
                   {
                      "beats" : 2,
@@ -343,7 +344,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F6/C"
+                     "bass" : "C",
+                     "name" : "F6"
                   }
                ]
             },
@@ -392,5 +394,5 @@
       }
    ],
    "composer" : "Harold Arlen",
-   "key" : null
+   "key" : "F"
 }

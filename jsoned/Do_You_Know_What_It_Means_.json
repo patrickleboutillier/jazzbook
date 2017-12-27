@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Do You Know What It Means?;Alter Louis;Medium Swing;C",
       "{A:T44C^7 G7#5 |C^7 A-7 |E-7 A-7 |D7   |F6 F#o7 |C6/G A7b9 ",
@@ -122,7 +122,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C6/G"
+                     "bass" : "G",
+                     "name" : "C6"
                   },
                   {
                      "beats" : 2,
@@ -291,7 +292,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C6/G"
+                     "bass" : "G",
+                     "name" : "C6"
                   },
                   {
                      "beats" : 2,
@@ -323,5 +325,5 @@
       }
    ],
    "composer" : "Louis Alter",
-   "key" : null
+   "key" : "C"
 }

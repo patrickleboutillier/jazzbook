@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;How Insensitive;Jobim Antonio-Carlos;Bossa Nova;D-",
       "A:T44D-   |%   |C#o7   |%   |C-6   |%   |G7/B   |%   |Bb^7   |%   |Eb^7#11   |%   |Eh7   |A7b9   |D-   |//Db7 ",
@@ -43,7 +43,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G7/B"
+                     "bass" : "B",
+                     "name" : "G7"
                   }
                ]
             },
@@ -231,5 +232,5 @@
       }
    ],
    "composer" : "Antonio-Carlos Jobim",
-   "key" : null
+   "key" : "D-"
 }

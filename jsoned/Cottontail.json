@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Cottontail;Ellington Duke;Up Tempo Swing;Bb",
       "{A:T44Bb6 G-7 |C-7 F7 |D-7 G7 |C-7 F7 |Bb6 Bb7/D |Eb6 Eo7 |Bb6/F G-7 ",
@@ -105,7 +105,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7/D"
+                     "bass" : "D",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -125,7 +126,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb6/F"
+                     "bass" : "F",
+                     "name" : "Bb6"
                   },
                   {
                      "beats" : 2,
@@ -240,7 +242,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7/D"
+                     "bass" : "D",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -260,7 +263,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb6/F"
+                     "bass" : "F",
+                     "name" : "Bb6"
                   },
                   {
                      "beats" : 2,
@@ -285,5 +289,5 @@
       }
    ],
    "composer" : "Duke Ellington",
-   "key" : null
+   "key" : "Bb"
 }

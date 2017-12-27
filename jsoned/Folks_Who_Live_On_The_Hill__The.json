@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Folks Who Live On The Hill, The;Kern Jerome;Ballad;C",
       "{T44A:C^7 Gb7#11, |F^7 G7sus, |C^7/E, Ebo7 |D-7 A-7/C, |G7/B, A-7 |D-7/G, G7/F, |C^7 C7 |F^7 G7 |E-7 A7b9, |D-7 G7 ",
@@ -96,7 +96,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
@@ -112,7 +113,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/C"
+                     "bass" : "C",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -120,7 +122,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7/B"
+                     "bass" : "B",
+                     "name" : "G7"
                   },
                   {
                      "beats" : 2,
@@ -132,11 +135,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
@@ -221,7 +226,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-^7/D(#)"
+                     "bass" : "D#",
+                     "name" : "E-^7"
                   }
                ]
             },
@@ -229,11 +235,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "E-7/D"
+                     "bass" : "D",
+                     "name" : "E-7"
                   },
                   {
                      "beats" : 1,
-                     "name" : "A7/C(#)"
+                     "bass" : "C#",
+                     "name" : "A7"
                   },
                   {
                      "beats" : 1,
@@ -249,7 +257,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
@@ -306,7 +315,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
@@ -322,7 +332,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/C"
+                     "bass" : "C",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -330,7 +341,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7/B"
+                     "bass" : "B",
+                     "name" : "G7"
                   },
                   {
                      "beats" : 2,
@@ -342,11 +354,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
@@ -451,5 +465,5 @@
       }
    ],
    "composer" : "Jerome Kern",
-   "key" : null
+   "key" : "C"
 }

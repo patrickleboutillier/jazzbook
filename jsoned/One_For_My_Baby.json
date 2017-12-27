@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;One For My Baby;Arlen Harold;Ballad;Eb",
       "A:T44Eb^7 F-7/Bb |%   |%   |%   |Eb^7 F-7/Bb |%   |Eb^7 Bb-7 |Bb-7 Eb7 |Ab^7   |Ab^7 Db7 |Eb^7 F-7 |G-7 C7#9, |G7#5, C7#9, |F-7,G-7,Ab,Ab/Bb|Eb6   |Ah7 D7b9 ",
@@ -21,7 +21,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -42,7 +43,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -144,7 +146,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "Ab/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -232,7 +235,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G7/B"
+                           "bass" : "B",
+                           "name" : "G7"
                         }
                      ]
                   },
@@ -280,7 +284,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/D"
+                     "bass" : "D",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -301,7 +306,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/D"
+                     "bass" : "D",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -403,7 +409,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C/D"
+                     "bass" : "D",
+                     "name" : "C"
                   }
                ]
             }
@@ -444,7 +451,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C/D"
+                     "bass" : "D",
+                     "name" : "C"
                   }
                ]
             },
@@ -499,5 +507,5 @@
       }
    ],
    "composer" : "Harold Arlen",
-   "key" : null
+   "key" : "Eb"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Memories Of Tomorrow;Jarrett Keith;Even 8ths;A-",
       "A:T44A-   |A-^7   |A-7   |E-7   |F   |C   |G9sus   |C   ",
@@ -74,7 +74,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/F(#)"
+                     "bass" : "F#",
+                     "name" : "D"
                   }
                ]
             },
@@ -157,7 +158,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-/A(b)"
+                     "bass" : "Ab",
+                     "name" : "F-"
                   }
                ]
             },
@@ -165,11 +167,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D/F(#)"
+                     "bass" : "F#",
+                     "name" : "D"
                   }
                ]
             },
@@ -188,7 +192,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C/G"
+                     "bass" : "G",
+                     "name" : "C"
                   }
                ]
             },
@@ -223,5 +228,5 @@
       }
    ],
    "composer" : "Keith Jarrett",
-   "key" : null
+   "key" : "A-"
 }

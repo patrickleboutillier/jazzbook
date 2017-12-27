@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Armando's Rhumba;Corea Chick;Latin;C-",
       "T44A:C-7   |D7b9   |G7b13   |C-7   |C-7   |D7b9   |G7b13   |C-7   ",
@@ -88,7 +88,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7(b9/F#)"
+                     "bass" : "F#",
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -109,7 +110,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7(b9/A)"
+                     "bass" : "A",
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -152,5 +154,5 @@
       }
    ],
    "composer" : "Chick Corea",
-   "key" : null
+   "key" : "C-"
 }

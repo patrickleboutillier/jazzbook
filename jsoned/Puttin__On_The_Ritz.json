@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Puttin' On The Ritz;Berlin Irvin;Medium Swing;F-",
       "v:T44F Abo7 |G-7 C7 |F/A Abo7 |G-7 C7 |Ab Bo7 |Bb-7 Eb7 |Ab/C Bo7 |Bb-7 Eb7, |C6 Dbo7 |D-7 G7 |C6 Dbo7 |D-7 G7 |A-7   |D7   |G7   |C7   ",
@@ -42,7 +42,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   },
                   {
                      "beats" : 2,
@@ -90,7 +91,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab/C"
+                     "bass" : "C",
+                     "name" : "Ab"
                   },
                   {
                      "beats" : 2,
@@ -201,7 +203,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "F-/E(b)"
+                           "bass" : "Eb",
+                           "name" : "F-"
                         }
                      ]
                   },
@@ -374,7 +377,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F-"
                   }
                ]
             },
@@ -395,5 +399,5 @@
       }
    ],
    "composer" : "Irvin Berlin",
-   "key" : null
+   "key" : "F-"
 }

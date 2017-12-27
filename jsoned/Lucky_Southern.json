@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Lucky Southern;Jarrett Keith;Bossa Nova;D",
       "{i:T44D^7   |D^7#5   |D6   |D^7#5   ",
@@ -230,7 +230,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/F(#)"
+                     "bass" : "F#",
+                     "name" : "D"
                   }
                ]
             },
@@ -284,5 +285,5 @@
       }
    ],
    "composer" : "Keith Jarrett",
-   "key" : null
+   "key" : "D"
 }

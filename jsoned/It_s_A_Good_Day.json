@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;It's A Good Day;Lee Peggy;Medium Up Swing;Eb",
       "A:T44Eb6 |F-7 |G-7 |C-7 |F-7   |Bb7   |Eb6   |//Bb7#5, |Eb6   |F-7   |G-7 |C-7 |F-7 |Bb7 |Eb6   |Bb7#5   ",
@@ -326,7 +326,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7/F"
+                     "bass" : "F",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -454,5 +455,5 @@
       }
    ],
    "composer" : "Peggy Lee",
-   "key" : null
+   "key" : "Eb"
 }

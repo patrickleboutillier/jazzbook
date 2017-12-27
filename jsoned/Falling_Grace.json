@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Falling Grace;Swallow Steve;Even 8ths;Ab",
       "A:T44Ab^7   |%   |D7/F#   |G-7   |F-7 Bb7 |Eb^7/G D7/F# |G-7/F   |C7/E   |F^7   |F#h7   |B7b13   |E-7   |A-7 D7 |G^7   ",
@@ -24,7 +24,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D7"
                   }
                ]
             },
@@ -51,25 +52,29 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C7/E"
+                     "bass" : "E",
+                     "name" : "C7"
                   }
                ]
             },
@@ -142,7 +147,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -230,5 +236,5 @@
       }
    ],
    "composer" : "Steve Swallow",
-   "key" : null
+   "key" : "Ab"
 }

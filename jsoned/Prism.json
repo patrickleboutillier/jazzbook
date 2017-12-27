@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Prism;Jarrett Keith;Ballad;G-",
       "{A:T44G-   |Eb^7/G   |Eh7   |C#h7 F#7 |B-7 D-7 |A13b9 Bb/A |D-7   |  D7b9 ",
@@ -21,7 +21,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -64,7 +65,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb/A"
+                     "bass" : "A",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -184,7 +186,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/B"
+                     "bass" : "B",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -200,7 +203,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B7(b9sus/B)"
+                     "bass" : "B",
+                     "name" : "B7(b9sus)"
                   }
                ]
             },
@@ -212,7 +216,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B/A"
+                     "bass" : "A",
+                     "name" : "B"
                   }
                ]
             },
@@ -224,7 +229,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-/G"
+                     "bass" : "G",
+                     "name" : "E-"
                   }
                ]
             },
@@ -274,11 +280,13 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "D/F(#)"
+                     "bass" : "F#",
+                     "name" : "D"
                   },
                   {
                      "beats" : 1,
-                     "name" : "E/G(#)"
+                     "bass" : "G#",
+                     "name" : "E"
                   }
                ]
             },
@@ -297,7 +305,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bh7/F"
+                     "bass" : "F",
+                     "name" : "Bh7"
                   }
                ]
             },
@@ -305,25 +314,29 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A/E"
+                     "bass" : "E",
+                     "name" : "A"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A/E"
+                     "bass" : "E",
+                     "name" : "A"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb/E"
+                     "bass" : "E",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -331,11 +344,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B/E"
+                     "bass" : "E",
+                     "name" : "B"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C/D"
+                     "bass" : "D",
+                     "name" : "C"
                   }
                ]
             }
@@ -344,5 +359,5 @@
       }
    ],
    "composer" : "Keith Jarrett",
-   "key" : null
+   "key" : "G-"
 }

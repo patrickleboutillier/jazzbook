@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Lazy River;Carmichael Hoagy;Slow Swing;F",
       "A:T44D7   |D7,Db7,C7,F#o,|G7   |G7,Ab7,G7 |C7   |C7,Db7,C7 |F6 C7 |F6   ",
@@ -173,7 +173,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F6/C"
+                     "bass" : "C",
+                     "name" : "F6"
                   },
                   {
                      "beats" : 2,
@@ -234,5 +235,5 @@
       }
    ],
    "composer" : "Hoagy Carmichael",
-   "key" : null
+   "key" : "F"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Wave;Jobim Antonio-Carlos;Bossa Nova;D",
       "{A:T44D^7   |Bbo7   |A-7   |D7b9   |G^7   |G-6   |F#13 F#7b13 |B9 B7b9 |E9   |Bb7 A7 |D-7 G7 |D-7 G7 ",
@@ -129,21 +129,24 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "G-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F^7/A"
+                     "bass" : "A",
+                     "name" : "F^7"
                   }
                ]
             },
@@ -153,21 +156,24 @@
             {
                "chords" : [
                   {
-                     "name" : "F-7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "F-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -297,5 +303,5 @@
       }
    ],
    "composer" : "Antonio-Carlos Jobim",
-   "key" : null
+   "key" : "D"
 }

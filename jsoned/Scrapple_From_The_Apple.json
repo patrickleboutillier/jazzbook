@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Scrapple From The Apple;Parker Charlie;Up Tempo Swing;F",
       "{A:T44G-7   |C7   |G-7   |C7   |F^7 F7/A |Bb^7 Bo7 ",
@@ -104,7 +104,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -207,7 +208,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -252,5 +254,5 @@
       }
    ],
    "composer" : "Charlie Parker",
-   "key" : null
+   "key" : "F"
 }

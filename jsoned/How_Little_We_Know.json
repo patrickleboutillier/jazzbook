@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;How Little We Know;Carmichael Hoagy;Medium Swing;Ab",
       "{A:T44Ab^7 Db^7 |C-7 Bb-7 |Ab^7 Db^7 |Ab^7 Ao7 |Bb-7 E13 |Eb7 B9 |Bb-7 E7 ",
@@ -36,7 +36,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Eb7/D(b)"
+                           "bass" : "Db",
+                           "name" : "Eb7"
                         }
                      ]
                   }
@@ -53,7 +54,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Eb7/D(b)"
+                           "bass" : "Db",
+                           "name" : "Eb7"
                         }
                      ]
                   }
@@ -187,7 +189,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab7/D"
+                     "bass" : "D",
+                     "name" : "Ab7"
                   }
                ]
             },
@@ -350,7 +353,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab7/D"
+                     "bass" : "D",
+                     "name" : "Ab7"
                   }
                ]
             },
@@ -438,5 +442,5 @@
       }
    ],
    "composer" : "Hoagy Carmichael",
-   "key" : null
+   "key" : "Ab"
 }

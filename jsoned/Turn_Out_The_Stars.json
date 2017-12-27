@@ -177,7 +177,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Eb-7"
                   }
                ]
             },
@@ -189,7 +190,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb-7"
                   }
                ]
             }
@@ -213,7 +215,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7/A"
+                     "bass" : "A",
+                     "name" : "D^7"
                   }
                ]
             },
@@ -227,7 +230,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7/A"
+                     "bass" : "A",
+                     "name" : "D^7"
                   }
                ]
             },
@@ -246,7 +250,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -266,7 +271,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,

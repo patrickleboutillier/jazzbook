@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;It's All Right With Me;Porter Cole;Up Tempo Swing;C-",
       "{A:T44C-   |C-^7   |C-7   |C-6   |C-7   |%   |F-7   |%   |F#o7   |%   |Gh7   |C7b9   ",
@@ -106,7 +106,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb7/G"
+                           "bass" : "G",
+                           "name" : "Eb7"
                         }
                      ]
                   },
@@ -239,7 +240,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-6/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Bb-6"
                   }
                ]
             },
@@ -259,7 +261,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Abo7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Abo7"
                   }
                ]
             },
@@ -279,7 +282,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-6/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Bb-6"
                   }
                ]
             },
@@ -299,7 +303,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Abo7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Abo7"
                   }
                ]
             },
@@ -328,5 +333,5 @@
       }
    ],
    "composer" : "Cole Porter",
-   "key" : null
+   "key" : "C-"
 }

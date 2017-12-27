@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Lotus Eaters Bittersweet;Strayhorn Billy;Medium Swing;Ab",
       "{A:T44Bb9#11 Eb13 |Abo7 Ab^7 |Bb-7 Eb9 |Ab13 D9 |Db^7 Db/C |Bb7sus Bb9 ",
@@ -129,7 +129,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db/C"
+                     "bass" : "C",
+                     "name" : "Db"
                   }
                ]
             },
@@ -159,7 +160,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/C"
+                     "bass" : "C",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -167,7 +169,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Gb^/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Gb^"
                   },
                   {
                      "beats" : 2,
@@ -231,7 +234,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E^7/B"
+                     "bass" : "B",
+                     "name" : "E^7"
                   }
                ]
             },
@@ -243,7 +247,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             }
@@ -308,7 +313,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db/C"
+                     "bass" : "C",
+                     "name" : "Db"
                   }
                ]
             },
@@ -353,5 +359,5 @@
       }
    ],
    "composer" : "Billy Strayhorn",
-   "key" : null
+   "key" : "Ab"
 }

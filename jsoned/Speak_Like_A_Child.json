@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Speak Like A Child;Hancock Herbie;Bossa Nova;A-",
       "T44A:C#7alt,   |%   |G#7alt,   |E9sus, A-7 |Bb13,   |Bb7#5,   |Bb-9,   |Eb13,   |Ab13sus,   |Ab13sus, Ab13b9, |G7alt,   |%   |Gb^7#11,   |%   |Gbo7   |%   |Eb9sus,   |Eb13,   |Eb-9,   |D7#9,   |Db7alt, C7 |F^7 Bb-9, ",
@@ -302,11 +302,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/D(b)"
+                     "bass" : "Db",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb/C"
+                     "bass" : "C",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -314,7 +316,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/B"
+                     "bass" : "B",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -350,5 +353,5 @@
       }
    ],
    "composer" : "Herbie Hancock",
-   "key" : null
+   "key" : "A-"
 }

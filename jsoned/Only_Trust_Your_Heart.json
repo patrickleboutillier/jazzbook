@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Only Trust Your Heart;Carter Benny;Bossa Nova;C",
       "{A:T44F^7#11,   |B7#9,   |E-7   |A-7   |D-7   |G7 G7#5, ",
@@ -127,7 +127,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-7/E"
+                     "bass" : "E",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -141,7 +142,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -303,7 +305,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F^7/G"
+                     "bass" : "G",
+                     "name" : "F^7"
                   },
                   {
                      "beats" : 2,
@@ -335,5 +338,5 @@
       }
    ],
    "composer" : "Benny Carter",
-   "key" : null
+   "key" : "C"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Agua De Beber;Jobim Antonio-Carlos;Bossa Nova;D-",
       "{i:T44D-7   |E7#9 A7b13 |D-7   |E7#9 A7b13 |D-7   |Bb^7   |D-7   |%   ",
@@ -159,14 +159,16 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/C"
+                     "bass" : "C",
+                     "name" : "F7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E7(#9/B)"
+                     "bass" : "B",
+                     "name" : "E7(#9)"
                   }
                ]
             },
@@ -331,5 +333,5 @@
       }
    ],
    "composer" : "Antonio-Carlos Jobim",
-   "key" : null
+   "key" : "D-"
 }

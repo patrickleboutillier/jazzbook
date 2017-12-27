@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;It's Magic;Styne Jule;Ballad;Bb",
       "A:T44Bb^7 Eb^7 |Bb/D Dbo7 |C-7 F7 |C-7 F7 |C-7   |F7   |Bb^7   |F7sus F7 ",
@@ -28,7 +28,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -195,7 +196,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -356,5 +358,5 @@
       }
    ],
    "composer" : "Jule Styne",
-   "key" : null
+   "key" : "Bb"
 }

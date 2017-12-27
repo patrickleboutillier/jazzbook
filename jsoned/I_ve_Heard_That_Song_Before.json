@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;I've Heard That Song Before;Styne Jule;Medium Swing;C",
       "A:T44C^7 C6 |C6   |B-7 E7 |E7   |A7   |%   |D9   |%   ",
@@ -79,7 +79,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   },
                   {
                      "beats" : 2,
@@ -135,7 +136,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -304,5 +306,5 @@
       }
    ],
    "composer" : "Jule Styne",
-   "key" : null
+   "key" : "C"
 }

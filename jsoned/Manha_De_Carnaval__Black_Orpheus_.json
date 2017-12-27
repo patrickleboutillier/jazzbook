@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Manha De Carnaval (Black Orpheus);Bonfa Luiz;Bossa Nova;A-",
       "A:T44A-   |Bh7 E7b9 |A-   |Bh7 E7b9 |A-   |D-7 G7 |C^7   |A7b9   |D-7   |G7   |C^7   |F^7   |Bh7   |E7b9   |A-   |Bh7 E7b9 ",
@@ -228,7 +228,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -333,5 +334,5 @@
       }
    ],
    "composer" : "Luiz Bonfa",
-   "key" : null
+   "key" : "A-"
 }

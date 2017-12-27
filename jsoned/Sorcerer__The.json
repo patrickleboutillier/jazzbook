@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Sorcerer, The;Hancock Herbie;Up Tempo Swing;Db",
       "T44Db^7   |D^7/Db   |E-9   |F^7#11/E   |Db^7   |D^7   |A13#11   |D7b9   |Ab-7   |G-7   |D/Eb(Eb-7)   |A-7/D(A-7)   |C-7   |G-^7/A(C-7)   |A7sus(E-9)   |G/Ab   "
@@ -19,7 +19,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7/D(b)"
+                     "bass" : "Db",
+                     "name" : "D^7"
                   }
                ]
             },
@@ -33,7 +34,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7(#11/E)"
+                     "bass" : "E",
+                     "name" : "F^7(#11)"
                   }
                ]
             },
@@ -82,14 +84,16 @@
             {
                "chords" : [
                   {
-                     "name" : "D/E(b)"
+                     "bass" : "Eb",
+                     "name" : "D"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A-7/D"
+                     "bass" : "D",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -103,7 +107,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-^7/A"
+                     "bass" : "A",
+                     "name" : "G-^7"
                   }
                ]
             },
@@ -117,7 +122,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G/A(b)"
+                     "bass" : "Ab",
+                     "name" : "G"
                   }
                ]
             }
@@ -125,5 +131,5 @@
       }
    ],
    "composer" : "Herbie Hancock",
-   "key" : null
+   "key" : "Db"
 }

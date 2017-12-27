@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;When You Wish Upon A Star;Harline Leigh;Ballad;C",
       "{A:T44C^7 A7 |D-7   |G7   |C6 F7 |E-7 Ebo7 |D-7   |D-7/G G7 ",
@@ -113,7 +113,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   },
                   {
                      "beats" : 2,
@@ -264,7 +265,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   },
                   {
                      "beats" : 2,
@@ -284,5 +286,5 @@
       }
    ],
    "composer" : "Leigh Harline",
-   "key" : null
+   "key" : "C"
 }

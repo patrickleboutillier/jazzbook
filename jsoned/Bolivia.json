@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Bolivia;Walton Cedar;Up Tempo Swing;D",
       "{i:G7 |% |% |% |% |% |% |% (E^)",
@@ -111,7 +111,8 @@
             {
                "chords" : [
                   {
-                     "name" : "B-7/A"
+                     "bass" : "A",
+                     "name" : "B-7"
                   }
                ]
             },
@@ -201,5 +202,5 @@
       }
    ],
    "composer" : "Cedar Walton",
-   "key" : null
+   "key" : "D"
 }

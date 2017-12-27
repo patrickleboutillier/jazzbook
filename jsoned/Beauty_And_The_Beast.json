@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Funk",
    "metadata" : [
       "IREALB;Beauty And The Beast;Shorter Wayne;Funk;F",
       "i:T44F13   |%   |%   |%   |F13   |%   |%   |F13 E7#9, ",
@@ -118,7 +118,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Gh7/C"
+                           "bass" : "C",
+                           "name" : "Gh7"
                         }
                      ]
                   },
@@ -233,5 +234,5 @@
       }
    ],
    "composer" : "Wayne Shorter",
-   "key" : null
+   "key" : "F"
 }

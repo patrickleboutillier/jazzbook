@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Say the Brother's Name;Metheny Pat;Even 8ths;Bb",
       "A:T44Bb^7,   |%   |A-7   |Eb^7#11   |D- D-/C |Bb^7 F/A |Ab^7   |Ab^7 Ab7, ",
@@ -44,7 +44,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-/C"
+                     "bass" : "C",
+                     "name" : "D-"
                   }
                ]
             },
@@ -56,7 +57,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   }
                ]
             },
@@ -101,14 +103,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Gb/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Gb"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F-/A(b)"
+                     "bass" : "Ab",
+                     "name" : "F-"
                   }
                ]
             },
@@ -215,7 +219,8 @@
                   },
                   {
                      "beats" : 4,
-                     "name" : "D/F(#)"
+                     "bass" : "F#",
+                     "name" : "D"
                   },
                   {
                      "beats" : 4,
@@ -247,7 +252,8 @@
                "chords" : [
                   {
                      "beats" : 4,
-                     "name" : "Bb/C"
+                     "bass" : "C",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 4,
@@ -351,5 +357,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "Bb"
 }

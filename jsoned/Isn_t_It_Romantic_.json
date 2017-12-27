@@ -64,7 +64,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb6/G"
+                     "bass" : "G",
+                     "name" : "Eb6"
                   },
                   {
                      "beats" : 2,
@@ -135,7 +136,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/B"
+                     "bass" : "B",
+                     "name" : "G7"
                   }
                ]
             },
@@ -159,7 +161,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7/G"
+                     "bass" : "G",
+                     "name" : "C7"
                   }
                ]
             },
@@ -260,7 +263,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb6/G"
+                     "bass" : "G",
+                     "name" : "Eb6"
                   },
                   {
                      "beats" : 2,
@@ -312,7 +316,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F-"
                   }
                ]
             },
@@ -336,7 +341,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-"
                   }
                ]
             },
@@ -344,7 +350,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C-/A"
+                     "bass" : "A",
+                     "name" : "C-"
                   },
                   {
                      "beats" : 2,

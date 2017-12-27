@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;All Through The Night;Porter Cole;Medium Swing;F",
       "{A:T44F^7   |Eh7 A7b9 |D-7 Db7 |C-7 F7b9 |Bb^7   |Bb-7 Eb7b9 |Ab^7   |%   ",
@@ -287,7 +287,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -452,5 +453,5 @@
       }
    ],
    "composer" : "Cole Porter",
-   "key" : null
+   "key" : "F"
 }

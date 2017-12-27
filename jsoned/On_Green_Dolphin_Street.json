@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;On Green Dolphin Street;Kaper Bronislau;Up Tempo Swing;Eb",
       "A:T44Eb^7   |%   |Eb-7   |%   |F7/Eb   |E^7/Eb   |Eb^7   |C7   ",
@@ -35,14 +35,16 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "E^7"
                   }
                ]
             },
@@ -150,14 +152,16 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "E^7"
                   }
                ]
             },
@@ -188,7 +192,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -212,7 +217,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -276,5 +282,5 @@
       }
    ],
    "composer" : "Bronislau Kaper",
-   "key" : null
+   "key" : "Eb"
 }

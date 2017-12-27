@@ -1,13 +1,13 @@
 clean:
 	rm irealb_1300.parsed
 
-decode:
-	rm -f decoded/*
-	perl decode_irealb.pl < irealb_1300.url
+#decode:
+#	rm -f decoded/*
+#	perl decode_irealb.pl < irealb_1300.url
 
-parse: 
-	rm -f parsed/*
-	perl make_parse.pl
+#parse: 
+#	rm -f parsed/*
+#	perl make_parse.pl
 
 json:
 	rm -f jsoned/reject/*.json jsoned/*.json

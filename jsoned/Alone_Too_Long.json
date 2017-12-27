@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Alone Too Long;Schwartz Arthur;Ballad;G",
       "{A:T44G6   |//G#o7 |A-7 D7 |%   |A-7   |D7   ",
@@ -134,7 +134,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-/D"
+                     "bass" : "D",
+                     "name" : "E-"
                   }
                ]
             },
@@ -142,7 +143,8 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "E-/C(#)"
+                     "bass" : "C#",
+                     "name" : "E-"
                   },
                   {
                      "beats" : 1,
@@ -176,7 +178,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-/D"
+                     "bass" : "D",
+                     "name" : "E-"
                   }
                ]
             },
@@ -287,5 +290,5 @@
       }
    ],
    "composer" : "Arthur Schwartz",
-   "key" : null
+   "key" : "G"
 }

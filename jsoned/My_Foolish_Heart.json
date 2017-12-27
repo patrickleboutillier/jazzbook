@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;My Foolish Heart;Young Victor;Ballad;Bb",
       "A:T44Bb^7 Eb^7 |D-7 G7 |C-7   |E-7(F7) A7b9 |Bb^7 D7#9 |G-7  (Db7) |C-7   |C-7 F7b9 ",
@@ -259,7 +259,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -376,5 +377,5 @@
       }
    ],
    "composer" : "Victor Young",
-   "key" : null
+   "key" : "Bb"
 }

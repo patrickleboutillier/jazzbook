@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Rhythm-a-ning;Monk Thelonious;Medium Up Swing;Bb",
       "{A:T44Bb G7 |C-7 F7 |Bb G7 |C-7 F7 |Bb7 Bb7/D |Eb7 Eo7 |Bb7/F G7 |C-7 F7 ",
@@ -67,7 +67,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7/D"
+                     "bass" : "D",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -87,7 +88,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7/F"
+                     "bass" : "F",
+                     "name" : "Bb7"
                   },
                   {
                      "beats" : 2,
@@ -214,7 +216,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7/D"
+                     "bass" : "D",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -234,7 +237,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb7/F"
+                     "bass" : "F",
+                     "name" : "Bb7"
                   },
                   {
                      "beats" : 2,
@@ -259,5 +263,5 @@
       }
    ],
    "composer" : "Thelonious Monk",
-   "key" : null
+   "key" : "Bb"
 }

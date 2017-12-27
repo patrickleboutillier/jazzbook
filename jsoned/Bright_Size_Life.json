@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Bright Size Life;Metheny Pat;Even 8ths;D",
       "A:T44G^7   |%   |Bb^7#11/A   |%   |D   |D/C   |Bb^7   |%   ",
@@ -25,7 +25,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/A)"
+                     "bass" : "A",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -42,7 +43,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/C"
+                     "bass" : "C",
+                     "name" : "D"
                   }
                ]
             },
@@ -74,7 +76,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/A)"
+                     "bass" : "A",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -91,14 +94,16 @@
             {
                "chords" : [
                   {
-                     "name" : "D/C"
+                     "bass" : "C",
+                     "name" : "D"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   }
                ]
             },
@@ -117,7 +122,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G/A"
+                     "bass" : "A",
+                     "name" : "G"
                   }
                ]
             },
@@ -127,7 +133,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             },
@@ -137,7 +144,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A7/E"
+                     "bass" : "E",
+                     "name" : "A7"
                   }
                ]
             },
@@ -172,7 +180,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7(#11/A)"
+                     "bass" : "A",
+                     "name" : "Bb^7(#11)"
                   }
                ]
             },
@@ -189,7 +198,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/C"
+                     "bass" : "C",
+                     "name" : "D"
                   }
                ]
             },
@@ -212,5 +222,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "D"
 }

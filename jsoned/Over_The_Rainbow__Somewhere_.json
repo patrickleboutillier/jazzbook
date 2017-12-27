@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Over The Rainbow (Somewhere);Arlen Harold;Ballad;Eb",
       "v:Eb6 C- |F- Bb7 |Eb^7 C- |F- Bb7, |Eb6, Eb^7 |F-9 Bb13 |Eb6 C- |F- Bb7 |Eb6 C- |Eb- Bb7 |Eb^7   |C- G7 |C-9 C-7/Bb |F7sus F7 |F-11   |Bb9sus   |F-11,   |Bb9sus   |F-   |Bb7   ",
@@ -158,7 +158,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -516,5 +517,5 @@
       }
    ],
    "composer" : "Harold Arlen",
-   "key" : null
+   "key" : "Eb"
 }

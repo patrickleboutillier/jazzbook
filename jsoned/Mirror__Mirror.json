@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Mirror, Mirror;Chick Corea;Waltz;C",
       "A:T34C^7   |E7alt   |F^7   |A7alt   |D^7   |F#7alt   |G^7   |B7alt   |C^7   |B7#11   |B^7   |A-7   |F7   |F#o7   |C/G   |C7b9   ",
@@ -111,7 +111,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C/G"
+                     "bass" : "G",
+                     "name" : "C"
                   }
                ]
             },
@@ -244,5 +245,5 @@
       }
    ],
    "composer" : "Corea Chick",
-   "key" : null
+   "key" : "C"
 }

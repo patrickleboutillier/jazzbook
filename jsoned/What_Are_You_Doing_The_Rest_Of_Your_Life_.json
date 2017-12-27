@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;What Are You Doing The Rest Of Your Life?;Legrand Michel;Ballad;A-",
       "{A:T44A- A-/G# |A-7/G F#h7 |F^7   |%   ",
@@ -24,7 +24,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D-7/C"
+                           "bass" : "C",
+                           "name" : "D-7"
                         }
                      ]
                   },
@@ -90,7 +91,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-/G(#)"
+                     "bass" : "G#",
+                     "name" : "A-"
                   }
                ]
             },
@@ -98,7 +100,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   },
                   {
                      "beats" : 2,
@@ -221,7 +224,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-/G(#)"
+                     "bass" : "G#",
+                     "name" : "A-"
                   }
                ]
             },
@@ -229,7 +233,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   },
                   {
                      "beats" : 2,
@@ -257,7 +262,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -311,7 +317,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-7/E"
+                     "bass" : "E",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -351,5 +358,5 @@
       }
    ],
    "composer" : "Michel Legrand",
-   "key" : null
+   "key" : "A-"
 }

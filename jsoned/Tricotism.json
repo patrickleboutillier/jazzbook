@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Tricotism;Pettiford Oscar;Medium Up Swing;Db",
       "{A:T44Db^7   |%   |Eb7   |%   |Gb^7 Go7 |Db6/Ab Bb7 ",
@@ -94,7 +94,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db6/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Db6"
                   },
                   {
                      "beats" : 2,
@@ -216,7 +217,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Db6/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Db6"
                   },
                   {
                      "beats" : 2,
@@ -248,5 +250,5 @@
       }
    ],
    "composer" : "Oscar Pettiford",
-   "key" : null
+   "key" : "Db"
 }

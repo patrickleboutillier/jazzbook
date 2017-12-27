@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Best Thing For You Is Me, The;Berlin Irving;Medium Swing;C",
       "{A:T44B7b13   |%   |E-7 A7 |D-7 G7 |C^7 A-7 |D-7 G7 ",
@@ -147,7 +147,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -219,7 +220,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -241,7 +243,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -276,5 +279,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "C"
 }

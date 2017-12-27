@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Don't Take Your Love From Me;Nemo Henry;Ballad;C",
       "T44A:C^7 D-7 |E-7 Ebo7 |G7/D G7 |D-7 G7 |D-7   |G7   |C^7   |%   ",
@@ -40,7 +40,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7/D"
+                     "bass" : "D",
+                     "name" : "G7"
                   },
                   {
                      "beats" : 2,
@@ -92,7 +93,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   }
                ]
             },
@@ -203,7 +205,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G7/D"
+                     "bass" : "D",
+                     "name" : "G7"
                   },
                   {
                      "beats" : 2,
@@ -257,7 +260,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C6/E"
+                     "bass" : "E",
+                     "name" : "C6"
                   },
                   {
                      "beats" : 1,
@@ -341,5 +345,5 @@
       }
    ],
    "composer" : "Henry Nemo",
-   "key" : null
+   "key" : "C"
 }

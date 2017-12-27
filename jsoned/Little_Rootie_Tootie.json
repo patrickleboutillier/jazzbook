@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Little Rootie Tootie;Monk Thelonious;Medium Swing;Ab",
       "{A:T44Ab^7 F7 |Bb-7 Eb7 |Ab^7 F7 |Bb-7 Eb7 |Ab^7 Ab7 |Db^7 Do7 ",
@@ -18,7 +18,8 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Ab/E(b)"
+                           "bass" : "Eb",
+                           "name" : "Ab"
                         },
                         {
                            "beats" : 2,
@@ -47,7 +48,8 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Ab6/E(b)"
+                           "bass" : "Eb",
+                           "name" : "Ab6"
                         },
                         {
                            "beats" : 2,
@@ -317,7 +319,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab6/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ab6"
                   },
                   {
                      "beats" : 2,
@@ -337,5 +340,5 @@
       }
    ],
    "composer" : "Thelonious Monk",
-   "key" : null
+   "key" : "Ab"
 }

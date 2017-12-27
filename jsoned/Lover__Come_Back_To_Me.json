@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Lover, Come Back To Me;Romberg Sigmund;Medium Up Swing;Eb",
       "{A:T44Eb6   |%   |Dh7   |G7b9   |C-7   |%   |F7   |F#o7   |Eb6/G   |C-7   |F7   |Bb7   |Eb6 Eb6/G ",
@@ -30,7 +30,8 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "Eb6/B(b)"
+                           "bass" : "Bb",
+                           "name" : "Eb6"
                         },
                         {
                            "beats" : 2,
@@ -70,7 +71,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb6/G"
+                           "bass" : "G",
+                           "name" : "Eb6"
                         }
                      ]
                   },
@@ -184,7 +186,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb6/G"
+                     "bass" : "G",
+                     "name" : "Eb6"
                   }
                ]
             },
@@ -217,7 +220,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb6/G"
+                     "bass" : "G",
+                     "name" : "Eb6"
                   }
                ]
             }
@@ -345,5 +349,5 @@
       }
    ],
    "composer" : "Sigmund Romberg",
-   "key" : null
+   "key" : "Eb"
 }

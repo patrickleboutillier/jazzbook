@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Blame It On My Youth;Levant Oscar;Ballad;Eb",
       "A:T44Eb^7 F-7 |G-7 C-7 |F-7 Eo7 |F-7 C7b13 |F-7 Eo7 |F-7 Bb7 |Eb^7 C-7 |Bb-7 Eb7 ",
@@ -327,7 +327,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -396,5 +397,5 @@
       }
    ],
    "composer" : "Oscar Levant",
-   "key" : null
+   "key" : "Eb"
 }

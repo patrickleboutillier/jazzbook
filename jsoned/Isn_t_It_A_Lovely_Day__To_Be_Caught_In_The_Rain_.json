@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Isn't It A Lovely Day (To Be Caught In The Rain);Berlin Irving;Medium Swing;G",
       "A:C^7   |C-6 D7 |B-7 A-7 |G^7 G7/F |C^7/E   |C-6/Eb D7 |B-7 A-7 |G69   ",
@@ -50,14 +50,16 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -65,7 +67,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C-6/E(b)"
+                     "bass" : "Eb",
+                     "name" : "C-6"
                   },
                   {
                      "beats" : 2,
@@ -100,7 +103,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G^7/B"
+                     "bass" : "B",
+                     "name" : "G^7"
                   }
                ]
             },
@@ -115,7 +119,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   },
                   {
                      "beats" : 2,
@@ -152,7 +157,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -212,14 +218,16 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C6/E"
+                     "bass" : "E",
+                     "name" : "C6"
                   }
                ]
             },
@@ -227,7 +235,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C-6/E(b)"
+                     "bass" : "Eb",
+                     "name" : "C-6"
                   },
                   {
                      "beats" : 2,
@@ -243,7 +252,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -274,22 +284,26 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   },
                   {
                      "beats" : 1,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 1,
-                     "name" : "C-/E(b)"
+                     "bass" : "Eb",
+                     "name" : "C-"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G6/D"
+                     "bass" : "D",
+                     "name" : "G6"
                   }
                ]
             },
@@ -348,5 +362,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "G"
 }

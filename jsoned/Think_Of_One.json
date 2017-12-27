@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Think Of One;Monk Thelonious;Medium Swing;F",
       "{A:T44F B7b5 |D-7 Eb9 |Ab13 Db7 |Gb13   |F B7 |D-7 Eb9 |Ab7 Db7 |Gb7   ",
@@ -106,7 +106,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -258,5 +259,5 @@
       }
    ],
    "composer" : "Thelonious Monk",
-   "key" : null
+   "key" : "F"
 }

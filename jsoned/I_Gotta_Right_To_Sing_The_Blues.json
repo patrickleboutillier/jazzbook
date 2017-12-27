@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;I Gotta Right To Sing The Blues;Arlen Harold;Ballad;Bb",
       "A:T44G-7 C7 |G-7 C7 |C-7 F7#5 |F7#5   |F-7 Bb7 |F-7 Bb7 |Dh7(Eb-7)  (Ab7) |G7(D-7)  (G7) |G-7 C7 |G-7 C7 |C-7 F7 |C-7 F7 |Bb6 C-7(Eb-6/Bb) |Dbo7(Bbo7) Bb6/D(Bb6) |Eb6(C-7/Bb) Eo7(Bbo7) |Bb6/F(Bb6) (Ab7)G7(G7) ",
@@ -159,7 +159,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb6/D"
+                     "bass" : "D",
+                     "name" : "Bb6"
                   }
                ]
             },
@@ -179,7 +180,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb6/F"
+                     "bass" : "F",
+                     "name" : "Bb6"
                   },
                   {
                      "beats" : 2,
@@ -355,5 +357,5 @@
       }
    ],
    "composer" : "Harold Arlen",
-   "key" : null
+   "key" : "Bb"
 }

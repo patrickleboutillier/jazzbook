@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;You Made Me Love You;Monaco James;Medium Swing;C",
       "A:T44C   |C/E Ebo7 |D-7 G7 |%   |G7   |D-7 G7 |C   |%   |A7   |%   |D7   |%   |D7   |%   |D-7   |G7   ",
@@ -21,7 +21,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -133,7 +134,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -239,5 +241,5 @@
       }
    ],
    "composer" : "James Monaco",
-   "key" : null
+   "key" : "C"
 }

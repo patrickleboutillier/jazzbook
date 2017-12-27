@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Room 608;Silver Horace;Medium Up Swing;Bb",
       "i:T44C-7/F   |D-7/F   |C-7/F   |F7#11   |D-7 G7b9 |C-7 F7#9 |Bb^9   |F7#9   ",
@@ -17,21 +17,24 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D-7/F"
+                     "bass" : "F",
+                     "name" : "D-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -367,5 +370,5 @@
       }
    ],
    "composer" : "Horace Silver",
-   "key" : null
+   "key" : "Bb"
 }

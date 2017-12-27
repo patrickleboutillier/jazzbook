@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Be Careful It's My Heart;Berlin Irving;Medium Swing;F",
       "A:T44G-7/C C7 |%   |F6 G-7 |G#o7 F/A |G-7/C C7 |%   |F6 G-7 |G#o7 F/A ",
@@ -16,7 +16,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -47,7 +48,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   }
                ]
             },
@@ -55,7 +57,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -86,7 +89,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   }
                ]
             }
@@ -123,7 +127,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Gh7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Gh7"
                   },
                   {
                      "beats" : 2,
@@ -180,7 +185,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -211,7 +217,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   }
                ]
             },
@@ -219,7 +226,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -325,5 +333,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "F"
 }

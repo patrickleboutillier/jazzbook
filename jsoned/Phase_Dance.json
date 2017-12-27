@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Phase Dance;Metheny Pat;Even 8ths;B-",
       "{A:T44B-9   |%   |%   |%   |Bb^7#11   |%   |%   |%   ",
@@ -52,7 +52,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G^7/A"
+                     "bass" : "A",
+                     "name" : "G^7"
                   }
                ]
             },
@@ -123,5 +124,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "B-"
 }

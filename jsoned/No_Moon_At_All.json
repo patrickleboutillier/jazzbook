@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;No Moon At All;Mann David;Medium Swing;D-",
       "{A:T44D-   |A7b9/C#   |D-/C   |G6/B   |Eh7/Bb   |D-/A Bb7,A7,|D-   |Bb7 A7b9 ",
@@ -21,28 +21,32 @@
             {
                "chords" : [
                   {
-                     "name" : "A7(b9/C#)"
+                     "bass" : "C#",
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D-/C"
+                     "bass" : "C",
+                     "name" : "D-"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G6/B"
+                     "bass" : "B",
+                     "name" : "G6"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eh7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eh7"
                   }
                ]
             },
@@ -50,7 +54,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-/A"
+                     "bass" : "A",
+                     "name" : "D-"
                   },
                   {
                      "beats" : 1,
@@ -151,28 +156,32 @@
             {
                "chords" : [
                   {
-                     "name" : "A7(b9/C#)"
+                     "bass" : "C#",
+                     "name" : "A7(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D-/C"
+                     "bass" : "C",
+                     "name" : "D-"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G6/B"
+                     "bass" : "B",
+                     "name" : "G6"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eh7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eh7"
                   }
                ]
             },
@@ -180,7 +189,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-/A"
+                     "bass" : "A",
+                     "name" : "D-"
                   },
                   {
                      "beats" : 1,
@@ -216,5 +226,5 @@
       }
    ],
    "composer" : "David Mann",
-   "key" : null
+   "key" : "D-"
 }

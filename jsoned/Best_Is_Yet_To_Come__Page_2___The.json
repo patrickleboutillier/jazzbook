@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Best Is Yet To Come (Page 2), The;Coleman Cy;Medium Swing;Ab",
       "T44C:F-, Db7/F, |F-6 Db7/F, |F-, Db7/F, |F-6 Eb7 |Ab7 D7#11, |Db7 Eb7b9, |Ab13,   |G7 C7b9 ",
@@ -20,7 +20,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7/F"
+                     "bass" : "F",
+                     "name" : "Db7"
                   }
                ]
             },
@@ -32,7 +33,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7/F"
+                     "bass" : "F",
+                     "name" : "Db7"
                   }
                ]
             },
@@ -44,7 +46,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db7/F"
+                     "bass" : "F",
+                     "name" : "Db7"
                   }
                ]
             },
@@ -213,7 +216,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db6/F"
+                     "bass" : "F",
+                     "name" : "Db6"
                   }
                ]
             },
@@ -327,5 +331,5 @@
       }
    ],
    "composer" : "Cy Coleman",
-   "key" : null
+   "key" : "Ab"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Skylark;Carmichael Hoagy;Ballad;Eb",
       "{A:T44Eb^7 F-7 |Eb^7/G Ab^7 |Eb^7 A7#11 |Ab^7 G-7,C7,|F7   |F-7 Bb7 ",
@@ -84,7 +84,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   },
                   {
                      "beats" : 2,
@@ -269,7 +270,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   },
                   {
                      "beats" : 2,
@@ -353,5 +355,5 @@
       }
    ],
    "composer" : "Hoagy Carmichael",
-   "key" : null
+   "key" : "Eb"
 }

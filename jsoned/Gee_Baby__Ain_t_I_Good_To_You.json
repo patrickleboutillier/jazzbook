@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Gee Baby, Ain't I Good To You;Redman Don;Slow Swing;Eb",
       "A:T44C7 Ab7 |G7 C7 |F7 Bb7 |Eb6 G7 |C7 Ab7 |G7 C7 |F7 Bb7 |Eb6 Eb7 ",
@@ -127,7 +127,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb6/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb6"
                   },
                   {
                      "beats" : 2,
@@ -216,5 +217,5 @@
       }
    ],
    "composer" : "Don Redman",
-   "key" : null
+   "key" : "Eb"
 }

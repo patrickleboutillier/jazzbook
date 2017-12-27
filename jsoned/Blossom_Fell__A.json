@@ -52,7 +52,8 @@
                "chords" : [
                   {
                      "beats" : 3,
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   },
                   {
                      "beats" : 1,
@@ -96,7 +97,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F7/C"
+                     "bass" : "C",
+                     "name" : "F7"
                   },
                   {
                      "beats" : 1,
@@ -162,7 +164,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -201,7 +204,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   },
                   {
                      "beats" : 2,

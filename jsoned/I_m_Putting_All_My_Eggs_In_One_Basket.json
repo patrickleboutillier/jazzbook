@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;I'm Putting All My Eggs In One Basket;Berlin Irving;Medium Swing;C",
       "{A:T44C G7sus |C^7   |C9   |F^7 F-6 |C^7/G   |D-7 G7 ",
@@ -51,7 +51,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Dh7/G"
+                           "bass" : "G",
+                           "name" : "Dh7"
                         }
                      ]
                   },
@@ -114,7 +115,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -169,7 +171,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb7"
                   },
                   {
                      "beats" : 2,
@@ -181,7 +184,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb7"
                   },
                   {
                      "beats" : 2,
@@ -259,7 +263,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -304,5 +309,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "C"
 }

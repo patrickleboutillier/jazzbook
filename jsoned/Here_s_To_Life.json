@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Here's To Life;Butler Artie;Ballad;Eb-",
       "A:Eb- Eb-7 |Ab7sus Ab9 |Db^7   |Gb^9   |Ch7   |F7b9#5   ",
@@ -80,7 +80,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ch7/G(b)"
+                     "bass" : "Gb",
+                     "name" : "Ch7"
                   }
                ]
             },
@@ -94,7 +95,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -108,7 +110,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ch7/G(b)"
+                     "bass" : "Gb",
+                     "name" : "Ch7"
                   }
                ]
             },
@@ -137,7 +140,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9/G(b)"
+                     "bass" : "Gb",
+                     "name" : "Ab9"
                   }
                ]
             },
@@ -184,7 +188,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb-7"
                   }
                ]
             }
@@ -203,7 +208,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9/G(b)"
+                     "bass" : "Gb",
+                     "name" : "Ab9"
                   }
                ]
             },
@@ -236,7 +242,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab9/G(b)"
+                     "bass" : "Gb",
+                     "name" : "Ab9"
                   }
                ]
             },
@@ -286,5 +293,5 @@
       }
    ],
    "composer" : "Artie Butler",
-   "key" : null
+   "key" : "Eb-"
 }

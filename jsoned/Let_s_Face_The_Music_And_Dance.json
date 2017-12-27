@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Let's Face The Music And Dance;Berlin Irving;Medium Swing;C",
       "T44A:C-   |%   |Dh7   |G7b9,   |C-   |%   |Dh7   |G7b9   |C^7   |G-7 C7 |F^7   |Bb7  @ |C-,   |Dh7 G7b9 ",
@@ -169,7 +169,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -356,5 +357,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "C"
 }

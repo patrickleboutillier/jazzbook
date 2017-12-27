@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;You're Everything;Corea Chick;Bossa Nova;A",
       "A:T44A^7 |Ab-6 |G^7 |F#7b9 |E-7 |G^7#11 |G#7sus |G-7 |F#-7 |F-7 |Bb9 |E-7 |A7 |D^7 |D-7 ",
@@ -160,7 +160,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -366,7 +367,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -445,5 +447,5 @@
       }
    ],
    "composer" : "Chick Corea",
-   "key" : null
+   "key" : "A"
 }

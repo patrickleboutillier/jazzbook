@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Change Partners;Berlin Irving;Medium Swing;F",
       "{A:T44F^7   |%   |Abo7   |%   |G-7   |C7   |Bb-7   |Eb7   |F^7/A   |Abo7   |G-7   |C7   |G-7   |C7   ",
@@ -119,7 +119,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F^7/A"
+                     "bass" : "A",
+                     "name" : "F^7"
                   }
                ]
             },
@@ -341,5 +342,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "F"
 }

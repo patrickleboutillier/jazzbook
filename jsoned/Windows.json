@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Windows;Corea Chick;Waltz;B-",
       "A:T34B-7 |% |% |% |G#h7 |% |% |C#7 |F#-7 |% |% |% |D7sus |% |% |% |E^7#11 |% |% |% |% |% |% |% ",
@@ -184,7 +184,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7/D(#)"
+                     "bass" : "D#",
+                     "name" : "E^7"
                   }
                ]
             },
@@ -198,7 +199,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C#-7/B"
+                     "bass" : "B",
+                     "name" : "C#-7"
                   }
                ]
             },
@@ -212,14 +214,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Bbh7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bbh7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb7/G"
+                     "bass" : "G",
+                     "name" : "Eb7"
                   }
                ]
             },
@@ -240,14 +244,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab-7/G(b)"
+                     "bass" : "Gb",
+                     "name" : "Ab-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db7/F"
+                     "bass" : "F",
+                     "name" : "Db7"
                   }
                ]
             },
@@ -305,7 +311,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C#-7/B"
+                     "bass" : "B",
+                     "name" : "C#-7"
                   }
                ]
             },
@@ -321,5 +328,5 @@
       }
    ],
    "composer" : "Chick Corea",
-   "key" : null
+   "key" : "B-"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Minoat;Waldron Mal;Ballad;C-",
       "{A:T44F7#11   |F-9 Bb7b9 |Ab^7#11   |G7b13   |C-7 B+/C# |Dh7 G7b13 ",
@@ -90,7 +90,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B+/C(#)"
+                     "bass" : "C#",
+                     "name" : "B+"
                   }
                ]
             },
@@ -151,7 +152,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab+/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Ab+"
                   }
                ]
             },
@@ -244,7 +246,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "B+/C(#)"
+                     "bass" : "C#",
+                     "name" : "B+"
                   }
                ]
             },
@@ -279,5 +282,5 @@
       }
    ],
    "composer" : "Mal Waldron",
-   "key" : null
+   "key" : "C-"
 }

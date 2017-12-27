@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Days Of Wine And Roses;Mancini Henry;Medium Swing;F",
       "A:T44F^7   |Eb7#11   |A-7(D7)   |D7b9   |G-7   |%   |Eb9   |%   ",
@@ -89,7 +89,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -204,7 +205,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -270,5 +272,5 @@
       }
    ],
    "composer" : "Henry Mancini",
-   "key" : null
+   "key" : "F"
 }

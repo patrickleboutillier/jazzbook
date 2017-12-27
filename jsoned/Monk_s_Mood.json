@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Monk's Mood;Monk Thelonious;Ballad;Db",
       "{A:T44F-7 Bb7,C^,|C^7   |Dh7 G7b9#11 |Db^7#11   |Bb7 A7b13 |E7b9 Eb7#9 ",
@@ -144,7 +144,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -156,7 +157,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -334,5 +336,5 @@
       }
    ],
    "composer" : "Thelonious Monk",
-   "key" : null
+   "key" : "Db"
 }

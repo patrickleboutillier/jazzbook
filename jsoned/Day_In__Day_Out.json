@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Day In, Day Out;Bloom Rube;Medium Swing;C",
       "{A:T44C6   |%   |D-7   |G7   |C6 D-7 |D#o7 C6/E ",
@@ -198,7 +198,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D7/F(#)"
+                           "bass" : "F#",
+                           "name" : "D7"
                         }
                      ]
                   },
@@ -264,7 +265,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "D7/F(#)"
+                           "bass" : "F#",
+                           "name" : "D7"
                         }
                      ]
                   },
@@ -377,7 +379,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C6/E"
+                     "bass" : "E",
+                     "name" : "C6"
                   }
                ]
             }
@@ -387,5 +390,5 @@
       }
    ],
    "composer" : "Rube Bloom",
-   "key" : null
+   "key" : "C"
 }

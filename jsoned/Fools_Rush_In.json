@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Fools Rush In;Bloom Rube;Slow Swing;C",
       "A:T44D-7   |G7   |C^7   |A-7   |D-7   |G7   |C^7   |A-7   |D-7   |G7   |C6   |A-7   |D7#11   |%   |G7   |G7b9   ",
@@ -196,7 +196,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -250,5 +251,5 @@
       }
    ],
    "composer" : "Rube Bloom",
-   "key" : null
+   "key" : "C"
 }

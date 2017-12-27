@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;I'll Take Romance;Oakland Ben;Waltz;F",
       "{A:T34F6   |D-7   |G-7   |C7 C7/Bb, |A-7   |Ab7   |Db^7   |Gb7   |A7alt,   |D7b9,   |G-7   |C7   ",
@@ -135,7 +135,8 @@
                   },
                   {
                      "beats" : 2.66666666666667,
-                     "name" : "C7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C7"
                   }
                ]
             },
@@ -321,5 +322,5 @@
       }
    ],
    "composer" : "Ben Oakland",
-   "key" : null
+   "key" : "F"
 }

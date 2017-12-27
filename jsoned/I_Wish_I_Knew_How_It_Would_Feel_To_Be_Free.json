@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;I Wish I Knew How It Would Feel To Be Free;Taylor Billy;Even 8ths;F",
       "T44F A7 |D- C-7 |Bb C7sus |F   |F Bb,F/A,|F C/E,F,|C/E G7 |C7   |F A7 |D- C-7 |Bb C7sus |F Bo |F/C C#o |D- Bo |F/C C7sus |F   "
@@ -64,7 +64,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   }
                ]
             },
@@ -76,7 +77,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 1,
@@ -88,7 +90,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -155,7 +158,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F/C"
+                     "bass" : "C",
+                     "name" : "F"
                   },
                   {
                      "beats" : 2,
@@ -179,7 +183,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F/C"
+                     "bass" : "C",
+                     "name" : "F"
                   },
                   {
                      "beats" : 2,
@@ -198,5 +203,5 @@
       }
    ],
    "composer" : "Billy Taylor",
-   "key" : null
+   "key" : "F"
 }

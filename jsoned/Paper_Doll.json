@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Paper Doll;Black Johnny;Slow Swing;F",
       "A:T44F^7 D7 |G7   |C7   |F6   |F^9/A F-^7/Ab |C^7/G A7 |G7   |C7   |G-7 C7 |F6   |G-7 C7 |A7   |Bb Bo7 |F,A7,D7,/|G-7 C7 |F6   "
@@ -46,11 +46,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F^9/A"
+                     "bass" : "A",
+                     "name" : "F^9"
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-^7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "F-^7"
                   }
                ]
             },
@@ -58,7 +60,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
@@ -174,5 +177,5 @@
       }
    ],
    "composer" : "Johnny Black",
-   "key" : null
+   "key" : "F"
 }

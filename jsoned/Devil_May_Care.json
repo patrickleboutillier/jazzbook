@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Devil May Care;Kirk T.P.;Medium Up Swing;G-",
       "T44A:G- Eh7 |A7b5 D7b9 |G- Eh7 |A7b9 D7b9 |G-   |Eh7   |Eb9#11   |D7b9   |G- Eh7 |A7b9 D7b9 |G- G-7/F |Eo7 Bbo7 |Ah7   |D7b9#5   |G-   |//Db9 ",
@@ -119,7 +119,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -361,7 +362,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -411,5 +413,5 @@
       }
    ],
    "composer" : "T.P. Kirk",
-   "key" : null
+   "key" : "G-"
 }

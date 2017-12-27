@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;For Once In My Life;Murden Orlando;Medium Swing;Bb",
       "A:T44Bb Bb+ |Bb6 Bo7 |C- G7 |C- G7 |C- C-b6 |C-6 F7 |Bb6 F7 |Bb6 D7 ",
@@ -121,7 +121,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F(#)"
+                     "bass" : "F#",
+                     "name" : "G-"
                   }
                ]
             },
@@ -303,7 +304,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F(#)"
+                     "bass" : "F#",
+                     "name" : "G-"
                   }
                ]
             },
@@ -337,7 +339,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/F"
+                     "bass" : "F",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -381,5 +384,5 @@
       }
    ],
    "composer" : "Orlando Murden",
-   "key" : null
+   "key" : "Bb"
 }

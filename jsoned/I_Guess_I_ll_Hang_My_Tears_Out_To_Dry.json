@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;I Guess I'll Hang My Tears Out To Dry;Styne Jule;Ballad;C",
       "{A:T44E-7 Eb-7 |D-7 G7#5 |C^7 A-7 |D-7 G7 |G-7 C7 |F^7 Bb7 ",
@@ -51,7 +51,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "D-7/G"
+                           "bass" : "G",
+                           "name" : "D-7"
                         }
                      ]
                   },
@@ -308,7 +309,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -344,7 +346,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -372,5 +375,5 @@
       }
    ],
    "composer" : "Jule Styne",
-   "key" : null
+   "key" : "C"
 }

@@ -116,7 +116,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-^7/G(#)"
+                     "bass" : "G#",
+                     "name" : "A-^7"
                   }
                ]
             },
@@ -124,7 +125,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A-/G"
+                     "bass" : "G",
+                     "name" : "A-"
                   },
                   {
                      "beats" : 2,
@@ -164,7 +166,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   },
                   {
                      "beats" : 2,

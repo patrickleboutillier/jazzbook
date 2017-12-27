@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;I've Grown Accustomed To Her Face;Loewe Frederick;Ballad;Eb",
       "A:T44Eb^7 Ab7#11 |G-7 C-7 |F-7   |Bb7   |Ab^7#11 Ah,D7,|G-7 C7b9 |F-7 C7b9 |F-7 Bb7 ",
@@ -231,7 +231,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -252,5 +253,5 @@
       }
    ],
    "composer" : "Frederick Loewe",
-   "key" : null
+   "key" : "Eb"
 }

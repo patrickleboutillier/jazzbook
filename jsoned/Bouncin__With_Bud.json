@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Bouncin' With Bud;Powell Bud;Up Tempo Swing;Bb",
       "{i:T44Bb^7   |%   |B7#11   |%   ",
@@ -304,7 +304,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D7"
                   },
                   {
                      "beats" : 2,
@@ -376,5 +377,5 @@
       }
    ],
    "composer" : "Bud Powell",
-   "key" : null
+   "key" : "Bb"
 }

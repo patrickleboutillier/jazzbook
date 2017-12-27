@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;O Grande Amor;Jobim Antonio-Carlos;Bossa Nova;A-",
       "A:T44A-   |Abo7   |G-7   |C7   |Bh7   |E7b9   |A-   |A7b9   ",
@@ -208,7 +208,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   }
                ]
             },
@@ -257,5 +258,5 @@
       }
    ],
    "composer" : "Antonio-Carlos Jobim",
-   "key" : null
+   "key" : "A-"
 }

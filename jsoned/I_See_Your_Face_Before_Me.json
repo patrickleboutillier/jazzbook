@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;I See Your Face Before Me;Schwartz Arthur;Ballad;Eb",
       "A:Eb7 Ab^7/Eb |Eb69 Ab^7/Eb |Eb^7 Eo7 |F-7 Bb7 |F-7 B9#11 |Bb7sus Bb7 |F-7 Bb7sus |Eb^7   ",
@@ -19,7 +19,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ab^7"
                   }
                ]
             },
@@ -31,7 +32,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ab^7"
                   }
                ]
             },
@@ -143,7 +145,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "Bb7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -151,7 +154,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C-7/G"
+                     "bass" : "G",
+                     "name" : "C-7"
                   },
                   {
                      "beats" : 2,
@@ -210,7 +214,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ab^7"
                   }
                ]
             },
@@ -222,7 +227,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ab^7"
                   }
                ]
             },
@@ -311,7 +317,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -319,7 +326,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ah7/G"
+                     "bass" : "G",
+                     "name" : "Ah7"
                   },
                   {
                      "beats" : 2,
@@ -399,5 +407,5 @@
       }
    ],
    "composer" : "Arthur Schwartz",
-   "key" : null
+   "key" : "Eb"
 }

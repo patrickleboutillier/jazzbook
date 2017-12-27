@@ -85,7 +85,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -137,42 +138,48 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "D^7/E"
+                     "bass" : "E",
+                     "name" : "D^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A^7/E"
+                     "bass" : "E",
+                     "name" : "A^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D^7/E"
+                     "bass" : "E",
+                     "name" : "D^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A^7/E"
+                     "bass" : "E",
+                     "name" : "A^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C^7/D"
+                     "bass" : "D",
+                     "name" : "C^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G^7/D"
+                     "bass" : "D",
+                     "name" : "G^7"
                   }
                ]
             },
@@ -180,7 +187,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/D"
+                     "bass" : "D",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
@@ -220,14 +228,16 @@
             {
                "chords" : [
                   {
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D7"
                   }
                ]
             },

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Souvenir;Carter Benny;Ballad;Eb",
       "{A:T44F9#11   |Bb9sus   |Ab6/Eb Ab-6/Eb |Eb^7 A7b5 |D7alt   |G7sus   |C-7 C-7/Bb |Ah7 Ab9 ",
@@ -176,7 +176,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Gh7/C"
+                           "bass" : "C",
+                           "name" : "Gh7"
                         }
                      ]
                   },
@@ -197,14 +198,16 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F/E(b)"
+                           "bass" : "Eb",
+                           "name" : "F"
                         }
                      ]
                   },
                   {
                      "chords" : [
                         {
-                           "name" : "F/E(b)"
+                           "bass" : "Eb",
+                           "name" : "F"
                         }
                      ]
                   }
@@ -233,11 +236,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab6/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ab6"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab-6/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ab-6"
                   }
                ]
             },
@@ -275,7 +280,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -297,5 +303,5 @@
       }
    ],
    "composer" : "Benny Carter",
-   "key" : null
+   "key" : "Eb"
 }

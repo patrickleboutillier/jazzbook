@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;It's A Dance;Petrucciani Michel;Waltz;C",
       "A:T34Eb^7 |A7#5 |G7#5 |B-7 |E7 |G^7 |A7 |A-7,D7,|G^7 |F#7 |B-7 |E7 |F-7 |Bb7 |Eb^7 |Eb7,D7,",
@@ -305,7 +305,8 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/F(#)"
+                     "bass" : "F#",
+                     "name" : "B^7"
                   }
                ]
             },
@@ -319,7 +320,8 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/F(#)"
+                     "bass" : "F#",
+                     "name" : "B^7"
                   }
                ]
             },
@@ -333,7 +335,8 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/F(#)"
+                     "bass" : "F#",
+                     "name" : "B^7"
                   }
                ]
             },
@@ -393,5 +396,5 @@
       }
    ],
    "composer" : "Michel Petrucciani",
-   "key" : null
+   "key" : "C"
 }

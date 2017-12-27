@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Moon Alley;Harrell Tom;Even 8ths;F",
       "{A:T44F^7   |%   |<Ri0gaW4gc29sb3M=>F^7 F- |F-   |Bb-   |Eb-   |F- F^7 |F^7   ",
@@ -113,7 +113,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Eb-"
                   }
                ]
             },
@@ -246,5 +247,5 @@
       }
    ],
    "composer" : "Tom Harrell",
-   "key" : null
+   "key" : "F"
 }

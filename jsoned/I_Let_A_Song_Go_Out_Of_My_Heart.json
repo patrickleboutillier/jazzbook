@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;I Let A Song Go Out Of My Heart;Ellington Duke;Medium Swing;Eb",
       "{A:T44Eb6 Ab7 |Eb^7 C-7 |G-7 C7 |G-7 C7 |F-/Ab,G-7,F-7,F#o,|Eb^7/G Ab7 ",
@@ -124,7 +124,8 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "F-/A(b)"
+                     "bass" : "Ab",
+                     "name" : "F-"
                   },
                   {
                      "beats" : 1,
@@ -144,7 +145,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   },
                   {
                      "beats" : 2,
@@ -285,7 +287,8 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "F-/A(b)"
+                     "bass" : "Ab",
+                     "name" : "F-"
                   },
                   {
                      "beats" : 1,
@@ -305,7 +308,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   },
                   {
                      "beats" : 2,
@@ -317,7 +321,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   },
                   {
                      "beats" : 2,
@@ -342,5 +347,5 @@
       }
    ],
    "composer" : "Duke Ellington",
-   "key" : null
+   "key" : "Eb"
 }

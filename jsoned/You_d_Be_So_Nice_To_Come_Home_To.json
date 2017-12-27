@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;You'd Be So Nice To Come Home To;Porter Cole;Medium Up Swing;A-",
       "A:T44A-7   |Bh7 E7b9 |A-7 E7b9 |A-7   |G-7   |C7   |F^7   |%   ",
@@ -213,7 +213,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C6/G"
+                     "bass" : "G",
+                     "name" : "C6"
                   }
                ]
             },
@@ -274,5 +275,5 @@
       }
    ],
    "composer" : "Cole Porter",
-   "key" : null
+   "key" : "A-"
 }

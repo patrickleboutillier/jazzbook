@@ -35,7 +35,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb6/G"
+                           "bass" : "G",
+                           "name" : "Eb6"
                         }
                      ]
                   },
@@ -49,7 +50,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb6/B(b)"
+                           "bass" : "Bb",
+                           "name" : "Eb6"
                         }
                      ]
                   },
@@ -135,21 +137,24 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb6/G"
+                     "bass" : "G",
+                     "name" : "Eb6"
                   }
                ]
             },
@@ -184,7 +189,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7/D"
+                     "bass" : "D",
+                     "name" : "Bb7"
                   }
                ]
             }
@@ -283,7 +289,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb6/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb6"
                   }
                ]
             },

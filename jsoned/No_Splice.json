@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;No Splice;Konitz Lee;Medium Up Swing;G-",
       "A:T44G-7   |Ah7 D7b9 |G-7   |%   |F-7   |Bb7   |Eb^7   |%   |Ah7   |D7b9   |Eb7 D7b9 |G-7   |Eb7   |Bb-7 Eb7 |Ab^7   |Ah7 D7 ",
@@ -202,7 +202,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -258,5 +259,5 @@
       }
    ],
    "composer" : "Lee Konitz",
-   "key" : null
+   "key" : "G-"
 }

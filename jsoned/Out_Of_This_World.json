@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Out Of This World;Arlen Harold;Latin;Eb",
       "{A:T44Bb-/Eb   |Eb-7   |Eb7   |Eb-7   |Bb-/Eb   |Eb-7   |Eb7sus   |Eb7   |Eb-7   |Eb-6   |Ab-7   |Ab7   ",
@@ -83,7 +83,8 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Bb-/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Bb-"
                   }
                ]
             },
@@ -111,7 +112,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Bb-"
                   }
                ]
             },
@@ -293,5 +295,5 @@
       }
    ],
    "composer" : "Harold Arlen",
-   "key" : null
+   "key" : "Eb"
 }

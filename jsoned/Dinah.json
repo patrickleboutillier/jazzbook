@@ -108,7 +108,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
@@ -146,21 +147,24 @@
             {
                "chords" : [
                   {
-                     "name" : "E-/D(#)"
+                     "bass" : "D#",
+                     "name" : "E-"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E-/D"
+                     "bass" : "D",
+                     "name" : "E-"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A7/C(#)"
+                     "bass" : "C#",
+                     "name" : "A7"
                   }
                ]
             },
@@ -237,7 +241,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,

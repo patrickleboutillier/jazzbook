@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Horace Scope;Silver Horace;Medium Swing;Db",
       "{T44Db^7   |E-7 A7 |Eb-7   |Ab-7 Db7 |Db-7   |Ab7#5   |G13   |//Gb13 |F-7   |Bb-7   |Eb-7   |Ab7#5   |Db7#9   |Bb7#9b5   |A7   ",
@@ -46,7 +46,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Gb-7/A(b)"
+                           "bass" : "Ab",
+                           "name" : "Gb-7"
                         }
                      ]
                   },
@@ -192,5 +193,5 @@
       }
    ],
    "composer" : "Horace Silver",
-   "key" : null
+   "key" : "Db"
 }

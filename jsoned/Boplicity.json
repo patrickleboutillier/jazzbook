@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Boplicity;Henry Cleo;Medium Swing;F",
       "{A:T44G-7 F^7 |G-7 C7 |F^7   |C-7 F7#5, |Bb^7   |G-7/C,   |G-7/C, C7sus, |F^7#11   ",
@@ -64,7 +64,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -72,7 +73,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -233,7 +235,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -241,7 +244,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-7/C"
+                     "bass" : "C",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 2,
@@ -261,5 +265,5 @@
       }
    ],
    "composer" : "Cleo Henry",
-   "key" : null
+   "key" : "F"
 }

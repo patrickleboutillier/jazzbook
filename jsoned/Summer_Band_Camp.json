@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Summer Band Camp;Goodrick Mick;Even 8ths;C",
       "T44C^7/G   |%   |Ab^7#11/G   |%   |Gb^7#11   |%   |D^7#11/F#   |%   |Bb7/F   |Bb7   |E^7#11/G#   |%   |Db^7/Ab   |%   |F7/A   |F7   |B^7/Bb   |%   |G7sus   |%   |Eb^7/G   |%   |A7/G   |%   "
@@ -12,7 +12,8 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -22,7 +23,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab^7(#11/G)"
+                     "bass" : "G",
+                     "name" : "Ab^7(#11)"
                   }
                ]
             },
@@ -42,7 +44,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7(#11/F#)"
+                     "bass" : "F#",
+                     "name" : "D^7(#11)"
                   }
                ]
             },
@@ -52,7 +55,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7/F"
+                     "bass" : "F",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -66,7 +70,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7(#11/G#)"
+                     "bass" : "G#",
+                     "name" : "E^7(#11)"
                   }
                ]
             },
@@ -76,7 +81,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Db^7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Db^7"
                   }
                ]
             },
@@ -86,7 +92,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F7/A"
+                     "bass" : "A",
+                     "name" : "F7"
                   }
                ]
             },
@@ -100,7 +107,8 @@
             {
                "chords" : [
                   {
-                     "name" : "B^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "B^7"
                   }
                ]
             },
@@ -120,7 +128,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -130,7 +139,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A7/G"
+                     "bass" : "G",
+                     "name" : "A7"
                   }
                ]
             },
@@ -141,5 +151,5 @@
       }
    ],
    "composer" : "Mick Goodrick",
-   "key" : null
+   "key" : "C"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Loop, The;Corea Chick;Waltz;F",
       "{A:T34F^7   |D-7   |G-7   |C7 C#o7 |D-7   |D-7/C   |Bh7   |Bb-^7   ",
@@ -16,7 +16,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb^7/A"
+                           "bass" : "A",
+                           "name" : "Bb^7"
                         }
                      ]
                   },
@@ -87,7 +88,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "F/A"
+                           "bass" : "A",
+                           "name" : "F"
                         }
                      ]
                   },
@@ -194,7 +196,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -235,14 +238,16 @@
             {
                "chords" : [
                   {
-                     "name" : "F/C"
+                     "bass" : "C",
+                     "name" : "F"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Bb-7"
                   }
                ]
             },
@@ -256,14 +261,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Bb-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/C"
+                     "bass" : "C",
+                     "name" : "F"
                   }
                ]
             },
@@ -335,5 +342,5 @@
       }
    ],
    "composer" : "Chick Corea",
-   "key" : null
+   "key" : "F"
 }

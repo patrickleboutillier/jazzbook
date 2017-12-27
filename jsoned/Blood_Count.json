@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Blood Count;Strayhorn Billy;Slow Swing;D",
       "A:T44F9#11   |E13#11   |Eb13   |Bb-7 Eb9 |D-   |D-b6(Bb/D)   |D-6   |A-7 D9 ",
@@ -324,7 +324,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : " /A"
+                     "bass" : "A",
+                     "name" : " "
                   }
                ]
             },
@@ -422,19 +423,23 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "G/D"
+                     "bass" : "D",
+                     "name" : "G"
                   },
                   {
                      "beats" : 1,
-                     "name" : "Ab/D"
+                     "bass" : "D",
+                     "name" : "Ab"
                   },
                   {
                      "beats" : 1,
-                     "name" : "B/D"
+                     "bass" : "D",
+                     "name" : "B"
                   },
                   {
                      "beats" : 1,
-                     "name" : "C/D"
+                     "bass" : "D",
+                     "name" : "C"
                   }
                ]
             },
@@ -442,11 +447,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C#/D"
+                     "bass" : "D",
+                     "name" : "C#"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   }
                ]
             }
@@ -455,5 +462,5 @@
       }
    ],
    "composer" : "Billy Strayhorn",
-   "key" : null
+   "key" : "D"
 }

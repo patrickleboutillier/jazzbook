@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Long Ago And Far Away;Kern Jerome;Up Tempo Swing;F",
       "A:T44F6 D-7 |G-7 C7 |F^7 D-7 |G-7 C7 |F6 D-7 |G-7 C7 |F6 D7 |G-7 C7 ",
@@ -322,7 +322,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F6/A"
+                     "bass" : "A",
+                     "name" : "F6"
                   },
                   {
                      "beats" : 2,
@@ -366,5 +367,5 @@
       }
    ],
    "composer" : "Jerome Kern",
-   "key" : null
+   "key" : "F"
 }

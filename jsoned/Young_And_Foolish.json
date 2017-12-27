@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Young And Foolish;Hague Albert;Ballad;C",
       "A:T44C^7 A-7 |D-7(Ab7) G7 |C^7   |G-7 C7 |F^7   |Eh7 A7b9 |D-7   |D-7 D#o7 ",
@@ -101,7 +101,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -253,7 +254,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -287,7 +289,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
@@ -331,5 +334,5 @@
       }
    ],
    "composer" : "Albert Hague",
-   "key" : null
+   "key" : "C"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Nuages;Reinhardt Django;Slow Swing;G",
       "A:T44Bb-6   |D7/A   |G6   |%   |Bb-6   |D7/A   |G6 D7/A |G6/B   |B7/F#   |B7   |E-6   |%   |A7 Ab7 |A7   |D7   |%   ",
@@ -20,7 +20,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
@@ -44,7 +45,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
@@ -56,21 +58,24 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G6/B"
+                     "bass" : "B",
+                     "name" : "G6"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B7/F(#)"
+                     "bass" : "F#",
+                     "name" : "B7"
                   }
                ]
             },
@@ -135,7 +140,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
@@ -203,7 +209,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/A"
+                     "bass" : "A",
+                     "name" : "D7"
                   }
                ]
             },
@@ -231,5 +238,5 @@
       }
    ],
    "composer" : "Django Reinhardt",
-   "key" : null
+   "key" : "G"
 }

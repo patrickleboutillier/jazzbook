@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Happiness Is A Thing Called Joe;Arlen Harold;Medium Swing;C",
       "i:T44C^7 D-7 |E-7 F^7 |%%   |    |B-7 E13 |B-9 E9#11 |A-9 D13 |D-7 |G13, ",
@@ -112,7 +112,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -160,7 +161,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -274,7 +276,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -326,7 +329,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7(#5/E)"
+                     "bass" : "E",
+                     "name" : "C7(#5)"
                   }
                ]
             },
@@ -440,7 +444,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-/G"
+                     "bass" : "G",
+                     "name" : "F-"
                   }
                ]
             },
@@ -459,5 +464,5 @@
       }
    ],
    "composer" : "Harold Arlen",
-   "key" : null
+   "key" : "C"
 }

@@ -146,7 +146,8 @@
                         },
                         {
                            "beats" : 1,
-                           "name" : "G7/F"
+                           "bass" : "F",
+                           "name" : "G7"
                         },
                         {
                            "beats" : 1,
@@ -285,7 +286,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : " /A"
+                     "bass" : "A",
+                     "name" : " "
                   }
                ]
             },
@@ -301,7 +303,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C7"
                   }
                ]
             },
@@ -325,7 +328,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   },
                   {
                      "beats" : 1,
@@ -345,7 +349,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -544,7 +549,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F"
                   }
                ]
             },
@@ -552,11 +558,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 1,
-                     "name" : "Bb-/D(b)"
+                     "bass" : "Db",
+                     "name" : "Bb-"
                   },
                   {
                      "beats" : 1,

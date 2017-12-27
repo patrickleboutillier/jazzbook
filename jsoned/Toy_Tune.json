@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Toy Tune;Shorter Wayne;Medium Swing;F",
       "{A:T44Bb-9,A-9,C-7,B-7,|B-7   |Db/A   |Bb-7 B^7 |Gb^7 E-6 |D^7 G-9 |F^7   ",
@@ -69,7 +69,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Db/A"
+                     "bass" : "A",
+                     "name" : "Db"
                   }
                ]
             },
@@ -195,7 +196,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Db/A"
+                     "bass" : "A",
+                     "name" : "Db"
                   }
                ]
             },
@@ -254,5 +256,5 @@
       }
    ],
    "composer" : "Wayne Shorter",
-   "key" : null
+   "key" : "F"
 }

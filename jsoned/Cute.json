@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Cute;Hefti Neal;Medium Swing;F",
       "{i:T44Bb6 A-7,Ab7,|G-7 C7,F6,|NC   |%   |Bb6 A-7,Ab7,|G-7 C7,F7,|NC   |%   |Bb6,A-7,G-7,Bb-|NC   |F^,Bb6,A7,D-7|NC   ",
@@ -23,7 +23,8 @@
                         },
                         {
                            "beats" : 1,
-                           "name" : "D-/C"
+                           "bass" : "C",
+                           "name" : "D-"
                         },
                         {
                            "beats" : 1,
@@ -433,5 +434,5 @@
       }
    ],
    "composer" : "Neal Hefti",
-   "key" : null
+   "key" : "F"
 }

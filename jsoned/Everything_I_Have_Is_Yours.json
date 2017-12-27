@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Everything I Have Is Yours;Lane Burton;Ballad;C",
       "T44A:C^7   |Eb-7 Ab7 |D-7 G7 |D-7 G7#5 |C^7   |Eb-7 Ab7 |D-7 G7 |Bh7 E7b9 ",
@@ -113,21 +113,24 @@
             {
                "chords" : [
                   {
-                     "name" : "A-^7/G(#)"
+                     "bass" : "G#",
+                     "name" : "A-^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D9/F(#)"
+                     "bass" : "F#",
+                     "name" : "D9"
                   }
                ]
             },
@@ -270,14 +273,16 @@
             {
                "chords" : [
                   {
-                     "name" : "A-^7/G(#)"
+                     "bass" : "G#",
+                     "name" : "A-^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -285,7 +290,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D7"
                   },
                   {
                      "beats" : 2,
@@ -345,5 +351,5 @@
       }
    ],
    "composer" : "Burton Lane",
-   "key" : null
+   "key" : "C"
 }

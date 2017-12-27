@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Red Top;Hampton Lionel;Medium Swing;G",
       "{A:T44G6 G6/B |C C#h7 |G/D C |G/B G7 |C9   |C-7 C#h7 |G/D C |Bh7 E7b9 |A-7   |D7   |G,G/B,C,C#h,|G/D,C,G/B,A-"
@@ -17,7 +17,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G6/B"
+                     "bass" : "B",
+                     "name" : "G6"
                   }
                ]
             },
@@ -37,7 +38,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/D"
+                     "bass" : "D",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
@@ -49,7 +51,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
@@ -80,7 +83,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/D"
+                     "bass" : "D",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
@@ -122,7 +126,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 1,
@@ -138,7 +143,8 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "G/D"
+                     "bass" : "D",
+                     "name" : "G"
                   },
                   {
                      "beats" : 1,
@@ -146,7 +152,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   },
                   {
                      "beats" : 1,
@@ -160,5 +167,5 @@
       }
    ],
    "composer" : "Lionel Hampton",
-   "key" : null
+   "key" : "G"
 }

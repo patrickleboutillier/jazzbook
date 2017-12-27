@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;This I Dig Of You;Mobley Hank;Medium Up Swing;Bb",
       "A:T44Bb^7/F   |C-7/F   |D-7/F   |C-7/F   |D-7/F   |C-7/F   |Bb^7/F   |F-7 Bb7 ",
@@ -15,49 +15,56 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D-7/F"
+                     "bass" : "F",
+                     "name" : "D-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D-7/F"
+                     "bass" : "F",
+                     "name" : "D-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -147,49 +154,56 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D-7/F"
+                     "bass" : "F",
+                     "name" : "D-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D-7/F"
+                     "bass" : "F",
+                     "name" : "D-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -272,5 +286,5 @@
       }
    ],
    "composer" : "Hank Mobley",
-   "key" : null
+   "key" : "Bb"
 }

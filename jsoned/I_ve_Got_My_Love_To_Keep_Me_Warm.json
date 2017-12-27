@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;I've Got My Love To Keep Me Warm;Berlin Irving;Medium Swing;Eb",
       "{T44A:Eb6   |Gbo7   |F-7   |Bb7   |Ah7   |D7b9   |Ah7   |D7b9 D7b9/F# |F-7   |Bb7   |F-7   |Bb7   |G-7 C7b9 |F-7 Bb7 ",
@@ -125,7 +125,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7(b9/F#)"
+                     "bass" : "F#",
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -315,7 +316,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D7(b9/F#)"
+                     "bass" : "F#",
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -400,5 +402,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "Eb"
 }

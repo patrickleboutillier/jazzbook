@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Chucho;D'Rivera Paquito;Latin;D-",
       "{i:T44D-   |Eh7 A7b9 |D-   |Eh7 A7b9 ",
@@ -95,7 +95,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -173,5 +174,5 @@
       }
    ],
    "composer" : "Paquito D'Rivera",
-   "key" : null
+   "key" : "D-"
 }

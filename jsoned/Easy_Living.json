@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Easy Living;Rainger Ralph;Ballad;F",
       "{A:T44F^7 F#o7 |G-7 G#o7 |F^7/A C-7,F7,|Bb^7 Eb7 |F^7 D-7 ",
@@ -125,7 +125,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F^7/A"
+                     "bass" : "A",
+                     "name" : "F^7"
                   },
                   {
                      "beats" : 1,
@@ -223,7 +224,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Db^7/C"
+                     "bass" : "C",
+                     "name" : "Db^7"
                   }
                ]
             },
@@ -235,7 +237,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb-7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb-7"
                   }
                ]
             },
@@ -286,7 +289,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F^7/A"
+                     "bass" : "A",
+                     "name" : "F^7"
                   },
                   {
                      "beats" : 1,
@@ -363,5 +367,5 @@
       }
    ],
    "composer" : "Ralph Rainger",
-   "key" : null
+   "key" : "F"
 }

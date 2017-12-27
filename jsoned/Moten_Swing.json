@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Moten Swing;Moten Bennie;Medium Swing;Ab",
       "{A:T44Ab6   |%   |Bb-7   |Eb7   |Bb7   |Bb-7/Eb   ",
@@ -102,7 +102,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Bb-7"
                   }
                ]
             }
@@ -202,7 +203,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Bb-7"
                   }
                ]
             },
@@ -235,5 +237,5 @@
       }
    ],
    "composer" : "Bennie Moten",
-   "key" : null
+   "key" : "Ab"
 }

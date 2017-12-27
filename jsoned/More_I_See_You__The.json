@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;More I See You, The;Warren Harry;Up Tempo Swing;Eb",
       "A:T44Eb6 F-7 |G-7 C7b9 |F-7   |Bb7   |Eb6 F-7 |G-7 C7b9 |F-7   |Bb7   |Eb-7   |C#-7 F#7 |B^7   |Fh7 Bb7b13 |Eb-7   |F7   |F-7   |Bb7sus   ",
@@ -279,7 +279,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -287,7 +288,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F-7"
                   },
                   {
                      "beats" : 2,
@@ -319,5 +321,5 @@
       }
    ],
    "composer" : "Harry Warren",
-   "key" : null
+   "key" : "Eb"
 }

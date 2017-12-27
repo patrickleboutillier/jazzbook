@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Dolphin Dance;Hancock Herbie;Medium Swing;Eb",
       "i:T44Eb^7   |Db^7/Eb   |Eb^7   |Dh7 G7b9 ",
@@ -23,7 +23,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Db^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Db^7"
                   }
                ]
             },
@@ -167,14 +168,16 @@
             {
                "chords" : [
                   {
-                     "name" : "A/G"
+                     "bass" : "G",
+                     "name" : "A"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb^7(#11/G)"
+                     "bass" : "G",
+                     "name" : "Eb^7(#11)"
                   }
                ]
             },
@@ -188,7 +191,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/F"
+                     "bass" : "F",
+                     "name" : "D"
                   }
                ]
             },
@@ -276,49 +280,56 @@
             {
                "chords" : [
                   {
-                     "name" : "D^7/E"
+                     "bass" : "E",
+                     "name" : "D^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D^7/E"
+                     "bass" : "E",
+                     "name" : "D^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C^7/E"
+                     "bass" : "E",
+                     "name" : "C^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Db^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb13(b9/Eb)"
+                     "bass" : "Eb",
+                     "name" : "Bb13(b9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab^7(#5/Eb)"
+                     "bass" : "Eb",
+                     "name" : "Ab^7(#5)"
                   }
                ]
             },
@@ -334,5 +345,5 @@
       }
    ],
    "composer" : "Herbie Hancock",
-   "key" : null
+   "key" : "Eb"
 }

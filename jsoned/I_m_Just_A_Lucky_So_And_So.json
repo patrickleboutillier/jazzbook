@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;I'm Just A Lucky So-And-So;Ellington Duke;Medium Swing;G",
       "{A:T44G^7   |C^7   |G^7   |G9   |C9,C7/Bb,A7 |D9   ",
@@ -113,7 +113,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C7"
                   },
                   {
                      "beats" : 2,
@@ -251,7 +252,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "C7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C7"
                   },
                   {
                      "beats" : 2,
@@ -300,5 +302,5 @@
       }
    ],
    "composer" : "Duke Ellington",
-   "key" : null
+   "key" : "G"
 }

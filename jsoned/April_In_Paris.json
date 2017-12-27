@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;April In Paris;Duke Vernon;Medium Swing;C",
       "A:T44G7b9sus   |C^7   |Dh7   |G7b9   |C^7   |%   |G-7   |C7   ",
@@ -99,7 +99,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-/G"
+                     "bass" : "G",
+                     "name" : "A-"
                   }
                ]
             },
@@ -162,7 +163,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C/E"
+                     "bass" : "E",
+                     "name" : "C"
                   },
                   {
                      "beats" : 2,
@@ -209,7 +211,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-/G"
+                     "bass" : "G",
+                     "name" : "A-"
                   }
                ]
             },
@@ -308,5 +311,5 @@
       }
    ],
    "composer" : "Vernon Duke",
-   "key" : null
+   "key" : "C"
 }

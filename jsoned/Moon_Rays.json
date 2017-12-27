@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Moon Rays;Silver Horace;Latin;Eb",
       "{A:T44F-7/Bb   |Bb7   |Eb^7/Bb   |%   |F#-7   |B7   |F-7   |Bb7   |Ah7   |Ab-7   |Gh7   |C7b9   |F-7   |Bb7   |Eb^7   ",
@@ -49,7 +49,8 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "F-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -63,7 +64,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -279,5 +281,5 @@
       }
    ],
    "composer" : "Horace Silver",
-   "key" : null
+   "key" : "Eb"
 }

@@ -133,7 +133,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-/G"
+                     "bass" : "G",
+                     "name" : "A-"
                   }
                ]
             },
@@ -141,7 +142,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D7"
                   },
                   {
                      "beats" : 2,
@@ -281,7 +283,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-/G"
+                     "bass" : "G",
+                     "name" : "A-"
                   }
                ]
             },

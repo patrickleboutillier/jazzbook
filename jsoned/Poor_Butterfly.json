@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Poor Butterfly;Hubbell Raymon;Ballad;Ab",
       "A:T44Bb-7   |Eb7sus Eb7b9 |Abo7   |Ab^7   |C7#9#5   |%   |F7   |C-7 F7 ",
@@ -125,7 +125,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Bb-7"
                   }
                ]
             },
@@ -299,5 +300,5 @@
       }
    ],
    "composer" : "Raymon Hubbell",
-   "key" : null
+   "key" : "Ab"
 }

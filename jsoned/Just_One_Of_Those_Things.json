@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Just One Of Those Things;Porter Cole;Up Tempo Swing;F",
       "{A:T44D-6   |%   |Eh7   |A7b9   |F7   |%   |Bh7   |Bb-6   |A-7   |Ab7   |G-7   |C7   ",
@@ -36,7 +36,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "G-7/F"
+                           "bass" : "F",
+                           "name" : "G-7"
                         }
                      ]
                   },
@@ -324,5 +325,5 @@
       }
    ],
    "composer" : "Cole Porter",
-   "key" : null
+   "key" : "F"
 }

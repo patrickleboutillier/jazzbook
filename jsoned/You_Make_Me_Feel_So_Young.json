@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;You Make Me Feel So Young;Myrow Josef;Medium Swing;Bb",
       "{A:T44Bb^7 Bo7(G7b9#5) |C-7 F7(C#o7) |Bb^7(D-7) Bo7(G7#5) |F-7/C(Gb9) F7 |Bb^7 Bb7(E7b5) |Eb^7 Eb6(Eo7) |D-7(Bb6/F) Dbo7(G7#5) |C-7 F7 ",
@@ -51,7 +51,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F-7/C"
+                     "bass" : "C",
+                     "name" : "F-7"
                   },
                   {
                      "beats" : 2,
@@ -219,7 +220,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F-7/C"
+                     "bass" : "C",
+                     "name" : "F-7"
                   },
                   {
                      "beats" : 2,
@@ -366,5 +368,5 @@
       }
    ],
    "composer" : "Josef Myrow",
-   "key" : null
+   "key" : "Bb"
 }

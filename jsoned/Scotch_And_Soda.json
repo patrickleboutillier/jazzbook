@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Scotch And Soda;Guard Dave;Slow Swing;Eb",
       "{A:T44Ab^7   |Db7   |Eb6   |G-7 C7 |F7   |F-7 Bb7 ",
@@ -126,7 +126,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb6/G"
+                     "bass" : "G",
+                     "name" : "Eb6"
                   },
                   {
                      "beats" : 2,
@@ -242,5 +243,5 @@
       }
    ],
    "composer" : "Dave Guard",
-   "key" : null
+   "key" : "Eb"
 }

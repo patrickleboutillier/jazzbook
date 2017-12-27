@@ -22,15 +22,18 @@
                         },
                         {
                            "beats" : 1,
-                           "name" : "Ab/E(b)"
+                           "bass" : "Eb",
+                           "name" : "Ab"
                         },
                         {
                            "beats" : 1,
-                           "name" : "Gb/D(b)"
+                           "bass" : "Db",
+                           "name" : "Gb"
                         },
                         {
                            "beats" : 1,
-                           "name" : "F7/C"
+                           "bass" : "C",
+                           "name" : "F7"
                         }
                      ]
                   }
@@ -69,7 +72,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Dh7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Dh7"
                   }
                ]
             },
@@ -201,7 +205,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Dh7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Dh7"
                   }
                ]
             },

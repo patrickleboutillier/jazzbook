@@ -55,7 +55,7 @@ body {
 }
 
 .prebar2 {
-	border-left: 8px double black ;
+	border-left: 8px double black ; 
 	width: 1px ;
 }
 
@@ -227,21 +227,21 @@ function header(parent, tune){
 
 /* Each section is a table that is 12 columns wide (4 prebars, 4 bars, 4 postbars)
 */
-function section(section){
-	var repeat = (section.repeat ? section.repeat : 0) ;
-	var label = fix_label(section.label) ;
-	var description = (section.description ? section.description : "") ;
+function section(sect){
+	var repeat = (sect.repeat ? sect.repeat : 0) ;
+	var label = fix_label(sect.label) ;
+	var description = (sect.description ? sect.description : "") ;
 
 	// We go through the bars of the section.
-	if ((section.bars)&&(section.bars.length > 0)){
-		for (var i = 0 ; i < section.bars.length ; i++){
+	if ((sect.bars)&&(sect.bars.length > 0)){
+		for (var i = 0 ; i < sect.bars.length ; i++){
 			var first = (i == 0 ? true : false) ;
-			var last = (i == (section.bars.length - 1) ? true : false) ;
+			var last = (i == (sect.bars.length - 1) ? true : false) ;
 
 			prebar((first ? label : ""), first, repeat) ;
-			bar(section.bars[i], (first ? description : "")) ;
+			bar(sect.bars[i], (first ? description : "")) ;
 
-			if ((last)&&(repeat)&&(section.endings)){
+			if ((last)&&(repeat)&&(sect.endings)){
 				// Force a plain bar line.
 				postbar(0, 0) ;
 			}
@@ -256,12 +256,19 @@ function section(section){
 		}
 	}
 
-	if ((section.endings)&&(section.endings.length > 0)){
-		for (var e = 0 ; e < section.endings.length ; e++){
-			var ending = section.endings[e] ;
+	if ((sect.endings)&&(sect.endings.length > 0)){
+		// Handle subsections
+		if ((sect.sections)&&(sect.sections.length > 0)){
+			for (var i = 0 ; i < sect.sections.length ; i++){
+				section(sect.sections[i]) ;
+			}
+		}
+
+		for (var e = 0 ; e < sect.endings.length ; e++){
+			var ending = sect.endings[e] ;
 			if ((ending.bars)&&(ending.bars.length > 0)){
 				var padding = [] ;
-				if ((e < section.endings.length - 1)&&((ending.bars.length % 4) > 0)){
+				if ((e < sect.endings.length - 1)&&((ending.bars.length % 4) > 0)){
 					// In order to align the starts of the repeat section, we must ensure the endings
 					// are of full line lengths (multiples of 4).
 					var extra = 4 - (ending.bars.length % 4) ;
@@ -277,7 +284,7 @@ function section(section){
 					var last = (i == (ending.bars.length - 1) ? true : false) ;
 
 					// For repeat section, we never use double bar lines or repeats
-					prebar((first ? label : ""), false, false) ;
+					prebar((first ? label : ""), ((first)&&(label)), false) ;
 					bar(ending.bars[i], (first ? "&nbsp;" + ending.no + ". " + description : "") , first) ;
 
 					if ((last)&&(ending.no == 1)){

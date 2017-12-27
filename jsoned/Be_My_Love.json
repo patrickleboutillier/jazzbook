@@ -13,7 +13,8 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Db/C"
+                     "bass" : "C",
+                     "name" : "Db"
                   }
                ]
             },
@@ -140,7 +141,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Db/C"
+                     "bass" : "C",
+                     "name" : "Db"
                   }
                ]
             },

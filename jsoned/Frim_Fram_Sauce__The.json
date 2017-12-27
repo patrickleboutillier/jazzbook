@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Frim Fram Sauce, The;Richardel Joe;Medium Swing;Bb",
       "{T44A:Bb6   |%   |C7   |% ,  |Eb6 Eo7 |Bb/F, G7 |C7 F7 ",
@@ -80,7 +80,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/F"
+                     "bass" : "F",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -238,7 +239,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/F"
+                     "bass" : "F",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -275,5 +277,5 @@
       }
    ],
    "composer" : "Joe Richardel",
-   "key" : null
+   "key" : "Bb"
 }

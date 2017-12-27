@@ -105,11 +105,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G/D"
+                     "bass" : "D",
+                     "name" : "G"
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/D"
+                     "bass" : "D",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -117,11 +119,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bbo/D"
+                     "bass" : "D",
+                     "name" : "Bbo"
                   },
                   {
                      "beats" : 2,
-                     "name" : "B-7/D"
+                     "bass" : "D",
+                     "name" : "B-7"
                   }
                ]
             }

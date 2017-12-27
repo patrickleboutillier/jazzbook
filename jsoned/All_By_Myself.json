@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;All By Myself;Berlin Irving;Medium Swing;C",
       "A:T44C^7   |C6   |D7   |A-7 D7 |G7   |D-7, G7 |E-7 A7 |D-7 G7 ",
@@ -134,7 +134,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ah7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "Ah7"
                   }
                ]
             },
@@ -153,7 +154,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Dh7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Dh7"
                   }
                ]
             },
@@ -275,7 +277,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eh7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eh7"
                   },
                   {
                      "beats" : 2,
@@ -336,5 +339,5 @@
       }
    ],
    "composer" : "Irving Berlin",
-   "key" : null
+   "key" : "C"
 }

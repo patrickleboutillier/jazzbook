@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Best Is Yet To Come (Page 1), The;Coleman Cy;Medium Swing;Ab",
       "{A:T44Ab^7 Ab7 |Ab6 Ab+,Ab|%%   |    |Ab^7 Ab7 |Ab6 Ab+,Ab|F7   |%   |Bb-7   |Eb7   |Ab6   |Dh7 G7 ",
@@ -225,7 +225,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C6/E"
+                     "bass" : "E",
+                     "name" : "C6"
                   }
                ]
             },
@@ -335,5 +336,5 @@
       }
    ],
    "composer" : "Cy Coleman",
-   "key" : null
+   "key" : "Ab"
 }

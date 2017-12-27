@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;One By One;Shorter Wayne;Medium Up Swing;G-",
       "{i:T44Bb^7   |%   |%   |%   ",
@@ -92,7 +92,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -193,7 +194,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb7/F"
+                     "bass" : "F",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -283,7 +285,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -315,5 +318,5 @@
       }
    ],
    "composer" : "Wayne Shorter",
-   "key" : null
+   "key" : "G-"
 }

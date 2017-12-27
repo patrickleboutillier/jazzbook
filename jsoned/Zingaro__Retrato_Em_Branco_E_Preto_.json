@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Zingaro (Retrato Em Branco E Preto);Jobim Antonio-Carlos;Bossa Nova;G-",
       "A:T44G-7   |%   |D7b9/F#   |%   |F-6   |//E^7 |Eb^7   |%   |C-7   |D7b9   |Bb^7   |%   |A13b9   |%   |D^7   |Ab7#11   ",
@@ -23,7 +23,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7(b9/F#)"
+                     "bass" : "F#",
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -129,7 +130,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D7(b9/F#)"
+                     "bass" : "F#",
+                     "name" : "D7(b9)"
                   }
                ]
             },
@@ -186,7 +188,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-/D"
+                     "bass" : "D",
+                     "name" : "G-"
                   }
                ]
             },
@@ -235,5 +238,5 @@
       }
    ],
    "composer" : "Antonio-Carlos Jobim",
-   "key" : null
+   "key" : "G-"
 }

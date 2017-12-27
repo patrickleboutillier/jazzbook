@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;For Jan;Wheeler Kenny;Waltz;A",
       "T34Bb^7#11   |E7alt   |A7b9b13   |D-9   |E7b9b13   |%   |A-7   |F^7#11   |Bb^7#11   |E7alt   |A7b9b13   |Ab7#5   |C/G   |E7b13/G#   |A-7   |B7#9#5   |E-11   |D-11   |C-11   |Bb^7#11   |E7alt   |%   |A^7   |%   "
@@ -92,14 +92,16 @@
             {
                "chords" : [
                   {
-                     "name" : "C/G"
+                     "bass" : "G",
+                     "name" : "C"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "E7(b13/G#)"
+                     "bass" : "G#",
+                     "name" : "E7(b13)"
                   }
                ]
             },
@@ -169,5 +171,5 @@
       }
    ],
    "composer" : "Kenny Wheeler",
-   "key" : null
+   "key" : "A"
 }

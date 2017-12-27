@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Let's Do It (Let's Fall In Love);Porter Cole;Medium Swing;Bb",
       "{A:T44Bb6 Bo7 |C-7 F7 |Bb6 Bb7 |Eb6 Eb-6(Ab9) |D-7 G7b9 |C-7 F7 ",
@@ -279,7 +279,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb6/D"
+                     "bass" : "D",
+                     "name" : "Bb6"
                   },
                   {
                      "beats" : 2,
@@ -328,5 +329,5 @@
       }
    ],
    "composer" : "Cole Porter",
-   "key" : null
+   "key" : "Bb"
 }

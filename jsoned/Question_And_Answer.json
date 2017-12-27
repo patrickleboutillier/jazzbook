@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Question And Answer;Metheny Pat;Waltz;D-",
       "{A:T34D-   |D-b6   |D-6   |D-7   |G-7   |A-7   |Bb^7   |C7sus   |D-   |D-b6   |D-6   |C-7 F7 |B7#9#5   |Bb7#11   |A7#9#5   |D-   ",
@@ -137,7 +137,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/D"
+                     "bass" : "D",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -151,7 +152,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/D"
+                     "bass" : "D",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -337,5 +339,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "D-"
 }

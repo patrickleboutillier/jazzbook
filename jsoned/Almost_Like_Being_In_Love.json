@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Almost Like Being In Love;Loewe Frederick;Medium Swing;Ab",
       "{A:T44Db^7   |Eb7   |Ab^7(C-7)   |C-7(F-7) F7 |Bb-7   |Eb7   ",
@@ -214,7 +214,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab6/C"
+                     "bass" : "C",
+                     "name" : "Ab6"
                   }
                ]
             },
@@ -263,5 +264,5 @@
       }
    ],
    "composer" : "Frederick Loewe",
-   "key" : null
+   "key" : "Ab"
 }

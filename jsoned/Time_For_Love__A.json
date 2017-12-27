@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Time For Love, A;Mandel Johnny;Ballad;F",
       "A:T44F^7   |Eb7/F   |F6   |G7   |G-7   |G-7/F   |E-7 A7 |Eh7/A A7b9 ",
@@ -22,7 +22,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7/F"
+                     "bass" : "F",
+                     "name" : "Eb7"
                   }
                ]
             },
@@ -50,7 +51,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -70,7 +72,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eh7/A"
+                     "bass" : "A",
+                     "name" : "Eh7"
                   },
                   {
                      "beats" : 2,
@@ -93,14 +96,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Eb7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F7/C"
+                     "bass" : "C",
+                     "name" : "F7"
                   }
                ]
             },
@@ -121,7 +126,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -141,7 +147,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eh7/A"
+                     "bass" : "A",
+                     "name" : "Eh7"
                   },
                   {
                      "beats" : 2,
@@ -298,7 +305,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -373,5 +381,5 @@
       }
    ],
    "composer" : "Johnny Mandel",
-   "key" : null
+   "key" : "F"
 }

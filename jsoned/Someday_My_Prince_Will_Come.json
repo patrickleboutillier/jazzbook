@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Someday My Prince Will Come;Churchill Frank;Waltz;Bb",
       "A:T34Bb^7   |D7#5   |Eb^7   |G7b9   |C-7   |G7b9   |C-7   |F7   ",
@@ -226,7 +226,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -256,5 +257,5 @@
       }
    ],
    "composer" : "Frank Churchill",
-   "key" : null
+   "key" : "Bb"
 }

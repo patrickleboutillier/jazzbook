@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;It Don't Mean A Thing;Ellington Duke;Medium Up Swing;Bb",
       "{A:T44G-(G-) G-/F# |G-/F(G-^7) C7/E |Eb7(G-7) D7 |G-   ",
@@ -31,7 +31,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb6/D"
+                           "bass" : "D",
+                           "name" : "Bb6"
                         }
                      ]
                   },
@@ -85,7 +86,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F(#)"
+                     "bass" : "F#",
+                     "name" : "G-"
                   }
                ]
             },
@@ -93,11 +95,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-/F"
+                     "bass" : "F",
+                     "name" : "G-"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7/E"
+                     "bass" : "E",
+                     "name" : "C7"
                   }
                ]
             },
@@ -191,7 +195,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-/F(#)"
+                     "bass" : "F#",
+                     "name" : "G-"
                   }
                ]
             },
@@ -199,11 +204,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G-/F"
+                     "bass" : "F",
+                     "name" : "G-"
                   },
                   {
                      "beats" : 2,
-                     "name" : "C7/E"
+                     "bass" : "E",
+                     "name" : "C7"
                   }
                ]
             },
@@ -255,5 +262,5 @@
       }
    ],
    "composer" : "Duke Ellington",
-   "key" : null
+   "key" : "Bb"
 }

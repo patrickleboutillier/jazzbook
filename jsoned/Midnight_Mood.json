@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Midnight Mood;Zawinul Joe;Waltz;Db",
       "T34Db^7   |Ebh7/Db   |Db^7   |Ebh7/Db   |Db^7   |Ebh7/Db   |Db^7   |G7b9b5   |Gb^7   |C7#9   |F-7   |Bb-7   |Eb-7   |Eb-7/Ab   |Ab-7/Db   |/G7b9b5 /|Gb^7   |C7#9   |F-7   |Bb7#9   |Eb-7   |Ab7   |Db^7   |Ebh7/Db   "
@@ -19,7 +19,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Ebh7"
                   }
                ]
             },
@@ -33,7 +34,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Ebh7"
                   }
                ]
             },
@@ -47,7 +49,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Ebh7"
                   }
                ]
             },
@@ -103,14 +106,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb-7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Eb-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab-7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Ab-7"
                   }
                ]
             },
@@ -182,7 +187,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ebh7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Ebh7"
                   }
                ]
             }
@@ -190,5 +196,5 @@
       }
    ],
    "composer" : "Joe Zawinul",
-   "key" : null
+   "key" : "Db"
 }

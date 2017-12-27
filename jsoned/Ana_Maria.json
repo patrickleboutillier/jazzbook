@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Ana Maria;Shorter Wayne;Even 8ths;G",
       "A:T44G^7   |Eb^7/G   |G7sus   |Eb^7/G   |Db^7/F   |Gb^7#11   |Ab-7   |Bb/Ab   |G-7   |C7sus   |D/C   |C7sus   |Ab/C Bb/C |Ab/C   ",
@@ -23,7 +23,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   }
                ]
             },
@@ -37,14 +38,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Db^7/F"
+                     "bass" : "F",
+                     "name" : "Db^7"
                   }
                ]
             },
@@ -65,7 +68,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -86,7 +90,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D/C"
+                     "bass" : "C",
+                     "name" : "D"
                   }
                ]
             },
@@ -101,18 +106,21 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Ab/C"
+                     "bass" : "C",
+                     "name" : "Ab"
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb/C"
+                     "bass" : "C",
+                     "name" : "Bb"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Ab/C"
+                     "bass" : "C",
+                     "name" : "Ab"
                   }
                ]
             }
@@ -131,7 +139,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   }
                ]
             }
@@ -158,7 +167,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb/F"
+                     "bass" : "F",
+                     "name" : "Eb"
                   },
                   {
                      "beats" : 2,
@@ -202,7 +212,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -313,7 +324,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -370,7 +382,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb^7/G"
+                     "bass" : "G",
+                     "name" : "Eb^7"
                   }
                ]
             }
@@ -379,5 +392,5 @@
       }
    ],
    "composer" : "Wayne Shorter",
-   "key" : null
+   "key" : "G"
 }

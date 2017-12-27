@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Samba",
    "metadata" : [
       "IREALB;Captain Marvel;Corea Chick;Samba;C",
       "T44E-7 |% |B-7 |% |F#-7 |% |Bb-7 |Bb-7/Ab |Gh7 |C7b9 |Db^7 |Gb^7#11 |C-7/F |F7, |Bb^7 |% |Eb^7#11 |% |Bb^7/D |Db7 |C-7 |F7,F#o,|G-7 |% |Ab^7 |% |D-7 |Eb^7, |Eh7 |Eb^7 |D-7 |Db7#11 |C-7 |C-7/F ",
@@ -54,7 +54,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb-7"
                   }
                ]
             },
@@ -89,7 +90,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -123,7 +125,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/D"
+                     "bass" : "D",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -225,7 +228,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             }
@@ -320,7 +324,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F-^7/G"
+                     "bass" : "G",
+                     "name" : "F-^7"
                   }
                ]
             },
@@ -330,7 +335,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/G"
+                     "bass" : "G",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -385,14 +391,16 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C-7/F"
+                     "bass" : "F",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -431,5 +439,5 @@
       }
    ],
    "composer" : "Chick Corea",
-   "key" : null
+   "key" : "C"
 }

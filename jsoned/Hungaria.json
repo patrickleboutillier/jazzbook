@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Hungaria;Reinhardt Django;Medium Up Swing;G",
       "A:T44G69   |%   |Ab69   |%   |G69   |%   |E7   |%   ",
@@ -80,7 +80,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   }
                ]
             },
@@ -172,7 +173,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G/B"
+                     "bass" : "B",
+                     "name" : "G"
                   }
                ]
             },
@@ -212,5 +214,5 @@
       }
    ],
    "composer" : "Django Reinhardt",
-   "key" : null
+   "key" : "G"
 }

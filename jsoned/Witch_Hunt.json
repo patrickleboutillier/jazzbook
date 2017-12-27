@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Slow Swing",
    "metadata" : [
       "IREALB;Witch Hunt;Shorter Wayne;Slow Swing;C-",
       "T44C-7   |%   |%   |%   |C-7   |%   |%   |%   |Eb7   |%   |%   |%   |C-7   |%   |%   |%   |Gb^7   |F7   |E^7 Eb7 |Eb7   |Ab-7   |A/Ab   |Ab-7   |G7b9b13   "
@@ -116,7 +116,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A/A(b)"
+                     "bass" : "Ab",
+                     "name" : "A"
                   }
                ]
             },
@@ -138,5 +139,5 @@
       }
    ],
    "composer" : "Wayne Shorter",
-   "key" : null
+   "key" : "C-"
 }

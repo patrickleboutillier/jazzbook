@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;I'm Always Chasing Rainbows;Carroll Harry;Medium Swing;G",
       "A:T44G^7,   |//C-6, |G^7,   |%   |F#o7, G^7, |C-6, G^7, |A-7,   |D7,   |E7,   |Bh7, E7, |A-7, E7, |A-7,   |A7,   |%   |A-7/D,   |D7,   ",
@@ -132,7 +132,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-7/D"
+                     "bass" : "D",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -281,5 +282,5 @@
       }
    ],
    "composer" : "Harry Carroll",
-   "key" : null
+   "key" : "G"
 }

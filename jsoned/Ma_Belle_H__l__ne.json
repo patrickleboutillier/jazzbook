@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;Ma Belle Hélène;Wheeler Kenny;Medium Up Swing;C",
       "A:T44Ab/G   |%   |E/F#   |%   |C/F   |%   |Ab/Bb   |%   |G/Eb   |%   |Eb/D   |%   |B/C#   |%   |G/F#   |%   |F#/B   |Bb/B   |D/Ab   |C/Ab   |Gb/Ab   |%   |%   |%   ",
@@ -13,7 +13,8 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "Ab/G"
+                     "bass" : "G",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -23,7 +24,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E/F(#)"
+                     "bass" : "F#",
+                     "name" : "E"
                   }
                ]
             },
@@ -33,7 +35,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C/F"
+                     "bass" : "F",
+                     "name" : "C"
                   }
                ]
             },
@@ -43,7 +46,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -53,7 +57,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G/E(b)"
+                     "bass" : "Eb",
+                     "name" : "G"
                   }
                ]
             },
@@ -63,7 +68,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb/D"
+                     "bass" : "D",
+                     "name" : "Eb"
                   }
                ]
             },
@@ -73,7 +79,8 @@
             {
                "chords" : [
                   {
-                     "name" : "B/C(#)"
+                     "bass" : "C#",
+                     "name" : "B"
                   }
                ]
             },
@@ -83,7 +90,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G/F(#)"
+                     "bass" : "F#",
+                     "name" : "G"
                   }
                ]
             },
@@ -93,35 +101,40 @@
             {
                "chords" : [
                   {
-                     "name" : "F#/B"
+                     "bass" : "B",
+                     "name" : "F#"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb/B"
+                     "bass" : "B",
+                     "name" : "Bb"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D/A(b)"
+                     "bass" : "Ab",
+                     "name" : "D"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C/A(b)"
+                     "bass" : "Ab",
+                     "name" : "C"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Gb/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Gb"
                   }
                ]
             },
@@ -142,7 +155,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A/G(#)"
+                     "bass" : "G#",
+                     "name" : "A"
                   }
                ]
             },
@@ -152,7 +166,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             },
@@ -162,7 +177,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C#/F(#)"
+                     "bass" : "F#",
+                     "name" : "C#"
                   }
                ]
             },
@@ -172,7 +188,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A/B"
+                     "bass" : "B",
+                     "name" : "A"
                   }
                ]
             },
@@ -182,7 +199,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab/E"
+                     "bass" : "E",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -192,7 +210,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E/E(b)"
+                     "bass" : "Eb",
+                     "name" : "E"
                   }
                ]
             },
@@ -202,7 +221,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C/D"
+                     "bass" : "D",
+                     "name" : "C"
                   }
                ]
             },
@@ -212,7 +232,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab/G"
+                     "bass" : "G",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -222,42 +243,48 @@
             {
                "chords" : [
                   {
-                     "name" : "G/C"
+                     "bass" : "C",
+                     "name" : "G"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "B/C"
+                     "bass" : "C",
+                     "name" : "B"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "D#/A"
+                     "bass" : "A",
+                     "name" : "D#"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "C#/A"
+                     "bass" : "A",
+                     "name" : "C#"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G/A"
+                     "bass" : "A",
+                     "name" : "G"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb/A"
+                     "bass" : "A",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -276,5 +303,5 @@
       }
    ],
    "composer" : "Kenny Wheeler",
-   "key" : null
+   "key" : "C"
 }

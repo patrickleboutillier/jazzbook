@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Two For The Road;Mancini Henry;Ballad;G",
       "A:T44F#h7   |B7b9   |E-7 E-7/D |C^7 C^7/B |A-7   |D7sus D7b9 |Co7/G G^7 |F#-7 B7b9 ",
@@ -34,7 +34,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-7/D"
+                     "bass" : "D",
+                     "name" : "E-7"
                   }
                ]
             },
@@ -46,7 +47,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C^7/B"
+                     "bass" : "B",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -73,7 +75,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Co7/G"
+                     "bass" : "G",
+                     "name" : "Co7"
                   },
                   {
                      "beats" : 2,
@@ -178,7 +181,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C^7/B"
+                     "bass" : "B",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -190,7 +194,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "A-7/G"
+                     "bass" : "G",
+                     "name" : "A-7"
                   }
                ]
             }
@@ -221,7 +226,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-7/D"
+                     "bass" : "D",
+                     "name" : "E-7"
                   }
                ]
             },
@@ -233,7 +239,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C^7/B"
+                     "bass" : "B",
+                     "name" : "C^7"
                   }
                ]
             },
@@ -260,7 +267,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Co7/G"
+                     "bass" : "G",
+                     "name" : "Co7"
                   },
                   {
                      "beats" : 2,
@@ -271,7 +279,8 @@
             {
                "chords" : [
                   {
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             }
@@ -288,7 +297,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-7/D"
+                     "bass" : "D",
+                     "name" : "E-7"
                   }
                ]
             },
@@ -312,7 +322,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "E-7/D"
+                     "bass" : "D",
+                     "name" : "E-7"
                   }
                ]
             },
@@ -371,5 +382,5 @@
       }
    ],
    "composer" : "Henry Mancini",
-   "key" : null
+   "key" : "G"
 }

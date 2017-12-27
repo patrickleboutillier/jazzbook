@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Shadow Of Your Smile, The;Mandel Johnny;Bossa Nova;G",
       "A:T44F#-7   |B7b9   |E-7   |A7   |A-7   |D7   |G^7   |C^7   |F#h7   |B7b9   |E-7   |E-7/D   |C#h7   |F#7b9   |F#h7   |B7b13   ",
@@ -90,7 +90,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E-7/D"
+                     "bass" : "D",
+                     "name" : "E-7"
                   }
                ]
             },
@@ -250,5 +251,5 @@
       }
    ],
    "composer" : "Johnny Mandel",
-   "key" : null
+   "key" : "G"
 }

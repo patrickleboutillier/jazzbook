@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;I Will Wait For You;Legrand Michel;Medium Swing;F",
       "{T44A:D-7   |//D7b9 |G-7   |//Db7 |C7sus   |C7 C7b9 |Bb/F F^7 |Eh7 A7b9 |D-7   |//D7b9 |G-7   |G-7 Eh7 |D-/A, Bh7 |Eh7 A7b9 ",
@@ -125,7 +125,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb/F"
+                     "bass" : "F",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 2,
@@ -191,7 +192,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D-/A"
+                     "bass" : "A",
+                     "name" : "D-"
                   },
                   {
                      "beats" : 2,
@@ -287,5 +289,5 @@
       }
    ],
    "composer" : "Michel Legrand",
-   "key" : null
+   "key" : "F"
 }

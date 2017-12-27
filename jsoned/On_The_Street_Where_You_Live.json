@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Up Swing",
    "metadata" : [
       "IREALB;On The Street Where You Live;Loewe Frederick;Medium Up Swing;Bb",
       "{A:T44Bb^7 |C-7,F7|%% |  |Bb^7 |Dbo7 |C-7 |F7 |C-7 |Ab7#11 |Bb6 |G-6 |C-7 |F7 ",
@@ -214,7 +214,8 @@
                   },
                   {
                      "beats" : 0.5,
-                     "name" : "Bb/F"
+                     "bass" : "F",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -247,7 +248,8 @@
                   },
                   {
                      "beats" : 0.5,
-                     "name" : "A7/C(#)"
+                     "bass" : "C#",
+                     "name" : "A7"
                   }
                ]
             },
@@ -385,5 +387,5 @@
       }
    ],
    "composer" : "Frederick Loewe",
-   "key" : null
+   "key" : "Bb"
 }

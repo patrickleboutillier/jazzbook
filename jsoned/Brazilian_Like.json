@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Brazilian Like;Petrucciani Michel;Bossa Nova;Bb-",
       "A:T44Bb-7   |Db7/Ab   |Go7   |Gbo7   |Bb-7/F   |%   |C7b9   |F7b9   |Bb-7   |G7   |C7   |%   |C-7   |F7   ",
@@ -20,7 +20,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Db7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Db7"
                   }
                ]
             },
@@ -41,7 +42,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-7/F"
+                     "bass" : "F",
+                     "name" : "Bb-7"
                   }
                ]
             },
@@ -115,7 +117,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Db/F"
+                     "bass" : "F",
+                     "name" : "Db"
                   }
                ]
             },
@@ -233,5 +236,5 @@
       }
    ],
    "composer" : "Michel Petrucciani",
-   "key" : null
+   "key" : "Bb-"
 }

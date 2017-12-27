@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Little Waltz;Carter Ron;Waltz;F-",
       "A:T34F-   |C7/E   |Eb-7   |Db^7   |G7   |C7   |F-7   |C7   |F-   |C7/E   |Eb-7   |Db^7   |G7   |C7   |F-7   |C7   |F-   |%   ",
@@ -21,7 +21,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C7/E"
+                     "bass" : "E",
+                     "name" : "C7"
                   }
                ]
             },
@@ -77,7 +78,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C7/E"
+                     "bass" : "E",
+                     "name" : "C7"
                   }
                ]
             },
@@ -214,7 +216,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C7/E"
+                     "bass" : "E",
+                     "name" : "C7"
                   }
                ]
             },
@@ -265,5 +268,5 @@
       }
    ],
    "composer" : "Ron Carter",
-   "key" : null
+   "key" : "F-"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Infant Eyes;Shorter Wayne;Ballad;Eb",
       "A:T44G-7   |F-7   |Eb^7   |A13b9   |Gb^7   |F7sus   |Eb-7   |Bb7sus   |Bb7alt   ",
@@ -89,7 +89,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E^7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "E^7"
                   }
                ]
             },
@@ -211,5 +212,5 @@
       }
    ],
    "composer" : "Wayne Shorter",
-   "key" : null
+   "key" : "Eb"
 }

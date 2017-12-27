@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;Eye of the Hurricane;Hancock Herbie;Up Tempo Swing;F-",
       "A:T44F-6, Bb6, |Eb7sus, Ab7sus, |Db^7,  C7|NC   |Gb-7,  Bb-|NC   |Eb7#9/F,   |%   |Eb7#9/F,   |%   |NCT64   |T44F-7,   |F-7,   ",
@@ -75,7 +75,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7(#9/F)"
+                     "bass" : "F",
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
@@ -85,7 +86,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7(#9/F)"
+                     "bass" : "F",
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
@@ -185,14 +187,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb7(#9/F)"
+                     "bass" : "F",
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb7(#9/F)"
+                     "bass" : "F",
+                     "name" : "Eb7(#9)"
                   }
                ]
             },
@@ -234,5 +238,5 @@
       }
    ],
    "composer" : "Herbie Hancock",
-   "key" : null
+   "key" : "F-"
 }

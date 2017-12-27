@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Waltz",
    "metadata" : [
       "IREALB;Look To The Rainbow;Lane Burton;Waltz;Eb",
       "{A:T34Eb6   |Ab^7   |G-11   |<LyAgICAvICAgIC8=>F-11 Bb7 |Eb6   |<LyAgICAvICAgIC8=>Bb-7 Eb7 |Ab6   |Bb7   |F-11   |Bb7   |F-11   |Bb7   |F-6   |Bb7   |Ab6   |Eb6   ",
@@ -42,7 +42,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Eb6/B(b)"
+                           "bass" : "Bb",
+                           "name" : "Eb6"
                         }
                      ]
                   },
@@ -410,5 +411,5 @@
       }
    ],
    "composer" : "Burton Lane",
-   "key" : null
+   "key" : "Eb"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;So In Love;Porter Cole;Up Tempo Swing;F-",
       "{A:T44F- |% |Gh7 |C7b9 |F- |% |Bb-7 |% |Eb7 |% ",
@@ -357,7 +357,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F-7/E(b)"
+                     "bass" : "Eb",
+                     "name" : "F-7"
                   }
                ]
             },
@@ -395,5 +396,5 @@
       }
    ],
    "composer" : "Cole Porter",
-   "key" : null
+   "key" : "F-"
 }

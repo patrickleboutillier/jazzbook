@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;Last Train Home;Metheny Pat;Even 8ths;Bb",
       "A:T44Bb   |C/Bb   |Ab   |Bb   |Bb,   |D- D-7 |G-   |Eb   |F7sus   |%   |F7   |G-   |D7/F#   |G-/F   |Eb^7   |%   |D-7   |G-7   |%%   |    |G-7,   |Eb6/Bb   |%   |%   |F   ",
@@ -20,7 +20,8 @@
             {
                "chords" : [
                   {
-                     "name" : "C/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C"
                   }
                ]
             },
@@ -98,14 +99,16 @@
             {
                "chords" : [
                   {
-                     "name" : "D7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G-/F"
+                     "bass" : "F",
+                     "name" : "G-"
                   }
                ]
             },
@@ -147,7 +150,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Eb6/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb6"
                   }
                ]
             },
@@ -177,14 +181,16 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F"
                   }
                ]
             },
@@ -196,14 +202,16 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             },
@@ -215,14 +223,16 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/B(b)"
+                     "bass" : "Bb",
+                     "name" : "F"
                   }
                ]
             },
@@ -234,14 +244,16 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             }
@@ -249,5 +261,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "Bb"
 }

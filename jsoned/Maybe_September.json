@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Samba",
    "metadata" : [
       "IREALB;Maybe September;Faith Percy;Samba;Bb-",
       "{A:T44Bb- Bb-/A |Bb-7/Ab Gh7 |Gb^7   |F7   |Bb-9   |Eb13 Bb-7,A13,|Ab7sus   |Ab9   ",
@@ -38,7 +38,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb-7/A(b)"
+                           "bass" : "Ab",
+                           "name" : "Bb-7"
                         }
                      ]
                   },
@@ -59,7 +60,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Ch7/F"
+                           "bass" : "F",
+                           "name" : "Ch7"
                         }
                      ]
                   },
@@ -95,7 +97,8 @@
                         },
                         {
                            "beats" : 2,
-                           "name" : "Bb-7/A(b)"
+                           "bass" : "Ab",
+                           "name" : "Bb-7"
                         }
                      ]
                   },
@@ -116,7 +119,8 @@
                   {
                      "chords" : [
                         {
-                           "name" : "Bb-7/F"
+                           "bass" : "F",
+                           "name" : "Bb-7"
                         }
                      ]
                   },
@@ -155,7 +159,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb-/A"
+                     "bass" : "A",
+                     "name" : "Bb-"
                   }
                ]
             },
@@ -163,7 +168,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Bb-7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Bb-7"
                   },
                   {
                      "beats" : 2,
@@ -245,14 +251,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
@@ -273,7 +281,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb^7/F"
+                     "bass" : "F",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -306,14 +315,16 @@
             {
                "chords" : [
                   {
-                     "name" : "Ch7/F"
+                     "bass" : "F",
+                     "name" : "Ch7"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G7/F"
+                     "bass" : "F",
+                     "name" : "G7"
                   }
                ]
             },
@@ -341,7 +352,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ch7/F"
+                     "bass" : "F",
+                     "name" : "Ch7"
                   }
                ]
             }
@@ -349,5 +361,5 @@
       }
    ],
    "composer" : "Percy Faith",
-   "key" : null
+   "key" : "Bb-"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Always And Forever;Metheny Pat;Ballad;A-",
       "i:T44A-   |D-6   |A-   |D-6 D-11 ",
@@ -79,7 +79,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "E7/G(#)"
+                     "bass" : "G#",
+                     "name" : "E7"
                   }
                ]
             },
@@ -99,7 +100,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
@@ -142,11 +144,13 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "F-7/G"
+                     "bass" : "G",
+                     "name" : "F-7"
                   },
                   {
                      "beats" : 2,
-                     "name" : "E/G(#)"
+                     "bass" : "G#",
+                     "name" : "E"
                   }
                ]
             }
@@ -192,7 +196,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -211,7 +216,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Ab/C"
+                     "bass" : "C",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -288,7 +294,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "E7/G(#)"
+                     "bass" : "G#",
+                     "name" : "E7"
                   }
                ]
             },
@@ -308,7 +315,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "C^7/G"
+                     "bass" : "G",
+                     "name" : "C^7"
                   },
                   {
                      "beats" : 2,
@@ -337,7 +345,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "F/G"
+                     "bass" : "G",
+                     "name" : "F"
                   }
                ]
             },
@@ -351,7 +360,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F-6/G"
+                     "bass" : "G",
+                     "name" : "F-6"
                   }
                ]
             },
@@ -365,7 +375,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F-6/G"
+                     "bass" : "G",
+                     "name" : "F-6"
                   }
                ],
                "comments" : [
@@ -387,7 +398,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F-6/G"
+                     "bass" : "G",
+                     "name" : "F-6"
                   }
                ]
             },
@@ -402,7 +414,8 @@
                "chords" : [
                   {
                      "beats" : 3,
-                     "name" : "F-6/G"
+                     "bass" : "G",
+                     "name" : "F-6"
                   },
                   {
                      "beats" : 1,
@@ -422,5 +435,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "A-"
 }

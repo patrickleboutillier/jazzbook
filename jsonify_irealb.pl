@@ -28,11 +28,12 @@ while (<>){
 	if ($line =~ /^IREALB;(.*?);(.*?);(.*?);(.*?)$/){
 		$tune->{title} = $1 ;
 		$tune->{composer} = $2 ;
+		$tune->{style} = $3 ;
+		$tune->{key} = $4 ;
+
 		if ($tune->{composer} =~ /^([^s]+)\s([^\s]+)$/){
 			$tune->{composer} = "$2 $1" ;
 		}
-		$tune->{style} = $3 ;
-		$tune->{key} = $4 ;
 	}
 	else {
 		# Each line represents a section.
@@ -51,6 +52,11 @@ while (<>){
 			$section->{no} = $no ;
 			push @bars, parse_bars($section, $line) ;
 			push @{$cur_repeat->{endings}}, $section ;
+		}
+		elsif ($line =~ s/^\t//){
+			# Sub-section, can only be used within a repeat section.
+			push @bars, parse_bars($section, $line) ;
+			push @{$cur_repeat->{sections}}, $section ;
 		}
 		else {
 			push @bars, parse_bars($section, $line) ;
@@ -156,8 +162,10 @@ sub parse_bar {
 		}
 		elsif ($b =~ s/^([_A-G][\/\#\^\-\+\w]*)//){
 			my $chord = $1 ;
-			$len++ ; 
-			$last_chord = { name => fix_chord($chord), units => 1 } ;
+			$len++ ;
+			my ($name, $bass) = fix_chord($chord) ;
+			$last_chord = { name => $name, units => 1 } ;
+			$last_chord->{bass} = $bass if $bass ;
 			push @cs, $last_chord ;
 		}
 		elsif ($b =~ s/^\((.*?)\)//){
@@ -214,9 +222,11 @@ sub parse_bar {
 sub fix_chord {
 	my $c = shift ;
 
-	if ($c =~ /^([_A-G](b|#)?)(.*)$/){
+	my $bass = undef ;
+	if ($c =~ /^([_A-G](b|#)?)([^\/]*)(\/(.*))?$/){
 		my $r = $1 ;
 		my $q = $3 ;
+		my $b = $5 ;
 
 		$r =~ s/_/ /g ;
 
@@ -226,9 +236,11 @@ sub fix_chord {
 		$q =~ s/(b|#)(.*)$/\(\1\2\)/g ;
 
 		$c = "$r$q" ;
+			
+		$bass = $b if $b ;
 	}
 
-	return $c ;	
+	return ($c, $bass) ;	
 }
 
 

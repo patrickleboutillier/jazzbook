@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;When Lights Are Low;Carter Benny;Medium Swing;F",
       "{A:T44F^7 G-7 |A-7 G-7 |F^7 G-7 |A-7 D7#9 |G-7 G-7/F |Eb7#11 D7 |G-7 C7 ",
@@ -105,7 +105,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -291,7 +292,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "G-7/F"
+                     "bass" : "F",
+                     "name" : "G-7"
                   }
                ]
             },
@@ -336,5 +338,5 @@
       }
    ],
    "composer" : "Benny Carter",
-   "key" : null
+   "key" : "F"
 }

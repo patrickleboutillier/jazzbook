@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;You're My Everything;Warren Harry;Medium Swing;C",
       "A:T44A-7   |G-7 C7 |F#-7 B7 |E-7 A7 |D-7   |%   |G7   |F-^7   |E-7   |Eb-7 Ab7 |D-7 D-7/C |Bh7 E7 |A-7   |D7   |D-7   |G7   ",
@@ -104,7 +104,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -196,7 +197,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -291,5 +293,5 @@
       }
    ],
    "composer" : "Harry Warren",
-   "key" : null
+   "key" : "C"
 }

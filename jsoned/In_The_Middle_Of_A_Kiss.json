@@ -88,7 +88,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C-7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C-7"
                   }
                ]
             },
@@ -153,7 +154,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Bb^7/A"
+                     "bass" : "A",
+                     "name" : "Bb^7"
                   }
                ]
             },
@@ -434,7 +436,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-6/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eb-6"
                   }
                ]
             },

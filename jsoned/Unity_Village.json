@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Unity Village;Metheny Pat;Ballad;A-",
       "A:T44A-   |E7   |F^7   |%   |A-   |E7   |F^7   |Bb^7,   ",
@@ -116,7 +116,8 @@
             {
                "chords" : [
                   {
-                     "name" : "E/C"
+                     "bass" : "C",
+                     "name" : "E"
                   }
                ]
             },
@@ -132,28 +133,32 @@
             {
                "chords" : [
                   {
-                     "name" : "C/D"
+                     "bass" : "D",
+                     "name" : "C"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "G/D"
+                     "bass" : "D",
+                     "name" : "G"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Eb/D"
+                     "bass" : "D",
+                     "name" : "Eb"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   }
                ]
             },
@@ -165,14 +170,16 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "C/B(b)"
+                     "bass" : "Bb",
+                     "name" : "C"
                   }
                ]
             },
             {
                "chords" : [
                   {
-                     "name" : "F/A"
+                     "bass" : "A",
+                     "name" : "F"
                   }
                ]
             },
@@ -180,7 +187,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "B/F"
+                     "bass" : "F",
+                     "name" : "B"
                   },
                   {
                      "beats" : 2,
@@ -200,5 +208,5 @@
       }
    ],
    "composer" : "Pat Metheny",
-   "key" : null
+   "key" : "A-"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Sweet Lorraine;Burwell Cliff;Medium Swing;G",
       "{A:T44G6,F7,E7 |A-7 D7,B7,|E-7,Eb7,D-7,G7,|C7 B7b9 |E7 A7 |A-7 D7 ",
@@ -63,7 +63,8 @@
                      "chords" : [
                         {
                            "beats" : 2,
-                           "name" : "G6/D"
+                           "bass" : "D",
+                           "name" : "G6"
                         },
                         {
                            "beats" : 1,
@@ -400,7 +401,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "G6/D"
+                     "bass" : "D",
+                     "name" : "G6"
                   },
                   {
                      "beats" : 2,
@@ -413,5 +415,5 @@
       }
    ],
    "composer" : "Cliff Burwell",
-   "key" : null
+   "key" : "G"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Mas Que Nada;Ben Jorge;Latin;F-",
       "A:T44F-7 Bb7 |%   |Bb-7   |Eb7   |F-7   |C7sus   |F-7 Bb7 |%   |F-7 Bb7 |F-7 C-,B-,|Bb-7   |Eb7   |F-7   |C7sus   |F-7   |C7#9   ",
@@ -224,7 +224,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb7/D"
+                     "bass" : "D",
+                     "name" : "Bb7"
                   }
                ]
             },
@@ -232,7 +233,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eb7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Eb7"
                   },
                   {
                      "beats" : 2,
@@ -311,5 +313,5 @@
       }
    ],
    "composer" : "Jorge Ben",
-   "key" : null
+   "key" : "F-"
 }

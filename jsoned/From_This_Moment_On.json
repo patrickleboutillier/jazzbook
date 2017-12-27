@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Up Tempo Swing",
    "metadata" : [
       "IREALB;From This Moment On;Porter Cole;Up Tempo Swing;F-",
       "{A:T44F-6   |%   |Gh7   |C7b9   |Bb-6/F   |F-6   |Eb-7   |Ab7   |Db^7   |%   |Gb7   |%   |Ab6   |%   ",
@@ -123,7 +123,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Bb-6/F"
+                     "bass" : "F",
+                     "name" : "Bb-6"
                   }
                ]
             },
@@ -289,5 +290,5 @@
       }
    ],
    "composer" : "Cole Porter",
-   "key" : null
+   "key" : "F-"
 }

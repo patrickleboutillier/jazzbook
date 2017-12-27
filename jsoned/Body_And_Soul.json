@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Body And Soul;Green Johnny;Ballad;Db",
       "{A:T44Eb-7 Bb7b13 |Eb-7 Ab7 |Db^7 Gb7 |F-7 Eo7 |Eb-7 Eb-7/Db |Ch7 F7b9 |Bb-7 Eb-7,Ab7,",
@@ -117,7 +117,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Eb-7"
                   }
                ]
             },
@@ -171,7 +172,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "D^7/F(#)"
+                     "bass" : "F#",
+                     "name" : "D^7"
                   },
                   {
                      "beats" : 1,
@@ -323,7 +325,8 @@
                   },
                   {
                      "beats" : 2,
-                     "name" : "Eb-7/D(b)"
+                     "bass" : "Db",
+                     "name" : "Eb-7"
                   }
                ]
             },
@@ -380,5 +383,5 @@
       }
    ],
    "composer" : "Johnny Green",
-   "key" : null
+   "key" : "Db"
 }

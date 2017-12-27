@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Even 8ths",
    "metadata" : [
       "IREALB;So Tender;Jarrett Keith;Even 8ths;A",
       "A:T44A^7   |F#-7   |G#-7   |G-7   |F#-7   |B7   |E^7   |C7#5   |F7b9#5   |Bb-7   |Eb7b9   |Ab^7   |Ch7   |F7b9   |Bb^7#5   |Bb^7   ",
@@ -151,7 +151,8 @@
             {
                "chords" : [
                   {
-                     "name" : "D-7/C"
+                     "bass" : "C",
+                     "name" : "D-7"
                   }
                ]
             },
@@ -274,5 +275,5 @@
       }
    ],
    "composer" : "Keith Jarrett",
-   "key" : null
+   "key" : "A"
 }

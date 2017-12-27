@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Ballad",
    "metadata" : [
       "IREALB;Quiet Now;Zeitlin Denny;Ballad;C",
       "T44A:A-7 F^7 |E7 A-7 |D-7,G7,C^7 |Bb7#11 A7#5 |Dh7/Ab G7,E7,|A-7 D7#11 |Eb^7 Ab^7 |Db9   ",
@@ -68,7 +68,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Dh7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Dh7"
                   },
                   {
                      "beats" : 1,
@@ -172,7 +173,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Eh7/B(b)"
+                     "bass" : "Bb",
+                     "name" : "Eh7"
                   },
                   {
                      "beats" : 1,
@@ -308,7 +310,8 @@
             {
                "chords" : [
                   {
-                     "name" : "F#-9/B"
+                     "bass" : "B",
+                     "name" : "F#-9"
                   }
                ]
             },
@@ -380,7 +383,8 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "Dh7/A(b)"
+                     "bass" : "Ab",
+                     "name" : "Dh7"
                   },
                   {
                      "beats" : 1,
@@ -476,5 +480,5 @@
       }
    ],
    "composer" : "Denny Zeitlin",
-   "key" : null
+   "key" : "C"
 }

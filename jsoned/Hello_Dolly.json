@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Hello Dolly;Herman Jerry;Medium Swing;Bb",
       "A:T44Bb   |%   |G-   |%   |Bb^7   |Dbo7   |C-7   |F7   |C-7   |%   |Ab/C   |%   |C-7   |F7   |D-7 Dbo7 |C-7 F7 ",
@@ -72,7 +72,8 @@
             {
                "chords" : [
                   {
-                     "name" : "Ab/C"
+                     "bass" : "C",
+                     "name" : "Ab"
                   }
                ]
             },
@@ -278,7 +279,8 @@
                   },
                   {
                      "beats" : 1,
-                     "name" : "Bb/D"
+                     "bass" : "D",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 1,
@@ -294,7 +296,8 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "Bb/F"
+                     "bass" : "F",
+                     "name" : "Bb"
                   },
                   {
                      "beats" : 1,
@@ -311,5 +314,5 @@
       }
    ],
    "composer" : "Jerry Herman",
-   "key" : null
+   "key" : "Bb"
 }

@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Scene;Harrell Tom;Medium Swing;G",
       "A:T34C-7   |F-7   |Bb-7   |Eb-7   |Ab-7   |Db-7   |F#-7   |B-7   ",
@@ -142,7 +142,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A/B"
+                     "bass" : "B",
+                     "name" : "A"
                   }
                ]
             },
@@ -260,7 +261,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-7/D"
+                     "bass" : "D",
+                     "name" : "A-7"
                   }
                ]
             },
@@ -282,5 +284,5 @@
       }
    ],
    "composer" : "Tom Harrell",
-   "key" : null
+   "key" : "G"
 }

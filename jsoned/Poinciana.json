@@ -1,5 +1,5 @@
 {
-   "style" : null,
+   "style" : "Latin",
    "metadata" : [
       "IREALB;Poinciana;Simon Nat;Latin;D",
       "{i:T44A7sus   |%   |%   |%   |A7sus   |%   |D6   |%   ",
@@ -67,7 +67,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-/D"
+                     "bass" : "D",
+                     "name" : "A-"
                   }
                ]
             },
@@ -167,7 +168,8 @@
             {
                "chords" : [
                   {
-                     "name" : "A-/D"
+                     "bass" : "D",
+                     "name" : "A-"
                   }
                ]
             },
@@ -212,5 +214,5 @@
       }
    ],
    "composer" : "Nat Simon",
-   "key" : null
+   "key" : "D"
 }
