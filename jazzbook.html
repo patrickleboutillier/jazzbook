@@ -80,7 +80,7 @@ body {
 }
 
 .q2 {
-	font-size: 0.90em ;
+	font-size: 0.82em ;
 }
 
 .chord {
@@ -270,13 +270,15 @@ function section(section){
 					}
 				}
 				for (var i = 0 ; i < ending.bars.length ; i++){
+					var label = fix_label(ending.label) ;
+					var description = (ending.description ? ending.description : "") ;
 
 					var first = (i == 0 ? true : false) ;
 					var last = (i == (ending.bars.length - 1) ? true : false) ;
 
 					// For repeat section, we never use double bar lines or repeats
-					prebar("", false, false) ;
-					bar(ending.bars[i], (first ? "&nbsp;" + ending.no + "." : ""), first) ;
+					prebar((first ? label : ""), false, false) ;
+					bar(ending.bars[i], (first ? "&nbsp;" + ending.no + ". " + description : "") , first) ;
 
 					if ((last)&&(ending.no == 1)){
 						// Force a repeat bar line
@@ -489,8 +491,10 @@ function chord(tr, chord, beats){
 	}
 
 	var c = chord.name ;
+	var bass = chord.bass ;
 	var matches = c.match(/^([_A-G])([b#]+|)([\^\-h]+|)(.*)$/) ;
 	if ((matches)&&(matches.length > 0)){
+		var root = matches[1] ;
 		var acc = matches[2] ;
 		var sym = matches[3] ;
 		var rest = matches[4] ;
@@ -506,12 +510,17 @@ function chord(tr, chord, beats){
 
 		// rest = rest.replace(/\/(.*)/, "<br/>/$1") ;
 
-		td.innerHTML = matches[1] + 
+		td.innerHTML = root + 
 			(acc ? "<span class='q2'><sup>" + acc + "</sup></span>" : "") +
 			"<span class='q'>" + sym + "<sup>" + rest + "</sup></span>" ;
 	}
 	else {
 		td.innerHTML = c ;
+	}
+
+	if (bass){
+		bass = bass.replace(/b/g, "&#x044C;") ;
+		td.innerHTML += "<span class='q'><sup>/" + bass + "</sup></span>" ; ;
 	}
 
 	td.innerHTML += "&nbsp;" ;
