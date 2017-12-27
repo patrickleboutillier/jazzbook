@@ -3,8 +3,8 @@
    "metadata" : [
       "IREALB;La Vie En Rose;Louiguy-Piaf;Slow Swing;C",
       "{A:T44C,   |%   |C^7,   |%   |C6,   |%   |D-7,   |G7,   |D-7,   |%   |G7,   |%   |D-,   |G7   |Ao7,   |D-7 G7 ",
-      "B:C,   |%   |C^7,   |%   |C6,   |%   |F   |%   |F6   |F-6   |C^9   |%   |F6   |Ebo7   |D-7   |Fh7 G7 ",
-      "C:C,   |%   |C^7,   |%   |F,   |D-7, Fh7 ",
+      "\tB:C,   |%   |C^7,   |%   |C6,   |%   |F   |%   |F6   |F-6   |C^9   |%   |F6   |Ebo7   |D-7   |Fh7 G7 ",
+      "\tC:C,   |%   |C^7,   |%   |F,   |D-7, Fh7 ",
       "\t1.C D-7 |Eb-6, G9 ",
       "\t2.C Ab9 |C   "
    ],
@@ -167,153 +167,155 @@
             }
          ],
          "label" : "A",
-         "repeat" : 1
-      },
-      {
-         "bars" : [
+         "repeat" : 1,
+         "sections" : [
             {
-               "chords" : [
+               "bars" : [
                   {
-                     "name" : "C"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C^7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C6"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F6"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F-6"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C^9"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F6"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "Ebo7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "D-7"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "Fh7"
+                     "chords" : [
+                        {
+                           "name" : "C"
+                        }
+                     ]
                   },
                   {
-                     "beats" : 2,
-                     "name" : "G7"
-                  }
-               ]
-            }
-         ],
-         "label" : "B"
-      },
-      {
-         "bars" : [
-            {
-               "chords" : [
-                  {
-                     "name" : "C"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "C^7"
-                  }
-               ]
-            },
-            {
-               "repeat_last" : 1
-            },
-            {
-               "chords" : [
-                  {
-                     "name" : "F"
-                  }
-               ]
-            },
-            {
-               "chords" : [
-                  {
-                     "beats" : 2,
-                     "name" : "D-7"
+                     "repeat_last" : 1
                   },
                   {
-                     "beats" : 2,
-                     "name" : "Fh7"
+                     "chords" : [
+                        {
+                           "name" : "C^7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C6"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F-6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C^9"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Ebo7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Fh7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "G7"
+                        }
+                     ]
                   }
-               ]
+               ],
+               "label" : "B"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C^7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "Fh7"
+                        }
+                     ]
+                  }
+               ],
+               "label" : "C"
             }
-         ],
-         "label" : "C"
+         ]
       }
    ],
    "composer" : "Louiguy-Piaf",

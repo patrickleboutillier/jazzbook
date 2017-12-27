@@ -305,7 +305,7 @@ function section(sect){
 				for (var i = 0 ; i < padding.length ; i++){
 					prebar("", false, false, true) ;
 					bar(padding[i], "", false) ;
-					postbar(false, false, true) ;
+					postbar(false, false, (i < padding.length - 1)) ;
 
 					col++ ;
 					if (col == 4){
