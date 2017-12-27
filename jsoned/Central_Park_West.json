@@ -12,15 +12,15 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "beats" : 8,
+                     "beats" : 2,
                      "name" : "B^7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "E-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "A7"
                   }
                ]
@@ -28,15 +28,15 @@
             {
                "chords" : [
                   {
-                     "beats" : 8,
+                     "beats" : 2,
                      "name" : "D^7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "Bb-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "Eb7"
                   }
                ]
@@ -44,15 +44,15 @@
             {
                "chords" : [
                   {
-                     "beats" : 8,
+                     "beats" : 2,
                      "name" : "Ab^7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "G-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "C7"
                   }
                ]
@@ -60,15 +60,15 @@
             {
                "chords" : [
                   {
-                     "beats" : 8,
+                     "beats" : 2,
                      "name" : "F^7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "C#-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "F#7"
                   }
                ]
@@ -76,15 +76,15 @@
             {
                "chords" : [
                   {
-                     "beats" : 8,
+                     "beats" : 2,
                      "name" : "B^7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "E-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "A7"
                   }
                ]
@@ -92,15 +92,15 @@
             {
                "chords" : [
                   {
-                     "beats" : 8,
+                     "beats" : 2,
                      "name" : "D^7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "C#-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "F#7"
                   }
                ]
@@ -130,16 +130,16 @@
             {
                "chords" : [
                   {
-                     "beats" : 8,
+                     "beats" : 2,
                      "bass" : "B",
                      "name" : "C#-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "C#-7"
                   },
                   {
-                     "beats" : 4,
+                     "beats" : 1,
                      "name" : "F#7"
                   }
                ]

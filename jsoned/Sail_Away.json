@@ -80,11 +80,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "Bb-7"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "Eb9"
                   }
                ]
@@ -220,12 +220,12 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "B",
                      "name" : "A"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "B7"
                   }
                ]
@@ -254,11 +254,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "G#sus"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "Bsus"
                   }
                ]
@@ -287,11 +287,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "/"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "E7"
                   }
                ]
@@ -313,12 +313,12 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "D",
                      "name" : "C^"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "C",
                      "name" : "Bb^"
                   }
@@ -327,12 +327,12 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "Bb",
                      "name" : "Ab^"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "G7"
                   }
                ]
@@ -424,11 +424,11 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "Gsus"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "G7"
                   }
                ]
@@ -501,11 +501,11 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "F"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "F#",
                      "name" : "D"
                   }
@@ -514,12 +514,12 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "G",
                      "name" : "E-"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "G#",
                      "name" : "E"
                   }
@@ -528,12 +528,12 @@
             {
                "chords" : [
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "bass" : "A",
                      "name" : "F"
                   },
                   {
-                     "beats" : 0.5,
+                     "beats" : 2,
                      "name" : "Bb^"
                   }
                ]

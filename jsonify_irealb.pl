@@ -197,7 +197,7 @@ sub parse_bar {
 					warn Dumper(\@cs) ;
 				}
 				else {
-					$mul = $len / $meter_nb ;
+					$mul = $meter_nb / $len ;
 					foreach my $e (@cs){
 						if (exists($e->{units})){
 							my $u = delete $e->{units} ;

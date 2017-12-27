@@ -1,0 +1,150 @@
+{
+   "style" : "Funk",
+   "metadata" : [
+      "IREALB;Continuum;Pastorius Jaco;Funk;E",
+      "{A:T44E^7   |%   |%   |%   |%   ",
+      "\t1.A^7   |%   |E^7   ",
+      "\t2.Bb-7   |A-7   |Eo7 E^7 |E^7<RmluZQ==>   |Eb7sus   |D7sus   |E^7   |B-7/E A-7/E |E^7   <QWZ0ZXIgc29sb3MsIEQuQy4gYWwgZmluZQ==> "
+   ],
+   "title" : "Continuum",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "E^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A^7"
+                        }
+                     ]
+                  },
+                  {
+                     "repeat_last" : 1
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E^7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "name" : "Eo7"
+                        },
+                        {
+                           "beats" : 2,
+                           "name" : "E^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E^7"
+                        }
+                     ],
+                     "comments" : [
+                        "1-Fine"
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Eb7sus"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D7sus"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 2,
+                           "bass" : "E",
+                           "name" : "B-7"
+                        },
+                        {
+                           "beats" : 2,
+                           "bass" : "E",
+                           "name" : "A-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E^7"
+                        }
+                     ],
+                     "comments" : [
+                        "4-After solos, D.C. al fine"
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
+      }
+   ],
+   "composer" : "Pastorius Jaco",
+   "key" : "E"
+}
