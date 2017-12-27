@@ -38,7 +38,7 @@ sub list {
 	my $title = ucfirst($type) ;
 	print "<H2>$title ($nb tunes)</H2>\n" ;
 	foreach my $f (sort @files){
-		print "<A HREF='jazzbook.html?t=$f'>$f</A>" ;
+		print "<A HREF='jazzbook.html?b=irealb&t=$f'>$f</A>" ;
 		print "<BR>\n" ;
 	}
 }

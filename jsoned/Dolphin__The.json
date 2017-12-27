@@ -1,0 +1,388 @@
+{
+   "style" : "Bossa Nova",
+   "metadata" : [
+      "IREALB;Dolphin, The;Eca Luiz;Bossa Nova;E",
+      "{i:T44F#^7   |G7#11  <M3g=> ",
+      "F#^7   |E7   ",
+      "A:A^7   |B7/A   |Ab7alt   |Db7alt   |C^7   |%   |F#h7   |B7b9   ",
+      "B:E-7   |A7sus   |D^7   |F7b13   |Bb-9 Bb- |Bb-^7 Bb-7 |Bb-6   |A7b9#9   ",
+      "C:D^7   |E-7 A7 |C#h7   |F#7b13   |Bh7   |E7b9   |D-7   |G7   |B-7   |E7b9sus   |C#h7   |F#7alt   |B7alt   |E7alt   ",
+      "A:A^7   |B7/A   |G#7alt   |C#7alt   |F#7   |B7   |E^7   |C7/E   |E^7 |C7/E |B^7 |E^7 "
+   ],
+   "title" : "Dolphin, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "F#^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7(#11)"
+                  }
+               ],
+               "comments" : [
+                  "3-3x"
+               ]
+            }
+         ],
+         "label" : "i",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F#^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "A",
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#h7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7(b9)"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7(b13)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7(b9#9)"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#h7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7(b13)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7(b9sus)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#h7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7alt"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "A",
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G#7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C#7alt"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "E",
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "E",
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E^7"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      }
+   ],
+   "composer" : "Luiz Eca",
+   "key" : "E"
+}

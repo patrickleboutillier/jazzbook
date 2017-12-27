@@ -155,7 +155,7 @@ sub parse_bar {
 			$bar->{repeat_last} = 1 ;
 			$last_chord = undef ;
 		}
-		elsif ($b =~ s/^(NC\s*)//){
+		elsif ($b =~ s/^(NC)//){
 			$len++ ; 
 			$last_chord = { name => 'NC', units => 1 } ;
 			push @cs, $last_chord ;

@@ -1,0 +1,134 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Cheryl;Parker Charlie;Medium Swing;C",
+      "T44C7   |D-7 G7 |C7   |G-7 C7 |F7   |%   |C7   |Eh7 A7 |Dh7   |G7   |C7 F6,F#o,|C7/G G7,C7<Qmx1ZXMgaW4gQw==>"
+   ],
+   "title" : "Cheryl",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Dh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F6"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F#o"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "bass" : "G",
+                     "name" : "C7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7"
+                  }
+               ],
+               "comments" : [
+                  "4-Blues in C"
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Charlie Parker",
+   "key" : "C"
+}

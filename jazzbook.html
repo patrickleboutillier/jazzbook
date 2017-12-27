@@ -41,7 +41,7 @@ body {
 	font-size: 1.25em ;
 }
 
-.repeat {
+.smaller {
 	font-size: 0.75em ;
 }
 
@@ -85,12 +85,12 @@ body {
 
 .chord {
 	font-size: 3em ;
-	// font-weight: bold ;
+	line-height: 1 ;
 }
 
 .smallchord {
 	font-size: 2.25em ;
-	/* font-weight: bold ; */
+	line-height: 1 ;
 }
 
 .comment {
@@ -145,6 +145,7 @@ Each chord can contain:
 
 var params = parse_query_string() ;
 var name = params['t'] ;
+var book = params['b'] ;
 
 var _debug = params['debug'] ;
 var _beats = params['beats'] ;
@@ -155,7 +156,7 @@ var tbl ;
 var top_tr, mid_tr, bot_tr ;
 
 
-var dir = "/tunes/" ;
+var dir = "/" + book + "/" ;
 var xmlhttp = new XMLHttpRequest() ;
 xmlhttp.onreadystatechange = function(){
 	if (this.readyState == 4 && this.status == 200){
@@ -257,6 +258,7 @@ function section(sect){
 	}
 
 
+	var padding = [] ;
 	if ((sect.sections)&&(sect.sections.length > 0)){
 		for (var i = 0 ; i < sect.sections.length ; i++){
 			var sub = sect.sections[i] ;
@@ -265,15 +267,18 @@ function section(sect){
 			if (ending > 0){
 				// Section ending.
 				if ((sub.bars)&&(sub.bars.length > 0)){
-					var padding = [] ;
-					if ((i < sect.sections.length - 1)&&((sub.bars.length % 4) > 0)){
-						// In order to align the starts of the repeat section, we must ensure the endings
-						// are of full line lengths (multiples of 4).
-						var extra = 4 - (sub.bars.length % 4) ;
-						for (var j = 0 ; j < extra ; j++){
-							padding.push({}) ;
+					// Add accumulated padding
+					for (var j = 0 ; j < padding.length ; j++){
+						prebar("", false, false, true) ;
+						bar(padding[j], "", false) ;
+						postbar(false, false, (j < padding.length - 1)) ;
+	
+						col++ ;
+						if (col == 4){
+							col = 0 ;
 						}
 					}
+
 					for (var j = 0 ; j < sub.bars.length ; j++){
 						var label = fix_label(sub.label) ;
 						var description = (sub.description ? sub.description : "") ;
@@ -298,18 +303,18 @@ function section(sect){
 							col = 0 ;
 						}
 					}
-		
-					// Add padding
-					for (var j = 0 ; j < padding.length ; j++){
-						prebar("", false, false, true) ;
-						bar(padding[j], "", false) ;
-						postbar(false, false, (j < padding.length - 1)) ;
-	
-						col++ ;
-						if (col == 4){
-							col = 0 ;
+
+					// Prepare padding.
+					padding = [] ;
+					if ((i < sect.sections.length - 1)&&((sub.bars.length % 4) > 0)){
+						// In order to align the starts of the repeat section, we must ensure the endings
+						// are of full line lengths (multiples of 4).
+						var extra = 4 - (sub.bars.length % 4) ;
+						for (var j = 0 ; j < extra ; j++){
+							padding.push({}) ;
 						}
 					}
+		
 				}
 			}
 			else {
@@ -420,7 +425,7 @@ function bar(bar, description, ending = 0){
 		td.innerHTML += "<span class='description'>" + description + "</span>" ;
 	}
 	if (bar.coda){
-		td.innerHTML += " -<span class='symbol'>&#x00A4;</span>" ;
+		td.innerHTML += " <span class='symbol' style='float: right'>&#x00A4;</span>" ;
 	}
 
 	td = mid_tr.insertCell() ;
@@ -446,14 +451,14 @@ function bar(bar, description, ending = 0){
 		td.className = "chord" ;
 		td.setAttribute('colspan', beats_per_bar) ;
 		td.style.textAlign = 'center' ;
-		td.innerHTML = "<span class='repeat'>%</span>" ;
+		td.innerHTML = "<span class='smaller'>%</span>" ;
 	}
 	else if (bar.repeat_last == 2){
 		td = tr.insertCell() ;
 		td.className = "chord" ;
 		td.setAttribute('colspan', beats_per_bar) ;
 		td.style.textAlign = 'right' ;
-		td.innerHTML = "<span class='repeat'>%%</span>" ;
+		td.innerHTML = "<span class='smaller'>%%</span>" ;
 	}
 	else {
 		if ((bar.chords)&&(bar.chords.length > 0)){
@@ -501,7 +506,7 @@ function chord(tr, chord, beats){
 
 	var c = chord.name ;
 	var bass = chord.bass ;
-	var matches = c.match(/^([_A-G])([b#]+|)([\^\-h]+|)(.*)$/) ;
+	var matches = c.match(/^([\sA-G])([b#]+|)([\^\-h]+|)(.*)$/) ;
 	if ((matches)&&(matches.length > 0)){
 		var root = matches[1] ;
 		var acc = matches[2] ;
@@ -517,14 +522,17 @@ function chord(tr, chord, beats){
 	    rest = rest.replace(/#/g, "<sup>#</sup>") ;
 		rest = rest.replace(/b/g, "<sup>&#x044C;</sup>") ;
 
-		// rest = rest.replace(/\/(.*)/, "<br/>/$1") ;
-
 		td.innerHTML = root + 
 			(acc ? "<span class='q2'><sup>" + acc + "</sup></span>" : "") +
 			"<span class='q'>" + sym + "<sup>" + rest + "</sup></span>" ;
 	}
 	else {
-		td.innerHTML = c ;
+		if ((c == "NC")||(c == "/")){
+			td.innerHTML = "<span class='smaller'>" + c + "</span>" ;
+		}
+		else {
+			td.innerHTML = c ;
+		}
 	}
 
 	if (bass){

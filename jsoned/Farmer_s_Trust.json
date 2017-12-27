@@ -1,0 +1,471 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Farmer's Trust;Metheny Pat;Waltz;C",
+      "{A:T34G^7  |B-7,G/B,/|C#-7,F#7b9,/|F#7b9/B,B-,/|A-7,D7sus,D7|F/G,G,F/G|Cadd9  |Gsus,G,G7|Csus,C,/|E-7,C/E,/|Ab,Bb,/|Db/Eb,Eb,Db/Eb|Abadd9  |G7#9#5  |Gb69  |Gh7/Db,C7b9,/",
+      "B:F-9  |C-9  |G-11  |Ab^7,Ab7,@/",
+      "\t1.Csus,C,/|Ab^7,Bb/Ab,/|Csus  |C,/,D",
+      "\t2.Csus,C,/|Ab^7,Bb/Ab,/|Csus,C,/|D  ",
+      "{@Csus,C,/|Ab^7,Bb/Ab,/|Csus,C,/|C  "
+   ],
+   "title" : "Farmer's Trust",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "G^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "B-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "bass" : "B",
+                     "name" : "G"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F#7(b9)"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "bass" : "B",
+                     "name" : "F#7(b9)"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "B-"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D7sus"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "D7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "bass" : "G",
+                     "name" : "F"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G"
+                  },
+                  {
+                     "beats" : 1,
+                     "bass" : "G",
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Cadd9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Gsus"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Csus"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "E-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "bass" : "E",
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Ab"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "bass" : "Eb",
+                     "name" : "Db"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Eb"
+                  },
+                  {
+                     "beats" : 1,
+                     "bass" : "Eb",
+                     "name" : "Db"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Abadd9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G7(#9#5)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Gb69"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "bass" : "Db",
+                     "name" : "Gh7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C7(b9)"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Csus"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Ab^7"
+                        },
+                        {
+                           "beats" : 1,
+                           "bass" : "Ab",
+                           "name" : "Bb"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Csus"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "C"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "D"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Csus"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Ab^7"
+                        },
+                        {
+                           "beats" : 1,
+                           "bass" : "Ab",
+                           "name" : "Bb"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1,
+                           "name" : "Csus"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "C"
+                        },
+                        {
+                           "beats" : 1,
+                           "name" : "/"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-11"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Ab7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Csus"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Ab^7"
+                  },
+                  {
+                     "beats" : 1,
+                     "bass" : "Ab",
+                     "name" : "Bb"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Csus"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "C"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C"
+                  }
+               ]
+            }
+         ],
+         "label" : "@",
+         "repeat" : 1
+      }
+   ],
+   "composer" : "Pat Metheny",
+   "key" : "C"
+}
