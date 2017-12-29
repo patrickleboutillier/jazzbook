@@ -1,0 +1,102 @@
+{
+   "style" : "Funk",
+   "metadata" : [
+      "IREALB;Red Clay;Hubbard Freddie;Funk;C-",
+      "{T44<S2VlcCByZXBlYXRpbmcgZm9yIGhlYWQ=>C-11   |Bb-11   |Db7sus Eb7sus |F7sus G7sus ",
+      "{<U29sb3M6>C-7   |Bb-7 Eb7 |Ab^7   |Dh7 G7b9 "
+   ],
+   "title" : "Red Clay",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "C-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Db7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7sus"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1,
+         "description" : "Keep repeating for head"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Dh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7(b9)"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1,
+         "description" : "Solos:"
+      }
+   ],
+   "composer" : "Freddie Hubbard",
+   "key" : "C-"
+}

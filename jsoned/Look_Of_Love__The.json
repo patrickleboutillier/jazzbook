@@ -1,0 +1,328 @@
+{
+   "style" : "Bossa Nova",
+   "metadata" : [
+      "IREALB;Look Of Love, The;Bacharach Burt;Bossa Nova;Bb",
+      "A:T44G-7   |G-6   |G-b6   |G-6   |Bb^7   |%   |D7sus   |D7b9   ",
+      "B:G-7   |G7sus G7 |Eb^7   |Eb-6   |Bb^7   |F-7 Bb7 |Eb^7   |%   |D7sus   |D7b9   ",
+      "C:Bb^7/F   |C-7/F   |Bb^7/F   |T24C-7/F / |T44Bb^7/F   |C-7/F   |C-7/F  @, ",
+      "@F6   |E/F   |Eb/F   |D/F   |Bb2/F   |Db6/F   |Eb^7/F   |%   |Bb^7/F   |Bb-7/F   ",
+      "{<T3Blbg==>F7b9sus   ",
+      "Bb^7   "
+   ],
+   "title" : "Look Of Love, The",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-(b6)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7(b9)"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "G-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "F-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7(b9)"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "meter" : "2/4",
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "bass" : "F",
+                     "name" : "C-7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "/"
+                  }
+               ]
+            },
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "C-7"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "C-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Eb"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "D"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Bb2"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Db6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Eb^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Bb^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "F",
+                     "name" : "Bb-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "@"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "F7(b9sus)"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1,
+         "description" : "Open"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb^7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Burt Bacharach",
+   "key" : "Bb"
+}

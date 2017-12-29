@@ -1,0 +1,513 @@
+{
+   "style" : "Funk",
+   "metadata" : [
+      "IREALB;Tell me a bedtime story;Hancock Herbie;Funk;C",
+      "i:T44G^9 |% |F#-7 |% |G^9 |% |F#-7 |T54F#-7 ",
+      "A:T44G^9 |% |F#-7 |% |G^9 |F#-7 |C^9 |% |B^9 G^9 |E^9 C^7#11 |B^9 G^9 |E^9 C^7#11 ",
+      "B:$F#-9  |B7#5  |E^9 E7#9 |Eb7#9  |D^9  |Db7#9  |C^7#11  |% |B^9 G^9 |E^9 C^7#11 |B^9 G^9 |E^9 C^7#11 ",
+      "B7sus Bb7sus |A7sus   |Ab-9  |E-7  ",
+      "T54Db-11  |Eb-11  |E-11 |F#-7 ",
+      "T44G^9#11 |% |F#-7 |% |E-11 |A13b9 |D^9 |C^7#11 |B^9 G^9 |E^9 C^7#11 |B^9 G^9,@,<RC5TLiBhbCBDb2Rh> |E^9 C^7#11 ",
+      "@E^7#11 C^9 ",
+      "{<ICBMb29wcyB2YW1w>B^9 G^9 |E^9 C^7#11 ",
+      "B^7#11   "
+   ],
+   "title" : "Tell me a bedtime story",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "meter" : "5/4",
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            }
+         ],
+         "label" : "i"
+      },
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^9"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            }
+         ],
+         "label" : "A"
+      },
+      {
+         "bars" : [
+            {
+               "segno" : 1,
+               "chords" : [
+                  {
+                     "name" : "F#-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "B7(#5)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7(#9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb7(#9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Db7(#9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            }
+         ],
+         "label" : "B"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B7sus"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7sus"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Ab-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-7"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "meter" : "5/4",
+               "chords" : [
+                  {
+                     "name" : "Db-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Eb-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "G^9(#11)"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F#-7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E-11"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A13(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            },
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  }
+               ],
+               "comments" : [
+                  "3-D.S. al Coda"
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^7(#11)"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^9"
+                  }
+               ]
+            }
+         ],
+         "label" : "@"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "B^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "C^7(#11)"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1,
+         "description" : "  Loops vamp"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "B^7(#11)"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Herbie Hancock",
+   "key" : "C"
+}

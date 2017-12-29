@@ -1,0 +1,272 @@
+{
+   "style" : "Waltz",
+   "metadata" : [
+      "IREALB;Moon River;Mancini Henry;Waltz;C",
+      "{A:T34C^7  |A-7  |F^7#11  |C^7/E  |F^7#11  |C^7/E  |Bh7  |E7b9  ",
+      "\t1.B:A-  |A-7/G  |F^7  |Bb7#11  |A- A-/G |F#h7 B7b9 |E-7 A7 |D-7 G7 ",
+      "\t2.C:A-7  |A-7/G  |F#h7  |F^7#11  |C^7/E  |F^7#11  |C^7/E  |F7  |E-7(E7#9)  |A-7(A7#9)  |D-7  |G7  |C6  |G7  "
+   ],
+   "title" : "Moon River",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "3/4",
+               "chords" : [
+                  {
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "E",
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "bass" : "E",
+                     "name" : "C^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bh7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E7(b9)"
+                  }
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A-"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "bass" : "G",
+                           "name" : "A-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "Bb7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1.5,
+                           "name" : "A-"
+                        },
+                        {
+                           "beats" : 1.5,
+                           "bass" : "G",
+                           "name" : "A-"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1.5,
+                           "name" : "F#h7"
+                        },
+                        {
+                           "beats" : 1.5,
+                           "name" : "B7(b9)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1.5,
+                           "name" : "E-7"
+                        },
+                        {
+                           "beats" : 1.5,
+                           "name" : "A7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "beats" : 1.5,
+                           "name" : "D-7"
+                        },
+                        {
+                           "beats" : 1.5,
+                           "name" : "G7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1",
+               "label" : "B"
+            },
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "bass" : "G",
+                           "name" : "A-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F#h7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F^7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "bass" : "E",
+                           "name" : "C^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F^7(#11)"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "bass" : "E",
+                           "name" : "C^7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "F7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "A-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "D-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "C6"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "G7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2",
+               "label" : "C"
+            }
+         ]
+      }
+   ],
+   "composer" : "Henry Mancini",
+   "key" : "C"
+}

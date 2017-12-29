@@ -1,0 +1,164 @@
+{
+   "style" : "Ballad",
+   "metadata" : [
+      "IREALB;Nacada;Metheny Pat;Ballad;G",
+      "T44G^9 E-9 |Eb^7#11 B7#9#5 |E-9 A13 |Ab^9, Db9#11, Ch7, F7#9, ",
+      "E^9 A13,@ |D^7 B-7 |Bb^7 Eb9#11 |A-7 D7 ",
+      "@D^7 B-7 |Bb^7 Eb9#11 |D^7   "
+   ],
+   "title" : "Nacada",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E-9"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Eb^7(#11)"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B7(#9#5)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E-9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 1,
+                     "name" : "Ab^9"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Db9(#11)"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "Ch7"
+                  },
+                  {
+                     "beats" : 1,
+                     "name" : "F7(#9)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "coda" : 1,
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "E^9"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A13"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb9(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "A-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "D7"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "B-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb^7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "Eb9(#11)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D^7"
+                  }
+               ]
+            }
+         ],
+         "label" : "@"
+      }
+   ],
+   "composer" : "Pat Metheny",
+   "key" : "G"
+}

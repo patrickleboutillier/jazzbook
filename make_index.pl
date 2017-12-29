@@ -15,7 +15,9 @@ my %attrs = (
 	segna => '[\$]',
 	comments => '[<>]',
 	oddtime => 'T[^4]\d',
+	sub => '\t',
 	NC => 'NC',
+	repeat => '%',
 ) ;
 
 foreach my $a (keys %attrs){
@@ -24,7 +26,7 @@ foreach my $a (keys %attrs){
 }
 
 
-foreach my $a (('simple', 'complex'), sort keys %attrs){
+foreach my $a ('simple', sort keys %attrs, 'complex'){
 	list($a) ;
 }
 

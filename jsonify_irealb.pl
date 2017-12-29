@@ -147,11 +147,11 @@ sub parse_bar {
 			$last_chord = { name => '/', units => 1 } ;
 			push @cs, $last_chord ;
 		}
-		elsif ($b =~ s/^(%%\s*)//){
+		elsif ($b =~ s/^(%%)//){
 			$bar->{repeat_last} = 2 ;
 			$last_chord = undef ;
 		}
-		elsif ($b =~ s/^(%\s*)//){
+		elsif ($b =~ s/^(%)//){
 			$bar->{repeat_last} = 1 ;
 			$last_chord = undef ;
 		}

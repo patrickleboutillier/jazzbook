@@ -1,0 +1,129 @@
+{
+   "style" : "Medium Swing",
+   "metadata" : [
+      "IREALB;Israel;Carisi John;Medium Swing;D-",
+      "T44D-   |D-b6   |D-6   |D7#9   |G-(G-7) G-^7 |G-7(C7) G-6 |D-7(F^7) E-7 |F^7(Bb^7)   |Bb7(Eh7)   |A7b9   |D- F7 |Bb7(A7b13) A7b13 <QWx0ZXJuYXRlIGNob3JkcyBmb3Igc29sb3Mu>"
+   ],
+   "title" : "Israel",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [
+                  {
+                     "name" : "D-"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-(b6)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "D7(#9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "G-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "G-6"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E-7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "Bb7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "A7(b9)"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "D-"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "F7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bb7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "A7(b13)"
+                  }
+               ],
+               "comments" : [
+                  "4-Alternate chords for solos."
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Carisi John",
+   "key" : "D-"
+}

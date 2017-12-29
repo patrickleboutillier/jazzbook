@@ -1,0 +1,370 @@
+{
+   "style" : "Latin",
+   "metadata" : [
+      "IREALB;La Fiesta;Corea Chick;Latin;A",
+      "{A:T64E   |F   |G7 F |E  <KjY2Nng=> ",
+      "{$E   |F   |G7 F |E   ",
+      "A   |%   |%   |%   ",
+      "{B:A^7 C#7 |D^7 D#o7 |A^7/E Fo7 |F#-7 B7 |E7  A^7  |D^7/F# D^7 |C#-7  F#7  ",
+      "\t1.B-7    |E    ",
+      "\t2.B-7  E7, @ ",
+      "C:A^7 D^7/C# |%   |%   |G F ",
+      "{E,   |F   |G F |<RC5TLiBhbCBDb2Rh>E  <KjY5OHg=> ",
+      "{@A^7 D^7 |%   |%  <Kjc0KG9wZW4p> ",
+      "A^7   "
+   ],
+   "title" : "La Fiesta",
+   "sections" : [
+      {
+         "bars" : [
+            {
+               "meter" : "6/4",
+               "chords" : [
+                  {
+                     "name" : "E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E"
+                  }
+               ],
+               "comments" : [
+                  "3-*666x"
+               ]
+            }
+         ],
+         "label" : "A",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "segno" : 1,
+               "chords" : [
+                  {
+                     "name" : "E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "G7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E"
+                  }
+               ]
+            }
+         ],
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "A^7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "C#7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "D#o7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "bass" : "E",
+                     "name" : "A^7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "Fo7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "F#-7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "B7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "E7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "A^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "bass" : "F#",
+                     "name" : "D^7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "C#-7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "F#7"
+                  }
+               ]
+            }
+         ],
+         "label" : "B",
+         "repeat" : 1,
+         "sections" : [
+            {
+               "bars" : [
+                  {
+                     "chords" : [
+                        {
+                           "name" : "B-7"
+                        }
+                     ]
+                  },
+                  {
+                     "chords" : [
+                        {
+                           "name" : "E"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "1"
+            },
+            {
+               "bars" : [
+                  {
+                     "coda" : 1,
+                     "chords" : [
+                        {
+                           "beats" : 3,
+                           "name" : "B-7"
+                        },
+                        {
+                           "beats" : 3,
+                           "name" : "E7"
+                        }
+                     ]
+                  }
+               ],
+               "ending" : "2"
+            }
+         ]
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "A^7"
+                  },
+                  {
+                     "beats" : 3,
+                     "bass" : "C#",
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "G"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "F"
+                  }
+               ]
+            }
+         ],
+         "label" : "C"
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "E"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "G"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "F"
+                  }
+               ]
+            },
+            {
+               "chords" : [
+                  {
+                     "name" : "E"
+                  }
+               ],
+               "comments" : [
+                  "0-D.S. al Coda",
+                  "3-*698x"
+               ]
+            }
+         ],
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "beats" : 3,
+                     "name" : "A^7"
+                  },
+                  {
+                     "beats" : 3,
+                     "name" : "D^7"
+                  }
+               ]
+            },
+            {
+               "repeat_last" : 1
+            },
+            {
+               "repeat_last" : 1,
+               "comments" : [
+                  "2-*74(open)"
+               ]
+            }
+         ],
+         "label" : "@",
+         "repeat" : 1
+      },
+      {
+         "bars" : [
+            {
+               "chords" : [
+                  {
+                     "name" : "A^7"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "composer" : "Chick Corea",
+   "key" : "A"
+}
