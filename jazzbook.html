@@ -18,18 +18,20 @@ body {
 
 .composer {
 	font-size: 1.25em ;
-	width: 50% ;
+	float: left ;
 }
 
 .style {
 	font-size: 1.25em ;
 	text-align: right ;
-	width: 50% ;
+	float: right ;
 }
 
 .title {
 	font-size: 1.75em ;
 	text-align: center ;
+	display: inline ; 
+	margin: auto ;
 }
 
 .label {
@@ -151,7 +153,7 @@ var tbl ;
 var top_tr, mid_tr, bot_tr ;
 
 
-var dir = "/" + book + "/" ;
+var dir = "/jazzbooks/" + book + "/" ;
 var xmlhttp = new XMLHttpRequest() ;
 xmlhttp.onreadystatechange = function(){
 	if (this.readyState == 4 && this.status == 200){
@@ -203,6 +205,7 @@ function header(parent, tune){
 	}
 	tbl.className = "tune" ;
 
+	/*
 	var tr = tbl.insertRow() ;
 	var td = tr.insertCell() ;
 	td.setAttribute("colspan", 6) ;
@@ -212,12 +215,15 @@ function header(parent, tune){
 	td.setAttribute("colspan", 6) ;
 	td.className = "style" ;
 	td.innerHTML = tune.style ;
+	*/
 
 	var tr = tbl.insertRow() ;
 	var td = tr.insertCell() ;
 	td.setAttribute("colspan", 12) ;
-	td.className = "title" ;
-	td.innerHTML = tune.title ;
+	td.style = "text-align: center" ; 
+	td.innerHTML = "<span class='composer'>" + tune.composer + "</span>" +
+		"<span class='title'>" + tune.title + "</span>" +
+		"<span class='style'>" + tune.style + "</span>" ;
 }
 
 
