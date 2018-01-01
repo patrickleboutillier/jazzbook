@@ -143,6 +143,8 @@
                   },
                   {
                      "beats" : 1,
+                     "altbass" : "Bb",
+                     "altname" : "C7",
                      "name" : "A-"
                   },
                   {
@@ -154,6 +156,8 @@
             {
                "chords" : [
                   {
+                     "altbass" : "B",
+                     "altname" : "G^7",
                      "name" : "G^7"
                   }
                ]

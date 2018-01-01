@@ -80,6 +80,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Ab7",
                      "name" : "Dh7"
                   }
                ]
@@ -87,6 +88,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "G7",
                      "name" : "G7"
                   }
                ]
@@ -147,6 +149,8 @@
                   },
                   {
                      "beats" : 2,
+                     "altbass" : "Bb",
+                     "altname" : "Eb-6",
                      "name" : "C-7"
                   }
                ]
@@ -155,11 +159,13 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Bbo7",
                      "name" : "Dbo7"
                   },
                   {
                      "beats" : 2,
                      "bass" : "D",
+                     "altname" : "Bb6",
                      "name" : "Bb6"
                   }
                ]
@@ -168,10 +174,13 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altbass" : "Bb",
+                     "altname" : "C-7",
                      "name" : "Eb6"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "Bbo7",
                      "name" : "Eo7"
                   }
                ]
@@ -181,10 +190,12 @@
                   {
                      "beats" : 2,
                      "bass" : "F",
+                     "altname" : "Ab7",
                      "name" : "Bb6"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "G7",
                      "name" : "G7"
                   }
                ]
@@ -264,6 +275,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Ab7",
                      "name" : "Dh7"
                   }
                ]
@@ -271,6 +283,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "G7",
                      "name" : "G7"
                   }
                ]
@@ -302,6 +315,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Eb-6",
                      "name" : "Ab7"
                   }
                ]

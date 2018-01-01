@@ -67,6 +67,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "E-7",
                      "name" : "C^7"
                   },
                   {
@@ -89,6 +90,7 @@
                         },
                         {
                            "beats" : 2,
+                           "altname" : "G7(#5)",
                            "name" : "G13"
                         }
                      ]
@@ -226,10 +228,12 @@
                   },
                   {
                      "beats" : 1,
+                     "altname" : "Bb-7",
                      "name" : "Eb7"
                   },
                   {
                      "beats" : 1,
+                     "altname" : "Ah7",
                      "name" : "D7"
                   }
                ]

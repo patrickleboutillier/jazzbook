@@ -113,10 +113,12 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Eb9",
                      "name" : "Bb-9"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "Gb9",
                      "name" : "Eb13"
                   }
                ]
@@ -125,10 +127,12 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Ch7",
                      "name" : "Db-9"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "F7",
                      "name" : "Gb13"
                   }
                ]
@@ -137,6 +141,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Db13",
                      "name" : "Ab-9"
                   },
                   {
@@ -148,6 +153,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C7(b9)",
                      "name" : "C7(b9)"
                   }
                ]

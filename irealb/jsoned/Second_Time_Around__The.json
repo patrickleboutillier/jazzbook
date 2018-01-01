@@ -14,6 +14,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
+                     "altname" : "F7",
                      "name" : "C^7"
                   }
                ]
@@ -40,6 +41,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "G7",
                      "name" : "D-7"
                   }
                ]
@@ -47,6 +49,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "F^7",
                      "name" : "C^7"
                   }
                ]
@@ -54,6 +57,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "A-7",
                      "name" : "C6"
                   }
                ]
@@ -61,6 +65,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "F7",
                      "name" : "Bh7"
                   }
                ]
@@ -75,6 +80,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Ab7",
                      "name" : "A-7"
                   }
                ]
@@ -82,6 +88,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C7",
                      "name" : "C7"
                   }
                ]
@@ -138,6 +145,7 @@
                   {
                      "chords" : [
                         {
+                           "altname" : "Eb7",
                            "name" : "F^7"
                         }
                      ]
@@ -145,6 +153,7 @@
                   {
                      "chords" : [
                         {
+                           "altname" : "Ebo7",
                            "name" : "D7"
                         }
                      ]
@@ -166,6 +175,7 @@
                   {
                      "chords" : [
                         {
+                           "altname" : "Bb7",
                            "name" : "Eh7"
                         }
                      ]

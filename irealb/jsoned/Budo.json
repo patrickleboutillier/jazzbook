@@ -16,6 +16,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
+                     "altname" : "G7",
                      "name" : "Ab^7"
                   }
                ]
@@ -24,10 +25,12 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "C7",
                      "name" : "C-7"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "F7",
                      "name" : "F7"
                   }
                ]
@@ -241,6 +244,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "G7",
                      "name" : "Ab^7"
                   }
                ]
@@ -249,10 +253,12 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "C7",
                      "name" : "C-7"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "F7",
                      "name" : "F7"
                   }
                ]

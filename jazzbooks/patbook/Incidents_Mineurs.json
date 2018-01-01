@@ -1,0 +1,52 @@
+{
+   "title" : "Incidents Mineurs",
+   "composer" : "Maxime Racicot",
+   "key" : "B-",
+   "style" : "Latin",
+   "sections" : [
+      {
+         "label" : "i",
+         "repeat" : 1,
+         "bars" : [
+            {
+               "meter" : "4/4",
+               "chords" : [ { "beats" : 2, "name" : "B-7" }, { "beats" : 2, "name" : "G7(#11)" } ]
+            },
+            {
+               "chords" : [ { "beats" : 2, "name" : "C#h7" }, { "beats" : 2, "name" : "F#7(b9)" } ]
+            }
+         ]
+      },
+      {
+         "label" : "A",
+         "bars" : [
+            {
+               "chords" : [ { "beats" : 2, "name" : "B-7" }, { "beats" : 2, "bass" : "B", "name" : "A" } ]
+            },
+            { "repeat_last" : 1 },
+            { "repeat_last" : 1 },
+            { "repeat_last" : 1 },
+            {
+               "chords" : [ { "name" : "G69" } ]
+            },
+            { "repeat_last" : 1 },
+            {
+               "chords" : [ { "name" : "B-7", "beats": 2 }, { "name" : "A", "bass": "B", "beats": 2 } ]
+            },
+            { "repeat_last" : 1 },
+            {
+               "chords" : [ { "name" : "G7(#11)" } ]
+            },
+            {
+               "chords" : [ { "name" : "F#7(b9)" } ]
+            },
+            {
+               "chords" : [ { "beats" : 2, "name" : "B-7" }, { "beats" : 2, "name" : "G7(#11)" } ]
+            },
+            {
+               "chords" : [ { "beats" : 2, "name" : "C#h7" }, { "beats" : 2, "name" : "F#7(b9)" } ]
+            }
+         ]
+      }
+   ]
+}

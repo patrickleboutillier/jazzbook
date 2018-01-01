@@ -2,7 +2,7 @@
    "style" : "Funk",
    "metadata" : [
       "IREALB;Sidewinder;Morgan Lee;Funk;Eb",
-      "T44NCD7,Eb7 |%   |%%   |    |NCD7,Eb7 |%   |%%   |    |NCG7,Ab7 |%   |%%   |    |NCD7,Eb7 |%   |%   |NCGh,C7b9 |NCF-7,Bb7 |%   |%%   |    |NCD7,Eb7 |%   |NCEb7,  |NC   "
+      "T44NCD7,Eb7 |%   |%%   |    |NCD7,Eb7 |%   |%%   |    |NCG7,Ab7 |%   |%%   |    |NCD7,Eb7 |%   |%   |NCGh,C7b9 |NCF-7,Bb7 |%   |%%   |    |NCD7,Eb7 |%   |Eb7,NC  |NC   "
    ],
    "title" : "Sidewinder",
    "sections" : [
@@ -162,11 +162,11 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "NC"
+                     "name" : "Eb7"
                   },
                   {
                      "beats" : 3,
-                     "name" : "Eb7"
+                     "name" : "NC"
                   }
                ]
             },

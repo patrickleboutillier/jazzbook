@@ -97,10 +97,12 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Eh7",
                      "name" : "Bb-6"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "A7(b9)",
                      "name" : "Eb7"
                   }
                ]
@@ -109,6 +111,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "D-7",
                      "name" : "A-7"
                   },
                   {
@@ -253,6 +256,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Db7",
                      "name" : "A7"
                   }
                ]
@@ -260,6 +264,8 @@
             {
                "chords" : [
                   {
+                     "altbass" : "F",
+                     "altname" : "G-7",
                      "name" : "Bb7"
                   }
                ]

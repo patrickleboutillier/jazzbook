@@ -4,6 +4,7 @@ use strict ;
 use Data::Dumper ;
 use File::Basename ;
 use File::Copy ;
+use JSON ;
 
 
 print "<HTML>\n" ;
@@ -26,7 +27,7 @@ foreach my $a (keys %attrs){
 }
 
 
-foreach my $a ('simple', sort keys %attrs, 'complex'){
+foreach my $a ('simple', (sort keys %attrs), 'complex'){
 	list($a) ;
 }
 
@@ -34,13 +35,15 @@ foreach my $a ('simple', sort keys %attrs, 'complex'){
 sub list {
 	my $type = shift ;
 
-
 	my @files = grep { $tunes{$_}->{$type} } keys %tunes ;
 	my $nb = scalar(@files) ;
 	my $title = ucfirst($type) ;
 	print "<H2>$title ($nb tunes)</H2>\n" ;
 	foreach my $f (sort @files){
-		print "<A HREF='jazzbook.html?b=irealb&t=$f'>$f</A>" ;
+		open(J, "<jsoned/$f.json") or die("Can't open $f for reading: $!") ;
+		my $json = new JSON() ;
+		my $tune = $json->decode(join('', <J>)) ;
+		print "<A HREF='/jazzbook.html?b=irealb&t=$f'>$tune->{title}</A>" ;
 		print "<BR>\n" ;
 	}
 }

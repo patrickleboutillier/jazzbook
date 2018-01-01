@@ -16,6 +16,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
+                     "altname" : "D-7",
                      "name" : "C6"
                   }
                ]
@@ -29,6 +30,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C9",
                      "name" : "C7"
                   }
                ]
@@ -43,6 +45,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "G9sus",
                      "name" : "Bb9"
                   }
                ]
@@ -135,6 +138,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C^9",
                      "name" : "E7"
                   }
                ]
@@ -156,6 +160,8 @@
             {
                "chords" : [
                   {
+                     "altbass" : "D",
+                     "altname" : "E-7",
                      "name" : "A9"
                   }
                ]
@@ -163,6 +169,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C#h7",
                      "name" : "D-9"
                   }
                ]
@@ -170,6 +177,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "G7",
                      "name" : "G7"
                   }
                ]
@@ -182,6 +190,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "D-7",
                      "name" : "C6"
                   }
                ]
@@ -195,6 +204,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C9",
                      "name" : "C7"
                   }
                ]
@@ -215,6 +225,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Bb9",
                      "name" : "D-7"
                   },
                   {

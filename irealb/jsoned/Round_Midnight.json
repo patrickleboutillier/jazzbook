@@ -111,6 +111,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Ch7",
                      "name" : "Co7"
                   },
                   {
@@ -126,6 +127,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Ch7",
                      "name" : "Eb-6"
                   }
                ]
@@ -307,10 +309,12 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Eb7",
                      "name" : "Db9"
                   },
                   {
                      "beats" : 2,
+                     "altname" : "Db7",
                      "name" : "B9"
                   }
                ],
@@ -322,6 +326,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "B7",
                      "name" : "Ab-7"
                   },
                   {
@@ -434,6 +439,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Eb7",
                      "name" : "Bb7(b9b5)"
                   }
                ]

@@ -112,9 +112,6 @@ sub parse_bar {
 			if (($n == 0)&&(! $section->{label})){
 				$section->{label} = $1 ;
 			}
-			else {
-				# TODO: Prepend to section description?
-			}
 		}
 		elsif ($b =~ s/^T(\d)(\d)//){
 			$bar->{meter} = "$1/$2" ;
@@ -169,11 +166,19 @@ sub parse_bar {
 			push @cs, $last_chord ;
 		}
 		elsif ($b =~ s/^\((.*?)\)//){
-			# Do nothing for now with alternate chords
+			my $chord = $1 ;
+			my ($name, $bass) = fix_chord($chord) ;
+			if ($last_chord){
+				$last_chord->{altname} = $name ;
+				$last_chord->{altbass} = $bass if $bass ;
+			}
+			else {
+				warn "Alternate chord '$chord' whout last chord!" ;
+			}
 		}
 		elsif ($b =~ s/^\s//){
 			$len++ ;
-			$last_chord->{units}++ ;
+			$last_chord->{units}++ if $last_chord ;
 		}
 		else {
 			problem("Unknown bar element: '$ob' at '$b'") ;

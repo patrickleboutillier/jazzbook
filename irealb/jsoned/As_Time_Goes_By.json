@@ -29,6 +29,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Bb-7",
                      "name" : "F-7"
                   },
                   {
@@ -45,6 +46,7 @@
                   },
                   {
                      "beats" : 2,
+                     "altname" : "F-7",
                      "name" : "Bb7(#5)"
                   }
                ]
@@ -52,6 +54,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C7",
                      "name" : "Eb^7"
                   }
                ]
@@ -64,6 +67,7 @@
                   },
                   {
                      "beats" : 2,
+                     "altname" : "F7",
                      "name" : "F#o7"
                   }
                ]
@@ -94,6 +98,7 @@
                         },
                         {
                            "beats" : 2,
+                           "altname" : "Ab7",
                            "name" : "F-7"
                         }
                      ]
@@ -232,6 +237,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Bb-7",
                      "name" : "F-7"
                   },
                   {
@@ -248,6 +254,7 @@
                   },
                   {
                      "beats" : 2,
+                     "altname" : "F-7",
                      "name" : "Bb7(#5)"
                   }
                ]
@@ -255,6 +262,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C7",
                      "name" : "Eb^7"
                   }
                ]

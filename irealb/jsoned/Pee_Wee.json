@@ -43,6 +43,7 @@
                "chords" : [
                   {
                      "bass" : "Eb",
+                     "altname" : "Ebh7",
                      "name" : "A^7"
                   }
                ]
@@ -51,6 +52,7 @@
                "chords" : [
                   {
                      "bass" : "E",
+                     "altname" : "Eh7",
                      "name" : "Bb^7"
                   }
                ]
@@ -69,6 +71,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "D-7",
                      "name" : "G7sus"
                   }
                ]
@@ -83,6 +86,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "C-7",
                      "name" : "F7sus"
                   }
                ]
@@ -131,6 +135,8 @@
             {
                "chords" : [
                   {
+                     "altbass" : "Gb",
+                     "altname" : "F",
                      "name" : "Gb^7(#11)"
                   }
                ]

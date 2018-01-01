@@ -26,6 +26,8 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altbass" : "B",
+                     "altname" : "G6",
                      "name" : "D-7"
                   },
                   {
@@ -38,6 +40,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "A-7",
                      "name" : "C6"
                   },
                   {
@@ -50,6 +53,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "G6",
                      "name" : "D-7"
                   },
                   {
@@ -62,6 +66,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "F6",
                      "name" : "C6"
                   },
                   {
@@ -93,6 +98,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "G7",
                      "name" : "E-7"
                   },
                   {
@@ -112,6 +118,8 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altbass" : "C#",
+                     "altname" : "A7",
                      "name" : "E-7"
                   },
                   {
@@ -123,6 +131,8 @@
             {
                "chords" : [
                   {
+                     "altbass" : "C",
+                     "altname" : "F6",
                      "name" : "D-7"
                   }
                ]
@@ -130,6 +140,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "Bh7",
                      "name" : "G7"
                   }
                ]
@@ -137,6 +148,8 @@
             {
                "chords" : [
                   {
+                     "altbass" : "A",
+                     "altname" : "F6",
                      "name" : "D-7"
                   }
                ]
@@ -160,6 +173,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "A7(#9)",
                      "name" : "C6"
                   }
                ]
@@ -168,6 +182,7 @@
                "chords" : [
                   {
                      "beats" : 1,
+                     "altname" : "D-7",
                      "name" : "/"
                   },
                   {
@@ -201,6 +216,8 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altbass" : "B",
+                     "altname" : "G6",
                      "name" : "D-7"
                   },
                   {
@@ -212,6 +229,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "A-7",
                      "name" : "C6"
                   }
                ]
@@ -220,6 +238,7 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "G6",
                      "name" : "D-7"
                   },
                   {
@@ -231,6 +250,8 @@
             {
                "chords" : [
                   {
+                     "altbass" : "D",
+                     "altname" : "Bb6",
                      "name" : "C13"
                   }
                ]
@@ -239,10 +260,13 @@
                "chords" : [
                   {
                      "beats" : 2,
+                     "altname" : "Ebo7",
                      "name" : "G-7"
                   },
                   {
                      "beats" : 2,
+                     "altbass" : "E",
+                     "altname" : "C9",
                      "name" : "C9"
                   }
                ]
@@ -250,6 +274,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "G-7",
                      "name" : "F6"
                   }
                ]
@@ -260,6 +285,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "F#h7",
                      "name" : "F^7"
                   }
                ]
@@ -267,6 +293,7 @@
             {
                "chords" : [
                   {
+                     "altname" : "F-6",
                      "name" : "Bb9"
                   }
                ]
