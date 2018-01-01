@@ -2,6 +2,7 @@
 <HTML>
 <HEAD>
 <META charset="utf-8"/>
+<SCRIPT SRC='music-diatonic.js'></SCRIPT>
 </HEAD>
 
 <STYLE>
@@ -88,6 +89,7 @@ body {
 .chord {
 	font-size: 3em ;
 	line-height: 1 ;
+	white-space: nowrap ;
 }
 
 .smallchord {
@@ -100,6 +102,7 @@ body {
 
 .cols {
 	width: 10em ;
+	vertical-align: bottom ; 
 }
 
 @font-face {
@@ -111,6 +114,8 @@ body {
 
 
 <BODY>
+<TABLE class='tune'>
+<TBODY id='tune'></TBODY>
 
 <SCRIPT>
 /* A tune is composed of:
@@ -144,20 +149,21 @@ var params = parse_query_string() ;
 var name = params['t'] ;
 var book = params['b'] ;
 
-var _debug = params['debug'] ;
-var _beats = params['beats'] ;
+var _debug = 0 ;
+var _beats = 0 ;
+var _noalt = 0 ;
 var beats_per_bar = 4 ;
 var col = 0 ;
 
-var tbl ;
+var tbody = document.getElementById('tune') ;
 var top_tr, mid_tr, bot_tr ;
-
 
 var dir = "/jazzbooks/" + book + "/" ;
 var xmlhttp = new XMLHttpRequest() ;
+var tune ;
 xmlhttp.onreadystatechange = function(){
 	if (this.readyState == 4 && this.status == 200){
-		var tune = JSON.parse(this.responseText) ;
+		tune = JSON.parse(this.responseText) ;
 		display(tune) ;
 	}
 } ;
@@ -181,43 +187,41 @@ function parse_query_string(){
 
 
 function display(tune){
-	var top = document.body ;
-	header(top, tune) ;
+	_debug = params['debug'] ;
+	_beats = params['beats'] ;
+	_noalt = params['noalt'] ;
+
+	header(tune) ;
 
 	for (var i in tune.sections){
 		var s = tune.sections[i] ;
 		section(s) ;
 	}
 
-	if (_debug){
+	if ((_debug)&&(tune.metadata)){
+		var tr = tbody.insertRow() ;
+		var td = tr.insertCell() ;
+		td.setAttribute('colspan', 12) ;
 		var pre = document.createElement('pre') ;
-		top.appendChild(pre) ;
+		td.appendChild(pre) ;
 		pre.innerHTML = tune.metadata.join("\n") ;
 	}
 }
 
 
-function header(parent, tune){
-	tbl = document.createElement('table') ;
-	parent.appendChild(tbl) ;
-	if (_debug){
-		tbl.setAttribute("border", "1") ;
+function header(tune){
+	while (tbody.firstChild){
+		tbody.removeChild(tbody.firstChild) ;
 	}
-	tbl.className = "tune" ;
 
-	/*
-	var tr = tbl.insertRow() ;
-	var td = tr.insertCell() ;
-	td.setAttribute("colspan", 6) ;
-	td.className = "composer" ;
-	td.innerHTML = tune.composer ;
-	td = tr.insertCell() ;
-	td.setAttribute("colspan", 6) ;
-	td.className = "style" ;
-	td.innerHTML = tune.style ;
-	*/
+	if (_debug){
+		tbody.setAttribute("border", "1") ;
+	}
+	else{
+		tbody.setAttribute("border", "0") ;
+	}
 
-	var tr = tbl.insertRow() ;
+	var tr = tbody.insertRow() ;
 	var td = tr.insertCell() ;
 	td.setAttribute("colspan", 12) ;
 	td.style = "text-align: center" ; 
@@ -347,9 +351,9 @@ function fix_label(label){
 function prebar(label, first, repeat, white = 0){
 	if ((col == 0)||((first)&&(label))){
 		// Insert a new tr
-		top_tr = tbl.insertRow() ;
-		mid_tr = tbl.insertRow() ;
-		bot_tr = tbl.insertRow() ;
+		top_tr = tbody.insertRow() ;
+		mid_tr = tbody.insertRow() ;
+		bot_tr = tbody.insertRow() ;
 		col = 0 ;
 	}
 
@@ -445,6 +449,7 @@ function bar(bar, description, ending = 0){
 		td.style.width = (100 / beats_per_bar) + "%" ;
 	}
 
+    alt_tr = tbl.insertRow() ;
     tr = tbl.insertRow() ;
 	if (bar.repeat_last == 1){
 		td = tr.insertCell() ;
@@ -466,13 +471,13 @@ function bar(bar, description, ending = 0){
 				var c = bar.chords[i] ;
 				var beats = (c.beats > 0 ? c.beats : beats_per_bar) ;
 				if (_beats){
-					chord(tr, c, 1) ;
+					chord(alt_tr, tr, c, 1) ;
 					for (var j = 0 ; j < beats - 1 ; j++){
-						chord(tr, { name: "/" }, 1) ;
+						chord(alt_tr, tr, { name: "/" }, 1) ;
 					}
 				}
 				else {
-					chord(tr, c, beats) ;
+					chord(alt_tr, tr, c, beats) ;
 				}
 			}
 		}
@@ -494,19 +499,36 @@ function bar(bar, description, ending = 0){
 }
 
 
-function chord(tr, chord, beats){
-	td = tr.insertCell() ;
+function chord(alt_tr, tr, chord, beats){
+	var alt_td = alt_tr.insertCell() ;
+	var td = tr.insertCell() ;
 	if (beats > 1){
 		td.setAttribute("colspan", beats) ;
+		alt_td.setAttribute("colspan", beats) ;
 		td.className = "chord" ;
+		alt_td.className = "chord" ;
 	}
 	else {
        	td.className = "smallchord" ;
+       	alt_td.className = "smallchord" ;
 	}
 
 	var c = chord.name ;
 	var bass = chord.bass ;
-	var matches = c.match(/^([\sA-G])([b#]+|)([\^\-h]+|)(.*)$/) ;
+	var alt = chord.altname ;
+	td.innerHTML = format_chord(c, bass) ;
+
+	if ((alt)&&(! _noalt)){
+		alt_td.innerHTML = "<span class='q' style='color: #808080'>" + format_chord(alt, "") + "</span>" ;
+	}
+
+	td.innerHTML += "&nbsp;" ;
+}
+
+	
+function format_chord(c, bass){
+	var html = "" ;
+	var matches = c.match(/^([\sA-G])(b+|#+|)([\^\-h]+|)(.*)$/) ;
 	if ((matches)&&(matches.length > 0)){
 		var root = matches[1] ;
 		var acc = matches[2] ;
@@ -522,27 +544,50 @@ function chord(tr, chord, beats){
 	    rest = rest.replace(/#/g, "<sup>#</sup>") ;
 		rest = rest.replace(/b/g, "<sup>&#x044C;</sup>") ;
 
-		td.innerHTML = root + 
+		html = root + 
 			(acc ? "<span class='q2'><sup>" + acc + "</sup></span>" : "") +
 			"<span class='q'>" + sym + "<sup>" + rest + "</sup></span>" ;
 	}
 	else {
 		if ((c == "NC")||(c == "/")){
-			td.innerHTML = "<span class='smaller'>" + c + "</span>" ;
+			html = "<span class='smaller'>" + c + "</span>" ;
 		}
 		else {
-			td.innerHTML = c ;
+			html = c ;
 		}
 	}
 
 	if (bass){
 		bass = bass.replace(/b/g, "&#x044C;") ;
-		td.innerHTML += "<span class='q'><sup>/" + bass + "</sup></span>" ; ;
+		html += "<span class='q'><sub>/" + bass + "</sub></span>" ; ;
 	}
 
-	td.innerHTML += "&nbsp;" ;
+	return html ;
+}
+
+
+function toggle(elem, param){
+	if (elem.checked){
+		params[param] = 1 ;
+	}
+	if (! elem.checked){
+		params[param] = 0 ;
+	}
+
+	display(tune) ;
 }
 </SCRIPT>
+
+<TBODY>
+<TR><TD colspan='12'>
+<BR/>
+<FORM>
+Show beats: <input type='checkbox' onchange='toggle(this, "beats")'>
+Hide alternate chords: <input type='checkbox' onchange='toggle(this, "noalt")'>
+Debug: <input type='checkbox' onchange='toggle(this, "debug")'>
+</FORM></TD>
+</TBODY>
+<TABLE>
 
 </BODY>
 </HTML>
