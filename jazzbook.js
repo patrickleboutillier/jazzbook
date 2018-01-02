@@ -517,7 +517,7 @@ function circleOfFifths(){
 function setkey(select){
 	var idx = select.selectedIndex ;
 	fifths_offset = parseInt(select.options[idx].value) ;
-	alert(fifths_offset) ;
+	// alert(fifths_offset) ;
 	
 	display(tune) ;
 }
