@@ -9,7 +9,7 @@
 
 
 <BODY>
-<TABLE class='tune'>
+<TABLE id='' class='tune'>
 <TBODY id='tune'></TBODY>
 
 <SCRIPT SRC='music-diatonic.js'></SCRIPT>
@@ -18,7 +18,7 @@
 <TBODY>
 <TR><TD colspan='12'>
 <BR/>
-<FORM>
+<FORM autocomplete="off">
 Show beats: <input type='checkbox' onchange='toggle(this, "beats")'>
 Hide alternate chords: <input type='checkbox' onchange='toggle(this, "noalt")'>
 Transpose: <select id='circle' onchange='setkey(this)'>

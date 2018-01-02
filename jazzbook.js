@@ -223,7 +223,7 @@ function fix_label(label){
 		case "D": return "&#x0394;" ;
 		case "E": return "&#x0395;" ;
 		case "F": return "&#x0396;" ;
-		case "@": return "&#x00A4;" ;
+		case "@": return "<BR/>&#x00A4;" ;
 		default : return (label ? "(" + label + ")" : "") ;
 	}
 }
@@ -325,16 +325,8 @@ function bar(bar, description, ending = 0){
 	}
     tbl.style.width = "100%" ;
 
-    // Insert the guide row
-    var tr = tbl.insertRow() ;
-	for (var i = 0 ; i < beats_per_bar ; i++){
-		td = tr.insertCell() ;
-		td.height = "1px" ;
-		td.style.width = (100 / beats_per_bar) + "%" ;
-	}
-
     alt_tr = tbl.insertRow() ;
-    tr = tbl.insertRow() ;
+	var tr = tbl.insertRow() ;
 	if (bar.repeat_last == 1){
 		td = tr.insertCell() ;
 		td.className = "chord" ;
@@ -373,6 +365,14 @@ function bar(bar, description, ending = 0){
 			//td.style.textAlign = 'left' ;
 			//td.innerHTML = "%" ;
 		}
+	}
+
+    // Insert the guide row
+    var tr = tbl.insertRow() ;
+	for (var i = 0 ; i < beats_per_bar ; i++){
+		td = tr.insertCell() ;
+		td.height = "1px" ;
+		td.style.width = (100 / beats_per_bar) + "%" ;
 	}
 
 	td = bot_tr.insertCell() ;
