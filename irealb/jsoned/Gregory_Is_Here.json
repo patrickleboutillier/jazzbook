@@ -3,7 +3,7 @@
    "metadata" : [
       "IREALB;Gregory Is Here;Silver Horace;Bossa Nova;Bb",
       "{A:T44B9#11   |%   |C-11   |%   |B9#11   |%   |C-11   |%   |Ah7   |D7b9   |G-7   |C7   |C-11   |B7#9   |Bb^7   |%   ",
-      "B:Eb-7   |Ab7   |Db^7   |Bb-7   |Eb-7   |Ab7   |C-11   |NC<IC8=>F7<IC8=>  ",
+      "B:Eb-7   |Ab7   |Db^7   |Bb-7   |Eb-7   |Ab7   |C-11   |F7,/,NC ",
       "A:B9#11   |%   |C-11   |%   |B9#11   |%   |C-11   |%   |Ah7   |D7b9   |G-7   |C7   |C-11   |B7#9   |Bb^7   |%   "
    ],
    "title" : "Gregory Is Here",
@@ -162,16 +162,16 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "NC"
+                     "name" : "F7"
                   },
                   {
-                     "beats" : 3,
-                     "name" : "F7"
+                     "beats" : 1,
+                     "name" : "/"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "NC"
                   }
-               ],
-               "comments" : [
-                  "1- /",
-                  "2- /"
                ]
             }
          ],

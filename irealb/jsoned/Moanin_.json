@@ -2,7 +2,7 @@
    "style" : "Medium Swing",
    "metadata" : [
       "IREALB;Moanin';Timmons Bobby;Medium Swing;F-",
-      "{T44A:NC Bb |NCF,  |%%   |    |%%   |    |%%   |  <RmluZQ==>  ",
+      "{T44A:NC Bb |F,NC  |%%   |    |%%   |    |%%   |  <RmluZQ==>  ",
       "B:Bb-7 Ab9 |G7b9 C7#9 |F-7   |F7b9 B7 |Bb-7 Ab9 |G7b9   |Gh7   |<RC5DLiBhbCBGaW5l>C7b9   ",
       "{$A:<IFNvbG9zOg==>F-7 Ab7 |G7 C7b9 |%%   |    |%%   |    |%%   |  <RmluZQ==>  ",
       "B:Bb-7 Ab9 |G7b9 C7#9 |F-7   |F7b9 B7 |Bb-7 Ab9 |G7b9   |Gh7   |<RC5TLiBhbCBGaW5l>C7b9   "
@@ -28,11 +28,11 @@
                "chords" : [
                   {
                      "beats" : 1,
-                     "name" : "NC"
+                     "name" : "F"
                   },
                   {
                      "beats" : 3,
-                     "name" : "F"
+                     "name" : "NC"
                   }
                ]
             },

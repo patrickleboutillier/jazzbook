@@ -42,6 +42,7 @@ var dir = "/jazzbooks/" + book + "/" ;
 var xmlhttp = new XMLHttpRequest() ;
 var tune ;
 var fifths_offset = 0 ;
+var msg_for_next_bar = '' ;
 
 xmlhttp.onreadystatechange = function(){
 	if (this.readyState == 4 && this.status == 200){
@@ -292,6 +293,7 @@ function postbar(last, repeat, white = 0){
 	- Beat staff
 */
 function bar(bar, description, ending = 0){
+	var msg = '' ;
 	if (bar.meter){
 		beats_per_bar = bar.meter.split("/")[0] ;
 	}
@@ -339,7 +341,8 @@ function bar(bar, description, ending = 0){
 		td.className = "chord" ;
 		td.setAttribute('colspan', beats_per_bar) ;
 		td.style.textAlign = 'right' ;
-		td.innerHTML = "<span class='smaller'>%%</span>" ;
+		td.innerHTML = "<span class='smaller'>%<span>" ;
+		msg = "%" ;
 	}
 	else {
 		if ((bar.chords)&&(bar.chords.length > 0)){
@@ -357,13 +360,11 @@ function bar(bar, description, ending = 0){
 				}
 			}
 		}
-		else {
-			// This can probably happen in other cases...
-			//td = tr.insertCell() ;
-			//td.className = "chord" ;
-			//td.setAttribute('colspan', beats_per_bar) ;
-			//td.style.textAlign = 'left' ;
-			//td.innerHTML = "%" ;
+		else if (msg_for_next_bar == "%"){
+			td = tr.insertCell() ;
+			td.className = "chord" ;
+			td.setAttribute('colspan', beats_per_bar) ;
+			td.innerHTML = "<span class='smaller'>%<span>" ;
 		}
 	}
 
@@ -380,6 +381,8 @@ function bar(bar, description, ending = 0){
 	if ((bar.comments)&&(bar.comments.length > 0)){
 		td.innerHTML = bar.comments.join(", ") ;
 	}
+
+	msg_for_next_bar = msg ;
 }
 
 
