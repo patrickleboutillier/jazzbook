@@ -14,6 +14,3 @@ json:
 	perl make_json.pl
 	@echo -n "PASS:   " ; ls -l jsoned/*.json | wc -l 
 	@echo -n "REJECT: " ; ls -l jsoned/reject/* | wc -l
-
-index:
-	perl make_index.pl > jsoned/index.html
