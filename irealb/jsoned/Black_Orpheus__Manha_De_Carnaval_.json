@@ -2,9 +2,9 @@
    "style" : "Bossa Nova",
    "metadata" : [
       "IREALB;Black Orpheus (Manha De Carnaval);Bonfa Luiz;Bossa Nova;A-",
-      "A:T44A-   |Bh7 E7b9 |A-   |Bh7 E7b9 |A-   |D-7 G7 |C^7   |C#o7   |D-7   |G7   |C^7   |F^7   |Bh7   |E7b9   |A-   |Bh7 E7b9 ",
-      "B:A-   |Bh7 E7b9 |A-   |%   |Eh7   |A7b9   |D-   |%   |D-7 D-7/C |Bh7 E7b9 |A- A-7/G |F^7   |Bh7   |E7b9   |A-  @ |Bh7 E7b9 ",
-      "@A- |D-7 A-7 |D-7 A-7 |D-7 E-7 |A- "
+      "A:T44A-7   |Bh7 E7b9 |A-7   |Bh7 E7b9 |A-7   |D-7 G7 |C^7   |C#o7   |D-7   |G7   |C^7   |F^7   |Bh7   |E7b9   |A-7   |Bh7 E7b9 ",
+      "B:A-7   |Bh7 E7b9 |A-7   |Bh7 E7b9 |Eh7   |A7b9   |D-   |%   |D-7 D-7/C |Bh7 E7b9 |A-7 A-7/G |F^7   |Bh7   |E7b9   |A-7  @ |Bh7 E7b9 ",
+      "@A-7 |D-7 A-7 |D-7 A-7 |D-7 E-7 |A-7 "
    ],
    "title" : "Black Orpheus (Manha De Carnaval)",
    "sections" : [
@@ -14,7 +14,7 @@
                "meter" : "4/4",
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
@@ -33,7 +33,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
@@ -52,7 +52,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
@@ -127,7 +127,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
@@ -151,7 +151,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
@@ -170,12 +170,21 @@
             {
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
             {
-               "repeat_last" : 1
+               "chords" : [
+                  {
+                     "beats" : 2,
+                     "name" : "Bh7"
+                  },
+                  {
+                     "beats" : 2,
+                     "name" : "E7(b9)"
+                  }
+               ]
             },
             {
                "chords" : [
@@ -230,7 +239,7 @@
                "chords" : [
                   {
                      "beats" : 2,
-                     "name" : "A-"
+                     "name" : "A-7"
                   },
                   {
                      "beats" : 2,
@@ -264,7 +273,7 @@
                "coda" : 1,
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
@@ -288,7 +297,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             },
@@ -331,7 +340,7 @@
             {
                "chords" : [
                   {
-                     "name" : "A-"
+                     "name" : "A-7"
                   }
                ]
             }
