@@ -1,0 +1,7 @@
+html
+	body
+		h1 Welcome to Jazzbook!
+		h2 Books:
+		each book in books
+			a(href='book/' + book.key)= book.title
+			br

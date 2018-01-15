@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<HTML>
+
+
+<HEAD>
+<META charset="utf-8"/>
+<LINK REL="stylesheet" HREF="jazzbook.css">
+</HEAD>
+
+
+<BODY>
+<TABLE id='' class='tune'>
+<TBODY id='tune'></TBODY>
+
+<SCRIPT SRC='music-diatonic.js'></SCRIPT>
+<SCRIPT SRC='jazzbook.js'></SCRIPT>
+
+<TBODY>
+<TR><TD colspan='12'>
+<BR/>
+<FORM autocomplete="off">
+Show beats: <input type='checkbox' onchange='toggle(this, "beats")'>
+Hide alternate chords: <input type='checkbox' onchange='toggle(this, "noalt")'>
+Transpose: <select id='circle' onchange='setkey(this)'>
+<option value="-7"></option>
+<option value="-6"></option>
+<option value="-5"></option>
+<option value="-4"></option>
+<option value="-3"></option>
+<option value="-2"></option>
+<option value="-1"></option>
+<option value="0"></option>
+<option value="1"></option>
+<option value="2"></option>
+<option value="3"></option>
+<option value="4"></option>
+<option value="5"></option>
+<option value="6"></option>
+<option value="7"></option>
+</select>
+Debug: <input type='checkbox' onchange='toggle(this, "debug")'>
+</FORM></TD>
+</TBODY>
+<TABLE>
+
+</BODY>
+</HTML>

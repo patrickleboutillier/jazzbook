@@ -1,0 +1,104 @@
+
+body {
+	font-family: "Realbook", Arial, sans-serif ;
+}
+
+.tune {
+	/* Center the table */
+	margin-left: auto ;
+	margin-right: auto ;
+}
+
+.composer {
+	font-size: 1.25em ;
+	float: left ;
+}
+
+.style {
+	font-size: 1.25em ;
+	text-align: right ;
+	float: right ;
+}
+
+.title {
+	font-size: 1.75em ;
+	text-align: center ;
+	display: inline ; 
+	margin: auto ;
+}
+
+.label {
+	font-size: 1.25em ;
+	height: 0.5em ;
+}
+
+.symbol {
+	font-size: 1.25em ;
+}
+
+.smaller {
+	font-size: 0.75em ;
+}
+
+.description {
+	font-size: 1.25em ;
+}
+
+.prebar {
+	border-left: 3px solid black ;
+	width: 1px ;
+}
+
+.prebar2 {
+	border-left: 8px double black ; 
+	width: 1px ;
+}
+
+.postbar {
+	border-right: 3px solid black ;
+	width: 1px ;
+}
+
+.postbar2 {
+	border-right: 8px double black ;
+	width: 1px ;
+}
+
+.ending {
+	border-top: 2px solid black ;
+	border-left: 2px solid black ;
+	width: 1px ;
+}
+
+.q {
+	font-size: 0.70em ;
+}
+
+.q2 {
+	font-size: 0.82em ;
+}
+
+.chord {
+	font-size: 3em ;
+	line-height: 1 ;
+	white-space: nowrap ;
+}
+
+.smallchord {
+	font-size: 2.25em ;
+	line-height: 1 ;
+}
+
+.comment {
+}
+
+.cols {
+	width: 10em ;
+	vertical-align: bottom ; 
+}
+
+@font-face {
+	font-family: Realbook ;
+	src: url(realbook-webfont.ttf) ;
+}
+

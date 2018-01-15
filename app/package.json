@@ -1,0 +1,21 @@
+{
+  "name": "jazzbook",
+  "version": "1.0.0",
+  "description": "Jazzbook app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4",
+	"@google-cloud/datastore": "^1.3.3"
+  },
+  "engines" : { 
+    "node" : "^6.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Patrick LeBoutillier",
+  "license": "ISC"
+}
