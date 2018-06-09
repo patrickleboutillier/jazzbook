@@ -13,6 +13,8 @@
 <TBODY id='tune'></TBODY>
 
 <SCRIPT SRC='music-diatonic.js'></SCRIPT>
+<SCRIPT SRC='analyzer.js'></SCRIPT>
+<SCRIPT SRC='svg.js'></SCRIPT>
 <SCRIPT SRC='jazzbook.js'></SCRIPT>
 
 <TBODY>
@@ -21,6 +23,7 @@
 <FORM autocomplete="off">
 Show beats: <input type='checkbox' onchange='toggle(this, "beats")'>
 Hide alternate chords: <input type='checkbox' onchange='toggle(this, "noalt")'>
+Show analysis: <input type='checkbox' onchange='toggle(this, "analyze")'>
 Transpose: <select id='circle' onchange='setkey(this)'>
 <option value="-7"></option>
 <option value="-6"></option>

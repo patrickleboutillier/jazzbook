@@ -1,6 +1,98 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 'use strict' ;
 
+var Note = require("./Note.js") ;
+
+module.exports = class Chord {
+	constructor(str){
+		var matches = str.match(/^(([A-G])(#+|b+|))(.*)$/) ;
+		if ((matches)&&(matches.length > 0)){
+			this.root = new Note(matches[1]) ;
+			this.rest = matches[4] ;
+			
+			this.quality = "" ; // Major
+			if (this._checkMinor(this.rest)){
+				this.quality = "m" ;
+			}
+			else if (this._checkMinor7b5(this.rest)){
+				this.quality = "h" ;
+			}
+			else if (this._checkDominant(this.rest)){
+				this.quality = "7" ;
+			}
+			else if (this._checkDiminished(this.rest)){
+				this.quality = "o" ;
+			}
+		}
+		else {
+			throw new Error("Unknown chord '" + str + "'") ;
+		}
+	}
+
+	getRoot(){
+		return this.root ;
+	}
+
+	getQuality(){
+		return this.quality ;
+	}
+
+	isMajor(){
+		return this.quality == "" ;
+	}
+
+	isMinor(){
+		return this.quality == "m" ;
+	}
+
+	isMinor7b5(){
+		return this.quality == "h" ;
+	}
+
+	isDominant(){
+		return this.quality == "7" ;
+	}
+
+	isDiminished(){
+		return this.quality == "o" ;
+	}
+
+	_checkMinor(str){
+		var matches = str.match(/^-/) ;
+		if ((matches)&&(matches.length > 0)){
+			return true ;
+		}
+		return false ;
+	}
+
+	_checkMinor7b5(str){
+		var matches = str.match(/^h/) ;
+		if ((matches)&&(matches.length > 0)){
+			return true ;
+		}
+		return false ;
+	}
+
+	_checkDominant(str){
+		var matches = str.match(/^(7|9|13)/) ;
+		if ((matches)&&(matches.length > 0)){
+			return true ;
+		}
+		return false ;
+	}
+
+	_checkDiminished(str){
+		var matches = str.match(/^o/) ;
+		if ((matches)&&(matches.length > 0)){
+			return true ;
+		}
+		return false ;
+	}
+}
+
+},{"./Note.js":3}],2:[function(require,module,exports){
+'use strict' ;
+
 module.exports = class Interval {
 	constructor(str){
 		var matches = str.match(/^([Ad]*)(([AdmM][2367])|([AdP][145]))$/) ;
@@ -140,7 +232,7 @@ module.exports = class Interval {
 
 }
 
-},{}],2:[function(require,module,exports){
+},{}],3:[function(require,module,exports){
 'use strict' ;
 
 module.exports = class Note {
@@ -259,8 +351,9 @@ module.exports = class Note {
 	}
 }
 
-},{}],3:[function(require,module,exports){
+},{}],4:[function(require,module,exports){
 Interval = require("../src/Interval.js") ;
 Note = require('../src/Note.js') ;
+Chord = require('../src/Chord.js') ;
 
-},{"../src/Interval.js":1,"../src/Note.js":2}]},{},[3]);
+},{"../src/Chord.js":1,"../src/Interval.js":2,"../src/Note.js":3}]},{},[4]);

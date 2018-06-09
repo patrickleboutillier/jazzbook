@@ -31,9 +31,11 @@ var name = params['t'] ;
 var _debug = 0 ;
 var _beats = 0 ;
 var _noalt = 0 ;
+var _analyze = 0 ;
 var beats_per_bar = 4 ;
 var col = 0 ;
 
+var analyzer = null ;
 var tbody = document.getElementById('tune') ;
 var top_tr, mid_tr, bot_tr ;
 
@@ -71,6 +73,14 @@ function display(tune){
 	_debug = params['debug'] ;
 	_beats = params['beats'] ;
 	_noalt = params['noalt'] ;
+	_analyze = params['analyze'] ;
+
+	analyzer = new Analyzer() ;
+
+	// Empty the element in case of a redisplay
+	while (tbody.firstChild){
+		tbody.removeChild(tbody.firstChild) ;
+	}
 
 	header(tune) ;
 
@@ -89,14 +99,12 @@ function display(tune){
 	}
 
 	circleOfFifths() ;
+
+	analyzer.render() ;
 }
 
 
 function header(tune){
-	while (tbody.firstChild){
-		tbody.removeChild(tbody.firstChild) ;
-	}
-
 	if (_debug){
 		tbody.setAttribute("border", "1") ;
 	}
@@ -120,6 +128,10 @@ function section(sect){
 	var repeat = (sect.repeat ? sect.repeat : 0) ;
 	var label = fix_label(sect.label) ;
 	var description = (sect.description ? sect.description : "") ;
+
+	if (_analyze){
+		analyzer.addProgression() ;
+	}
 
 	// We go through the bars of the section.
 	if ((sect.bars)&&(sect.bars.length > 0)){
@@ -401,13 +413,22 @@ function chord(alt_tr, tr, chord, beats){
 	var c = chord.name ;
 	var bass = chord.bass ;
 	var alt = chord.altname ;
-	td.innerHTML = format_chord(c, bass) ;
+	
+	var lining = document.createElement('span') ;
+	td.appendChild(lining) ;
+	lining.innerHTML = format_chord(c, bass) ;
+
+	if (_analyze){
+		analyzer.addChord(chord, lining) ;
+	}
 
 	if ((alt)&&(! _noalt)){
 		alt_td.innerHTML = "<span class='q' style='color: #808080'>" + format_chord(alt, "") + "</span>" ;
 	}
 
-	td.innerHTML += "&nbsp;" ;
+	var pad = document.createElement('span') ;
+	td.appendChild(pad) ;
+	pad.innerHTML = "&nbsp;" ;
 }
 
 	
